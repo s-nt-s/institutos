@@ -10,6 +10,7 @@ import textwrap
 
 centro = re.compile(r"\b(28\d\d\d\d\d\d)\b")
 asignatura = re.compile(r"\b(\d\d\d\d\d\d\d)\b")
+mates = re.compile(r"\b(MATEMATICAS)\b")
 gestiona_madrid = "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro="
 buscocolegio = "http://www.buscocolegio.com/Colegio/detalles-colegio.action?id="
 
@@ -66,7 +67,7 @@ def get_data1(ctr):
     data["URL"] = data["tlWeb"]
     data["DAT"] = data["tlAreaTerritorial"]
     data["INFO"] = gestiona_madrid + ctr
-    tipos_des[data["INFO"]]=data["tlGenericoExt"].capitalize()
+    tipos_des[data["TIPO"]]=data["tlGenericoExt"].capitalize()
     data["COD"] = ctr
     return data
 
@@ -120,6 +121,13 @@ with open("centros.txt", mode="r", encoding="utf-8") as f:
             else:
                 datos[centro2].append(a)
 
+        if len(asignaturas) == 0:
+            for m in mates.findall(linea):
+                if linea.startswith(m):
+                    datos[centro1].append("0590006")
+                else:
+                    datos[centro2].append("0590006")
+
 
 matematicas = []
 for k, v in datos.items():
@@ -128,18 +136,39 @@ for k, v in datos.items():
 
 tipos = list(set(map(lambda x: x["TIPO"], matematicas)))
 
-kmls={}
+folders={}
+
+kml=simplekml.Kml()
+kml.document.name = "Matemáticas - Madrid"
+
+icons = {}
+'''
+#    "IES": 'http://maps.google.com/mapfiles/ms/micons/red.png',
+    "CEPA": 'http://maps.google.com/mapfiles/ms/micons/green.png',
+    "SIES": 'http://maps.google.com/mapfiles/ms/micons/yellow.png',
+    "CIMELPR PRSEC": 'http://maps.google.com/mapfiles/ms/micons/blue.png',
+    "CEPA.EP": 'http://maps.google.com/mapfiles/ms/micons/grey.png',
+    "CP INF-PRI-SEC": 'http://maps.google.com/mapfiles/ms/micons/orange.png'
+}
+'''
 
 for t in tipos:
-    kml=simplekml.Kml()
+    folder = kml.newfolder(name=t)
     if t in tipos_des:
-        t=t+" ("+tipos_des[t]+")"
-    kml.document.name = t+" - Matemáticas - Madrid"
-    kmls[t]=kml
+        folder.name = t +" ("+tipos_des[t]+")"
+        folder.description = tipos_des[t]
+    if t in icons.keys():
+        sharedstyle = simplekml.Style()
+        sharedstyle.iconstyle.icon.href = icons[t]
+        sharedstyle.labelstyle.scale = 2
+        sharedstyle.iconstyle.color = 'ffffffff' 
+        sharedstyle.iconstyle.scale = 3
+        icons[t] = sharedstyle
+    folders[t]=folder
 
 for data in matematicas:
-    kml = kmls[data["TIPO"]]
-    pnt = kml.newpoint(name=data["nombre"], coords=[data["coord"]])
+    folder = folders[data["TIPO"]]
+    pnt = folder.newpoint(name=data["nombre"], coords=[data["coord"]])
     pnt.description = textwrap.dedent(
     '''
         Código: %s<br/>
@@ -149,7 +178,7 @@ for data in matematicas:
         INFO: %s
     ''' % (data["COD"], data["direccion"], data["URL"], data["DAT"], data["INFO"])
     ).strip()
+    if data["TIPO"] in icons:
+        pnt.style = icons[data["TIPO"]]
 
-for t in tipos:
-    kml = kmls[t]
-    kml.save("centros_"+t.replace(" ","-")+".kml")
+kml.save("centros.kml")

@@ -23,6 +23,7 @@ dec = re.compile(r"^\d+,\d+$")
 dire = re.compile(r"^\s*Dirección:", re.MULTILINE | re.UNICODE | re.DOTALL)
 coord = re.compile(r"&xIni=([\d\.]+)&yIni=([\d\.]+)")
 minusculas = re.compile(r"[a-z]")
+nocturno = re.compile(r".*\bnocturno\b.*")
 
 datos = {}
 tipos_des = {}
@@ -85,6 +86,7 @@ def get_data1(ctr):
     data["INFO"] = gestiona_madrid + ctr
     tipos_des[data["TIPO"]]=data["tlGenericoExt"].capitalize()
     data["COD"] = ctr
+    data["NOCTURNO"] = [get_text(n.findParent("tr").find("td")) for n in soup.findAll(text=nocturno)]
     return data
 
 
@@ -158,10 +160,16 @@ kml=simplekml.Kml()
 kml.document.name = "Matemáticas - Madrid"
 
 style_dificultad = simplekml.Style()
-style_dificultad.iconstyle.icon.href = 'http://maps.google.com/mapfiles/ms/micons/red.png'
 style_dificultad.iconstyle.color = simplekml.Color.red
-style_dificultad.labelstyle.color = simplekml.Color.red
+style_dificultad.iconstyle.icon.href = 'http://maps.google.com/mapfiles/ms/micons/red.png'
 
+kml.document.style = style_dificultad
+
+style_nocturno = simplekml.Style()
+style_nocturno.iconstyle.color = simplekml.Color.grey
+style_nocturno.iconstyle.icon.href = 'http://maps.google.com/mapfiles/ms/micons/grey.png'
+
+kml.document.style = style_nocturno
 
 for t in tipos:
     folder = kml.newfolder(name=t)
@@ -175,14 +183,20 @@ for data in matematicas:
     pnt = folder.newpoint(name=data["nombre"], coords=[data["coord"]])
     pnt.description = textwrap.dedent(
     '''
-        Código: %s<br/>
+        <b>%s</b> %s<br/>
         Dirección: %s<br/>
         URL: %s<br/>
-        DAT: %s<br/>
         INFO: %s
-    ''' % (data["COD"], data["direccion"], data["URL"], data["DAT"], data["INFO"])
+    ''' % (data["COD"], data["DAT"], data["direccion"], data["URL"], data["INFO"])
     ).strip()
     if data["COD"] in dificultad:
         pnt.style = style_dificultad
+        pnt.description = pnt.description + "<br/>Centro de especial dificultad"
+    ntn=data.get("NOCTURNO", [])
+    if len(ntn)>0:
+        pnt.style = style_nocturno
+        pnt.description = pnt.description + "<br/>Nocturno en:"
+        for n in ntn:
+            pnt.description = pnt.description + "<br/>"+n
 
 kml.save("centros.kml")

@@ -29,6 +29,22 @@ tipos_des = {}
 centro1 = None
 centro2 = None
 
+def get_dificultad():
+    dificultad=[]
+    anexo29 = False
+    with open("convocatoria.txt", mode="r", encoding="utf-8") as f:
+        for linea in f.readlines():
+            linea = sp.sub(" ",linea.replace("\x02"," ")).strip()
+            if linea.startswith("ANEXO 30"):
+                return dificultad
+            anexo29 = anexo29 or linea.startswith("ANEXO 29")
+            if anexo29:
+                cs = centro.findall(linea)
+                if len(cs)>0:
+                    dificultad.extend(cs)
+    return dificultad
+
+dificultad = get_dificultad()
 
 def get_text(n, index=0):
     if type(n) is list:
@@ -141,29 +157,17 @@ folders={}
 kml=simplekml.Kml()
 kml.document.name = "Matemáticas - Madrid"
 
-icons = {}
-'''
-#    "IES": 'http://maps.google.com/mapfiles/ms/micons/red.png',
-    "CEPA": 'http://maps.google.com/mapfiles/ms/micons/green.png',
-    "SIES": 'http://maps.google.com/mapfiles/ms/micons/yellow.png',
-    "CIMELPR PRSEC": 'http://maps.google.com/mapfiles/ms/micons/blue.png',
-    "CEPA.EP": 'http://maps.google.com/mapfiles/ms/micons/grey.png',
-    "CP INF-PRI-SEC": 'http://maps.google.com/mapfiles/ms/micons/orange.png'
-}
-'''
+style_dificultad = simplekml.Style()
+style_dificultad.iconstyle.icon.href = 'http://maps.google.com/mapfiles/ms/micons/red.png'
+style_dificultad.iconstyle.color = simplekml.Color.red
+style_dificultad.labelstyle.color = simplekml.Color.red
+
 
 for t in tipos:
     folder = kml.newfolder(name=t)
     if t in tipos_des:
         folder.name = t +" ("+tipos_des[t]+")"
         folder.description = tipos_des[t]
-    if t in icons.keys():
-        sharedstyle = simplekml.Style()
-        sharedstyle.iconstyle.icon.href = icons[t]
-        sharedstyle.labelstyle.scale = 2
-        sharedstyle.iconstyle.color = 'ffffffff' 
-        sharedstyle.iconstyle.scale = 3
-        icons[t] = sharedstyle
     folders[t]=folder
 
 for data in matematicas:
@@ -178,7 +182,7 @@ for data in matematicas:
         INFO: %s
     ''' % (data["COD"], data["direccion"], data["URL"], data["DAT"], data["INFO"])
     ).strip()
-    if data["TIPO"] in icons:
-        pnt.style = icons[data["TIPO"]]
+    if data["COD"] in dificultad:
+        pnt.style = style_dificultad
 
 kml.save("centros.kml")

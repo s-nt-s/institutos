@@ -35,7 +35,7 @@ def get_data(linea):
 datos = {}
 especialidad = None
 
-with open("Participantes.txt", mode="r", encoding="utf-8") as f:
+with open("puntos.txt", mode="r", encoding="utf-8") as f:
     for linea in f.readlines():
         linea = linea.strip()
         m = spc.match(linea)

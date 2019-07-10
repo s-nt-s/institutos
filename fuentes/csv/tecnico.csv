@@ -1,0 +1,17 @@
+CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;
+AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
+Madrid-Oeste;28046111;IES;ALPEDRETE;Paraje Del Peralejo, S/n ;Alpedrete;-;28430;918514507;918491470;-;Público;Activid. .Extraesc.;
+Madrid-Sur;28067628;IES;CALDERON DE LA BARCA;Calle Francisco Bores, 3 ;Pinto;-;28320;916706645;916706938;Motóricos,Transt. Desarrollo;Público;Activid. .Extraesc.;
+Madrid-Este;28039670;IES;CARDENAL CISNEROS;Calle Cardenal Sandoval Y Rojas, 1 ;Alcalá de Henares;-;28802;918817263;918817347;-;Público;Activid. .Extraesc.;
+Madrid-Sur;28030915;IES;GALILEO GALILEI;Avenida De Retamas, 2 ;Alcorcón;-;28922;916440235;916438290;-;Público;Activid. .Extraesc.;
+Madrid-Capital;28021562;IES;GRAN CAPITÁN;Paseo De Los Melancólicos, 51 ;Madrid;Arganzuela;28005;913659190;913661507;-;Público;-;
+Madrid-Este;28025014;IES;ISAAC PERAL;Calle Plata, 78 ;Torrejón de Ardoz;-;28850;916756936;916563524;-;Público;Activid. .Extraesc.;
+Madrid-Oeste;28028571;IES;LAS ROZAS I;Calle Real, 52 ;Rozas de Madrid, Las;-;28231;916374006;916374323;Transt. Desarrollo;Público;Transporte,Activid. .Extraesc.;
+Madrid-Oeste;28032501;IES;LEONARDO DA VINCI;Avenida Guadarrama, 42 ;Majadahonda;-;28220;916387423;916387513;Motóricos;Público;Activid. .Extraesc.;
+Madrid-Este;28028350;IES;MARIA MOLINER;Avenida De España, 115 ;Coslada;-;28822;916710784;916723611;-;Público;Activid. .Extraesc.;
+Madrid-Sur;28050720;IES;MIGUEL DE CERVANTES;Paseo De Arroyomolinos, 58 ;Móstoles;-;28938;916452469;916466098;Motóricos;Público;Activid. .Extraesc.;
+Madrid-Capital;28047411;IES;PRINCIPE FELIPE;Calle De Finisterre, 60 ;Madrid;Fuencarral-El Pardo;28029;913146312;913159895;-;Público;Activid. .Extraesc.;
+Madrid-Norte;28042981;IES;ROSA CHACEL;Calle De Las Huertas, 68 ;Colmenar Viejo;-;28770;918464801;918463646;Motóricos,Transt. Desarrollo;Público;Activid. .Extraesc.;
+Madrid-Capital;28039876;IES;SALVADOR DALÍ;Calle De Verdaguer Y García, 2 ;Madrid;Ciudad Lineal;28027;914049490;913264503;Motóricos;Público;Transporte,Activid. .Extraesc.;
+Madrid-Capital;28020946;IES;SAN ISIDRO;Calle De Toledo, 39 ;Madrid;Centro;28005;913651271;913656833;-;Público;Activid. .Extraesc.;
+Madrid-Sur;28041615;IES;SATAFI;Avenida De Las Ciudades, 104 ;Getafe;-;28903;916830601;916817173;Transt. Desarrollo;Público;-;

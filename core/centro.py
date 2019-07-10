@@ -1,9 +1,10 @@
 import re
-import requests
+
 import bs4
-import utm
+import requests
 import simplekml
-import textwrap
+import utm
+
 from .common import get_soup
 
 re_sp = re.compile(r"\s+", re.MULTILINE | re.UNICODE)
@@ -12,21 +13,24 @@ re_coord = re.compile(r"&xIni=([\d\.]+)&yIni=([\d\.]+)")
 re_minusculas = re.compile(r"[a-z]")
 re_nocturno = re.compile(r".*\bnocturno\b.*")
 
+
 def get_text(n, index=0):
     if type(n) is list:
         n = n[index]
     txt = re_sp.sub(" ", n.get_text()).strip()
     return txt
 
+
 def get_data(ctr):
     ctr = str(ctr)
     return get_data1(ctr) or get_data2(ctr)
+
 
 def get_data1(ctr):
     url = "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=" + ctr
     soup = get_soup(url, to_file="fuentes/madrid.org/"+ctr+".html")
     items = soup.select("div.formularioconTit input")
-    if len(items)==0:
+    if len(items) == 0:
         return False
     data = {}
     for i in items:
@@ -42,18 +46,20 @@ def get_data1(ctr):
     data["UTM_ED50-HUSO_30"] = m.group(1) + "," + m.group(2)
     utm_split = data["UTM_ED50-HUSO_30"].split(",")
     try:
-        latlon = utm.to_latlon(float(utm_split[0]), float(utm_split[1]), 30, 'T')
-        data["coord"] = (latlon[1]-0.001283,latlon[0]-0.001904)
+        latlon = utm.to_latlon(
+            float(utm_split[0]), float(utm_split[1]), 30, 'T')
+        data["coord"] = (latlon[1]-0.001283, latlon[0]-0.001904)
         data["latlon"] = str(latlon[0]) + "," + str(latlon[1])
     except:
         pass
     data["tipo"] = data["tlGenericoCentro"]
     data["nombre"] = data["tlNombreCentro"].title()
     data["url"] = data.get("tlWeb")
-    data["dat"] = data["tlAreaTerritorial"]
+    data["dat"] = data.get("tlAreaTerritorial")
     data["info"] = url
-    #tipos_des[data["TIPO"]]=data["tlGenericoExt"].capitalize()
-    data["nocturno"] = [get_text(n.findParent("tr").find("td")) for n in soup.findAll(text=re_nocturno)]
+    # tipos_des[data["TIPO"]]=data["tlGenericoExt"].capitalize()
+    data["nocturno"] = [get_text(n.findParent("tr").find("td"))
+                        for n in soup.findAll(text=re_nocturno)]
     return data
 
 
@@ -63,7 +69,7 @@ def get_data2(ctr):
     data = {}
     data["nombre"] = get_text(soup.select("div.sliding-panel-inner h4"))
     if data["nombre"].startswith("IES "):
-        data["nombre"]= data["nombre"][4:]
+        data["nombre"] = data["nombre"][4:]
     if not re_minusculas.search(data["nombre"]):
         data["nombre"] = data["nombre"].title()
     data["direccion"] = get_text(
@@ -74,9 +80,10 @@ def get_data2(ctr):
     longitude = soup.find("meta", attrs={"itemprop": "longitude"}).attrs[
         "content"]
     data["latlon"] = latitude + "," + longitude
-    data["coord"] = (float(longitude),float(latitude))
+    data["coord"] = (float(longitude), float(latitude))
 
-    data["url"] = soup.find(text=re.compile(r"\s*Página\s+Web\s*", re.MULTILINE)).findParent("li").find("a").attrs["href"]
+    data["url"] = soup.find(text=re.compile(
+        r"\s*Página\s+Web\s*", re.MULTILINE)).findParent("li").find("a").attrs["href"]
 
     if soup.find("div", attrs={"data-title": "IES"}):
         data["tipo"] = "IES"

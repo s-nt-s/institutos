@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import simplekml
 
-kml=simplekml.Kml()
+kml = simplekml.Kml()
 kml.document.name = "Pruebas"
 
 style_dificultad = simplekml.Style()
@@ -16,15 +16,15 @@ style_nocturno.iconstyle.icon.href = 'http://maps.google.com/mapfiles/ms/micons/
 
 kml.document.style = style_nocturno
 
-for i in range(0,2):
+for i in range(0, 2):
     folder = kml.newfolder(name="Fonder "+str(i))
     d = i * 10
-    for c in range(0,3):
-        pnt = folder.newpoint(name="Point "+str(c), coords=[(c + d , c + d)])
+    for c in range(0, 3):
+        pnt = folder.newpoint(name="Point "+str(c), coords=[(c + d, c + d)])
         if c % 2 == 1:
             pnt.style = style_dificultad
         else:
             pnt.style = style_nocturno
-            
+
 
 kml.save("prueba.kml")

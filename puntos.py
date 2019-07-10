@@ -32,6 +32,7 @@ def get_data(linea):
         data[cmp1] = valor
     return data
 
+
 datos = {}
 especialidad = None
 
@@ -63,4 +64,4 @@ s = len(str(int(matematicas[0]["score"]))) + 3
 formato = "%" + str(p) + "d - %4d: %" + str(s) + ".2f %s"
 for i in range(0, len(matematicas), 1):
     d = matematicas[i]
-    print (formato % (i + 1, d["Año Opos."], d["score"], d["nombre"]))
+    print(formato % (i + 1, d["Año Opos."], d["score"], d["nombre"]))

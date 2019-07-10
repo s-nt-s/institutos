@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 import re
-import requests
-import bs4
-import utm
-import simplekml
 import textwrap
+
+import bs4
+import requests
+import simplekml
+import utm
 
 # pdftotext ANEXO.pdf -table -nopgbrk
 
@@ -17,7 +18,6 @@ datos = {}
 tipos_des = {}
 centro1 = None
 centro2 = None
-
 
 
 with open("centros.txt", mode="r", encoding="utf-8") as f:
@@ -55,9 +55,9 @@ for k, v in datos.items():
 
 tipos = list(set(map(lambda x: x["TIPO"], matematicas)))
 
-folders={}
+folders = {}
 
-kml=simplekml.Kml()
+kml = simplekml.Kml()
 kml.document.name = "Matemáticas - Madrid"
 
 style_dificultad = simplekml.Style()
@@ -75,15 +75,15 @@ kml.document.style = style_nocturno
 for t in tipos:
     folder = kml.newfolder(name=t)
     if t in tipos_des:
-        folder.name = t +" ("+tipos_des[t]+")"
+        folder.name = t + " ("+tipos_des[t]+")"
         folder.description = tipos_des[t]
-    folders[t]=folder
+    folders[t] = folder
 
 for data in matematicas:
     folder = folders[data["TIPO"]]
     pnt = folder.newpoint(name=data["nombre"], coords=[data["coord"]])
     pnt.description = textwrap.dedent(
-    '''
+        '''
         <b>%s</b> %s<br/>
         Dirección: %s<br/>
         URL: %s<br/>
@@ -93,8 +93,8 @@ for data in matematicas:
     if data["COD"] in dificultad:
         pnt.style = style_dificultad
         pnt.description = pnt.description + "<br/>Centro de especial dificultad"
-    ntn=data.get("NOCTURNO", [])
-    if len(ntn)>0:
+    ntn = data.get("NOCTURNO", [])
+    if len(ntn) > 0:
         pnt.style = style_nocturno
         pnt.description = pnt.description + "<br/>Nocturno en:"
         for n in ntn:

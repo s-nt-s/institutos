@@ -4,9 +4,7 @@ import bs4
 import utm
 import simplekml
 import textwrap
-
-url_gestiona_madrid = "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro="
-url_buscocolegio = "http://www.buscocolegio.com/Colegio/detalles-colegio.action?id="
+from .common import get_soup
 
 re_sp = re.compile(r"\s+", re.MULTILINE | re.UNICODE)
 re_dire = re.compile(r"^\s*Dirección:", re.MULTILINE | re.UNICODE | re.DOTALL)
@@ -20,27 +18,13 @@ def get_text(n, index=0):
     txt = re_sp.sub(" ", n.get_text()).strip()
     return txt
 
-def get_dificultad():
-    dificultad=[]
-    anexo29 = False
-    with open("data/convocatoria.txt", mode="r", encoding="utf-8") as f:
-        for linea in f.readlines():
-            linea = re_sp.sub(" ",linea.replace("\x02"," ")).strip()
-            if linea.startswith("ANEXO 30"):
-                return dificultad
-            anexo29 = anexo29 or linea.startswith("ANEXO 29")
-            if anexo29:
-                cs = centro.findall(linea)
-                if len(cs)>0:
-                    dificultad.extend(cs)
-    return dificultad
-
 def get_data(ctr):
-    return get_data1(url_gestiona_madrid, ctr) or get_data2(url_buscocolegio, ctr)
+    ctr = str(ctr)
+    return get_data1(ctr) or get_data2(ctr)
 
-def get_data1(url, ctr):
-    r = requests.get(url + ctr)
-    soup = bs4.BeautifulSoup(r.text, "html.parser")
+def get_data1(ctr):
+    url = "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=" + ctr
+    soup = get_soup(url, to_file="fuentes/madrid.org/"+ctr+".html")
     items = soup.select("div.formularioconTit input")
     if len(items)==0:
         return False
@@ -57,22 +41,25 @@ def get_data1(url, ctr):
     m = re_coord.search(href)
     data["UTM_ED50-HUSO_30"] = m.group(1) + "," + m.group(2)
     utm_split = data["UTM_ED50-HUSO_30"].split(",")
-    latlon = utm.to_latlon(float(utm_split[0]), float(utm_split[1]), 30, 'T')
-    data["coord"] = (latlon[1]-0.001283,latlon[0]-0.001904)
-    data["latlon"] = str(latlon[0]) + "," + str(latlon[1])
+    try:
+        latlon = utm.to_latlon(float(utm_split[0]), float(utm_split[1]), 30, 'T')
+        data["coord"] = (latlon[1]-0.001283,latlon[0]-0.001904)
+        data["latlon"] = str(latlon[0]) + "," + str(latlon[1])
+    except:
+        pass
     data["tipo"] = data["tlGenericoCentro"]
     data["nombre"] = data["tlNombreCentro"].title()
-    data["url"] = data["tlWeb"]
+    data["url"] = data.get("tlWeb")
     data["dat"] = data["tlAreaTerritorial"]
-    data["info"] = url + ctr
-    tipos_des[data["TIPO"]]=data["tlGenericoExt"].capitalize()
+    data["info"] = url
+    #tipos_des[data["TIPO"]]=data["tlGenericoExt"].capitalize()
     data["nocturno"] = [get_text(n.findParent("tr").find("td")) for n in soup.findAll(text=re_nocturno)]
     return data
 
 
-def get_data2(url, ctr):
-    r = requests.get(url + ctr)
-    soup = bs4.BeautifulSoup(r.text, "html.parser")
+def get_data2(ctr):
+    url = "http://www.buscocolegio.com/Colegio/detalles-colegio.action?id=" + ctr
+    soup = get_soup(url, to_file="fuentes/buscocolegio.com/"+ctr+".html")
     data = {}
     data["nombre"] = get_text(soup.select("div.sliding-panel-inner h4"))
     if data["nombre"].startswith("IES "):
@@ -95,14 +82,5 @@ def get_data2(url, ctr):
         data["tipo"] = "IES"
 
     data["DAT"] = ""
-    data["info"] = url + ctr
+    data["info"] = url
     return data
-
-centro_dificutlad=get_dificultad()
-
-class Centro:
-    def __init__(id, *args, **kargv):
-        self.id=id
-        for k, v in get_data(id).items():
-            setattr(self, k, v)
-        self.dificultad = self.id in centro_dificutlad

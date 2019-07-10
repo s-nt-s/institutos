@@ -26,8 +26,8 @@ class Cache:
         return data
 
     def isReload(self, slf):
-        reload = getattr(slf, "reload", None)
-        if reload is None or reload == True:
+        reload = getattr(slf, "reload", False)
+        if reload == True:
             return True
         if (isinstance(reload, list) or isinstance(reload, tuple)) and self.file in reload:
             return True
@@ -62,3 +62,29 @@ class JsonCache(Cache):
 
     def save(self, data, *args, **kargs):
         save_js(self.file, data)
+
+class ListCache(Cache):
+    def __init__(self, *args, cast=lambda x: x, **kargv):
+        Cache.__init__(self, *args, **kargv)
+        self.cast=cast
+
+    def read(self, *args, **kargs):
+        if not os.path.isfile(self.file):
+            return None
+        lst=[]
+        with open(self.file, "r") as f:
+            for l in f.readlines():
+                l = l.strip()
+                l = self.cast(l)
+                if l:
+                    lst.append(l)
+        return lst
+
+    def save(self, data, *args, **kargs):
+        if isinstance(data, set):
+            data=sorted(data)
+        with open(self.file, "w") as f:
+            for i, l in enumerate(data):
+                if i>0:
+                    f.write("\n")
+                f.write(str(l))

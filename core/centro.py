@@ -36,7 +36,7 @@ def get_data1(ctr):
     for i in items:
         n = i.attrs.get("name", "").strip()
         v = i.attrs.get("value", "").strip()
-        if len(n) > 0 and len(v) > 0:
+        if len(n) > 0 and len(v) > 0 and n not in ("filtroConsultaSer", "salidaCompSerializada", "formularioConsulta"):
             data[n] = v
     d = re_sp.sub(" ", soup.find(text=re_dire).findParent(
         "td").get_text()).strip()[11:-1].title()
@@ -60,6 +60,8 @@ def get_data1(ctr):
     # tipos_des[data["TIPO"]]=data["tlGenericoExt"].capitalize()
     data["nocturno"] = [get_text(n.findParent("tr").find("td"))
                         for n in soup.findAll(text=re_nocturno)]
+    if len(data["nocturno"])==0:
+        data["nocturno"] = None
     return data
 
 

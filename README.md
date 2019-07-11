@@ -18,16 +18,11 @@ aquellos que son de alguno de los siguientes tipos:
 
 * 016 Centro integrado de enseñanzas artísticas elementales y profesionales de música, educación primaria y secundaria
 * 017 Centro integrado de enseñanzas artísticas profesionales de música y educación secundaria
-* 031 Centro público de educación de personas adultas
-* 035 Centros públicos de educación adultos establecimientos penitenciarios
+* 031 Centro de educación de personas adultas
+* 035 Centro de educación adultos establecimientos penitenciarios
 * 042 Instituto de educación secundaria
 * 047 Sección de instituto de educación secundaria
 * 070 Colegio de educación infantil, primaria y secundaria
-
-A excepción de los siguientes que han tenido que ser descartados por no tener cooredandas geográficas:
-
-* [28079357 Jane Goodall](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079357)
-* [28079370 Ana Frank](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079370)
 
 # Iconos
 

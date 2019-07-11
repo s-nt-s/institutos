@@ -4,7 +4,7 @@ import simplekml
 from core.dataset import Dataset
 from core.map import Map
 import textwrap
-from core.confmap import color_to_url, colors
+from core.confmap import color_to_url, colors, parse_tipo, parse_nombre
 
 d = Dataset()
 
@@ -42,7 +42,7 @@ def get_description(c):
 mapa = Map("Colegios - Profesores", color="green",color_to_url=color_to_url)
 
 for t in sorted(tipos):
-    tp = d.tipos[t].capitalize()
+    tp = parse_tipo(d.tipos[t])
     mapa.addFolder(tp)
     for c in d.centros:
         if c.tipo == t and c.latlon:
@@ -56,8 +56,7 @@ for t in sorted(tipos):
             elif c.nocturno:
                 color=colors.nocturno
             description = get_description(c)
-            name = c.nombre.title()
-            name = " ".join(w if len(w)>2 else w.lower() for w in name.split())
+            name = parse_nombre(c.nombre)
             mapa.addPoint(name, lat, lon, description=description, color=color, mod=mod)
 
 mapa.save("data/mapa.kml")

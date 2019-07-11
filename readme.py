@@ -3,7 +3,7 @@ import re
 from core.dataset import Dataset
 from core.parsemd import parsemd
 import textwrap
-from core.confmap import color_to_url, colors
+from core.confmap import color_to_url, colors, parse_tipo, parse_nombre
 
 d = Dataset()
 
@@ -21,7 +21,7 @@ def _readme(key):
         tipos=set((c.tipo for c in d.centros))
         s=""
         for t in sorted(tipos):
-            s = s + "\n* {0} {1}".format(t, d.tipos[t].capitalize())
+            s = s + "\n* {0} {1}".format(t, parse_tipo(d.tipos[t]))
         return s.strip()
     if key == "excepcion":
         flag = False
@@ -29,9 +29,7 @@ def _readme(key):
         for c in d.centros:
             if not c.latlon:
                 flag=True
-                name = c.nombre.title()
-                name = " ".join(w if len(w)>2 else w.lower() for w in name.split())
-                s=s+"\n* [{0} {1}]({2})".format(c.id, name, c.info)
+                s=s+"\n* [{0} {1}]({2})".format(c.id, parse_nombre(c.nombre), c.info)
         return s if flag else ""
     if key == "iconos":
         lgd = [colors.dificultad, colors.nocturno, colors.default]

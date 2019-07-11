@@ -72,7 +72,6 @@ class Dataset():
             c = Bunch(
                 id=id,
                 dat=dat,
-                tipo=i["TIPO DE CENTRO"],
                 nombre=i["CENTRO"],
                 direccion=dir,
                 telefono=i["TELEFONO"],
@@ -86,7 +85,7 @@ class Dataset():
                 bilingue= id in self.bilingue,
                 url=extra.get("url"),
                 info=extra.get("info"),
-                **self.centro_tipo.get(id, {})
+                tipo=self.centro_tipo.get(id) or i["TIPO DE CENTRO"],
             )
             if id in self.nocturno and not c.nocturno:
                 print(extra["info"])
@@ -123,23 +122,23 @@ class Dataset():
     def get_centrosid(self, file=None, txt=True, **kargv):
         if file is None and len(kargv)==0:
             raise Exception("file argument is mandatory")
-        if file is None and len(kargv)==1:
+        if file is None and len(kargv)>0:
             k, v = next(iter(kargv.items()))
             if k == "itRegimenNocturno":
-                file = "nocturno.csv"
+                file = "nocturno"
             elif k == "itInTecno":
-                file = "tecnico.csv"
+                file = "tecnico"
             elif k == "cdTramoEdu":
-                file = "e"+v+".csv"
+                file = "e"+v
                 txt= False
             elif k == "cdGenerico":
-                file = "t"+v+".csv"
+                file = "t"+v
                 txt = False
         if file is None:
             raise Exception("No file name associate to: "+", ".join(sorted(kargv.keys())))
         if txt is True:
-            txt = "data/centros/" + file[:-3]+".txt"
-        file = "fuentes/csv/" + file
+            txt = "data/centros/" + file+".txt"
+        file = "fuentes/csv/" + file + ".csv"
         create_txt = txt and not(os.path.isfile(file) and os.path.isfile(txt))
         col_centros = self.dwn_and_read(file, data=kargv)
         out = set(c["CODIGO CENTRO"] for c in col_centros)
@@ -156,7 +155,7 @@ class Dataset():
     @property
     @lru_cache(maxsize=None)
     def bilingue(self):
-        return self.get_centrosid("bilingue.csv",
+        return self.get_centrosid("bilingue",
             checkCentroBilingue="S",
             checkCentroConvenio="S",
             checkSeccionesLinguisticasFr="S",
@@ -166,7 +165,7 @@ class Dataset():
     @property
     @lru_cache(maxsize=None)
     def excelencia(self):
-        return self.get_centrosid("excelencia.csv",
+        return self.get_centrosid("excelencia",
             itCentroExcelencia="S",
             itAulaExcelencia="S"
         )
@@ -179,7 +178,7 @@ class Dataset():
     @property
     @lru_cache(maxsize=None)
     def adaptado(self):
-        return self.get_centrosid("adaptado.csv",
+        return self.get_centrosid("adaptado",
             checkIntegraA="S",
             checkIntegraM="S",
             checkIntegraT="S"
@@ -210,12 +209,11 @@ class Dataset():
     @ListCache(file="data/centros/ok.txt", cast=int, reload=True)
     def centro_ok(self):
         col = set()
-        for cod in ("0040", "0050", "0053", "0055", "0060", "0075", "0078", "0080", "0090", "0100", "0110", "0120", "0130", "0140", "0143", "0150", "0160", "0170"):
-            aux = self.get_centrosid(cdTramoEdu=cod)
-            col = col.union(aux)
-        for cod in ("042", "303", "094", "016", "017", "031", "035", "070", "032", "042", "047"):
+        # 020 068 080 081 103 106 120 131 132 151 152 171 180 204 205 206
+        for cod in "016 017 031 035 042 047 070".split():
             aux = self.get_centrosid(cdGenerico=cod)
             col = col.union(aux)
+        return col
         convo = re_centro.findall(self.convocatoria)
         convo = set(int(d) for d in convo)
         return col.intersection(convo)
@@ -228,7 +226,7 @@ class Dataset():
         tipos={}
         for o in soup.select("#comboGenericos option"):
             v = o.attrs.get("value")
-            if v not in ("0", "-1"):
+            if v and v not in ("0", "-1"):
                 tipos[v]=re_sp.sub(" ",o.get_text()).strip()
         return tipos
 
@@ -240,32 +238,23 @@ class Dataset():
         tipos={}
         for o in soup.select("#comboTipoEnsenanza option"):
             v = o.attrs.get("value")
-            if v not in ("0", "-1"):
+            if v and v not in ("0", "-1"):
                 tipos[v]=re_sp.sub(" ",o.get_text()).strip()
         return tipos
 
     @property
     @lru_cache(maxsize=None)
     def centro_tipo(self):
-        centros={}
-        item = {"tipos":[], "ensenanzas":[]}
-        for cod in sorted(self.ensenanzas.keys()):
-            for id in self.get_centrosid(cdTramoEdu=cod):
-                c=centros.get(id, copy.deepcopy(item))
-                c["ensenanzas"].append(cod)
-                centros[id]=c
+        tipos={}
         for cod in sorted(self.tipos.keys()):
             for id in self.get_centrosid(cdGenerico=cod):
-                c=centros.get(id, copy.deepcopy(item))
-                c["tipos"].append(cod)
-                centros[id]=c
-        for kc, c in list(centros.items()):
-            flag=True
-            for k, v in list(c.items()):
-                if v:
-                    flag = False
-                else:
-                    c[k]=None
-            if flag:
-                del centros[kc]
-        return centros
+                c=tipos.get(id, [])
+                c.append(cod)
+                tipos[id]=c
+        for kc, c in list(tipos.items()):
+            l = len(c)
+            if l==0:
+                tipos[kc]=None
+            elif l==1:
+                tipos[kc]=c.pop()
+        return tipos

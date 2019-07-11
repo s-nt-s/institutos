@@ -78,7 +78,6 @@ def get_data2(ctr):
     cod = soup.find("h3", text="Código").parent.find("strong").string
     if ctr!=cod:
         return data
-    print(url)
     data["nombre"] = get_text(soup.select("div.sliding-panel-inner h4"))
     if data["nombre"].startswith("IES "):
         data["nombre"] = data["nombre"][4:]

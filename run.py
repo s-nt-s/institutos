@@ -1,29 +1,32 @@
 #!/usr/bin/env python3
 
+import textwrap
+
 import simplekml
+
+from core.confmap import color_to_url, colors, parse_nombre, parse_tipo
 from core.dataset import Dataset
 from core.map import Map
-import textwrap
-from core.confmap import color_to_url, colors, parse_tipo, parse_nombre
 
 d = Dataset()
 
-tipos=set()
+tipos = set()
 for c in d.centros:
     tipos.add(c.tipo)
 
+
 def get_description(c):
-    des='''
+    des = '''
         {0} {1}
         Dirección: {2}
         FICHA: {3}
     '''.format(c.id, c.dat, c.direccion, c.info)
     des = textwrap.dedent(des).strip()
     if c.url:
-        des=des+"\nURL: {0}".format(c.url.split("://")[-1])
+        des = des+"\nURL: {0}".format(c.url.split("://")[-1])
     if c.dificultad:
-        des=des+"\n**Centro de especial dificultad**"
-    tags=[]
+        des = des+"\n**Centro de especial dificultad**"
+    tags = []
     if c.excelencia:
         tags.append("excelencia")
     if c.tecnico:
@@ -31,15 +34,16 @@ def get_description(c):
     if c.bilingue:
         tags.append("bilingue")
     if tags:
-        des=des+"\n**&#35;" + "**, **&#35;".join(tags)+"**"
+        des = des+"\n**&#35;" + "**, **&#35;".join(tags)+"**"
     if c.nocturno:
-        des=des+"\nNocturno en:"
+        des = des+"\nNocturno en:"
         for n in c.nocturno:
-            des=des+"\n- "+n
+            des = des+"\n- "+n
     des = des.replace("\n", "  \n")
     return des
 
-mapa = Map("Colegios - Profesores", color="green",color_to_url=color_to_url)
+
+mapa = Map("Colegios - Profesores", color="green", color_to_url=color_to_url)
 
 for t in sorted(tipos):
     tp = parse_tipo(d.tipos[t])
@@ -47,16 +51,17 @@ for t in sorted(tipos):
     for c in d.centros:
         if c.tipo == t and c.latlon:
             lat, lon = tuple(map(float, c.latlon.split(",")))
-            color=colors.default
-            mod=None
+            color = colors.default
+            mod = None
             if c.tecnico or c.excelencia or c.bilingue:
-                mod=colors.especial
+                mod = colors.especial
             if c.dificultad:
-                color=colors.dificultad
+                color = colors.dificultad
             elif c.nocturno:
-                color=colors.nocturno
+                color = colors.nocturno
             description = get_description(c)
             name = parse_nombre(c.nombre)
-            mapa.addPoint(name, lat, lon, description=description, color=color, mod=mod)
+            mapa.addPoint(name, lat, lon, description=description,
+                          color=color, mod=mod)
 
 mapa.save("data/mapa.kml")

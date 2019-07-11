@@ -28,7 +28,7 @@ def get_data(ctr):
     if d1 is not None:
         if not d1.get("latlon"):
             d2 = get_data2(ctr)
-            d1["latlon"]=d2.get("latlon")
+            d1["latlon"] = d2.get("latlon")
         return d1
     return get_data2(ctr)
 
@@ -51,7 +51,7 @@ def get_data1(ctr):
     href = soup.find("div", attrs={"id": "Mapa"}).find("a").attrs["onclick"]
     m = re_coord.search(href)
     data["UTM_ED50-HUSO_30"] = m.group(1) + "," + m.group(2)
-    if data["UTM_ED50-HUSO_30"]!="0.0,0.0":
+    if data["UTM_ED50-HUSO_30"] != "0.0,0.0":
         utm_split = data["UTM_ED50-HUSO_30"].split(",")
         x, y = tuple(map(float, data["UTM_ED50-HUSO_30"].split(",")))
         lon, lat = utm_to_geo(30, x, y, "ED50")
@@ -64,7 +64,7 @@ def get_data1(ctr):
     # tipos_des[data["TIPO"]]=data["tlGenericoExt"].capitalize()
     data["nocturno"] = [get_text(n.findParent("tr").find("td"))
                         for n in soup.findAll(text=re_nocturno)]
-    if len(data["nocturno"])==0:
+    if len(data["nocturno"]) == 0:
         data["nocturno"] = None
     return data
 
@@ -74,7 +74,7 @@ def get_data2(ctr):
     url = "http://www.buscocolegio.com/Colegio/detalles-colegio.action?id=" + ctr
     soup = get_soup(url, to_file="fuentes/buscocolegio.com/"+ctr+".html")
     cod = soup.find("h3", text="Código").parent.find("strong").string
-    if ctr!=cod:
+    if ctr != cod:
         return data
     data["nombre"] = get_text(soup.select("div.sliding-panel-inner h4"))
     if data["nombre"].startswith("IES "):

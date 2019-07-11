@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-import re
+import textwrap
+
+from core.confmap import color_to_url, colors, parse_nombre, parse_tipo
 from core.dataset import Dataset
 from core.parsemd import parsemd
-import textwrap
-from core.confmap import color_to_url, colors, parse_tipo, parse_nombre
 
 d = Dataset()
+
 
 def _readme(key):
     i = d.indice
@@ -18,18 +19,19 @@ def _readme(key):
     if key == "buscador":
         return i.centros
     if key == "tipos":
-        tipos=set((c.tipo for c in d.centros))
-        s=""
+        tipos = set((c.tipo for c in d.centros))
+        s = ""
         for t in sorted(tipos):
             s = s + "\n* {0} {1}".format(t, parse_tipo(d.tipos[t]))
         return s.strip()
     if key == "excepcion":
         flag = False
-        s="A excepción de los siguientes que han tenido que ser descartados por no tener cooredandas geográficas:\n"
+        s = "A excepción de los siguientes que han tenido que ser descartados por no tener cooredandas geográficas:\n"
         for c in d.centros:
             if not c.latlon:
-                flag=True
-                s=s+"\n* [{0} {1}]({2})".format(c.id, parse_nombre(c.nombre), c.info)
+                flag = True
+                s = s+"\n* [{0} {1}]({2})".format(c.id,
+                                                  parse_nombre(c.nombre), c.info)
         return s if flag else ""
     if key == "iconos":
         lgd = [colors.dificultad, colors.nocturno, colors.default]
@@ -43,9 +45,11 @@ def _readme(key):
             bilingüismo, excelencia o innovación tecnológica
         '''.format(*lgd)
 
+
 def readme(mtch):
     key = mtch.group(1)
     s = _readme(key)
     return textwrap.dedent(s).strip()
+
 
 parsemd("template/README.md", "README.md", readme)

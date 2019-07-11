@@ -1,9 +1,10 @@
 import re
 
-re_key= re.compile(r"{{{([a-z0-9]+)}}}", re.IGNORECASE)
+re_key = re.compile(r"{{{([a-z0-9]+)}}}", re.IGNORECASE)
+
 
 def parsemd(src, dst, func):
-    count_blank=0
+    count_blank = 0
     with open(dst, "w") as d:
         with open(src, "r") as s:
             for l in s.readlines():

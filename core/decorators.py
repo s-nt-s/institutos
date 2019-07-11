@@ -57,7 +57,7 @@ class TxtCache(Cache):
 class JsonCache(Cache):
     def __init__(self, *args, to_bunch=False, **kargv):
         Cache.__init__(self, *args, **kargv)
-        self.to_bunch=to_bunch
+        self.to_bunch = to_bunch
 
     def read(self, *args, **kargs):
         return read_js(self.file, to_bunch=self.to_bunch)
@@ -65,15 +65,16 @@ class JsonCache(Cache):
     def save(self, data, *args, **kargs):
         save_js(self.file, data)
 
+
 class ListCache(Cache):
     def __init__(self, *args, cast=lambda x: x, **kargv):
         Cache.__init__(self, *args, **kargv)
-        self.cast=cast
+        self.cast = cast
 
     def read(self, *args, **kargs):
         if not os.path.isfile(self.file):
             return None
-        lst=[]
+        lst = []
         with open(self.file, "r") as f:
             for l in f.readlines():
                 l = l.strip()
@@ -84,9 +85,9 @@ class ListCache(Cache):
 
     def save(self, data, *args, **kargs):
         if isinstance(data, set):
-            data=sorted(data)
+            data = sorted(data)
         with open(self.file, "w") as f:
             for i, l in enumerate(data):
-                if i>0:
+                if i > 0:
                     f.write("\n")
                 f.write(str(l))

@@ -3,7 +3,6 @@ from functools import lru_cache
 
 import requests
 from bunch import Bunch
-import copy
 
 from .centro import get_data
 from .common import get_pdf, get_soup, mkBunch, read_yml
@@ -15,6 +14,7 @@ re_sp = re.compile(r"\s+", re.MULTILINE | re.UNICODE)
 re_centro = re.compile(r"\b(28\d\d\d\d\d\d)\b")
 re_pdfs = re.compile(r".*\bapplication%2Fpdf\b.*")
 
+
 class Dataset():
     def __init__(self, *args, **kargs):
         self.indice = mkBunch("fuentes/indice.yml")
@@ -23,8 +23,8 @@ class Dataset():
 
     def dwn_centros(self, file, data=None):
         if data is None:
-            data={}
-        data["titularidadPublica"]="S"
+            data = {}
+        data["titularidadPublica"] = "S"
         soup = get_soup(self.indice.centros, data=data)
         codCentrosExp = soup.find(
             "input", attrs={"name": "codCentrosExp"}).attrs["value"].strip()
@@ -58,7 +58,8 @@ class Dataset():
         col_centros = self.dwn_and_read("fuentes/csv/centros.csv")
         total = len(col_centros)
         for count, i in enumerate(col_centros):
-            print("Cargando centros %s%% [%s]      " % (int(count*100/total), total-count), end="\r")
+            print("Cargando centros %s%% [%s]      " % (
+                int(count*100/total), total-count), end="\r")
             id = i["CODIGO CENTRO"]
             if id not in self.centro_ok:
                 continue
@@ -82,8 +83,8 @@ class Dataset():
                 dificultad=id in self.dificultad,
                 adaptado=id in self.adaptado,
                 excelencia=id in self.excelencia,
-                tecnico= id in self.tecnico,
-                bilingue= id in self.bilingue,
+                tecnico=id in self.tecnico,
+                bilingue=id in self.bilingue,
                 url=extra.get("url"),
                 info=extra.get("info"),
                 tipo=self.centro_tipo.get(id) or i["TIPO DE CENTRO"],
@@ -121,9 +122,9 @@ class Dataset():
         return get_pdf(self.indice.anexo29)
 
     def get_centrosid(self, file=None, txt=True, **kargv):
-        if file is None and len(kargv)==0:
+        if file is None and len(kargv) == 0:
             raise Exception("file argument is mandatory")
-        if file is None and len(kargv)>0:
+        if file is None and len(kargv) > 0:
             k, v = next(iter(kargv.items()))
             if k == "itRegimenNocturno":
                 file = "nocturno"
@@ -131,12 +132,13 @@ class Dataset():
                 file = "tecnico"
             elif k == "cdTramoEdu":
                 file = "e"+v
-                txt= False
+                txt = False
             elif k == "cdGenerico":
                 file = "t"+v
                 txt = False
         if file is None:
-            raise Exception("No file name associate to: "+", ".join(sorted(kargv.keys())))
+            raise Exception("No file name associate to: " +
+                            ", ".join(sorted(kargv.keys())))
         if txt is True:
             txt = "data/centros/" + file+".txt"
         file = "fuentes/csv/" + file + ".csv"
@@ -157,19 +159,19 @@ class Dataset():
     @lru_cache(maxsize=None)
     def bilingue(self):
         return self.get_centrosid("bilingue",
-            checkCentroBilingue="S",
-            checkCentroConvenio="S",
-            checkSeccionesLinguisticasFr="S",
-            checkSeccionesLinguisticasAl="S",
-        )
+                                  checkCentroBilingue="S",
+                                  checkCentroConvenio="S",
+                                  checkSeccionesLinguisticasFr="S",
+                                  checkSeccionesLinguisticasAl="S",
+                                  )
 
     @property
     @lru_cache(maxsize=None)
     def excelencia(self):
         return self.get_centrosid("excelencia",
-            itCentroExcelencia="S",
-            itAulaExcelencia="S"
-        )
+                                  itCentroExcelencia="S",
+                                  itAulaExcelencia="S"
+                                  )
 
     @property
     @lru_cache(maxsize=None)
@@ -180,10 +182,10 @@ class Dataset():
     @lru_cache(maxsize=None)
     def adaptado(self):
         return self.get_centrosid("adaptado",
-            checkIntegraA="S",
-            checkIntegraM="S",
-            checkIntegraT="S"
-        )
+                                  checkIntegraA="S",
+                                  checkIntegraM="S",
+                                  checkIntegraT="S"
+                                  )
 
     @property
     @lru_cache(maxsize=None)
@@ -224,11 +226,11 @@ class Dataset():
     @JsonCache(file="data/tipos.json")
     def tipos(self):
         soup = get_soup(self.indice.centros)
-        tipos={}
+        tipos = {}
         for o in soup.select("#comboGenericos option"):
             v = o.attrs.get("value")
             if v and v not in ("0", "-1"):
-                tipos[v]=re_sp.sub(" ",o.get_text()).strip()
+                tipos[v] = re_sp.sub(" ", o.get_text()).strip()
         return tipos
 
     @property
@@ -236,26 +238,26 @@ class Dataset():
     @JsonCache(file="data/ensenanzas.json")
     def ensenanzas(self):
         soup = get_soup(self.indice.centros)
-        tipos={}
+        tipos = {}
         for o in soup.select("#comboTipoEnsenanza option"):
             v = o.attrs.get("value")
             if v and v not in ("0", "-1"):
-                tipos[v]=re_sp.sub(" ",o.get_text()).strip()
+                tipos[v] = re_sp.sub(" ", o.get_text()).strip()
         return tipos
 
     @property
     @lru_cache(maxsize=None)
     def centro_tipo(self):
-        tipos={}
+        tipos = {}
         for cod in sorted(self.tipos.keys()):
             for id in self.get_centrosid(cdGenerico=cod):
-                c=tipos.get(id, [])
+                c = tipos.get(id, [])
                 c.append(cod)
-                tipos[id]=c
+                tipos[id] = c
         for kc, c in list(tipos.items()):
             l = len(c)
-            if l==0:
-                tipos[kc]=None
-            elif l==1:
-                tipos[kc]=c.pop()
+            if l == 0:
+                tipos[kc] = None
+            elif l == 1:
+                tipos[kc] = c.pop()
         return tipos

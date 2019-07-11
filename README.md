@@ -46,4 +46,4 @@ bilingüismo, excelencia o innovación tecnológica
 
 # Resultado
 
-El mapa se puede ver aquí [https://drive.google.com/open?id=10lr9woDJ97rnLvmRb-5OAY31cYUkjORC&usp=sharing](https://drive.google.com/open?id=10lr9woDJ97rnLvmRb-5OAY31cYUkjORC&usp=sharing)
+El mapa se puede ver aquí [drive.google.com/open?id=10lr9woDJ97rnLvmRb-5OAY31cYUkjORC&usp=sharing](https://drive.google.com/open?id=10lr9woDJ97rnLvmRb-5OAY31cYUkjORC&usp=sharing)

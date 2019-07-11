@@ -56,7 +56,6 @@ for t in sorted(tipos):
             elif c.nocturno:
                 color="grey"
             description = get_description(c)
-            print(description)
             name = c.nombre.title()
             name = " ".join(w if len(w)>2 else w.lower() for w in name.split())
             mapa.addPoint(name, lat, lon, description=description, color=color, href=href)

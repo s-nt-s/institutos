@@ -56,7 +56,7 @@ class Map:
                 ''').strip() % description
             pnt.description = description
         if color:
-            pnt.style= self.getStyle(color, kmlcolor=kmlcolor, href=None)
+            pnt.style= self.getStyle(color, kmlcolor=kmlcolor, href=href)
         elif self.style:
             pnt.style = self.style
         return pnt

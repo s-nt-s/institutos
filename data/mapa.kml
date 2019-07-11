@@ -3,12 +3,12 @@
     <Document id="1">
         <Style id="2">
             <IconStyle id="3">
-                <color>ffff0000</color>
+                <color>ff008000</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
                 <Icon id="4">
-                    <href>http://maps.google.com/mapfiles/ms/micons/blue.png</href>
+                    <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
                 </Icon>
             </IconStyle>
         </Style>

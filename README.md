@@ -16,22 +16,22 @@ Los datos que se han usado han sido:
 De todos los centros que devuelve [el buscador](http://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm) solo se muestran
 aquellos que son de alguno de los siguientes tipos:
 
-* 016 CENTRO INTEGRADO DE ENSEÑANZAS ARTÍSTICAS ELEMENTALES Y PROFESIONALES DE MÚSICA, EDUCACIÓN PRIMARIA Y SECUNDARIA
-* 017 CENTRO INTEGRADO DE ENSEÑANZAS ARTÍSTICAS PROFESIONALES DE MÚSICA Y EDUCACIÓN SECUNDARIA
-* 031 CENTRO PÚBLICO DE EDUCACIÓN DE PERSONAS ADULTAS
-* 035 CENTROS PÚBLICOS DE EDUCACIÓN ADULTOS ESTABLECIMIENTOS PENITENCIARIOS
-* 042 INSTITUTO DE EDUCACIÓN SECUNDARIA
-* 047 SECCIÓN DE INSTITUTO DE EDUCACIÓN SECUNDARIA
-* 070 COLEGIO DE EDUCACIÓN INFANTIL, PRIMARIA Y SECUNDARIA
+* 016 Centro integrado de enseñanzas artísticas elementales y profesionales de música, educación primaria y secundaria
+* 017 Centro integrado de enseñanzas artísticas profesionales de música y educación secundaria
+* 031 Centro público de educación de personas adultas
+* 035 Centros públicos de educación adultos establecimientos penitenciarios
+* 042 Instituto de educación secundaria
+* 047 Sección de instituto de educación secundaria
+* 070 Colegio de educación infantil, primaria y secundaria
 
 A excepción de los siguientes que han tenido que ser descartados por no tener cooredandas geográficas:
 
-* [28078031 ISABEL LA CATOLICA](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078031)
-* [28078043 SECCION DE EDUCACIÓN SECUNDARIA OBLIGATORIA "ALCOBENDAS V"](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078043)
-* [28078547 ELISA SORIANO FISCHER](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078547)
-* [28079357 JANE GOODALL](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079357)
-* [28079370 ANA FRANK](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079370)
-* [28079382 ADA BYRON](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079382)
+* [28078031 Isabel la Catolica](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078031)
+* [28078043 Seccion de Educación Secundaria Obligatoria "Alcobendas v"](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078043)
+* [28078547 Elisa Soriano Fischer](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078547)
+* [28079357 Jane Goodall](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079357)
+* [28079370 Ana Frank](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079370)
+* [28079382 Ada Byron](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079382)
 
 # Iconos
 

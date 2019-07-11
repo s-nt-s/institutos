@@ -51,6 +51,7 @@ URL: <a href="http://www.educa.madrid.org/web/cim.sanlorenzo">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="6">
                     <coordinates>-4.14585325819421,40.592552198228596,0.0</coordinates>
                 </Point>
@@ -71,6 +72,7 @@ URL: <a href="http://www.educa.madrid.org/cim.morenotorroba.madrid">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="9">
                     <coordinates>-3.7351300281007065,40.38707892002928,0.0</coordinates>
                 </Point>
@@ -91,6 +93,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.getafe">www.educa.madrid.org/cepa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="12">
                     <coordinates>-3.7310679749170843,40.307716127144595,0.0</coordinates>
                 </Point>
@@ -108,6 +111,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.moratalaz.madrid">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="14">
                     <coordinates>-3.6480413429532907,40.40575309223545,0.0</coordinates>
                 </Point>
@@ -125,6 +129,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.aluche.madrid">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="16">
                     <coordinates>-3.754482660398072,40.386647960653576,0.0</coordinates>
                 </Point>
@@ -142,6 +147,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.mostoles">www.educa.madrid.org/ce
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="18">
                     <coordinates>-3.8543046035756863,40.31353847253802,0.0</coordinates>
                 </Point>
@@ -159,6 +165,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.maramarillo.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="20">
                     <coordinates>-3.639791210601092,40.476582937652196,0.0</coordinates>
                 </Point>
@@ -176,6 +183,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.sampedro.madrid">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="22">
                     <coordinates>-3.711931065221072,40.475332268383035,0.0</coordinates>
                 </Point>
@@ -193,6 +201,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.laalbufera.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="24">
                     <coordinates>-3.6604741309997424,40.39606104394437,0.0</coordinates>
                 </Point>
@@ -210,6 +219,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.sanfernandodehenares">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="26">
                     <coordinates>-3.5294594611217427,40.42825799553766,0.0</coordinates>
                 </Point>
@@ -227,6 +237,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.fuenlabrada">www.educa.madrid.org
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="28">
                     <coordinates>-3.801683478942944,40.282491053241856,0.0</coordinates>
                 </Point>
@@ -244,6 +255,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.alcala">www.educa.madrid.org/cepa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="30">
                     <coordinates>-3.3683430899767814,40.487406420524906,0.0</coordinates>
                 </Point>
@@ -261,6 +273,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.coslada">www.educa.madrid.org/cep
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="32">
                     <coordinates>-3.545852791192541,40.42761418628852,0.0</coordinates>
                 </Point>
@@ -278,6 +291,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.colmenarviejo">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="34">
                     <coordinates>-3.766736637561867,40.66024745967839,0.0</coordinates>
                 </Point>
@@ -295,6 +309,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.pinto">www.educa.madrid.org/cepa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="36">
                     <coordinates>-3.700779573418896,40.24300085078859,0.0</coordinates>
                 </Point>
@@ -312,6 +327,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.daoizyvelarde.madrid">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="38">
                     <coordinates>-3.7014984108469298,40.369422786752054,0.0</coordinates>
                 </Point>
@@ -329,6 +345,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.arganda">www.educa.madrid.org/cep
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="40">
                     <coordinates>-3.430959859640166,40.300313163780835,0.0</coordinates>
                 </Point>
@@ -346,6 +363,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.sanlorenzo">www.educa.madrid.org/
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="42">
                     <coordinates>-4.134031821069663,40.60281255295223,0.0</coordinates>
                 </Point>
@@ -363,6 +381,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.panbendito.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="44">
                     <coordinates>-3.7331562882665703,40.378902192631294,0.0</coordinates>
                 </Point>
@@ -380,6 +399,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.tetuan.madrid">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="46">
                     <coordinates>-3.696963063137276,40.46988298785972,0.0</coordinates>
                 </Point>
@@ -397,6 +417,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.fuencarral.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="48">
                     <coordinates>-3.6922602187169233,40.49782095463374,0.0</coordinates>
                 </Point>
@@ -414,6 +435,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.entrevias.madrid">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="50">
                     <coordinates>-3.6682185563887977,40.378457815230036,0.0</coordinates>
                 </Point>
@@ -431,6 +453,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.villaverde.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="52">
                     <coordinates>-3.707401335232513,40.351566774555145,0.0</coordinates>
                 </Point>
@@ -448,6 +471,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.canillejas.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="54">
                     <coordinates>-3.6069766489426796,40.43923741096428,0.0</coordinates>
                 </Point>
@@ -465,6 +489,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.pabloguzman.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="56">
                     <coordinates>-3.64416536080146,40.46395508190965,0.0</coordinates>
                 </Point>
@@ -482,6 +507,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.vistaalegre.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="58">
                     <coordinates>-3.735424453994168,40.3870680388095,0.0</coordinates>
                 </Point>
@@ -499,6 +525,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.vallecas.madrid">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="60">
                     <coordinates>-3.61152882312073,40.383348128466835,0.0</coordinates>
                 </Point>
@@ -516,6 +543,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.paracuellos">www.educa.madrid.org
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="62">
                     <coordinates>-3.5313219350318534,40.504573806874575,0.0</coordinates>
                 </Point>
@@ -533,6 +561,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.torresdelaalameda">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="64">
                     <coordinates>-3.3594796298102034,40.402902136908125,0.0</coordinates>
                 </Point>
@@ -550,6 +579,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.villarejodesalvanes">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="66">
                     <coordinates>-3.2743329376329307,40.16946928348038,0.0</coordinates>
                 </Point>
@@ -567,6 +597,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.sanmartindevaldeiglesias">www.edu
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="68">
                     <coordinates>-4.39692596213217,40.3654373833504,0.0</coordinates>
                 </Point>
@@ -584,6 +615,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.torrelaguna">www.educa.madrid.org
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="70">
                     <coordinates>-3.539379309336562,40.83011087208013,0.0</coordinates>
                 </Point>
@@ -601,6 +633,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.cidcampeador.madrid">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="72">
                     <coordinates>-3.769518008623016,40.3837110249064,0.0</coordinates>
                 </Point>
@@ -618,6 +651,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.ciudadlineal.madrid">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="74">
                     <coordinates>-3.6309901733384544,40.43118088228404,0.0</coordinates>
                 </Point>
@@ -635,6 +669,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.colladovillalba">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="76">
                     <coordinates>-4.006872624552837,40.6307557638264,0.0</coordinates>
                 </Point>
@@ -652,6 +687,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.oporto.madrid">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="78">
                     <coordinates>-3.723607153155263,40.38815160873726,0.0</coordinates>
                 </Point>
@@ -669,6 +705,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.losrosales.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="80">
                     <coordinates>-3.68026878592534,40.35609897899115,0.0</coordinates>
                 </Point>
@@ -686,6 +723,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.vicalvaro.madrid">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="82">
                     <coordinates>-3.605523200523254,40.4033889586642,0.0</coordinates>
                 </Point>
@@ -703,6 +741,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.dulcechacon.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="84">
                     <coordinates>-3.6484626255535764,40.47906613074742,0.0</coordinates>
                 </Point>
@@ -720,6 +759,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.torrejondeardoz">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="86">
                     <coordinates>-3.4805081213896316,40.45760711242802,0.0</coordinates>
                 </Point>
@@ -737,6 +777,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.alcorcon">www.educa.madrid.org/ce
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="88">
                     <coordinates>-3.814409445519838,40.35479074145716,0.0</coordinates>
                 </Point>
@@ -754,6 +795,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.aranjuez">www.educa.madrid.org/ce
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="90">
                     <coordinates>-3.6150971166872337,40.02960241147329,0.0</coordinates>
                 </Point>
@@ -771,6 +813,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.leganes">www.educa.madrid.org/cep
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="92">
                     <coordinates>-3.7535179586673433,40.34129339479845,0.0</coordinates>
                 </Point>
@@ -788,6 +831,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.gloriafuertes.navalcarnero">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="94">
                     <coordinates>-4.01205706263441,40.28925663990926,0.0</coordinates>
                 </Point>
@@ -805,6 +849,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.parla">www.educa.madrid.org/cepa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="96">
                     <coordinates>-3.774139004092231,40.23966842874343,0.0</coordinates>
                 </Point>
@@ -822,6 +867,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.valdemoro">www.educa.madrid.org/c
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="98">
                     <coordinates>-3.688383993841204,40.18919028707846,0.0</coordinates>
                 </Point>
@@ -839,6 +885,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.mancomunidadsuroeste.grinon">www.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="100">
                     <coordinates>-3.827429740964353,40.25609294678611,0.0</coordinates>
                 </Point>
@@ -856,6 +903,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.elmolar">www.educa.madrid.org/cep
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="102">
                     <coordinates>-3.5810442134979463,40.7391208093055,0.0</coordinates>
                 </Point>
@@ -873,6 +921,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.arganzuela.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="104">
                     <coordinates>-3.6947810933919936,40.40233751766332,0.0</coordinates>
                 </Point>
@@ -890,6 +939,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.lasrozas">www.educa.madrid.org/ce
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="106">
                     <coordinates>-3.87646993250281,40.49739948647359,0.0</coordinates>
                 </Point>
@@ -907,6 +957,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.moncloa.madrid">www.educa.madrid.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="108">
                     <coordinates>-3.7134354185509295,40.42684563526421,0.0</coordinates>
                 </Point>
@@ -924,6 +975,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.sanmartindelavega">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="110">
                     <coordinates>-3.5727901113952227,40.21310025743353,0.0</coordinates>
                 </Point>
@@ -941,6 +993,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.orcasitas.madrid">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="112">
                     <coordinates>-3.7175402936243294,40.371576643333775,0.0</coordinates>
                 </Point>
@@ -958,6 +1011,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.joaquinsorolla.madrid">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="114">
                     <coordinates>-3.6714775403977944,40.437331202170306,0.0</coordinates>
                 </Point>
@@ -975,6 +1029,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.rivas">www.educa.madrid.org/cepa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="116">
                     <coordinates>-3.5257719041291433,40.375553489318364,0.0</coordinates>
                 </Point>
@@ -992,6 +1047,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.mariovargasllosa.majadahonda">www
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="118">
                     <coordinates>-3.8697805524928715,40.47011707915941,0.0</coordinates>
                 </Point>
@@ -1009,6 +1065,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.pozuelodealarcon">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="120">
                     <coordinates>-3.7980503987283445,40.45140953125977,0.0</coordinates>
                 </Point>
@@ -1026,6 +1083,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.lasrosas.madrid">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="122">
                     <coordinates>-3.622451395408076,40.42316407161367,0.0</coordinates>
                 </Point>
@@ -1043,6 +1101,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.centro.madrid">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="124">
                     <coordinates>-3.7051218386937275,40.428860607429144,0.0</coordinates>
                 </Point>
@@ -1060,6 +1119,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.lamesta.villanuevadelacanada">www
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="126">
                     <coordinates>-4.004561104526111,40.45173619823745,0.0</coordinates>
                 </Point>
@@ -1077,6 +1137,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.galapagar">www.educa.madrid.org/c
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="128">
                     <coordinates>-4.0050070713664,40.58201725011888,0.0</coordinates>
                 </Point>
@@ -1094,6 +1155,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.torrelodones">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="130">
                     <coordinates>-3.9431958980495794,40.578457574877056,0.0</coordinates>
                 </Point>
@@ -1111,6 +1173,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.buitrago">www.educa.madrid.org/ce
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="132">
                     <coordinates>-3.6371664723952724,40.994851420870894,0.0</coordinates>
                 </Point>
@@ -1128,6 +1191,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.sansebastian">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="134">
                     <coordinates>-3.6313584209288625,40.55611492307179,0.0</coordinates>
                 </Point>
@@ -1145,6 +1209,7 @@ URL: <a href="http://www.educa.madrid.org/cepa.sierradeguadarrama.colladomediano
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="136">
                     <coordinates>-4.040260142593471,40.6921413131697,0.0</coordinates>
                 </Point>
@@ -1304,6 +1369,7 @@ URL: <a href="http://www.educa.madrid.org/ies.alonsodeavellan.alcala">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="160">
                     <coordinates>-3.340381342752289,40.492645307841684,0.0</coordinates>
                 </Point>
@@ -1388,6 +1454,7 @@ URL: <a href="http://www.educa.madrid.org/ies.jorgemanrique.trescantos">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="168">
                     <coordinates>-3.7030806844795894,40.593699820337704,0.0</coordinates>
                 </Point>
@@ -1406,6 +1473,7 @@ URL: <a href="http://www.educa.madrid.org/ies.elcarrascal.arganda">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="170">
                     <coordinates>-3.4401675931206324,40.292188150658255,0.0</coordinates>
                 </Point>
@@ -1423,6 +1491,7 @@ URL: <a href="http://www.educa.madrid.org/ies.juancarlosprimero.ciempozuelos">ww
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="172">
                     <coordinates>-3.6189911009248723,40.155526423388885,0.0</coordinates>
                 </Point>
@@ -1463,6 +1532,7 @@ URL: <a href="http://www.educa.madrid.org/ies.jaimeferran.colladovillalba">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="176">
                     <coordinates>-4.001596819595832,40.64010752639082,0.0</coordinates>
                 </Point>
@@ -1481,6 +1551,7 @@ URL: <a href="http://www.educa.madrid.org/ies.miguelcatalan.coslada">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="178">
                     <coordinates>-3.539998216114232,40.43407415298479,0.0</coordinates>
                 </Point>
@@ -1519,6 +1590,7 @@ URL: <a href="http://www.educa.madrid.org/ies.alarnes.getafe">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="182">
                     <coordinates>-3.7335467255627792,40.301880489866946,0.0</coordinates>
                 </Point>
@@ -1557,6 +1629,7 @@ URL: <a href="http://www.educa.madrid.org/ies.luisvives.leganes">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="186">
                     <coordinates>-3.763697977900226,40.34091130697257,0.0</coordinates>
                 </Point>
@@ -1575,6 +1648,7 @@ URL: <a href="http://www.educa.madrid.org/ies.mariazambrano.leganes">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="188">
                     <coordinates>-3.746332762455122,40.33245695772765,0.0</coordinates>
                 </Point>
@@ -1614,6 +1688,7 @@ URL: <a href="http://www.educa.madrid.org/ies.elespinillo.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="192">
                     <coordinates>-3.687245354085798,40.36354432490296,0.0</coordinates>
                 </Point>
@@ -1632,6 +1707,7 @@ URL: <a href="http://www.educa.madrid.org/ies.valdebernardo.madrid">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="194">
                     <coordinates>-3.6177541611614377,40.407090057216145,0.0</coordinates>
                 </Point>
@@ -1649,6 +1725,7 @@ URL: <a href="http://www.educa.madrid.org/ies.santateresa.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="196">
                     <coordinates>-3.7088386437540803,40.42243245971056,0.0</coordinates>
                 </Point>
@@ -1667,6 +1744,7 @@ URL: <a href="http://www.educa.madrid.org/ies.santamarca.madrid">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="198">
                     <coordinates>-3.672780579087223,40.45804433599213,0.0</coordinates>
                 </Point>
@@ -1684,6 +1762,7 @@ URL: <a href="http://www.educa.madrid.org/ies.santaengracia.madrid">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="200">
                     <coordinates>-3.6954485256638967,40.431684972774214,0.0</coordinates>
                 </Point>
@@ -1701,6 +1780,7 @@ URL: <a href="http://www.educa.madrid.org/ies.ortegaygasset.madrid">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="202">
                     <coordinates>-3.7344802973881084,40.43353367247507,0.0</coordinates>
                 </Point>
@@ -1718,6 +1798,7 @@ URL: <a href="http://www.educa.madrid.org/ies.numerounoejercito.madrid">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="204">
                     <coordinates>-3.751535392286419,40.37163999963019,0.0</coordinates>
                 </Point>
@@ -1794,6 +1875,7 @@ URL: <a href="http://www.educa.madrid.org/ies.rodriguezdevalcarcel.madrid">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="212">
                     <coordinates>-3.6507166818301817,40.4069903281061,0.0</coordinates>
                 </Point>
@@ -1812,6 +1894,7 @@ URL: <a href="http://www.educa.madrid.org/ies.joaquinturina.madrid">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="214">
                     <coordinates>-3.7112880485242528,40.44233635065087,0.0</coordinates>
                 </Point>
@@ -1829,6 +1912,7 @@ URL: <a href="http://www.educa.madrid.org/ies.ellago.madrid">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="216">
                     <coordinates>-3.731737461794153,40.41760510070079,0.0</coordinates>
                 </Point>
@@ -1846,6 +1930,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sanfernando.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="218">
                     <coordinates>-3.687914469642921,40.52987353629845,0.0</coordinates>
                 </Point>
@@ -1887,6 +1972,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lopedevega.madrid">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="222">
                     <coordinates>-3.7051218386937275,40.428860607429144,0.0</coordinates>
                 </Point>
@@ -1904,6 +1990,7 @@ URL: <a href="http://www.educa.madrid.org/ies.barajas.madrid">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="224">
                     <coordinates>-3.597912316135548,40.452870261646076,0.0</coordinates>
                 </Point>
@@ -1962,6 +2049,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lapaloma.madrid">www.educa.madrid.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="230">
                     <coordinates>-3.714514013545043,40.46080289456144,0.0</coordinates>
                 </Point>
@@ -1980,6 +2068,7 @@ URL: <a href="http://www.educa.madrid.org/ies.condedeorgaz.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="232">
                     <coordinates>-3.6452067908435986,40.46185017896971,0.0</coordinates>
                 </Point>
@@ -1997,6 +2086,7 @@ URL: <a href="http://www.educa.madrid.org/ies.carlostercero.madrid">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="234">
                     <coordinates>-3.6132541521410113,40.42678080903717,0.0</coordinates>
                 </Point>
@@ -2014,6 +2104,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sanblas.madrid">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="236">
                     <coordinates>-3.6120531177874207,40.42823763109145,0.0</coordinates>
                 </Point>
@@ -2032,6 +2123,7 @@ URL: <a href="http://www.educa.madrid.org/ies.gomezmoreno.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="238">
                     <coordinates>-3.61451060090398,40.43400840258188,0.0</coordinates>
                 </Point>
@@ -2073,6 +2165,7 @@ URL: <a href="http://www.educa.madrid.org/ies.vallecasuno.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="242">
                     <coordinates>-3.6618839477739575,40.39683677307069,0.0</coordinates>
                 </Point>
@@ -2090,6 +2183,7 @@ URL: <a href="http://www.educa.madrid.org/ies.tiernogalvan.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="244">
                     <coordinates>-3.693951596798141,40.37204492580367,0.0</coordinates>
                 </Point>
@@ -2107,6 +2201,7 @@ URL: <a href="http://www.educa.madrid.org/ies.piobaroja.madrid">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="246">
                     <coordinates>-3.717586377756008,40.37481062613889,0.0</coordinates>
                 </Point>
@@ -2124,6 +2219,7 @@ URL: <a href="http://www.educa.madrid.org/ies.parquealuche.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="248">
                     <coordinates>-3.7624845964294753,40.39206397623333,0.0</coordinates>
                 </Point>
@@ -2180,6 +2276,7 @@ URL: <a href="http://www.educa.madrid.org/ies.tetuan.madrid">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="254">
                     <coordinates>-3.6956475858935134,40.47500800152612,0.0</coordinates>
                 </Point>
@@ -2198,6 +2295,7 @@ URL: <a href="http://www.educa.madrid.org/ies.cardenalherrera.madrid">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="256">
                     <coordinates>-3.710457387875815,40.48437730645887,0.0</coordinates>
                 </Point>
@@ -2260,6 +2358,7 @@ URL: <a href="http://www.educa.madrid.org/ies.juandelacierva.madrid">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="262">
                     <coordinates>-3.705145795025377,40.404058567269566,0.0</coordinates>
                 </Point>
@@ -2340,6 +2439,7 @@ URL: <a href="http://www.educa.madrid.org/ies.calderondelabar.madrid">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="270">
                     <coordinates>-3.7158168773877347,40.38903794030827,0.0</coordinates>
                 </Point>
@@ -2357,6 +2457,7 @@ URL: <a href="http://www.educa.madrid.org/ies.vistaalegre.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="272">
                     <coordinates>-3.7351300281007065,40.38707892002928,0.0</coordinates>
                 </Point>
@@ -2374,6 +2475,7 @@ URL: <a href="http://www.educa.madrid.org/ies.pacifico.madrid">www.educa.madrid.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="274">
                     <coordinates>-3.6674417493341487,40.40597606631015,0.0</coordinates>
                 </Point>
@@ -2411,6 +2513,7 @@ URL: <a href="http://www.educa.madrid.org/ies.garciamorato.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="278">
                     <coordinates>-3.7664506093277037,40.37605566164397,0.0</coordinates>
                 </Point>
@@ -2429,6 +2532,7 @@ URL: <a href="http://www.educa.madrid.org/ies.grancapitan.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="280">
                     <coordinates>-3.7187858861890857,40.40565026176174,0.0</coordinates>
                 </Point>
@@ -2447,6 +2551,7 @@ URL: <a href="http://www.educa.madrid.org/ies.carmenmartingai.moralzarzal">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="282">
                     <coordinates>-3.9731331723864822,40.67603387868894,0.0</coordinates>
                 </Point>
@@ -2464,6 +2569,7 @@ URL: <a href="http://www.educa.madrid.org/ies.ciudadescolar.madrid">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="284">
                     <coordinates>-3.6841956171400816,40.526418190682165,0.0</coordinates>
                 </Point>
@@ -2481,6 +2587,7 @@ URL: <a href="http://www.educa.madrid.org/ies.felipetrigo.mostoles">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="286">
                     <coordinates>-3.8794737857912938,40.32225988963311,0.0</coordinates>
                 </Point>
@@ -2499,6 +2606,7 @@ URL: <a href="http://www.educa.madrid.org/ies.carmenmartingai.navalcarnero">www.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="288">
                     <coordinates>-4.018812040127288,40.289395551912655,0.0</coordinates>
                 </Point>
@@ -2517,6 +2625,7 @@ URL: <a href="http://www.educa.madrid.org/ies.gerardodiego.pozuelodealarcon">www
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="290">
                     <coordinates>-3.7860401355431224,40.44490627106608,0.0</coordinates>
                 </Point>
@@ -2557,6 +2666,7 @@ URL: <a href="http://www.educa.madrid.org/ies.joanmiro.sansebastian">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="294">
                     <coordinates>-3.6229962642197613,40.55997106131692,0.0</coordinates>
                 </Point>
@@ -2575,6 +2685,7 @@ URL: <a href="http://www.educa.madrid.org/ies.isaacperal.torrejondeardoz">www.ed
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="296">
                     <coordinates>-3.451576825330183,40.45757961094879,0.0</coordinates>
                 </Point>
@@ -2614,6 +2725,7 @@ URL: <a href="http://www.educa.madrid.org/ies.altojarama.torrelaguna">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="300">
                     <coordinates>-3.540185241056756,40.83004404216095,0.0</coordinates>
                 </Point>
@@ -2631,6 +2743,7 @@ URL: <a href="http://www.educa.madrid.org/ies.victoria.villarejo">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="302">
                     <coordinates>-3.2752468286686067,40.16893555278129,0.0</coordinates>
                 </Point>
@@ -2649,6 +2762,7 @@ URL: <a href="http://www.educa.madrid.org/ies.felipesegundo.madrid">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="304">
                     <coordinates>-3.6326611644950035,40.39938776569495,0.0</coordinates>
                 </Point>
@@ -2688,6 +2802,7 @@ URL: <a href="http://www.educa.madrid.org/ies.loscastillos.alcorcon">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="308">
                     <coordinates>-3.808823090991519,40.359343502777264,0.0</coordinates>
                 </Point>
@@ -2706,6 +2821,7 @@ URL: <a href="http://www.educa.madrid.org/ies.arquitectopedro.alcala">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="310">
                     <coordinates>-3.377833833466761,40.49653794023041,0.0</coordinates>
                 </Point>
@@ -2724,6 +2840,7 @@ URL: <a href="http://www.educa.madrid.org/ies.mariamoliner.coslada">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="312">
                     <coordinates>-3.547972993498423,40.424487017781,0.0</coordinates>
                 </Point>
@@ -2763,6 +2880,7 @@ URL: <a href="http://www.educa.madrid.org/ies.butarque.leganes">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="316">
                     <coordinates>-3.7578369684829744,40.339012891379184,0.0</coordinates>
                 </Point>
@@ -2781,6 +2899,7 @@ URL: <a href="http://www.educa.madrid.org/ies.avenidadelostor.madrid">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="318">
                     <coordinates>-3.66361768439553,40.435385594081936,0.0</coordinates>
                 </Point>
@@ -2822,6 +2941,7 @@ URL: <a href="http://www.educa.madrid.org/ies.laestrella.madrid">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="322">
                     <coordinates>-3.665408784050822,40.41135718747953,0.0</coordinates>
                 </Point>
@@ -2840,6 +2960,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sanjuanbautista.madrid">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="324">
                     <coordinates>-3.6570539413732446,40.45390057287826,0.0</coordinates>
                 </Point>
@@ -2857,6 +2978,7 @@ URL: <a href="http://www.educa.madrid.org/ies.jaimevera.madrid">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="326">
                     <coordinates>-3.6968608937453604,40.45885662303344,0.0</coordinates>
                 </Point>
@@ -2875,6 +2997,7 @@ URL: <a href="http://www.educa.madrid.org/ies.manueldefalla.mostoles">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="328">
                     <coordinates>-3.88281079212957,40.32994627499818,0.0</coordinates>
                 </Point>
@@ -2893,6 +3016,7 @@ URL: <a href="http://www.educa.madrid.org/ies.uno.lasrozas">www.educa.madrid.org
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="330">
                     <coordinates>-3.86674854606305,40.49118461912712,0.0</coordinates>
                 </Point>
@@ -2910,6 +3034,7 @@ URL: <a href="http://www.educa.madrid.org/ies.torrenteballest.sansebastian">www.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="332">
                     <coordinates>-3.6279762197275205,40.56072786835214,0.0</coordinates>
                 </Point>
@@ -2973,6 +3098,7 @@ URL: <a href="http://www.educa.madrid.org/ies.fortuny.madrid">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="338">
                     <coordinates>-3.6886507859971625,40.43562657171965,0.0</coordinates>
                 </Point>
@@ -2991,6 +3117,7 @@ URL: <a href="http://www.educa.madrid.org/ies.ciudaddelospoetas.madrid">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="340">
                     <coordinates>-3.716377268360564,40.46965618224605,0.0</coordinates>
                 </Point>
@@ -3009,6 +3136,7 @@ URL: <a href="http://www.educa.madrid.org/ies.ramonycajal.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="342">
                     <coordinates>-3.658803100652844,40.48928686601719,0.0</coordinates>
                 </Point>
@@ -3026,6 +3154,7 @@ URL: <a href="http://www.educa.madrid.org/ies.delibes.madrid">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="344">
                     <coordinates>-3.630192746233391,40.42405907535328,0.0</coordinates>
                 </Point>
@@ -3063,6 +3192,7 @@ URL: <a href="http://www.educa.madrid.org/ies.damasoalonso.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="348">
                     <coordinates>-3.699285233594927,40.48904901067576,0.0</coordinates>
                 </Point>
@@ -3081,6 +3211,7 @@ URL: <a href="http://www.educa.madrid.org/ies.humanejos.parla">www.educa.madrid.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="350">
                     <coordinates>-3.767711191110522,40.230548788476746,0.0</coordinates>
                 </Point>
@@ -3119,6 +3250,7 @@ URL: <a href="http://www.educa.madrid.org/ies.pradodesantodomingo.alcorcon">www.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="354">
                     <coordinates>-3.839596542109047,40.342286187365254,0.0</coordinates>
                 </Point>
@@ -3155,6 +3287,7 @@ URL: <a href="http://www.educa.madrid.org/ies.mateoaleman.alcala">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="358">
                     <coordinates>-3.381493938361178,40.48018357474496,0.0</coordinates>
                 </Point>
@@ -3173,6 +3306,7 @@ URL: <a href="http://www.educa.madrid.org/ies.galileogalilei.alcorcon">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="360">
                     <coordinates>-3.837895564564364,40.34183905771516,0.0</coordinates>
                 </Point>
@@ -3191,6 +3325,7 @@ URL: <a href="http://www.educa.madrid.org/ies.blasdeotero.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="362">
                     <coordinates>-3.760902717949378,40.390750064260025,0.0</coordinates>
                 </Point>
@@ -3267,6 +3402,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lasmusas.madrid">www.educa.madrid.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="370">
                     <coordinates>-3.6066038405140732,40.430554650667844,0.0</coordinates>
                 </Point>
@@ -3284,6 +3420,7 @@ URL: <a href="http://www.educa.madrid.org/ies.barriodebilbao.madrid">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="372">
                     <coordinates>-3.6292628147499344,40.42293800880732,0.0</coordinates>
                 </Point>
@@ -3301,6 +3438,7 @@ URL: <a href="http://www.educa.madrid.org/ies.leonardodavinci.madrid">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="374">
                     <coordinates>-3.762137058074969,40.38004816715342,0.0</coordinates>
                 </Point>
@@ -3318,6 +3456,7 @@ URL: <a href="http://www.educa.madrid.org/ies.moratalaz.madrid">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="376">
                     <coordinates>-3.6569427145772018,40.41461282693532,0.0</coordinates>
                 </Point>
@@ -3335,6 +3474,7 @@ URL: <a href="http://www.educa.madrid.org/ies.hosteleria.madrid">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="378">
                     <coordinates>-3.731428872039164,40.417408854659975,0.0</coordinates>
                 </Point>
@@ -3352,6 +3492,7 @@ URL: <a href="http://www.educa.madrid.org/ies.arquitectoperid.leganes">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="380">
                     <coordinates>-3.7396502245239933,40.33606750866263,0.0</coordinates>
                 </Point>
@@ -3390,6 +3531,7 @@ URL: <a href="http://www.educa.madrid.org/ies.leonardodavinci.majadahonda">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="384">
                     <coordinates>-3.8783889701073977,40.48076354905078,0.0</coordinates>
                 </Point>
@@ -3429,6 +3571,7 @@ URL: <a href="http://www.educa.madrid.org/ies.alamedadeosuna.madrid">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="388">
                     <coordinates>-3.5877573514655943,40.46223766084346,0.0</coordinates>
                 </Point>
@@ -3446,6 +3589,7 @@ URL: <a href="http://www.educa.madrid.org/ies.malasana.mostoles">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="390">
                     <coordinates>-3.863864251109351,40.314719749909756,0.0</coordinates>
                 </Point>
@@ -3463,6 +3607,7 @@ URL: <a href="http://www.educa.madrid.org/ies.jovellanos.fuenlabrada">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="392">
                     <coordinates>-3.8039357595257175,40.2938720710954,0.0</coordinates>
                 </Point>
@@ -3480,6 +3625,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sanisidoro.madrid">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="394">
                     <coordinates>-3.7179417055227875,40.44707899546216,0.0</coordinates>
                 </Point>
@@ -3497,6 +3643,7 @@ URL: <a href="http://www.educa.madrid.org/ies.alonsoquijano.alcala">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="396">
                     <coordinates>-3.3640557247680243,40.477897470514556,0.0</coordinates>
                 </Point>
@@ -3515,6 +3662,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sampedro.trescantos">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="398">
                     <coordinates>-3.7066614709760946,40.611650435381506,0.0</coordinates>
                 </Point>
@@ -3532,6 +3680,7 @@ URL: <a href="http://www.educa.madrid.org/ies.juandevillanuev.madrid">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="400">
                     <coordinates>-3.7099100810930192,40.37070480531667,0.0</coordinates>
                 </Point>
@@ -3550,6 +3699,7 @@ URL: <a href="http://www.educa.madrid.org/ies.ladehesilla.cercedilla">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="402">
                     <coordinates>-4.042557542726919,40.73927987151531,0.0</coordinates>
                 </Point>
@@ -3567,6 +3717,7 @@ URL: <a href="http://www.educa.madrid.org/ies.laarboleda.alcorcon">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="404">
                     <coordinates>-3.8313700121796703,40.34352580540612,0.0</coordinates>
                 </Point>
@@ -3584,6 +3735,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lapoveda.arganda">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="406">
                     <coordinates>-3.4737008153526396,40.31604742408858,0.0</coordinates>
                 </Point>
@@ -3602,6 +3754,7 @@ URL: <a href="http://www.educa.madrid.org/ies.angelcorella.colmenarviejo">www.ed
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="408">
                     <coordinates>-3.7508300340420386,40.65746922157154,0.0</coordinates>
                 </Point>
@@ -3620,6 +3773,7 @@ URL: <a href="http://www.educa.madrid.org/ies.tiernogalvan.leganes">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="410">
                     <coordinates>-3.771442530083543,40.318976678382384,0.0</coordinates>
                 </Point>
@@ -3637,6 +3791,7 @@ URL: <a href="http://www.educa.madrid.org/ies.ciudaddelosangeles.madrid">www.edu
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="412">
                     <coordinates>-3.695081503056362,40.354758633797566,0.0</coordinates>
                 </Point>
@@ -3654,6 +3809,7 @@ URL: <a href="http://www.educa.madrid.org/ies.rosachacel.madrid">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="414">
                     <coordinates>-3.649188851963565,40.47974673501012,0.0</coordinates>
                 </Point>
@@ -3692,6 +3848,7 @@ URL: <a href="http://www.educa.madrid.org/ies.joaquinrodrigo.madrid">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="418">
                     <coordinates>-3.612769404724433,40.411035532475296,0.0</coordinates>
                 </Point>
@@ -3728,6 +3885,7 @@ URL: <a href="http://www.educa.madrid.org/ies.reyfernando.sanfernando">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="422">
                     <coordinates>-3.527543053288893,40.42590637857999,0.0</coordinates>
                 </Point>
@@ -3745,6 +3903,7 @@ URL: <a href="http://www.educa.madrid.org/ies.victoriakent.torrejondeardoz">www.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="424">
                     <coordinates>-3.4494677041025783,40.4578851296075,0.0</coordinates>
                 </Point>
@@ -3763,6 +3922,7 @@ URL: <a href="http://www.educa.madrid.org/ies.velazquez.torrelodones">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="426">
                     <coordinates>-3.9343318359365034,40.58251146347924,0.0</coordinates>
                 </Point>
@@ -3780,6 +3940,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lapaz.alcobendas">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="428">
                     <coordinates>-3.6534961512631865,40.52606436951223,0.0</coordinates>
                 </Point>
@@ -3817,6 +3978,7 @@ URL: <a href="http://www.educa.madrid.org/ies.alberti.coslada">www.educa.madrid.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="432">
                     <coordinates>-3.5634299208255036,40.431836192423766,0.0</coordinates>
                 </Point>
@@ -3834,6 +3996,7 @@ URL: <a href="http://www.educa.madrid.org/ies.salvadordali.leganes">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="434">
                     <coordinates>-3.7413874454109908,40.33882219651819,0.0</coordinates>
                 </Point>
@@ -3852,6 +4015,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sigloveintiuno.leganes">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="436">
                     <coordinates>-3.7625129847197885,40.34023443041909,0.0</coordinates>
                 </Point>
@@ -3870,6 +4034,7 @@ URL: <a href="http://www.educa.madrid.org/ies.mirasierra.madrid">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="438">
                     <coordinates>-3.71394599568244,40.49292329963323,0.0</coordinates>
                 </Point>
@@ -3887,6 +4052,7 @@ URL: <a href="http://www.educa.madrid.org/ies.tomasyvaliente.madrid">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="440">
                     <coordinates>-3.649241027793299,40.46556631911747,0.0</coordinates>
                 </Point>
@@ -3904,6 +4070,7 @@ URL: <a href="http://www.educa.madrid.org/ies.islasfilipinas.madrid">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="442">
                     <coordinates>-3.7099925923191552,40.44248845837069,0.0</coordinates>
                 </Point>
@@ -3921,6 +4088,7 @@ URL: <a href="http://www.educa.madrid.org/ies.luisbunuel.mostoles">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="444">
                     <coordinates>-3.86418143944443,40.34143843721706,0.0</coordinates>
                 </Point>
@@ -3939,6 +4107,7 @@ URL: <a href="http://www.educa.madrid.org/ies.narcismonturiol.parla">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="446">
                     <coordinates>-3.7754249685406047,40.24521854926735,0.0</coordinates>
                 </Point>
@@ -3957,6 +4126,7 @@ URL: <a href="http://www.educa.madrid.org/ies.jaimeferran.sanfernando">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="448">
                     <coordinates>-3.5197262991439007,40.41659936066267,0.0</coordinates>
                 </Point>
@@ -3994,6 +4164,7 @@ URL: <a href="http://www.educa.madrid.org/ies.newton.madrid">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="452">
                     <coordinates>-3.7213404545279842,40.47488654169473,0.0</coordinates>
                 </Point>
@@ -4012,6 +4183,7 @@ URL: <a href="http://www.educa.madrid.org/ies.isidradeguzman.alcala">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="454">
                     <coordinates>-3.3704492135224595,40.47558886246507,0.0</coordinates>
                 </Point>
@@ -4029,6 +4201,7 @@ URL: <a href="http://www.educa.madrid.org/ies.severoochoa.alcobendas">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="456">
                     <coordinates>-3.6531355162084904,40.525399750736526,0.0</coordinates>
                 </Point>
@@ -4047,6 +4220,7 @@ URL: <a href="http://www.educa.madrid.org/ies.parquelisboa.alcorcon">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="458">
                     <coordinates>-3.8108273536040116,40.352644716393435,0.0</coordinates>
                 </Point>
@@ -4065,6 +4239,7 @@ URL: <a href="http://www.educa.madrid.org/ies.laserna.fuenlabrada">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="460">
                     <coordinates>-3.792864238968165,40.29788549478517,0.0</coordinates>
                 </Point>
@@ -4082,6 +4257,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lafortuna.leganes">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="462">
                     <coordinates>-3.7827150176793403,40.36149613945548,0.0</coordinates>
                 </Point>
@@ -4100,6 +4276,7 @@ URL: <a href="http://www.educa.madrid.org/ies.claracampoamor.mostoles">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="464">
                     <coordinates>-3.8521231342516584,40.33192418855821,0.0</coordinates>
                 </Point>
@@ -4118,6 +4295,7 @@ URL: <a href="http://www.educa.madrid.org/ies.velazquez.mostoles">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="466">
                     <coordinates>-3.8708354516467645,40.33242446892547,0.0</coordinates>
                 </Point>
@@ -4135,6 +4313,7 @@ URL: <a href="http://www.educa.madrid.org/ies.manuelelkinpatarroyo.parla">www.ed
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="468">
                     <coordinates>-3.7624266064194107,40.24566528603726,0.0</coordinates>
                 </Point>
@@ -4153,6 +4332,7 @@ URL: <a href="http://www.educa.madrid.org/ies.camilojosecela.pozuelodealarcon">w
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="470">
                     <coordinates>-3.8183737547344183,40.44105127289609,0.0</coordinates>
                 </Point>
@@ -4171,6 +4351,7 @@ URL: <a href="http://www.educa.madrid.org/ies.villadevaldemoro.valdemoro">www.ed
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="472">
                     <coordinates>-3.681554649094883,40.191131678417264,0.0</coordinates>
                 </Point>
@@ -4189,6 +4370,7 @@ URL: <a href="http://www.educa.madrid.org/ies.alpajes.aranjuez">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="474">
                     <coordinates>-3.592388615754827,40.03695549095346,0.0</coordinates>
                 </Point>
@@ -4206,6 +4388,7 @@ URL: <a href="http://www.educa.madrid.org/ies.mariadezayas.majadahonda">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="476">
                     <coordinates>-3.856382060178908,40.47863144549409,0.0</coordinates>
                 </Point>
@@ -4224,6 +4407,7 @@ URL: <a href="http://www.educa.madrid.org/ies.cardenalcisnero.alcala">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="478">
                     <coordinates>-3.3695229923792267,40.48309634478398,0.0</coordinates>
                 </Point>
@@ -4242,6 +4426,7 @@ URL: <a href="http://www.educa.madrid.org/ies.alkalanahar.alcala">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="480">
                     <coordinates>-3.3411044992647234,40.48864317471666,0.0</coordinates>
                 </Point>
@@ -4260,6 +4445,7 @@ URL: <a href="http://www.educa.madrid.org/ies.josefinaaldecoa.alcorcon">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="482">
                     <coordinates>-3.8155151162448777,40.35859379826233,0.0</coordinates>
                 </Point>
@@ -4298,6 +4484,7 @@ URL: <a href="http://www.educa.madrid.org/ies.carobaroja.fuenlabrada">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="486">
                     <coordinates>-3.784988436925499,40.289389466572,0.0</coordinates>
                 </Point>
@@ -4315,6 +4502,7 @@ URL: <a href="http://www.educa.madrid.org/ies.salvadorallende.fuenlabrada">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="488">
                     <coordinates>-3.7960338598767693,40.29125097699545,0.0</coordinates>
                 </Point>
@@ -4333,6 +4521,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lagunadejoatzel.getafe">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="490">
                     <coordinates>-3.7106858493833323,40.31332973936926,0.0</coordinates>
                 </Point>
@@ -4351,6 +4540,7 @@ URL: <a href="http://www.educa.madrid.org/ies.albeniz.leganes">www.educa.madrid.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="492">
                     <coordinates>-3.74228574218399,40.342366039174514,0.0</coordinates>
                 </Point>
@@ -4369,6 +4559,7 @@ URL: <a href="http://www.educa.madrid.org/ies.marquesdesuanze.madrid">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="494">
                     <coordinates>-3.624175084034476,40.4463980968315,0.0</coordinates>
                 </Point>
@@ -4386,6 +4577,7 @@ URL: <a href="http://www.educa.madrid.org/ies.julioverne.leganes">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="496">
                     <coordinates>-3.7618076524509165,40.3392841091029,0.0</coordinates>
                 </Point>
@@ -4404,6 +4596,7 @@ URL: <a href="http://www.educa.madrid.org/ies.salvadordali.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="498">
                     <coordinates>-3.6553058620093903,40.4414870721716,0.0</coordinates>
                 </Point>
@@ -4422,6 +4615,7 @@ URL: <a href="http://www.educa.madrid.org/ies.garciamarquez.madrid">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="500">
                     <coordinates>-3.6341888785986627,40.47172194050753,0.0</coordinates>
                 </Point>
@@ -4440,6 +4634,7 @@ URL: <a href="http://www.educa.madrid.org/ies.villablanca.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="502">
                     <coordinates>-3.598975325674461,40.407873554206795,0.0</coordinates>
                 </Point>
@@ -4457,6 +4652,7 @@ URL: <a href="http://www.educa.madrid.org/ies.carlosbousono.majadahonda">www.edu
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="504">
                     <coordinates>-3.8594407615101525,40.47424843433242,0.0</coordinates>
                 </Point>
@@ -4475,6 +4671,7 @@ URL: <a href="http://www.educa.madrid.org/ies.losrosales.mostoles">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="506">
                     <coordinates>-3.8697251975544713,40.3376400876928,0.0</coordinates>
                 </Point>
@@ -4492,6 +4689,7 @@ URL: <a href="http://www.educa.madrid.org/ies.benjaminrua.mostoles">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="508">
                     <coordinates>-3.8702026732669323,40.338150015351495,0.0</coordinates>
                 </Point>
@@ -4510,6 +4708,7 @@ URL: <a href="http://www.educa.madrid.org/ies.gongora.torrejondeardoz">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="510">
                     <coordinates>-3.471587179817097,40.45189608140963,0.0</coordinates>
                 </Point>
@@ -4528,6 +4727,7 @@ URL: <a href="http://www.educa.madrid.org/ies.alsatt.algete">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="512">
                     <coordinates>-3.5077832297576252,40.599317972515365,0.0</coordinates>
                 </Point>
@@ -4546,6 +4746,7 @@ URL: <a href="http://www.educa.madrid.org/ies.aldebaran.alcobendas">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="514">
                     <coordinates>-3.659372430154738,40.545012680786456,0.0</coordinates>
                 </Point>
@@ -4564,6 +4765,7 @@ URL: <a href="http://www.educa.madrid.org/ies.becquer.algete">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="516">
                     <coordinates>-3.5077832297576252,40.599317972515365,0.0</coordinates>
                 </Point>
@@ -4581,6 +4783,7 @@ URL: <a href="http://www.educa.madrid.org/ies.carpediem.chinchon">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="518">
                     <coordinates>-3.4132007277910774,40.141172509538166,0.0</coordinates>
                 </Point>
@@ -4599,6 +4802,7 @@ URL: <a href="http://www.educa.madrid.org/ies.josehierro.getafe">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="520">
                     <coordinates>-3.750388768107644,40.29262812557192,0.0</coordinates>
                 </Point>
@@ -4637,6 +4841,7 @@ URL: <a href="http://www.educa.madrid.org/ies.guadarrama">www.educa.madrid.org/i
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="524">
                     <coordinates>-4.086874798557293,40.66711865077474,0.0</coordinates>
                 </Point>
@@ -4654,6 +4859,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sannicasio.leganes">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="526">
                     <coordinates>-3.7616566756296352,40.3426094760745,0.0</coordinates>
                 </Point>
@@ -4710,6 +4916,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sanjuandelacruz.pozuelodealarcon">
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="532">
                     <coordinates>-3.8156851237774285,40.43225048974847,0.0</coordinates>
                 </Point>
@@ -4728,6 +4935,7 @@ URL: <a href="http://www.educa.madrid.org/ies.burgoiecheverria.lasrozas">www.edu
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="534">
                     <coordinates>-3.8816851564981905,40.49012569784734,0.0</coordinates>
                 </Point>
@@ -4746,6 +4954,7 @@ URL: <a href="http://www.educa.madrid.org/ies.juliopalacios.sansebastian">www.ed
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="536">
                     <coordinates>-3.616885784550122,40.54541851041658,0.0</coordinates>
                 </Point>
@@ -4764,6 +4973,7 @@ URL: <a href="http://www.educa.madrid.org/ies.agora.alcobendas">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="538">
                     <coordinates>-3.6411315053107476,40.55416924289384,0.0</coordinates>
                 </Point>
@@ -4782,6 +4992,7 @@ URL: <a href="http://www.educa.madrid.org/ies.elpinar.alcorcon">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="540">
                     <coordinates>-3.823199905186755,40.34168332003485,0.0</coordinates>
                 </Point>
@@ -4800,6 +5011,7 @@ URL: <a href="http://www.educa.madrid.org/ies.maximotrueba.boadilla">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="542">
                     <coordinates>-3.880448676326674,40.408090789346915,0.0</coordinates>
                 </Point>
@@ -4817,6 +5029,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lacabrera">www.educa.madrid.org/ie
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="544">
                     <coordinates>-3.609232653826637,40.86880554629884,0.0</coordinates>
                 </Point>
@@ -4834,6 +5047,7 @@ URL: <a href="http://www.educa.madrid.org/ies.antoniogaudi.coslada">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="546">
                     <coordinates>-3.537453187909476,40.42539226194194,0.0</coordinates>
                 </Point>
@@ -4851,6 +5065,7 @@ URL: <a href="http://www.educa.madrid.org/ies.altair.getafe">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="548">
                     <coordinates>-3.74018537367733,40.31716284803004,0.0</coordinates>
                 </Point>
@@ -4869,6 +5084,7 @@ URL: <a href="http://www.educa.madrid.org/ies.juanadecastilla.madrid">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="550">
                     <coordinates>-3.6318222798259647,40.40041037975515,0.0</coordinates>
                 </Point>
@@ -4887,6 +5103,7 @@ URL: <a href="http://www.educa.madrid.org/ies.delibes.mejorada">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="552">
                     <coordinates>-3.482778694465418,40.39250699282308,0.0</coordinates>
                 </Point>
@@ -4904,6 +5121,7 @@ URL: <a href="http://www.educa.madrid.org/ies.angelysern.navalcarnero">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="554">
                     <coordinates>-4.009425569183311,40.29504546348087,0.0</coordinates>
                 </Point>
@@ -4921,6 +5139,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lalaguna.parla">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="556">
                     <coordinates>-3.7710954055039965,40.24703131634002,0.0</coordinates>
                 </Point>
@@ -4939,6 +5158,7 @@ URL: <a href="http://www.educa.madrid.org/ies.laslagunas.rivas">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="558">
                     <coordinates>-3.546601847942929,40.36428555493367,0.0</coordinates>
                 </Point>
@@ -4957,6 +5177,7 @@ URL: <a href="http://www.educa.madrid.org/ies.palasatenea.torrejondeardoz">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="560">
                     <coordinates>-3.456491264434036,40.46574051280959,0.0</coordinates>
                 </Point>
@@ -4975,6 +5196,7 @@ URL: <a href="http://www.educa.madrid.org/ies.calatalifa.villaviciosa">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="562">
                     <coordinates>-3.9009285474779425,40.35657256720988,0.0</coordinates>
                 </Point>
@@ -4993,6 +5215,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lascanteras.colladovillalba">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="564">
                     <coordinates>-3.998612325674447,40.64140358664213,0.0</coordinates>
                 </Point>
@@ -5011,6 +5234,7 @@ URL: <a href="http://www.educa.madrid.org/ies.satafi.getafe">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="566">
                     <coordinates>-3.7109413899463046,40.314129987891135,0.0</coordinates>
                 </Point>
@@ -5028,6 +5252,7 @@ URL: <a href="http://www.educa.madrid.org/ies.ignacioellacuria.alcala">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="568">
                     <coordinates>-3.3534079842011852,40.496966565517745,0.0</coordinates>
                 </Point>
@@ -5046,6 +5271,7 @@ URL: <a href="http://www.educa.madrid.org/ies.mariaguerrero.colladovillalba">www
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="570">
                     <coordinates>-4.003067193767891,40.626149448325044,0.0</coordinates>
                 </Point>
@@ -5063,6 +5289,7 @@ URL: <a href="http://www.educa.madrid.org/ies.neruda.leganes">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="572">
                     <coordinates>-3.7442195361008705,40.33083991551338,0.0</coordinates>
                 </Point>
@@ -5080,6 +5307,7 @@ URL: <a href="http://www.educa.madrid.org/ies.garciamarquez.leganes">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="574">
                     <coordinates>-3.751551431799145,40.32959429189037,0.0</coordinates>
                 </Point>
@@ -5098,6 +5326,7 @@ URL: <a href="http://www.educa.madrid.org/ies.joaquinaraujo.fuenlabrada">www.edu
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="576">
                     <coordinates>-3.786620977042366,40.280017801437204,0.0</coordinates>
                 </Point>
@@ -5115,6 +5344,7 @@ URL: <a href="http://www.educa.madrid.org/ies.doloresibarruri.fuenlabrada">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="578">
                     <coordinates>-3.79523901713812,40.278643543355,0.0</coordinates>
                 </Point>
@@ -5132,6 +5362,7 @@ URL: <a href="http://www.educa.madrid.org/ies.antoniolopezgarcia.getafe">www.edu
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="580">
                     <coordinates>-3.724143408956329,40.32597626047357,0.0</coordinates>
                 </Point>
@@ -5150,6 +5381,7 @@ URL: <a href="http://www.educa.madrid.org/ies.margaritasalas.majadahonda">www.ed
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="582">
                     <coordinates>-3.866118611503743,40.46696443456846,0.0</coordinates>
                 </Point>
@@ -5168,6 +5400,7 @@ URL: <a href="http://www.educa.madrid.org/ies.antoniogala.mostoles">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="584">
                     <coordinates>-3.881463155585161,40.32408260832969,0.0</coordinates>
                 </Point>
@@ -5185,6 +5418,7 @@ URL: <a href="http://www.educa.madrid.org/ies.miguelhernandez.mostoles">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="586">
                     <coordinates>-3.84840421053408,40.32542891772433,0.0</coordinates>
                 </Point>
@@ -5203,6 +5437,7 @@ URL: <a href="http://www.educa.madrid.org/ies.antoniolopez.trescantos">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="588">
                     <coordinates>-3.701276707151476,40.604278065441164,0.0</coordinates>
                 </Point>
@@ -5242,6 +5477,7 @@ URL: <a href="http://www.educa.madrid.org/ies.albeniz.alcala">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="592">
                     <coordinates>-3.37026139960608,40.47576063583667,0.0</coordinates>
                 </Point>
@@ -5259,6 +5495,7 @@ URL: <a href="http://www.educa.madrid.org/ies.luisbraille.coslada">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="594">
                     <coordinates>-3.5567212408584377,40.42893173876431,0.0</coordinates>
                 </Point>
@@ -5295,6 +5532,7 @@ URL: <a href="http://www.educa.madrid.org/ies.icaro.getafe">www.educa.madrid.org
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="598">
                     <coordinates>-3.7409223252165846,40.31782480980307,0.0</coordinates>
                 </Point>
@@ -5312,6 +5550,7 @@ URL: <a href="http://www.educa.madrid.org/ies.santaeugenia.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="600">
                     <coordinates>-3.6032356895837507,40.387400745688566,0.0</coordinates>
                 </Point>
@@ -5329,6 +5568,7 @@ URL: <a href="http://www.educa.madrid.org/ies.claradelrey.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="602">
                     <coordinates>-3.6631195016769222,40.44828035483784,0.0</coordinates>
                 </Point>
@@ -5366,6 +5606,7 @@ URL: <a href="http://www.educa.madrid.org/ies.antoniodenebrija.mostoles">www.edu
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="606">
                     <coordinates>-3.851198004972071,40.31450733384269,0.0</coordinates>
                 </Point>
@@ -5383,6 +5624,7 @@ URL: <a href="http://www.educa.madrid.org/ies.valleinclan.torrejondeardoz">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="608">
                     <coordinates>-3.457215302662548,40.46466557646621,0.0</coordinates>
                 </Point>
@@ -5401,6 +5643,7 @@ URL: <a href="http://www.educa.madrid.org/ies.rosachacel.colmenarviejo">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="610">
                     <coordinates>-3.764275961375952,40.65609276767517,0.0</coordinates>
                 </Point>
@@ -5418,6 +5661,7 @@ URL: <a href="http://www.educa.madrid.org/ies.victoriakent.fuenlabrada">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="612">
                     <coordinates>-3.8091198167100515,40.304340644397605,0.0</coordinates>
                 </Point>
@@ -5436,6 +5680,7 @@ URL: <a href="http://www.educa.madrid.org/ies.picasso.pinto">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="614">
                     <coordinates>-3.6926965645217376,40.24009445823419,0.0</coordinates>
                 </Point>
@@ -5454,6 +5699,7 @@ URL: <a href="http://www.educa.madrid.org/ies.juandemairena.sansebastian">www.ed
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="616">
                     <coordinates>-3.6336347854332876,40.55076021123937,0.0</coordinates>
                 </Point>
@@ -5472,6 +5718,7 @@ URL: <a href="http://www.educa.madrid.org/ies.carmenconde.lasrozas">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="618">
                     <coordinates>-3.90941678296864,40.53223425974364,0.0</coordinates>
                 </Point>
@@ -5490,6 +5737,7 @@ URL: <a href="http://www.educa.madrid.org/ies.garciaberlanga.coslada">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="620">
                     <coordinates>-3.561366292350298,40.43178316786993,0.0</coordinates>
                 </Point>
@@ -5508,6 +5756,7 @@ URL: <a href="http://www.educa.madrid.org/ies.rayuela.mostoles">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="622">
                     <coordinates>-3.873397667130768,40.333017769762144,0.0</coordinates>
                 </Point>
@@ -5525,6 +5774,7 @@ URL: <a href="http://www.educa.madrid.org/ies.elolivo.parla">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="624">
                     <coordinates>-3.7603109202751153,40.23836365981099,0.0</coordinates>
                 </Point>
@@ -5543,6 +5793,7 @@ URL: <a href="http://www.educa.madrid.org/ies.maranon.alcala">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="626">
                     <coordinates>-3.375385294444324,40.49550988458704,0.0</coordinates>
                 </Point>
@@ -5561,6 +5812,7 @@ URL: <a href="http://www.educa.madrid.org/ies.duquederivas.rivas">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="628">
                     <coordinates>-3.53249705685492,40.36942351842263,0.0</coordinates>
                 </Point>
@@ -5579,6 +5831,7 @@ URL: <a href="http://www.educa.madrid.org/ies.anselmolorenzo.sanmartindelavega">
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="630">
                     <coordinates>-3.565370269265144,40.21679455017861,0.0</coordinates>
                 </Point>
@@ -5619,6 +5872,7 @@ URL: <a href="http://www.educa.madrid.org/ies.losolivos.mejorada">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="634">
                     <coordinates>-3.4786455574590582,40.39454222171172,0.0</coordinates>
                 </Point>
@@ -5637,6 +5891,7 @@ URL: <a href="http://www.educa.madrid.org/ies.manueldefalla.coslada">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="636">
                     <coordinates>-3.553394003206593,40.41853322408502,0.0</coordinates>
                 </Point>
@@ -5655,6 +5910,7 @@ URL: <a href="http://www.educa.madrid.org/ies.villarejo">www.educa.madrid.org/ie
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="638">
                     <coordinates>-3.2853674336437595,40.17667725267392,0.0</coordinates>
                 </Point>
@@ -5673,6 +5929,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lazarocardenas.colladovillalba">ww
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="640">
                     <coordinates>-4.017158593075469,40.62288218517892,0.0</coordinates>
                 </Point>
@@ -5691,6 +5948,7 @@ URL: <a href="http://www.educa.madrid.org/ies.goya.madrid">www.educa.madrid.org/
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="642">
                     <coordinates>-3.649582971836749,40.42023101736306,0.0</coordinates>
                 </Point>
@@ -5709,6 +5967,7 @@ URL: <a href="http://www.educa.madrid.org/ies.pedrodetolosa.sanmartindevaldeigle
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="644">
                     <coordinates>-4.403253061027988,40.36442385941407,0.0</coordinates>
                 </Point>
@@ -5726,6 +5985,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sendagaliana.torres">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="646">
                     <coordinates>-3.3582815543399716,40.39920309545337,0.0</coordinates>
                 </Point>
@@ -5744,6 +6004,7 @@ URL: <a href="http://www.educa.madrid.org/ies.humanes.humanes">www.educa.madrid.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="648">
                     <coordinates>-3.8188195410439856,40.24904589040468,0.0</coordinates>
                 </Point>
@@ -5761,6 +6022,7 @@ URL: <a href="http://www.educa.madrid.org/ies.avalon.valdemoro">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="650">
                     <coordinates>-3.6854729195366236,40.197586295398104,0.0</coordinates>
                 </Point>
@@ -5778,6 +6040,7 @@ URL: <a href="http://www.educa.madrid.org/ies.valmayor.valdemorillo">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="652">
                     <coordinates>-4.064417305752013,40.50373086321872,0.0</coordinates>
                 </Point>
@@ -5816,6 +6079,7 @@ URL: <a href="http://www.educa.madrid.org/ies.atenea.alcala">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="656">
                     <coordinates>-3.366821082639458,40.470086904342764,0.0</coordinates>
                 </Point>
@@ -5834,6 +6098,7 @@ URL: <a href="http://www.educa.madrid.org/ies.alpedrete.alpedrete">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="658">
                     <coordinates>-4.015106792379385,40.65602481168723,0.0</coordinates>
                 </Point>
@@ -5851,6 +6116,7 @@ URL: <a href="http://www.educa.madrid.org/ies.franciscoayala.hoyodemanzanares">w
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="660">
                     <coordinates>-3.9000001202950605,40.62784550890536,0.0</coordinates>
                 </Point>
@@ -5869,6 +6135,7 @@ URL: <a href="http://www.educa.madrid.org/ies.ignacioaldecoa.getafe">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="662">
                     <coordinates>-3.656176935763625,40.32721062015021,0.0</coordinates>
                 </Point>
@@ -5886,6 +6153,7 @@ URL: <a href="http://www.educa.madrid.org/ies.maestrojmleonet.villadelprado">www
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="664">
                     <coordinates>-4.302747177093565,40.27457373027531,0.0</coordinates>
                 </Point>
@@ -5904,6 +6172,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lasencinas.villanuevadelacanada">w
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="666">
                     <coordinates>-3.992849099053833,40.45723370943881,0.0</coordinates>
                 </Point>
@@ -5921,6 +6190,7 @@ URL: <a href="http://www.educa.madrid.org/ies.grinon.grinon">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="668">
                     <coordinates>-3.8446601536446705,40.216642996627364,0.0</coordinates>
                 </Point>
@@ -5939,6 +6209,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sanagustin.sanagustin">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="670">
                     <coordinates>-3.617920956346776,40.6809948760735,0.0</coordinates>
                 </Point>
@@ -5957,6 +6228,7 @@ URL: <a href="http://www.educa.madrid.org/ies.canadareal.galapagar">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="672">
                     <coordinates>-4.0069939159539025,40.5852881120288,0.0</coordinates>
                 </Point>
@@ -5975,6 +6247,7 @@ URL: <a href="http://www.educa.madrid.org/ies.elescorial.elescorial">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="674">
                     <coordinates>-4.1230424773689,40.58037138671233,0.0</coordinates>
                 </Point>
@@ -5992,6 +6265,7 @@ URL: <a href="http://www.educa.madrid.org/ies.vid.madrid">www.educa.madrid.org/i
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="676">
                     <coordinates>-3.7417977430775653,40.412775212387984,0.0</coordinates>
                 </Point>
@@ -6009,6 +6283,7 @@ URL: <a href="http://www.educa.madrid.org/ies.europa.rivas">www.educa.madrid.org
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="678">
                     <coordinates>-3.528475841081945,40.35827059016687,0.0</coordinates>
                 </Point>
@@ -6027,6 +6302,7 @@ URL: <a href="http://www.educa.madrid.org/ies.colmenarejo">www.educa.madrid.org/
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="680">
                     <coordinates>-4.0116508937125275,40.55870781607632,0.0</coordinates>
                 </Point>
@@ -6045,6 +6321,7 @@ URL: <a href="http://www.educa.madrid.org/ies.principefelipe.madrid">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="682">
                     <coordinates>-3.7014003108561178,40.48253174113349,0.0</coordinates>
                 </Point>
@@ -6062,6 +6339,7 @@ URL: <a href="http://www.educa.madrid.org/ies.puertabonita.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="684">
                     <coordinates>-3.738355726932021,40.38145471952968,0.0</coordinates>
                 </Point>
@@ -6079,6 +6357,7 @@ URL: <a href="http://www.educa.madrid.org/ies.hotelescuela.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="686">
                     <coordinates>-3.6815378965044627,40.5274519007419,0.0</coordinates>
                 </Point>
@@ -6097,6 +6376,7 @@ URL: <a href="http://www.educa.madrid.org/ies.garcialorca.lasrozas">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="688">
                     <coordinates>-3.897476023764592,40.55318295805941,0.0</coordinates>
                 </Point>
@@ -6114,6 +6394,7 @@ URL: <a href="http://www.educa.madrid.org/ies.capacitacionagraria.villaviciosa">
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="690">
                     <coordinates>-3.88933479729651,40.36150917884228,0.0</coordinates>
                 </Point>
@@ -6132,6 +6413,7 @@ URL: <a href="http://www.educa.madrid.org/ies.gabrielamistral.arroyomolinos">www
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="692">
                     <coordinates>-3.914825556108031,40.265939760179386,0.0</coordinates>
                 </Point>
@@ -6150,6 +6432,7 @@ URL: <a href="http://www.educa.madrid.org/ies.alfonsomoreno.brunete">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="694">
                     <coordinates>-4.000705244138449,40.415184481482754,0.0</coordinates>
                 </Point>
@@ -6168,6 +6451,7 @@ URL: <a href="http://www.educa.madrid.org/ies.gabrielcisneros.mostoles">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="696">
                     <coordinates>-3.92129215126297,40.31779019143552,0.0</coordinates>
                 </Point>
@@ -6186,6 +6470,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sevillalanueva.sevilla">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="698">
                     <coordinates>-4.029788824123546,40.348289727505964,0.0</coordinates>
                 </Point>
@@ -6204,6 +6489,7 @@ URL: <a href="http://www.educa.madrid.org/ies.villanuevadelpardillo">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="700">
                     <coordinates>-3.960969753648518,40.492781840820314,0.0</coordinates>
                 </Point>
@@ -6222,6 +6508,7 @@ URL: <a href="http://www.educa.madrid.org/ies.cervantes.mostoles">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="702">
                     <coordinates>-3.876970499888654,40.31072918428328,0.0</coordinates>
                 </Point>
@@ -6239,6 +6526,7 @@ URL: <a href="http://www.educa.madrid.org/ies.profesorjulioperez.rivas">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="704">
                     <coordinates>-3.5127346856162505,40.333980559816126,0.0</coordinates>
                 </Point>
@@ -6256,6 +6544,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lasamericas.parla">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="706">
                     <coordinates>-3.760937827715024,40.237656814307215,0.0</coordinates>
                 </Point>
@@ -6273,6 +6562,7 @@ URL: <a href="http://www.educa.madrid.org/ies.anammatute.velilla">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="708">
                     <coordinates>-3.4828886338850062,40.37325397348443,0.0</coordinates>
                 </Point>
@@ -6291,6 +6581,7 @@ URL: <a href="http://www.educa.madrid.org/ies.gasparsanz.meco">www.educa.madrid.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="710">
                     <coordinates>-3.3209272224261057,40.548079091806606,0.0</coordinates>
                 </Point>
@@ -6309,6 +6600,7 @@ URL: <a href="http://www.educa.madrid.org/ies.adolfosuarez.paracuellos">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="712">
                     <coordinates>-3.524619333661828,40.50472154523509,0.0</coordinates>
                 </Point>
@@ -6346,6 +6638,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sierradeguadarrama.soto">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="716">
                     <coordinates>-3.77875319927015,40.756576755460266,0.0</coordinates>
                 </Point>
@@ -6382,6 +6675,7 @@ URL: <a href="http://www.educa.madrid.org/ies.hosteleria.alcala">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="720">
                     <coordinates>-3.345900943990549,40.49436765807968,0.0</coordinates>
                 </Point>
@@ -6400,6 +6694,7 @@ URL: <a href="http://www.educa.madrid.org/ies.josesaramago.arganda">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="722">
                     <coordinates>-3.4514809439052385,40.314424514949486,0.0</coordinates>
                 </Point>
@@ -6418,6 +6713,7 @@ URL: <a href="http://www.educa.madrid.org/ies.atenea.sansebastian">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="724">
                     <coordinates>-3.6252856872058516,40.56101272735195,0.0</coordinates>
                 </Point>
@@ -6436,6 +6732,7 @@ URL: <a href="http://www.educa.madrid.org/ies.arquitectoventurarodriguez.boadill
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="726">
                     <coordinates>-3.8918023860424036,40.4111028634933,0.0</coordinates>
                 </Point>
@@ -6454,6 +6751,7 @@ URL: <a href="http://www.educa.madrid.org/ies.josesaramago.majadahonda">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="728">
                     <coordinates>-3.8752644159562775,40.46910271940943,0.0</coordinates>
                 </Point>
@@ -6472,6 +6770,7 @@ URL: <a href="http://www.educa.madrid.org/ies.barrioloranca.fuenlabrada">www.edu
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="730">
                     <coordinates>-3.833793652551097,40.29649863409369,0.0</coordinates>
                 </Point>
@@ -6490,6 +6789,7 @@ URL: <a href="http://www.educa.madrid.org/ies.elalamo.elalamo">www.educa.madrid.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="732">
                     <coordinates>-3.9835433850324167,40.23024019947756,0.0</coordinates>
                 </Point>
@@ -6507,6 +6807,7 @@ URL: <a href="http://www.educa.madrid.org/ies.migueldelibes.torrejondelacalzada"
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="734">
                     <coordinates>-3.8036649735910344,40.195438638607726,0.0</coordinates>
                 </Point>
@@ -6525,6 +6826,7 @@ URL: <a href="http://www.educa.madrid.org/ies.sabinofernandezcampo.robledo">www.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="736">
                     <coordinates>-4.233729835734161,40.500614802625876,0.0</coordinates>
                 </Point>
@@ -6562,6 +6864,7 @@ URL: <a href="http://www.educa.madrid.org/ies.migueldecervantes.daganzo">www.edu
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="740">
                     <coordinates>-3.461374829811982,40.54672073732189,0.0</coordinates>
                 </Point>
@@ -6580,6 +6883,7 @@ URL: <a href="http://www.educa.madrid.org/ies.donpelayo.villalbilla">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="742">
                     <coordinates>-3.3506805258880927,40.451344108480534,0.0</coordinates>
                 </Point>
@@ -6598,6 +6902,7 @@ URL: <a href="http://www.educa.madrid.org/ies.santiagorusinol.aranjuez">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="744">
                     <coordinates>-3.5825931281453594,40.03599607371764,0.0</coordinates>
                 </Point>
@@ -6615,6 +6920,7 @@ URL: <a href="http://www.educa.madrid.org/ies.maestromatiasbravo.valdemoro">www.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="746">
                     <coordinates>-3.687943217707881,40.18044477550918,0.0</coordinates>
                 </Point>
@@ -6633,6 +6939,7 @@ URL: <a href="http://www.educa.madrid.org/ies.franciscoumbral.ciempozuelos">www.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="748">
                     <coordinates>-3.6260032374089546,40.16345309015113,0.0</coordinates>
                 </Point>
@@ -6650,6 +6957,7 @@ URL: <a href="http://www.educa.madrid.org/ies.villaverde.madrid">www.educa.madri
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="750">
                     <coordinates>-3.6891210598261033,40.35921778907771,0.0</coordinates>
                 </Point>
@@ -6668,6 +6976,7 @@ URL: <a href="http://www.educa.madrid.org/ies.antares.rivas">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="752">
                     <coordinates>-3.514357892375157,40.3554963447304,0.0</coordinates>
                 </Point>
@@ -6685,6 +6994,7 @@ URL: <a href="http://www.educa.madrid.org/ies.luisgarciaberlanga.guadalix">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="754">
                     <coordinates>-3.694808885795988,40.78405709376294,0.0</coordinates>
                 </Point>
@@ -6702,6 +7012,7 @@ URL: <a href="http://www.educa.madrid.org/ies.gonzaloanes.colladomediano">www.ed
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="756">
                     <coordinates>-4.04069700245632,40.69207431619013,0.0</coordinates>
                 </Point>
@@ -6720,6 +7031,7 @@ URL: <a href="http://www.educa.madrid.org/ies.calderon.pinto">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="758">
                     <coordinates>-3.695523669191185,40.25787087650402,0.0</coordinates>
                 </Point>
@@ -6737,6 +7049,7 @@ URL: <a href="http://www.educa.madrid.org/ies.fernangomez.humanes">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="760">
                     <coordinates>-3.816971265351488,40.25765378218842,0.0</coordinates>
                 </Point>
@@ -6754,6 +7067,7 @@ URL: <a href="http://www.educa.madrid.org/ies.jimenamenendezpidal.fuenlabrada">w
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="762">
                     <coordinates>-3.813852083911901,40.286838628545695,0.0</coordinates>
                 </Point>
@@ -6771,6 +7085,7 @@ URL: <a href="http://www.educa.madrid.org/ies.carpediem.fuenlabrada">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="764">
                     <coordinates>-3.829886121225142,40.29543661848211,0.0</coordinates>
                 </Point>
@@ -6789,6 +7104,7 @@ URL: <a href="http://www.educa.madrid.org/ies.nicolascopernico.parla">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="766">
                     <coordinates>-3.7601569254713083,40.22564352881919,0.0</coordinates>
                 </Point>
@@ -6807,6 +7123,7 @@ URL: <a href="http://www.educa.madrid.org/ies.cortesdecadiz.elmolar">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="768">
                     <coordinates>-3.5820059725148514,40.74211581935749,0.0</coordinates>
                 </Point>
@@ -6825,6 +7142,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lasenda.getafe">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="770">
                     <coordinates>-3.746157788531093,40.29625016729616,0.0</coordinates>
                 </Point>
@@ -6843,6 +7161,7 @@ URL: <a href="http://www.educa.madrid.org/ies.pedroduque.leganes">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="772">
                     <coordinates>-3.752188630350496,40.32867121560742,0.0</coordinates>
                 </Point>
@@ -6861,6 +7180,7 @@ URL: <a href="http://www.educa.madrid.org/ies.manuelfragairibarne.madrid">www.ed
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="774">
                     <coordinates>-3.655962435857508,40.5017173370031,0.0</coordinates>
                 </Point>
@@ -6878,6 +7198,7 @@ URL: <a href="http://www.educa.madrid.org/ies.jorgeguillen.alcorcon">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="776">
                     <coordinates>-3.8182651346068512,40.341556172668525,0.0</coordinates>
                 </Point>
@@ -6895,6 +7216,7 @@ URL: <a href="http://www.educa.madrid.org/ies.gonzalochacon.arroyomolinos">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="778">
                     <coordinates>-3.9196920300265488,40.28659526611944,0.0</coordinates>
                 </Point>
@@ -6912,6 +7234,7 @@ URL: <a href="http://www.educa.madrid.org/ies.lopezaranguren.fuenlabrada">www.ed
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="780">
                     <coordinates>-3.7808077310786716,40.29515662199597,0.0</coordinates>
                 </Point>
@@ -6930,6 +7253,7 @@ URL: <a href="http://www.educa.madrid.org/ies.neilarmstrong.valdemoro">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="782">
                     <coordinates>-3.666117666276544,40.191095401641455,0.0</coordinates>
                 </Point>
@@ -6970,6 +7294,7 @@ URL: <a href="http://www.educa.madrid.org/ies.menendezpelayo.getafe">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="786">
                     <coordinates>-3.7218422026503912,40.32100856690091,0.0</coordinates>
                 </Point>
@@ -7009,6 +7334,7 @@ URL: <a href="http://www.educa.madrid.org/ies.elcanaveral.mostoles">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="790">
                     <coordinates>-3.851198004972071,40.31450733384269,0.0</coordinates>
                 </Point>
@@ -7027,6 +7353,7 @@ URL: <a href="http://www.educa.madrid.org/ies.franciscoayala.madrid">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="792">
                     <coordinates>-3.7595234275964216,40.367605791280496,0.0</coordinates>
                 </Point>
@@ -7045,6 +7372,7 @@ URL: <a href="http://www.educa.madrid.org/ies.rafaelfruhbeckdeburgos.leganes">ww
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="794">
                     <coordinates>-3.7864666249384165,40.31135285112994,0.0</coordinates>
                 </Point>
@@ -7063,6 +7391,7 @@ URL: <a href="http://www.educa.madrid.org/sies.humanes.cubasdelasagra">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="796">
                     <coordinates>-3.843110012593663,40.198716753866066,0.0</coordinates>
                 </Point>
@@ -7081,6 +7410,7 @@ URL: <a href="http://www.educa.madrid.org/ies.josegarcianieto.lasrozas">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="798">
                     <coordinates>-3.891058732087455,40.52614320512832,0.0</coordinates>
                 </Point>
@@ -7099,6 +7429,7 @@ URL: <a href="http://www.educa.madrid.org/ies.alfredokraus.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="800">
                     <coordinates>-3.606418921514693,40.42571775924666,0.0</coordinates>
                 </Point>
@@ -7116,6 +7447,7 @@ URL: <a href="http://www.educa.madrid.org/ies.juanramonjimenez.madrid">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="802">
                     <coordinates>-3.673565086350277,40.34633625669759,0.0</coordinates>
                 </Point>
@@ -7134,6 +7466,7 @@ URL: <a href="http://www.educa.madrid.org/ies.mariarodrigo.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="804">
                     <coordinates>-3.617980155913691,40.36993527475338,0.0</coordinates>
                 </Point>
@@ -7152,6 +7485,7 @@ URL: <a href="http://www.educa.madrid.org/sies.jlsampedro.trescantos">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="806">
                     <coordinates>-3.721776344079965,40.61783605129233,0.0</coordinates>
                 </Point>
@@ -7170,6 +7504,7 @@ URL: <a href="http://www.educa.madrid.org/ies.malalayousafzai.madrid">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="808">
                     <coordinates>-3.6634577780076083,40.50183670938894,0.0</coordinates>
                 </Point>
@@ -7187,6 +7522,7 @@ URL: <a href="http://www.educa.madrid.org/ies.simoneveil.paracuellos">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="810">
                     <coordinates>-3.513505978219882,40.49912284280932,0.0</coordinates>
                 </Point>
@@ -7205,6 +7541,7 @@ URL: <a href="http://www.educa.madrid.org/ies.africa.fuenlabrada">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="812">
                     <coordinates>-3.808274912574678,40.28775161829964,0.0</coordinates>
                 </Point>
@@ -7222,6 +7559,7 @@ URL: <a href="http://www.educa.madrid.org/ies.federicamontsen.fuenlabrada">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="814">
                     <coordinates>-3.811107335978952,40.29145259618491,0.0</coordinates>
                 </Point>
@@ -7240,6 +7578,7 @@ URL: <a href="http://www.educa.madrid.org/ies.forges.madrid">www.educa.madrid.or
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="816">
                     <coordinates>-3.6779938741558977,40.399374085942235,0.0</coordinates>
                 </Point>
@@ -7257,6 +7596,7 @@ Dirección: Avenida De Europa C/v Calle Jesus Guridi 28806 Alcalá de Henares<br
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="818">
                     <coordinates>-3.38639731789433,40.485545668958,0.0</coordinates>
                 </Point>
@@ -7275,6 +7615,7 @@ URL: <a href="http://www.educa.madrid.org/ies.juanbautistamonegro.torrejondeardo
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="820">
                     <coordinates>-3.444784301578092,40.45235367134508,0.0</coordinates>
                 </Point>
@@ -7295,6 +7636,7 @@ URL: <a href="http://www.educa.madrid.org/sies.carpediem.colmenardeoreja">www.ed
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="823">
                     <coordinates>-3.391844505897756,40.11621816871076,0.0</coordinates>
                 </Point>
@@ -7312,6 +7654,7 @@ URL: <a href="http://www.educa.madrid.org/sies.anselmolorenzo.morata">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="825">
                     <coordinates>-3.4415244917567502,40.231279775626426,0.0</coordinates>
                 </Point>
@@ -7329,6 +7672,7 @@ URL: <a href="http://www.educa.madrid.org/sies.africa.moraleja">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="827">
                     <coordinates>-3.8531543444186864,40.26794247466474,0.0</coordinates>
                 </Point>
@@ -7346,6 +7690,7 @@ URL: <a href="http://www.educa.madrid.org/sies.lapoveda.camporeal">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="829">
                     <coordinates>-3.3711292402492976,40.33535041863552,0.0</coordinates>
                 </Point>
@@ -7364,6 +7709,7 @@ URL: <a href="http://www.educa.madrid.org/sies.luisdegongora.loeches">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="831">
                     <coordinates>-3.4139144973346487,40.385845954819395,0.0</coordinates>
                 </Point>
@@ -7385,6 +7731,7 @@ URL: <a href="http://www.educa.madrid.org/cp.sanblas.ajalvir">www.educa.madrid.o
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="834">
                     <coordinates>-3.4848642908731255,40.541777760201356,0.0</coordinates>
                 </Point>
@@ -7403,6 +7750,7 @@ URL: <a href="http://www.educa.madrid.org/cp.juanramonjimenez.becerril">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="836">
                     <coordinates>-3.9899035223359984,40.7154747038207,0.0</coordinates>
                 </Point>
@@ -7421,6 +7769,7 @@ URL: <a href="http://www.educa.madrid.org/cp.principedonfelipe.boadilla">www.edu
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="838">
                     <coordinates>-3.8774470124785623,40.40927576862279,0.0</coordinates>
                 </Point>
@@ -7439,6 +7788,7 @@ URL: <a href="http://www.educa.madrid.org/cp.sansebastian.elboalo">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="840">
                     <coordinates>-3.900700832377365,40.715998040746975,0.0</coordinates>
                 </Point>
@@ -7456,6 +7806,7 @@ URL: <a href="http://www.educa.madrid.org/cp.eugeniomuro.cadalso">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="842">
                     <coordinates>-4.449212855800353,40.30356102351912,0.0</coordinates>
                 </Point>
@@ -7474,6 +7825,7 @@ URL: <a href="http://www.educa.madrid.org/cp.garcialorca.camarma">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="844">
                     <coordinates>-3.3734619956432366,40.54873202637723,0.0</coordinates>
                 </Point>
@@ -7491,6 +7843,7 @@ URL: <a href="http://www.educa.madrid.org/cp.suarezsomonte.cenicientos">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="846">
                     <coordinates>-4.468608794782714,40.26354223109728,0.0</coordinates>
                 </Point>
@@ -7509,6 +7862,7 @@ URL: <a href="http://www.educa.madrid.org/cp.villadecobena.cobena">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="848">
                     <coordinates>-3.504843027863743,40.571394466151396,0.0</coordinates>
                 </Point>
@@ -7527,6 +7881,7 @@ URL: <a href="http://www.educa.madrid.org/cp.martinagarcia.fuenteelsaz">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="850">
                     <coordinates>-3.5143762853175704,40.6314321466235,0.0</coordinates>
                 </Point>
@@ -7544,6 +7899,7 @@ URL: <a href="http://www.educa.madrid.org/cp.vicentealeixandre.miraflores">www.e
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="852">
                     <coordinates>-3.757817388222225,40.812649653008734,0.0</coordinates>
                 </Point>
@@ -7562,6 +7918,7 @@ URL: <a href="http://www.educa.madrid.org/cp.isabellacatolica.navas">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="854">
                     <coordinates>-4.248767028420855,40.39052833500879,0.0</coordinates>
                 </Point>
@@ -7580,6 +7937,7 @@ URL: <a href="http://www.educa.madrid.org/cp.goyeneche.nuevobaztan">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="856">
                     <coordinates>-3.2421003155846386,40.36226069860521,0.0</coordinates>
                 </Point>
@@ -7598,6 +7956,7 @@ URL: <a href="http://www.educa.madrid.org/cp.losangeles.pozuelodealarcon">www.ed
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="858">
                     <coordinates>-3.783261633949682,40.4026008229752,0.0</coordinates>
                 </Point>
@@ -7616,6 +7975,7 @@ URL: <a href="http://www.educa.madrid.org/cp.cervantes.valdilecha">www.educa.mad
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="860">
                     <coordinates>-3.2984571666055538,40.29570365410601,0.0</coordinates>
                 </Point>
@@ -7653,6 +8013,7 @@ URL: <a href="http://www.educa.madrid.org/cp.santodomingo.algete">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="864">
                     <coordinates>-3.5818395217677956,40.63046332746802,0.0</coordinates>
                 </Point>
@@ -7670,6 +8031,7 @@ URL: <a href="http://www.educa.madrid.org/cp.velazquez.fuenlabrada">www.educa.ma
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="866">
                     <coordinates>-3.8308267088966685,40.29442083883349,0.0</coordinates>
                 </Point>
@@ -7688,6 +8050,7 @@ URL: <a href="http://www.educa.madrid.org/cp.elencinar.torrelodones">www.educa.m
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="868">
                     <coordinates>-3.9259352074004994,40.57169654627475,0.0</coordinates>
                 </Point>
@@ -7706,6 +8069,7 @@ URL: <a href="http://www.educa.madrid.org/cp.mariamoliner.villanuevadelacanada">
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="870">
                     <coordinates>-3.998587478056196,40.44174305224789,0.0</coordinates>
                 </Point>
@@ -7723,6 +8087,7 @@ URL: <a href="http://www.educa.madrid.org/cp.salvadordali.fuenlabrada">www.educa
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="872">
                     <coordinates>-3.841061114333537,40.30567142152467,0.0</coordinates>
                 </Point>
@@ -7741,6 +8106,7 @@ URL: <a href="http://www.educa.madrid.org/cp.elcantizal.lasrozas">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="874">
                     <coordinates>-3.9212674731356953,40.52076226402795,0.0</coordinates>
                 </Point>
@@ -7758,6 +8124,7 @@ URL: <a href="http://www.educa.madrid.org/cp.adolfosuarez.madrid">www.educa.madr
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="876">
                     <coordinates>-3.6516587894307895,40.4911561864729,0.0</coordinates>
                 </Point>
@@ -7776,6 +8143,7 @@ URL: <a href="http://www.educa.madrid.org/cp.principesdeasturias.pozuelodealarco
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="878">
                     <coordinates>-3.8055258864499226,40.459204473747405,0.0</coordinates>
                 </Point>
@@ -7793,6 +8161,7 @@ URL: <a href="http://www.educa.madrid.org/cp.santoangeldelaguarda.chapineria">ww
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="880">
                     <coordinates>-4.203910974063037,40.37985111191092,0.0</coordinates>
                 </Point>
@@ -7810,6 +8179,7 @@ URL: <a href="http://www.educa.madrid.org/cp.sanmiguel.villamantilla">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="882">
                     <coordinates>-4.127016997583486,40.34707681851441,0.0</coordinates>
                 </Point>
@@ -7828,6 +8198,7 @@ URL: <a href="http://www.educa.madrid.org/cp.maestrorodrigo.aranjuez">www.educa.
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="884">
                     <coordinates>-3.5958315606861158,40.067561592678715,0.0</coordinates>
                 </Point>
@@ -7846,6 +8217,7 @@ URL: <a href="http://www.educa.madrid.org/cp.beethoven.torrejondeardoz">www.educ
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="886">
                     <coordinates>-3.438314505395564,40.45852255595892,0.0</coordinates>
                 </Point>
@@ -7864,6 +8236,7 @@ URL: <a href="http://www.educa.madrid.org/cp.puertadelasierra.venturada">www.edu
     </body>
 </html>
 ]]>                </description>
+                <styleUrl>#2</styleUrl>
                 <Point id="888">
                     <coordinates>-3.6238132440851114,40.80008345062888,0.0</coordinates>
                 </Point>

@@ -11,8 +11,9 @@ class Map:
         self.folder=None
         self.md = md
         self.html=html
+        self.style=None
         if color:
-            self.kml.style=self.getStyle(color, kmlcolor=kmlcolor, href=None)
+            self.style=self.getStyle(color, kmlcolor=kmlcolor, href=None)
 
     def getStyle(self, color, kmlcolor=None, href=None):
         if kmlcolor is None:
@@ -54,6 +55,8 @@ class Map:
             pnt.description = description
         if color:
             pnt.style= self.getStyle(color, kmlcolor=kmlcolor, href=None)
+        elif self.style:
+            pnt.style = self.style
         return pnt
 
     def save(self, file):

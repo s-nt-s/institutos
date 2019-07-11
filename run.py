@@ -48,6 +48,9 @@ for t in sorted(tipos):
         if c.tipo == t and c.latlon:
             lat, lon = tuple(map(float, c.latlon.split(",")))
             color=None
+            href=None
+            if c.tecnico or c.excelencia or c.bilingue:
+                href="dot"
             if c.dificultad:
                 color="red"
             elif c.nocturno:
@@ -56,6 +59,6 @@ for t in sorted(tipos):
             print(description)
             name = c.nombre.title()
             name = " ".join(w if len(w)>2 else w.lower() for w in name.split())
-            mapa.addPoint(name, lat, lon, description=description, color=color)
+            mapa.addPoint(name, lat, lon, description=description, color=color, href=href)
 
 mapa.save("data/mapa.kml")

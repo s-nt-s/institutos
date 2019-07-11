@@ -20,6 +20,8 @@ class Map:
             kmlcolor = getattr(simplekml.Color, color)
         if href is None:
             href = 'http://maps.google.com/mapfiles/ms/micons/'+color+'.png'
+        elif href in ("dot",):
+            href = 'http://maps.google.com/mapfiles/ms/micons/'+color+'-'+href+'.png'
         key = (color, kmlcolor, href)
         if key not in self.styles:
             style = simplekml.Style()

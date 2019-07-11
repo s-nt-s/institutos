@@ -26,4 +26,4 @@ Se han usado los siguientes iconos para dar información extra:
 
 # Resultado
 
-El mapa se puede ver aquí [drive.google.com/open?id=10lr9woDJ97rnLvmRb-5OAY31cYUkjORC&usp=sharing](https://drive.google.com/open?id=10lr9woDJ97rnLvmRb-5OAY31cYUkjORC&usp=sharing)
+El mapa se puede ver aquí [drive.google.com/open?id=10lr9woDJ97rnLvmRb-5OAY31cYUkjORC](https://drive.google.com/open?id=10lr9woDJ97rnLvmRb-5OAY31cYUkjORC)

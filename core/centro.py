@@ -6,6 +6,7 @@ import simplekml
 import utm
 
 from .common import get_soup
+from .utm_to_geo import utm_to_geo
 
 re_sp = re.compile(r"\s+", re.MULTILINE | re.UNICODE)
 re_dire = re.compile(r"^\s*Dirección:", re.MULTILINE | re.UNICODE | re.DOTALL)
@@ -50,14 +51,11 @@ def get_data1(ctr):
     href = soup.find("div", attrs={"id": "Mapa"}).find("a").attrs["onclick"]
     m = re_coord.search(href)
     data["UTM_ED50-HUSO_30"] = m.group(1) + "," + m.group(2)
-    utm_split = data["UTM_ED50-HUSO_30"].split(",")
-    try:
-        latlon = utm.to_latlon(
-            float(utm_split[0]), float(utm_split[1]), 30, 'T')
-        data["coord"] = (latlon[1]-0.001283, latlon[0]-0.001904)
-        data["latlon"] = str(latlon[0]) + "," + str(latlon[1])
-    except:
-        pass
+    if data["UTM_ED50-HUSO_30"]!="0.0,0.0":
+        utm_split = data["UTM_ED50-HUSO_30"].split(",")
+        x, y = tuple(map(float, data["UTM_ED50-HUSO_30"].split(",")))
+        lon, lat = utm_to_geo(30, x, y, "ED50")
+        data["latlon"] = str(lat) + "," + str(lon)
     data["tipo"] = data["tlGenericoCentro"]
     data["nombre"] = data["tlNombreCentro"].title()
     data["url"] = data.get("tlWeb")
@@ -91,7 +89,6 @@ def get_data2(ctr):
     longitude = soup.find("meta", attrs={"itemprop": "longitude"}).attrs[
         "content"]
     data["latlon"] = latitude + "," + longitude
-    data["coord"] = (float(longitude), float(latitude))
 
     data["url"] = soup.find(text=re.compile(
         r"\s*Página\s+Web\s*", re.MULTILINE)).findParent("li").find("a").attrs["href"]

@@ -45,12 +45,7 @@ class Map:
             if self.html:
                 description = textwrap.dedent('''
                 <![CDATA[
-                <!DOCTYPE html>
-                <html>
-                    <body>
-                        %s
-                    </body>
-                </html>
+                    %s
                 ]]>
                 ''').strip() % description
             pnt.description = description

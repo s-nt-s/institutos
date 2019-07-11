@@ -3,7 +3,7 @@ import textwrap
 from markdown import markdown
 
 class Map:
-    def __init__(self, nombre, color=None, kmlcolor=None, html=True, md=True):
+    def __init__(self, nombre, color=None, kmlcolor=None, html=True, md=True, href=None):
         self.nombre=nombre
         self.kml = simplekml.Kml()
         self.kml.document.name = self.nombre
@@ -11,6 +11,8 @@ class Map:
         self.folder=None
         self.md = md
         self.html=html
+        if color:
+            self.kml.style=self.getStyle(color, kmlcolor=kmlcolor, href=None)
 
     def getStyle(self, color, kmlcolor=None, href=None):
         if kmlcolor is None:

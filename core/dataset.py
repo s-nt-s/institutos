@@ -3,6 +3,7 @@ from functools import lru_cache
 
 import requests
 from bunch import Bunch
+import copy
 
 from .centro import get_data
 from .common import get_pdf, get_soup, mkBunch
@@ -27,6 +28,7 @@ class Dataset():
         codCentrosExp = soup.find(
             "input", attrs={"name": "codCentrosExp"}).attrs["value"].strip()
         if not codCentrosExp:
+            open(file, 'w').close()
             return False
         url = soup.find(
             "form", attrs={"id": "frmExportarResultado"}).attrs["action"]
@@ -138,9 +140,10 @@ class Dataset():
         if txt is True:
             txt = "data/centros/" + file[:-3]+".txt"
         file = "fuentes/csv/" + file
+        create_txt = txt and not(os.path.isfile(file) and os.path.isfile(txt))
         col_centros = self.dwn_and_read(file, data=kargv)
         out = set(c["CODIGO CENTRO"] for c in col_centros)
-        if txt:
+        if create_txt:
             with open(txt, "w") as f:
                 f.write("\n".join(sorted(str(i) for i in out)))
         return out
@@ -231,8 +234,8 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    @JsonCache(file="data/ensenanza.json")
-    def ensenanza(self):
+    @JsonCache(file="data/ensenanzas.json")
+    def ensenanzas(self):
         soup = get_soup(self.indice.centros)
         tipos={}
         for o in soup.select("#comboTipoEnsenanza option"):
@@ -246,15 +249,15 @@ class Dataset():
     def centro_tipo(self):
         centros={}
         item = {"tipos":[], "ensenanzas":[]}
-        for cod in sorted(self.tipos.keys()):
+        for cod in sorted(self.ensenanzas.keys()):
             for id in self.get_centrosid(cdTramoEdu=cod):
-                c=centros.get(id, item.copy())
-                c["tipos"].append(cod)
+                c=centros.get(id, copy.deepcopy(item))
+                c["ensenanzas"].append(cod)
                 centros[id]=c
         for cod in sorted(self.tipos.keys()):
             for id in self.get_centrosid(cdGenerico=cod):
-                c=centros.get(id, item.copy())
-                c["ensenanzas"].append(cod)
+                c=centros.get(id, copy.deepcopy(item))
+                c["tipos"].append(cod)
                 centros[id]=c
         for kc, c in list(centros.items()):
             flag=True

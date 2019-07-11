@@ -24,6 +24,7 @@ def get_pdf(url, to_file=None):
 
 
 def request_soup(url, data=None):
+    print(url, data)
     if data:
         r = requests.post(url, data=data)
     else:

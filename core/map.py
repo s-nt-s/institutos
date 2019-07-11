@@ -22,6 +22,7 @@ class Map:
             href = 'http://maps.google.com/mapfiles/ms/micons/'+color+'.png'
         elif href in ("dot",):
             href = 'http://maps.google.com/mapfiles/ms/micons/'+color+'-'+href+'.png'
+            print(href)
         key = (color, kmlcolor, href)
         if key not in self.styles:
             style = simplekml.Style()

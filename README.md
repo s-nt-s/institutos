@@ -26,12 +26,8 @@ aquellos que son de alguno de los siguientes tipos:
 
 A excepción de los siguientes que han tenido que ser descartados por no tener cooredandas geográficas:
 
-* [28078031 Isabel la Catolica](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078031)
-* [28078043 Seccion de Educación Secundaria Obligatoria "Alcobendas v"](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078043)
-* [28078547 Elisa Soriano Fischer](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078547)
 * [28079357 Jane Goodall](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079357)
 * [28079370 Ana Frank](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079370)
-* [28079382 Ada Byron](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079382)
 
 # Iconos
 

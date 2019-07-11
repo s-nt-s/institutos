@@ -86,17 +86,23 @@ def mkBunchParse(obj):
     return obj
 
 
+def read_yml(file):
+    if not os.path.isfile(file):
+        return None
+    with open(file, "r") as f:
+        data = list(yaml.load_all(f, Loader=yaml.FullLoader))
+        if len(data) == 1:
+            data = data[0]
+        return data
+
 def mkBunch(file):
     if not os.path.isfile(file):
         return None
     ext = file.rsplit(".", 1)[-1]
-    with open(file, "r") as f:
-        if ext == "json":
-            data = json.load(f)
-        elif ext == "yml":
-            data = list(yaml.load_all(f, Loader=yaml.FullLoader))
-            if len(data) == 1:
-                data = data[0]
+    if ext == "yml":
+        data = read_yml(file)
+    if ext == "json":
+        data = read_js(file)
     data = mkBunchParse(data)
     return data
 

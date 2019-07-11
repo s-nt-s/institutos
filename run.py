@@ -17,7 +17,7 @@ def get_description(c):
         {0} {1}
         Dirección: {2}
         FICHA: {3}
-    '''.format(c.id, c.dat, c.direccion, c.info.split("://")[-1])
+    '''.format(c.id, c.dat, c.direccion, c.info)
     des = textwrap.dedent(des).strip()
     if c.url:
         des=des+"\nURL: {0}".format(c.url.split("://")[-1])

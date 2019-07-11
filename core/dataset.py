@@ -6,7 +6,7 @@ from bunch import Bunch
 import copy
 
 from .centro import get_data
-from .common import get_pdf, get_soup, mkBunch
+from .common import get_pdf, get_soup, mkBunch, read_yml
 from .decorators import *
 
 re_bocm = re.compile(r".*(BOCM-[\d\-]+).PDF", re.IGNORECASE)
@@ -19,6 +19,7 @@ class Dataset():
     def __init__(self, *args, **kargs):
         self.indice = mkBunch("fuentes/indice.yml")
         self.fuentes = mkBunch("fuentes/fuentes.yml") or Bunch()
+        self.arregos = read_yml("fuentes/arreglos.yml")
 
     def dwn_centros(self, file, data=None):
         if data is None:
@@ -76,7 +77,7 @@ class Dataset():
                 direccion=dir,
                 telefono=i["TELEFONO"],
                 mail=extra.get("tlMail"),
-                latlon=extra.get("latlon"),
+                latlon=self.arregos.get(id) or extra.get("latlon"),
                 nocturno=extra.get("nocturno"),
                 dificultad=id in self.dificultad,
                 adaptado=id in self.adaptado,

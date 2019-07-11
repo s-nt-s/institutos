@@ -49,7 +49,7 @@ class Dataset():
         return list(out)
 
     @property
-    @JsonCache(file="data/centros.json")
+    @JsonCache(file="data/centros.json", to_bunch=True)
     def centros(self):
         centros = []
         col_centros = self.dwn_and_read("fuentes/csv/centros.csv")
@@ -82,8 +82,9 @@ class Dataset():
                 excelencia=id in self.excelencia,
                 tecnico= id in self.tecnico,
                 bilingue= id in self.bilingue,
-                url=extra["url"],
-                info=extra["info"],
+                url=extra.get("url"),
+                info=extra.get("info"),
+                **self.centro_tipo.get(id, {})
             )
             if id in self.nocturno and not c.nocturno:
                 print(extra["info"])
@@ -107,9 +108,9 @@ class Dataset():
     def convocatoria(self):
         url = get_soup(self.indice.convocatoria,
                        select="#textoCuerpo a", attr="href")
+        bocm = re_bocm.search(url).group(1)
+        self.fuentes.convocatoria = "http://www.bocm.es/" + bocm.lower()
         return get_pdf(url)
-        # bocm = re_bocm.search(url).group(1)
-        # self.fuentes.convocatoria = "http://www.bocm.es/" + bocm.lower()
         # return self.fuentes.convocatoria
 
     @property
@@ -117,22 +118,42 @@ class Dataset():
     def anexo29(self):
         return get_pdf(self.indice.anexo29)
 
-    def get_centrosid(self, file, **kargv):
+    def get_centrosid(self, file=None, txt=True, **kargv):
+        if file is None and len(kargv)==0:
+            raise Exception("file argument is mandatory")
+        if file is None and len(kargv)==1:
+            k, v = next(iter(kargv.items()))
+            if k == "itRegimenNocturno":
+                file = "nocturno.csv"
+            elif k == "itInTecno":
+                file = "tecnico.csv"
+            elif k == "cdTramoEdu":
+                file = "e"+v+".csv"
+                txt= False
+            elif k == "cdGenerico":
+                file = "t"+v+".csv"
+                txt = False
+        if file is None:
+            raise Exception("No file name associate to: "+", ".join(sorted(kargv.keys())))
+        if txt is True:
+            txt = "data/centros/" + file[:-3]+".txt"
+        file = "fuentes/csv/" + file
         col_centros = self.dwn_and_read(file, data=kargv)
         out = set(c["CODIGO CENTRO"] for c in col_centros)
+        if txt:
+            with open(txt, "w") as f:
+                f.write("\n".join(sorted(str(i) for i in out)))
         return out
 
     @property
     @lru_cache(maxsize=None)
-    @ListCache(file="data/centros/nocturno.txt", cast=int)
     def nocturno(self):
-        return self.get_centrosid("fuentes/csv/nocturno.csv", itRegimenNocturno=4)
+        return self.get_centrosid(itRegimenNocturno=4)
 
     @property
     @lru_cache(maxsize=None)
-    @ListCache(file="data/centros/bilingue.txt", cast=int)
     def bilingue(self):
-        return self.get_centrosid("fuentes/csv/bilingue.csv",
+        return self.get_centrosid("bilingue.csv",
             checkCentroBilingue="S",
             checkCentroConvenio="S",
             checkSeccionesLinguisticasFr="S",
@@ -141,26 +162,21 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    @ListCache(file="data/centros/excelencia.txt", cast=int)
     def excelencia(self):
-        return self.get_centrosid("fuentes/csv/excelencia.csv",
+        return self.get_centrosid("excelencia.csv",
             itCentroExcelencia="S",
             itAulaExcelencia="S"
         )
 
     @property
     @lru_cache(maxsize=None)
-    @ListCache(file="data/centros/tecnico.txt", cast=int)
     def tecnico(self):
-        return self.get_centrosid("fuentes/csv/tecnico.csv",
-            itInTecno="S",
-        )
+        return self.get_centrosid(itInTecno="S")
 
     @property
     @lru_cache(maxsize=None)
-    @ListCache(file="data/centros/adaptado.txt", cast=int)
     def adaptado(self):
-        return self.get_centrosid("fuentes/csv/adaptado.csv",
+        return self.get_centrosid("adaptado.csv",
             checkIntegraA="S",
             checkIntegraM="S",
             checkIntegraT="S"
@@ -188,15 +204,18 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    @ListCache(file="data/centros/ok.txt", cast=int)
+    @ListCache(file="data/centros/ok.txt", cast=int, reload=True)
     def centro_ok(self):
         col = set()
-        for cod in ("042", "303", "094", "016", "017", "031", "035", "070", "032", "042", "047"):
-            aux = self.get_centrosid("fuentes/csv/"+cod+".csv",
-                cdGenerico=cod,
-            )
+        for cod in ("0040", "0050", "0053", "0055", "0060", "0075", "0078", "0080", "0090", "0100", "0110", "0120", "0130", "0140", "0143", "0150", "0160", "0170"):
+            aux = self.get_centrosid(cdTramoEdu=cod)
             col = col.union(aux)
-        return col
+        for cod in ("042", "303", "094", "016", "017", "031", "035", "070", "032", "042", "047"):
+            aux = self.get_centrosid(cdGenerico=cod)
+            col = col.union(aux)
+        convo = re_centro.findall(self.convocatoria)
+        convo = set(int(d) for d in convo)
+        return col.intersection(convo)
 
     @property
     @lru_cache(maxsize=None)
@@ -206,6 +225,44 @@ class Dataset():
         tipos={}
         for o in soup.select("#comboGenericos option"):
             v = o.attrs.get("value")
-            if v and v!="0":
+            if v not in ("0", "-1"):
                 tipos[v]=re_sp.sub(" ",o.get_text()).strip()
         return tipos
+
+    @property
+    @lru_cache(maxsize=None)
+    @JsonCache(file="data/ensenanza.json")
+    def ensenanza(self):
+        soup = get_soup(self.indice.centros)
+        tipos={}
+        for o in soup.select("#comboTipoEnsenanza option"):
+            v = o.attrs.get("value")
+            if v not in ("0", "-1"):
+                tipos[v]=re_sp.sub(" ",o.get_text()).strip()
+        return tipos
+
+    @property
+    @lru_cache(maxsize=None)
+    def centro_tipo(self):
+        centros={}
+        item = {"tipos":[], "ensenanzas":[]}
+        for cod in sorted(self.tipos.keys()):
+            for id in self.get_centrosid(cdTramoEdu=cod):
+                c=centros.get(id, item.copy())
+                c["tipos"].append(cod)
+                centros[id]=c
+        for cod in sorted(self.tipos.keys()):
+            for id in self.get_centrosid(cdGenerico=cod):
+                c=centros.get(id, item.copy())
+                c["ensenanzas"].append(cod)
+                centros[id]=c
+        for kc, c in list(centros.items()):
+            flag=True
+            for k, v in list(c.items()):
+                if v:
+                    flag = False
+                else:
+                    c[k]=None
+            if flag:
+                del centros[kc]
+        return centros

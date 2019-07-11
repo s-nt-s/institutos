@@ -100,10 +100,12 @@ def mkBunch(file):
     return data
 
 
-def read_js(file):
+def read_js(file, to_bunch=False):
     if file and os.path.isfile(file):
         with open(file, 'r') as f:
             js = json.load(f)
+            if to_bunch:
+                js = mkBunchParse(js)
             return js
     return None
 

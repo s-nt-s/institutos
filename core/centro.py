@@ -23,7 +23,13 @@ def get_text(n, index=0):
 
 def get_data(ctr):
     ctr = str(ctr)
-    return get_data1(ctr) or get_data2(ctr)
+    d1 = get_data1(ctr)
+    if d1 is not None:
+        if not d1.get("latlon"):
+            d2 = get_data2(ctr)
+            d1["latlon"]=d2.get("latlon")
+        return d1
+    return get_data2(ctr)
 
 
 def get_data1(ctr):
@@ -66,9 +72,13 @@ def get_data1(ctr):
 
 
 def get_data2(ctr):
+    data = {}
     url = "http://www.buscocolegio.com/Colegio/detalles-colegio.action?id=" + ctr
     soup = get_soup(url, to_file="fuentes/buscocolegio.com/"+ctr+".html")
-    data = {}
+    cod = soup.find("h3", text="Código").parent.find("strong").string
+    if ctr!=cod:
+        return data
+    print(url)
     data["nombre"] = get_text(soup.select("div.sliding-panel-inner h4"))
     if data["nombre"].startswith("IES "):
         data["nombre"] = data["nombre"][4:]

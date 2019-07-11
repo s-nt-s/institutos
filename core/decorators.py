@@ -5,10 +5,11 @@ from .common import *
 
 
 class Cache:
-    def __init__(self, file):
+    def __init__(self, file, *args, reload=False, **kargs):
         self.file = file
         self.data = {}
         self.func = None
+        self.reload = reload
 
     def read(self):
         pass
@@ -17,7 +18,7 @@ class Cache:
         pass
 
     def callCache(self, slf, *args, **kargs):
-        if not self.isReload(slf):
+        if not self.reload and not self.isReload(slf):
             data = self.read(*args, **kargs)
             if data:
                 return data
@@ -54,11 +55,12 @@ class TxtCache(Cache):
 
 
 class JsonCache(Cache):
-    def __init__(self, *args, **kargv):
+    def __init__(self, *args, to_bunch=False, **kargv):
         Cache.__init__(self, *args, **kargv)
+        self.to_bunch=to_bunch
 
     def read(self, *args, **kargs):
-        return read_js(self.file)
+        return read_js(self.file, to_bunch=self.to_bunch)
 
     def save(self, data, *args, **kargs):
         save_js(self.file, data)

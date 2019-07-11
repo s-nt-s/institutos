@@ -37,8 +37,12 @@ def get_description(c):
     des = des.replace("\n", "  \n")
     return des
 
+def color_to_url(color, mod):
+    if mod:
+        color = color + "-"+mod
+    return 'http://maps.google.com/mapfiles/ms/micons/'+color+'.png'
 
-mapa = Map("Colegios - Profesores", color="green")
+mapa = Map("Colegios - Profesores", color="green",color_to_url=color_to_url)
 
 for t in sorted(tipos):
     tp = d.tipos[t].capitalize()
@@ -47,17 +51,17 @@ for t in sorted(tipos):
     for c in d.centros:
         if c.tipo == t and c.latlon:
             lat, lon = tuple(map(float, c.latlon.split(",")))
-            color=None
-            href=None
+            color="green"
+            mod=None
             if c.tecnico or c.excelencia or c.bilingue:
-                href="dot"
+                mod="dot"
             if c.dificultad:
                 color="red"
             elif c.nocturno:
-                color="grey"
+                color="blue"
             description = get_description(c)
             name = c.nombre.title()
             name = " ".join(w if len(w)>2 else w.lower() for w in name.split())
-            mapa.addPoint(name, lat, lon, description=description, color=color, href=href)
+            mapa.addPoint(name, lat, lon, description=description, color=color, mod=None)
 
 mapa.save("data/mapa.kml")

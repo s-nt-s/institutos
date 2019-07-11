@@ -25,39 +25,17 @@
         </Style>
         <Style id="157">
             <IconStyle id="158">
-                <color>ff808080</color>
+                <color>ffff0000</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
                 <Icon id="159">
-                    <href>http://maps.google.com/mapfiles/ms/micons/grey-dot.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="182">
-            <IconStyle id="183">
-                <color>ff808080</color>
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="184">
-                    <href>http://maps.google.com/mapfiles/ms/micons/grey.png</href>
-                </Icon>
-            </IconStyle>
-        </Style>
-        <Style id="215">
-            <IconStyle id="216">
-                <color>ff0000ff</color>
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="217">
-                    <href>http://maps.google.com/mapfiles/ms/micons/red-dot.png</href>
+                    <href>http://maps.google.com/mapfiles/ms/micons/blue.png</href>
                 </Icon>
             </IconStyle>
         </Style>
         <name>Colegios - Profesores</name>
-        <styleUrl>#215</styleUrl>
+        <styleUrl>#157</styleUrl>
         <Folder id="5">
             <name>Centro integrado de enseñanzas artísticas elementales y profesionales de música, educación primaria y secundaria</name>
             <Placemark id="7">
@@ -1594,12 +1572,12 @@ Nocturno en:<br />
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#182</styleUrl>
+                <styleUrl>#157</styleUrl>
                 <Point id="180">
                     <coordinates>-3.73437873058482,40.29938866914964,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="186">
+            <Placemark id="183">
                 <name>Alarnes</name>
                 <description>
 <![CDATA[
@@ -1613,11 +1591,11 @@ URL: <a href="http://www.educa.madrid.org/ies.alarnes.getafe">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="185">
+                <Point id="182">
                     <coordinates>-3.7335467255627792,40.301880489866946,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="188">
+            <Placemark id="185">
                 <name>Jose de Churriguera</name>
                 <description>
 <![CDATA[
@@ -1633,12 +1611,12 @@ Nocturno en:<br />
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#182</styleUrl>
-                <Point id="187">
+                <styleUrl>#157</styleUrl>
+                <Point id="184">
                     <coordinates>-3.7608944248036735,40.325064666456235,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="190">
+            <Placemark id="187">
                 <name>Luis Vives</name>
                 <description>
 <![CDATA[
@@ -1652,11 +1630,11 @@ URL: <a href="http://www.educa.madrid.org/ies.luisvives.leganes">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="189">
+                <Point id="186">
                     <coordinates>-3.763697977900226,40.34091130697257,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="192">
+            <Placemark id="189">
                 <name>Maria Zambrano</name>
                 <description>
 <![CDATA[
@@ -1671,11 +1649,11 @@ URL: <a href="http://www.educa.madrid.org/ies.mariazambrano.leganes">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="191">
+                <Point id="188">
                     <coordinates>-3.746332762455122,40.33245695772765,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="194">
+            <Placemark id="191">
                 <name>Cervantes</name>
                 <description>
 <![CDATA[
@@ -1693,11 +1671,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="193">
+                <Point id="190">
                     <coordinates>-3.7019438456598817,40.407798791969995,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="196">
+            <Placemark id="193">
                 <name>el Espinillo</name>
                 <description>
 <![CDATA[
@@ -1711,11 +1689,11 @@ URL: <a href="http://www.educa.madrid.org/ies.elespinillo.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="195">
+                <Point id="192">
                     <coordinates>-3.687245354085798,40.36354432490296,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="198">
+            <Placemark id="195">
                 <name>Valdebernardo</name>
                 <description>
 <![CDATA[
@@ -1730,11 +1708,11 @@ URL: <a href="http://www.educa.madrid.org/ies.valdebernardo.madrid">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="197">
+                <Point id="194">
                     <coordinates>-3.6177541611614377,40.407090057216145,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="200">
+            <Placemark id="197">
                 <name>Santa Teresa de Jesus</name>
                 <description>
 <![CDATA[
@@ -1748,11 +1726,11 @@ URL: <a href="http://www.educa.madrid.org/ies.santateresa.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="199">
+                <Point id="196">
                     <coordinates>-3.7088386437540803,40.42243245971056,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="202">
+            <Placemark id="199">
                 <name>Santamarca</name>
                 <description>
 <![CDATA[
@@ -1767,11 +1745,11 @@ URL: <a href="http://www.educa.madrid.org/ies.santamarca.madrid">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="201">
+                <Point id="198">
                     <coordinates>-3.672780579087223,40.45804433599213,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="204">
+            <Placemark id="201">
                 <name>Santa Engracia</name>
                 <description>
 <![CDATA[
@@ -1785,11 +1763,11 @@ URL: <a href="http://www.educa.madrid.org/ies.santaengracia.madrid">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="203">
+                <Point id="200">
                     <coordinates>-3.6954485256638967,40.431684972774214,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="206">
+            <Placemark id="203">
                 <name>Ortega y Gasset</name>
                 <description>
 <![CDATA[
@@ -1803,11 +1781,11 @@ URL: <a href="http://www.educa.madrid.org/ies.ortegaygasset.madrid">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="205">
+                <Point id="202">
                     <coordinates>-3.7344802973881084,40.43353367247507,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="208">
+            <Placemark id="205">
                 <name>Instituto Politecnico N.1 Del Ejercito</name>
                 <description>
 <![CDATA[
@@ -1821,11 +1799,11 @@ URL: <a href="http://www.educa.madrid.org/ies.numerounoejercito.madrid">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="207">
+                <Point id="204">
                     <coordinates>-3.751535392286419,40.37163999963019,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="210">
+            <Placemark id="207">
                 <name>Emilio Castelar</name>
                 <description>
 <![CDATA[
@@ -1840,12 +1818,12 @@ Nocturno en:<br />
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#182</styleUrl>
-                <Point id="209">
+                <styleUrl>#157</styleUrl>
+                <Point id="206">
                     <coordinates>-3.7287242888253234,40.39068706072966,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="212">
+            <Placemark id="209">
                 <name>Arcipreste de Hita</name>
                 <description>
 <![CDATA[
@@ -1860,11 +1838,11 @@ URL: <a href="http://www.educa.madrid.org/ies.arciprestedehita.madrid">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="211">
+                <Point id="208">
                     <coordinates>-3.6699977251371045,40.37849256641148,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="214">
+            <Placemark id="211">
                 <name>San Cristobal de Los Angeles</name>
                 <description>
 <![CDATA[
@@ -1879,12 +1857,12 @@ URL: <a href="http://www.educa.madrid.org/ies.sancristobal.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="213">
+                <styleUrl>#141</styleUrl>
+                <Point id="210">
                     <coordinates>-3.688384108703417,40.344654387026495,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="219">
+            <Placemark id="213">
                 <name>Carlos Maria Rodriguez de Valcarcel</name>
                 <description>
 <![CDATA[
@@ -1898,11 +1876,11 @@ URL: <a href="http://www.educa.madrid.org/ies.rodriguezdevalcarcel.madrid">www.e
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="218">
+                <Point id="212">
                     <coordinates>-3.6507166818301817,40.4069903281061,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="221">
+            <Placemark id="215">
                 <name>Joaquín Turina</name>
                 <description>
 <![CDATA[
@@ -1917,11 +1895,11 @@ URL: <a href="http://www.educa.madrid.org/ies.joaquinturina.madrid">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="220">
+                <Point id="214">
                     <coordinates>-3.7112880485242528,40.44233635065087,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="223">
+            <Placemark id="217">
                 <name>el Lago</name>
                 <description>
 <![CDATA[
@@ -1935,11 +1913,11 @@ URL: <a href="http://www.educa.madrid.org/ies.ellago.madrid">www.educa.madrid.or
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="222">
+                <Point id="216">
                     <coordinates>-3.731737461794153,40.41760510070079,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="225">
+            <Placemark id="219">
                 <name>San Fernando</name>
                 <description>
 <![CDATA[
@@ -1953,11 +1931,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sanfernando.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="224">
+                <Point id="218">
                     <coordinates>-3.687914469642921,40.52987353629845,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="227">
+            <Placemark id="221">
                 <name>Tirso de Molina</name>
                 <description>
 <![CDATA[
@@ -1975,12 +1953,12 @@ Nocturno en:<br />
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="226">
+                <styleUrl>#141</styleUrl>
+                <Point id="220">
                     <coordinates>-3.6517723392662327,40.39302931111468,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="229">
+            <Placemark id="223">
                 <name>Lope de Vega</name>
                 <description>
 <![CDATA[
@@ -1995,11 +1973,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lopedevega.madrid">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="228">
+                <Point id="222">
                     <coordinates>-3.7051218386937275,40.428860607429144,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="231">
+            <Placemark id="225">
                 <name>Barajas</name>
                 <description>
 <![CDATA[
@@ -2013,11 +1991,11 @@ URL: <a href="http://www.educa.madrid.org/ies.barajas.madrid">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="230">
+                <Point id="224">
                     <coordinates>-3.597912316135548,40.452870261646076,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="233">
+            <Placemark id="227">
                 <name>Gregorio Marañon</name>
                 <description>
 <![CDATA[
@@ -2035,11 +2013,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="232">
+                <Point id="226">
                     <coordinates>-3.7088500634376236,40.47627011822616,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="235">
+            <Placemark id="229">
                 <name>Barrio Simancas</name>
                 <description>
 <![CDATA[
@@ -2054,11 +2032,11 @@ URL: <a href="http://www.educa.madrid.org/ies.barriosimancas.madrid">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="234">
+                <Point id="228">
                     <coordinates>-3.624125943331508,40.430884808849605,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="237">
+            <Placemark id="231">
                 <name>Virgen de la Paloma</name>
                 <description>
 <![CDATA[
@@ -2072,11 +2050,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lapaloma.madrid">www.educa.madrid.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="236">
+                <Point id="230">
                     <coordinates>-3.714514013545043,40.46080289456144,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="239">
+            <Placemark id="233">
                 <name>Conde de Orgaz</name>
                 <description>
 <![CDATA[
@@ -2091,11 +2069,11 @@ URL: <a href="http://www.educa.madrid.org/ies.condedeorgaz.madrid">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="238">
+                <Point id="232">
                     <coordinates>-3.6452067908435986,40.46185017896971,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="241">
+            <Placemark id="235">
                 <name>Carlos Iii</name>
                 <description>
 <![CDATA[
@@ -2109,11 +2087,11 @@ URL: <a href="http://www.educa.madrid.org/ies.carlostercero.madrid">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="240">
+                <Point id="234">
                     <coordinates>-3.6132541521410113,40.42678080903717,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="243">
+            <Placemark id="237">
                 <name>San Blas</name>
                 <description>
 <![CDATA[
@@ -2127,11 +2105,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sanblas.madrid">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="242">
+                <Point id="236">
                     <coordinates>-3.6120531177874207,40.42823763109145,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="245">
+            <Placemark id="239">
                 <name>Gómez Moreno</name>
                 <description>
 <![CDATA[
@@ -2146,11 +2124,11 @@ URL: <a href="http://www.educa.madrid.org/ies.gomezmoreno.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="244">
+                <Point id="238">
                     <coordinates>-3.61451060090398,40.43400840258188,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="247">
+            <Placemark id="241">
                 <name>Rey Pastor</name>
                 <description>
 <![CDATA[
@@ -2169,11 +2147,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="246">
+                <Point id="240">
                     <coordinates>-3.646798296480222,40.41255289221582,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="249">
+            <Placemark id="243">
                 <name>Vallecas i</name>
                 <description>
 <![CDATA[
@@ -2188,11 +2166,11 @@ URL: <a href="http://www.educa.madrid.org/ies.vallecasuno.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="248">
+                <Point id="242">
                     <coordinates>-3.6618839477739575,40.39683677307069,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="251">
+            <Placemark id="245">
                 <name>Enrique Tierno Galvan</name>
                 <description>
 <![CDATA[
@@ -2206,11 +2184,11 @@ URL: <a href="http://www.educa.madrid.org/ies.tiernogalvan.madrid">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="250">
+                <Point id="244">
                     <coordinates>-3.693951596798141,40.37204492580367,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="253">
+            <Placemark id="247">
                 <name>Pio Baroja</name>
                 <description>
 <![CDATA[
@@ -2224,11 +2202,11 @@ URL: <a href="http://www.educa.madrid.org/ies.piobaroja.madrid">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="252">
+                <Point id="246">
                     <coordinates>-3.717586377756008,40.37481062613889,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="255">
+            <Placemark id="249">
                 <name>Parque Aluche</name>
                 <description>
 <![CDATA[
@@ -2242,11 +2220,11 @@ URL: <a href="http://www.educa.madrid.org/ies.parquealuche.madrid">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="254">
+                <Point id="248">
                     <coordinates>-3.7624845964294753,40.39206397623333,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="257">
+            <Placemark id="251">
                 <name>Eijo y Garay</name>
                 <description>
 <![CDATA[
@@ -2261,11 +2239,11 @@ URL: <a href="http://www.educa.madrid.org/ies.eijogaray.madrid">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="256">
+                <Point id="250">
                     <coordinates>-3.7375836222229237,40.41002738878081,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="259">
+            <Placemark id="253">
                 <name>Ntra. Sra. de la Almudena</name>
                 <description>
 <![CDATA[
@@ -2280,12 +2258,12 @@ URL: <a href="http://www.educa.madrid.org/ies.almudena.madrid">www.educa.madrid.
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="258">
+                <styleUrl>#141</styleUrl>
+                <Point id="252">
                     <coordinates>-3.697157705715161,40.465890842159766,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="261">
+            <Placemark id="255">
                 <name>Tetuan de Las Victorias</name>
                 <description>
 <![CDATA[
@@ -2299,11 +2277,11 @@ URL: <a href="http://www.educa.madrid.org/ies.tetuan.madrid">www.educa.madrid.or
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="260">
+                <Point id="254">
                     <coordinates>-3.6956475858935134,40.47500800152612,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="263">
+            <Placemark id="257">
                 <name>Cardenal Herrera Oria</name>
                 <description>
 <![CDATA[
@@ -2318,11 +2296,11 @@ URL: <a href="http://www.educa.madrid.org/ies.cardenalherrera.madrid">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="262">
+                <Point id="256">
                     <coordinates>-3.710457387875815,40.48437730645887,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="265">
+            <Placemark id="259">
                 <name>Beatriz Galindo</name>
                 <description>
 <![CDATA[
@@ -2340,11 +2318,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="264">
+                <Point id="258">
                     <coordinates>-3.684967492704499,40.427026816547176,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="267">
+            <Placemark id="261">
                 <name>Isabel la Catolica</name>
                 <description>
 <![CDATA[
@@ -2362,11 +2340,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="266">
+                <Point id="260">
                     <coordinates>-3.68701284524328,40.411383988985705,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="269">
+            <Placemark id="263">
                 <name>Juan de la Cierva</name>
                 <description>
 <![CDATA[
@@ -2381,11 +2359,11 @@ URL: <a href="http://www.educa.madrid.org/ies.juandelacierva.madrid">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="268">
+                <Point id="262">
                     <coordinates>-3.705145795025377,40.404058567269566,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="271">
+            <Placemark id="265">
                 <name>Cardenal Cisneros</name>
                 <description>
 <![CDATA[
@@ -2402,11 +2380,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="270">
+                <Point id="264">
                     <coordinates>-3.707075670743271,40.426308129078514,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="273">
+            <Placemark id="267">
                 <name>San Isidro</name>
                 <description>
 <![CDATA[
@@ -2425,11 +2403,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="272">
+                <Point id="266">
                     <coordinates>-3.7061272107805148,40.41452109772738,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="275">
+            <Placemark id="269">
                 <name>Emperatriz Maria de Austria</name>
                 <description>
 <![CDATA[
@@ -2444,11 +2422,11 @@ URL: <a href="http://www.educa.madrid.org/ies.emperatrizmaria.madrid">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="274">
+                <Point id="268">
                     <coordinates>-3.7158168773877347,40.38903794030827,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="277">
+            <Placemark id="271">
                 <name>Calderon de la Barca</name>
                 <description>
 <![CDATA[
@@ -2462,11 +2440,11 @@ URL: <a href="http://www.educa.madrid.org/ies.calderondelabar.madrid">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="276">
+                <Point id="270">
                     <coordinates>-3.7158168773877347,40.38903794030827,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="279">
+            <Placemark id="273">
                 <name>Vista Alegre</name>
                 <description>
 <![CDATA[
@@ -2480,11 +2458,11 @@ URL: <a href="http://www.educa.madrid.org/ies.vistaalegre.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="278">
+                <Point id="272">
                     <coordinates>-3.7351300281007065,40.38707892002928,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="281">
+            <Placemark id="275">
                 <name>Pacifico</name>
                 <description>
 <![CDATA[
@@ -2498,11 +2476,11 @@ URL: <a href="http://www.educa.madrid.org/ies.pacifico.madrid">www.educa.madrid.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="280">
+                <Point id="274">
                     <coordinates>-3.6674417493341487,40.40597606631015,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="283">
+            <Placemark id="277">
                 <name>Palomeras-Vallecas</name>
                 <description>
 <![CDATA[
@@ -2517,11 +2495,11 @@ URL: <a href="http://www.educa.madrid.org/ies.palomerasvallecas.madrid">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="282">
+                <Point id="276">
                     <coordinates>-3.6282461552833825,40.38967300199851,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="285">
+            <Placemark id="279">
                 <name>Garcia Morato</name>
                 <description>
 <![CDATA[
@@ -2536,11 +2514,11 @@ URL: <a href="http://www.educa.madrid.org/ies.garciamorato.madrid">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="284">
+                <Point id="278">
                     <coordinates>-3.7664506093277037,40.37605566164397,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="287">
+            <Placemark id="281">
                 <name>Gran Capitán</name>
                 <description>
 <![CDATA[
@@ -2555,11 +2533,11 @@ URL: <a href="http://www.educa.madrid.org/ies.grancapitan.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="286">
+                <Point id="280">
                     <coordinates>-3.7187858861890857,40.40565026176174,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="289">
+            <Placemark id="283">
                 <name>Carmen Martín Gaite</name>
                 <description>
 <![CDATA[
@@ -2574,11 +2552,11 @@ URL: <a href="http://www.educa.madrid.org/ies.carmenmartingai.moralzarzal">www.e
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="288">
+                <Point id="282">
                     <coordinates>-3.9731331723864822,40.67603387868894,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="291">
+            <Placemark id="285">
                 <name>Ciudad Escolar</name>
                 <description>
 <![CDATA[
@@ -2592,11 +2570,11 @@ URL: <a href="http://www.educa.madrid.org/ies.ciudadescolar.madrid">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="290">
+                <Point id="284">
                     <coordinates>-3.6841956171400816,40.526418190682165,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="293">
+            <Placemark id="287">
                 <name>Felipe Trigo</name>
                 <description>
 <![CDATA[
@@ -2610,11 +2588,11 @@ URL: <a href="http://www.educa.madrid.org/ies.felipetrigo.mostoles">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="292">
+                <Point id="286">
                     <coordinates>-3.8794737857912938,40.32225988963311,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="295">
+            <Placemark id="289">
                 <name>Carmen Martin Gaite</name>
                 <description>
 <![CDATA[
@@ -2629,11 +2607,11 @@ URL: <a href="http://www.educa.madrid.org/ies.carmenmartingai.navalcarnero">www.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="294">
+                <Point id="288">
                     <coordinates>-4.018812040127288,40.289395551912655,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="297">
+            <Placemark id="291">
                 <name>Gerardo Diego</name>
                 <description>
 <![CDATA[
@@ -2648,11 +2626,11 @@ URL: <a href="http://www.educa.madrid.org/ies.gerardodiego.pozuelodealarcon">www
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="296">
+                <Point id="290">
                     <coordinates>-3.7860401355431224,40.44490627106608,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="299">
+            <Placemark id="293">
                 <name>Vega Del Jarama</name>
                 <description>
 <![CDATA[
@@ -2670,11 +2648,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="298">
+                <Point id="292">
                     <coordinates>-3.5279511320991803,40.4253279348816,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="301">
+            <Placemark id="295">
                 <name>Joan Miro</name>
                 <description>
 <![CDATA[
@@ -2689,11 +2667,11 @@ URL: <a href="http://www.educa.madrid.org/ies.joanmiro.sansebastian">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="300">
+                <Point id="294">
                     <coordinates>-3.6229962642197613,40.55997106131692,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="303">
+            <Placemark id="297">
                 <name>Isaac Peral</name>
                 <description>
 <![CDATA[
@@ -2708,11 +2686,11 @@ URL: <a href="http://www.educa.madrid.org/ies.isaacperal.torrejondeardoz">www.ed
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="302">
+                <Point id="296">
                     <coordinates>-3.451576825330183,40.45757961094879,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="305">
+            <Placemark id="299">
                 <name>Las Veredillas</name>
                 <description>
 <![CDATA[
@@ -2730,11 +2708,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="304">
+                <Point id="298">
                     <coordinates>-3.469647635372019,40.468048170626425,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="307">
+            <Placemark id="301">
                 <name>Alto Jarama</name>
                 <description>
 <![CDATA[
@@ -2748,11 +2726,11 @@ URL: <a href="http://www.educa.madrid.org/ies.altojarama.torrelaguna">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="306">
+                <Point id="300">
                     <coordinates>-3.540185241056756,40.83004404216095,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="309">
+            <Placemark id="303">
                 <name>Ntra. Sra. de la Victoria de Lepanto</name>
                 <description>
 <![CDATA[
@@ -2766,11 +2744,11 @@ URL: <a href="http://www.educa.madrid.org/ies.victoria.villarejo">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="308">
+                <Point id="302">
                     <coordinates>-3.2752468286686067,40.16893555278129,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="311">
+            <Placemark id="305">
                 <name>Felipe ii</name>
                 <description>
 <![CDATA[
@@ -2785,11 +2763,11 @@ URL: <a href="http://www.educa.madrid.org/ies.felipesegundo.madrid">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="310">
+                <Point id="304">
                     <coordinates>-3.6326611644950035,40.39938776569495,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="313">
+            <Placemark id="307">
                 <name>Vicente Aleixandre</name>
                 <description>
 <![CDATA[
@@ -2805,12 +2783,12 @@ Nocturno en:<br />
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#182</styleUrl>
-                <Point id="312">
+                <styleUrl>#157</styleUrl>
+                <Point id="306">
                     <coordinates>-3.691558061495507,40.25298457793173,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="315">
+            <Placemark id="309">
                 <name>Los Castillos</name>
                 <description>
 <![CDATA[
@@ -2825,11 +2803,11 @@ URL: <a href="http://www.educa.madrid.org/ies.loscastillos.alcorcon">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="314">
+                <Point id="308">
                     <coordinates>-3.808823090991519,40.359343502777264,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="317">
+            <Placemark id="311">
                 <name>Arquitecto Pedro Gumiel</name>
                 <description>
 <![CDATA[
@@ -2844,11 +2822,11 @@ URL: <a href="http://www.educa.madrid.org/ies.arquitectopedro.alcala">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="316">
+                <Point id="310">
                     <coordinates>-3.377833833466761,40.49653794023041,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="319">
+            <Placemark id="313">
                 <name>Maria Moliner</name>
                 <description>
 <![CDATA[
@@ -2863,11 +2841,11 @@ URL: <a href="http://www.educa.madrid.org/ies.mariamoliner.coslada">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="318">
+                <Point id="312">
                     <coordinates>-3.547972993498423,40.424487017781,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="321">
+            <Placemark id="315">
                 <name>Dionisio Aguado</name>
                 <description>
 <![CDATA[
@@ -2885,11 +2863,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="320">
+                <Point id="314">
                     <coordinates>-3.8045983178087712,40.285254666534236,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="323">
+            <Placemark id="317">
                 <name>Butarque</name>
                 <description>
 <![CDATA[
@@ -2903,11 +2881,11 @@ URL: <a href="http://www.educa.madrid.org/ies.butarque.leganes">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="322">
+                <Point id="316">
                     <coordinates>-3.7578369684829744,40.339012891379184,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="325">
+            <Placemark id="319">
                 <name>Avenida de Los Toreros</name>
                 <description>
 <![CDATA[
@@ -2922,11 +2900,11 @@ URL: <a href="http://www.educa.madrid.org/ies.avenidadelostor.madrid">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="324">
+                <Point id="318">
                     <coordinates>-3.66361768439553,40.435385594081936,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="327">
+            <Placemark id="321">
                 <name>Mariano Jose de Larra</name>
                 <description>
 <![CDATA[
@@ -2944,12 +2922,12 @@ Nocturno en:<br />
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="326">
+                <styleUrl>#141</styleUrl>
+                <Point id="320">
                     <coordinates>-3.7526603994646033,40.39017337340946,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="329">
+            <Placemark id="323">
                 <name>la Estrella</name>
                 <description>
 <![CDATA[
@@ -2964,11 +2942,11 @@ URL: <a href="http://www.educa.madrid.org/ies.laestrella.madrid">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="328">
+                <Point id="322">
                     <coordinates>-3.665408784050822,40.41135718747953,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="331">
+            <Placemark id="325">
                 <name>San Juan Bautista</name>
                 <description>
 <![CDATA[
@@ -2983,11 +2961,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sanjuanbautista.madrid">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="330">
+                <Point id="324">
                     <coordinates>-3.6570539413732446,40.45390057287826,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="333">
+            <Placemark id="327">
                 <name>Jaime Vera</name>
                 <description>
 <![CDATA[
@@ -3001,11 +2979,11 @@ URL: <a href="http://www.educa.madrid.org/ies.jaimevera.madrid">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="332">
+                <Point id="326">
                     <coordinates>-3.6968608937453604,40.45885662303344,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="335">
+            <Placemark id="329">
                 <name>Manuel de Falla</name>
                 <description>
 <![CDATA[
@@ -3020,11 +2998,11 @@ URL: <a href="http://www.educa.madrid.org/ies.manueldefalla.mostoles">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="334">
+                <Point id="328">
                     <coordinates>-3.88281079212957,40.32994627499818,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="337">
+            <Placemark id="331">
                 <name>Las Rozas i</name>
                 <description>
 <![CDATA[
@@ -3039,11 +3017,11 @@ URL: <a href="http://www.educa.madrid.org/ies.uno.lasrozas">www.educa.madrid.org
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="336">
+                <Point id="330">
                     <coordinates>-3.86674854606305,40.49118461912712,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="339">
+            <Placemark id="333">
                 <name>Gonzalo Torrente Ballester</name>
                 <description>
 <![CDATA[
@@ -3057,11 +3035,11 @@ URL: <a href="http://www.educa.madrid.org/ies.torrenteballest.sansebastian">www.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="338">
+                <Point id="332">
                     <coordinates>-3.6279762197275205,40.56072786835214,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="341">
+            <Placemark id="335">
                 <name>Ramiro de Maeztu</name>
                 <description>
 <![CDATA[
@@ -3080,11 +3058,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="340">
+                <Point id="334">
                     <coordinates>-3.6849060303937704,40.44420738035182,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="343">
+            <Placemark id="337">
                 <name>Juan de Herrera</name>
                 <description>
 <![CDATA[
@@ -3102,11 +3080,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="342">
+                <Point id="336">
                     <coordinates>-4.1238819056009035,40.60439818885326,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="345">
+            <Placemark id="339">
                 <name>Fortuny</name>
                 <description>
 <![CDATA[
@@ -3121,11 +3099,11 @@ URL: <a href="http://www.educa.madrid.org/ies.fortuny.madrid">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="344">
+                <Point id="338">
                     <coordinates>-3.6886507859971625,40.43562657171965,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="347">
+            <Placemark id="341">
                 <name>Ciudad de Los Poetas</name>
                 <description>
 <![CDATA[
@@ -3140,11 +3118,11 @@ URL: <a href="http://www.educa.madrid.org/ies.ciudaddelospoetas.madrid">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="346">
+                <Point id="340">
                     <coordinates>-3.716377268360564,40.46965618224605,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="349">
+            <Placemark id="343">
                 <name>Ramon y Cajal</name>
                 <description>
 <![CDATA[
@@ -3159,11 +3137,11 @@ URL: <a href="http://www.educa.madrid.org/ies.ramonycajal.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="348">
+                <Point id="342">
                     <coordinates>-3.658803100652844,40.48928686601719,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="351">
+            <Placemark id="345">
                 <name>Miguel Delibes</name>
                 <description>
 <![CDATA[
@@ -3177,11 +3155,11 @@ URL: <a href="http://www.educa.madrid.org/ies.delibes.madrid">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="350">
+                <Point id="344">
                     <coordinates>-3.630192746233391,40.42405907535328,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="353">
+            <Placemark id="347">
                 <name>Celestino Mutis</name>
                 <description>
 <![CDATA[
@@ -3196,11 +3174,11 @@ URL: <a href="http://www.educa.madrid.org/ies.celestinomutis.madrid">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="352">
+                <Point id="346">
                     <coordinates>-3.711719227792933,40.35008981259096,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="355">
+            <Placemark id="349">
                 <name>Damaso Alonso</name>
                 <description>
 <![CDATA[
@@ -3215,11 +3193,11 @@ URL: <a href="http://www.educa.madrid.org/ies.damasoalonso.madrid">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="354">
+                <Point id="348">
                     <coordinates>-3.699285233594927,40.48904901067576,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="357">
+            <Placemark id="351">
                 <name>Humanejos</name>
                 <description>
 <![CDATA[
@@ -3234,11 +3212,11 @@ URL: <a href="http://www.educa.madrid.org/ies.humanejos.parla">www.educa.madrid.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="356">
+                <Point id="350">
                     <coordinates>-3.767711191110522,40.230548788476746,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="359">
+            <Placemark id="353">
                 <name>Leon Felipe</name>
                 <description>
 <![CDATA[
@@ -3253,12 +3231,12 @@ URL: <a href="http://www.educa.madrid.org/ies.leonfelipe.torrejondeardoz">www.ed
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="358">
+                <styleUrl>#141</styleUrl>
+                <Point id="352">
                     <coordinates>-3.485340366240791,40.463695048021044,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="361">
+            <Placemark id="355">
                 <name>Prado de Santo Domingo</name>
                 <description>
 <![CDATA[
@@ -3273,11 +3251,11 @@ URL: <a href="http://www.educa.madrid.org/ies.pradodesantodomingo.alcorcon">www.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="360">
+                <Point id="354">
                     <coordinates>-3.839596542109047,40.342286187365254,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="363">
+            <Placemark id="357">
                 <name>Arturo Soria</name>
                 <description>
 <![CDATA[
@@ -3292,11 +3270,11 @@ URL: <a href="http://www.educa.madrid.org/ies.arturosoria.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="362">
+                <Point id="356">
                     <coordinates>-3.6589798485969345,40.479610244351846,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="365">
+            <Placemark id="359">
                 <name>Mateo Aleman</name>
                 <description>
 <![CDATA[
@@ -3310,11 +3288,11 @@ URL: <a href="http://www.educa.madrid.org/ies.mateoaleman.alcala">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="364">
+                <Point id="358">
                     <coordinates>-3.381493938361178,40.48018357474496,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="367">
+            <Placemark id="361">
                 <name>Galileo Galilei</name>
                 <description>
 <![CDATA[
@@ -3329,11 +3307,11 @@ URL: <a href="http://www.educa.madrid.org/ies.galileogalilei.alcorcon">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="366">
+                <Point id="360">
                     <coordinates>-3.837895564564364,40.34183905771516,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="369">
+            <Placemark id="363">
                 <name>Blas de Otero</name>
                 <description>
 <![CDATA[
@@ -3348,11 +3326,11 @@ URL: <a href="http://www.educa.madrid.org/ies.blasdeotero.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="368">
+                <Point id="362">
                     <coordinates>-3.760902717949378,40.390750064260025,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="371">
+            <Placemark id="365">
                 <name>San Mateo</name>
                 <description>
 <![CDATA[
@@ -3367,12 +3345,12 @@ URL: <a href="http://www.educa.madrid.org/ies.sanmateo.madrid">www.educa.madrid.
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="370">
+                <styleUrl>#141</styleUrl>
+                <Point id="364">
                     <coordinates>-3.698835246911284,40.427430308469866,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="373">
+            <Placemark id="367">
                 <name>Mariana Pineda</name>
                 <description>
 <![CDATA[
@@ -3387,12 +3365,12 @@ URL: <a href="http://www.educa.madrid.org/ies.marianapineda.madrid">www.educa.ma
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="372">
+                <styleUrl>#141</styleUrl>
+                <Point id="366">
                     <coordinates>-3.6550000483361456,40.41604728020298,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="375">
+            <Placemark id="369">
                 <name>Vallecas-Magerit</name>
                 <description>
 <![CDATA[
@@ -3407,11 +3385,11 @@ URL: <a href="http://www.educa.madrid.org/ies.magerit.madrid">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="374">
+                <Point id="368">
                     <coordinates>-3.659786425067112,40.390794651363585,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="377">
+            <Placemark id="371">
                 <name>Las Musas</name>
                 <description>
 <![CDATA[
@@ -3425,11 +3403,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lasmusas.madrid">www.educa.madrid.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="376">
+                <Point id="370">
                     <coordinates>-3.6066038405140732,40.430554650667844,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="379">
+            <Placemark id="373">
                 <name>Barrio de Bilbao</name>
                 <description>
 <![CDATA[
@@ -3443,11 +3421,11 @@ URL: <a href="http://www.educa.madrid.org/ies.barriodebilbao.madrid">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="378">
+                <Point id="372">
                     <coordinates>-3.6292628147499344,40.42293800880732,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="381">
+            <Placemark id="375">
                 <name>Leonardo da Vinci</name>
                 <description>
 <![CDATA[
@@ -3461,11 +3439,11 @@ URL: <a href="http://www.educa.madrid.org/ies.leonardodavinci.madrid">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="380">
+                <Point id="374">
                     <coordinates>-3.762137058074969,40.38004816715342,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="383">
+            <Placemark id="377">
                 <name>Moratalaz</name>
                 <description>
 <![CDATA[
@@ -3479,11 +3457,11 @@ URL: <a href="http://www.educa.madrid.org/ies.moratalaz.madrid">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="382">
+                <Point id="376">
                     <coordinates>-3.6569427145772018,40.41461282693532,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="385">
+            <Placemark id="379">
                 <name>Escuela Superior de Hosteleria y Turismo</name>
                 <description>
 <![CDATA[
@@ -3497,11 +3475,11 @@ URL: <a href="http://www.educa.madrid.org/ies.hosteleria.madrid">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="384">
+                <Point id="378">
                     <coordinates>-3.731428872039164,40.417408854659975,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="387">
+            <Placemark id="381">
                 <name>Arquitecto Peridis</name>
                 <description>
 <![CDATA[
@@ -3515,11 +3493,11 @@ URL: <a href="http://www.educa.madrid.org/ies.arquitectoperid.leganes">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="386">
+                <Point id="380">
                     <coordinates>-3.7396502245239933,40.33606750866263,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="389">
+            <Placemark id="383">
                 <name>Ciudad de Jaen</name>
                 <description>
 <![CDATA[
@@ -3534,12 +3512,12 @@ URL: <a href="http://www.educa.madrid.org/ies.ciudaddejaen.madrid">www.educa.mad
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="388">
+                <styleUrl>#141</styleUrl>
+                <Point id="382">
                     <coordinates>-3.698844340840089,40.3736100751784,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="391">
+            <Placemark id="385">
                 <name>Leonardo da Vinci</name>
                 <description>
 <![CDATA[
@@ -3554,11 +3532,11 @@ URL: <a href="http://www.educa.madrid.org/ies.leonardodavinci.majadahonda">www.e
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="390">
+                <Point id="384">
                     <coordinates>-3.8783889701073977,40.48076354905078,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="393">
+            <Placemark id="387">
                 <name>Enrique Tierno Galvan</name>
                 <description>
 <![CDATA[
@@ -3574,12 +3552,12 @@ Nocturno en:<br />
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#182</styleUrl>
-                <Point id="392">
+                <styleUrl>#157</styleUrl>
+                <Point id="386">
                     <coordinates>-3.7670105386546506,40.22783262244867,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="395">
+            <Placemark id="389">
                 <name>Alameda de Osuna</name>
                 <description>
 <![CDATA[
@@ -3594,11 +3572,11 @@ URL: <a href="http://www.educa.madrid.org/ies.alamedadeosuna.madrid">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="394">
+                <Point id="388">
                     <coordinates>-3.5877573514655943,40.46223766084346,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="397">
+            <Placemark id="391">
                 <name>Manuela Malasaña</name>
                 <description>
 <![CDATA[
@@ -3612,11 +3590,11 @@ URL: <a href="http://www.educa.madrid.org/ies.malasana.mostoles">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="396">
+                <Point id="390">
                     <coordinates>-3.863864251109351,40.314719749909756,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="399">
+            <Placemark id="393">
                 <name>Gaspar Melchor de Jovellanos</name>
                 <description>
 <![CDATA[
@@ -3630,11 +3608,11 @@ URL: <a href="http://www.educa.madrid.org/ies.jovellanos.fuenlabrada">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="398">
+                <Point id="392">
                     <coordinates>-3.8039357595257175,40.2938720710954,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="401">
+            <Placemark id="395">
                 <name>San Isidoro de Sevilla</name>
                 <description>
 <![CDATA[
@@ -3648,11 +3626,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sanisidoro.madrid">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="400">
+                <Point id="394">
                     <coordinates>-3.7179417055227875,40.44707899546216,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="403">
+            <Placemark id="397">
                 <name>Alonso Quijano</name>
                 <description>
 <![CDATA[
@@ -3666,11 +3644,11 @@ URL: <a href="http://www.educa.madrid.org/ies.alonsoquijano.alcala">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="402">
+                <Point id="396">
                     <coordinates>-3.3640557247680243,40.477897470514556,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="405">
+            <Placemark id="399">
                 <name>Jose Luis Sampedro</name>
                 <description>
 <![CDATA[
@@ -3685,11 +3663,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sampedro.trescantos">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="404">
+                <Point id="398">
                     <coordinates>-3.7066614709760946,40.611650435381506,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="407">
+            <Placemark id="401">
                 <name>Juan de Villanueva</name>
                 <description>
 <![CDATA[
@@ -3703,11 +3681,11 @@ URL: <a href="http://www.educa.madrid.org/ies.juandevillanuev.madrid">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="406">
+                <Point id="400">
                     <coordinates>-3.7099100810930192,40.37070480531667,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="409">
+            <Placemark id="403">
                 <name>la Dehesilla</name>
                 <description>
 <![CDATA[
@@ -3722,11 +3700,11 @@ URL: <a href="http://www.educa.madrid.org/ies.ladehesilla.cercedilla">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="408">
+                <Point id="402">
                     <coordinates>-4.042557542726919,40.73927987151531,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="411">
+            <Placemark id="405">
                 <name>la Arboleda</name>
                 <description>
 <![CDATA[
@@ -3740,11 +3718,11 @@ URL: <a href="http://www.educa.madrid.org/ies.laarboleda.alcorcon">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="410">
+                <Point id="404">
                     <coordinates>-3.8313700121796703,40.34352580540612,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="413">
+            <Placemark id="407">
                 <name>la Poveda</name>
                 <description>
 <![CDATA[
@@ -3758,11 +3736,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lapoveda.arganda">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="412">
+                <Point id="406">
                     <coordinates>-3.4737008153526396,40.31604742408858,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="415">
+            <Placemark id="409">
                 <name>Angel Corella</name>
                 <description>
 <![CDATA[
@@ -3777,11 +3755,11 @@ URL: <a href="http://www.educa.madrid.org/ies.angelcorella.colmenarviejo">www.ed
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="414">
+                <Point id="408">
                     <coordinates>-3.7508300340420386,40.65746922157154,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="417">
+            <Placemark id="411">
                 <name>Enrique Tierno Galvan</name>
                 <description>
 <![CDATA[
@@ -3796,11 +3774,11 @@ URL: <a href="http://www.educa.madrid.org/ies.tiernogalvan.leganes">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="416">
+                <Point id="410">
                     <coordinates>-3.771442530083543,40.318976678382384,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="419">
+            <Placemark id="413">
                 <name>Ciudad de Los Ángeles</name>
                 <description>
 <![CDATA[
@@ -3814,11 +3792,11 @@ URL: <a href="http://www.educa.madrid.org/ies.ciudaddelosangeles.madrid">www.edu
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="418">
+                <Point id="412">
                     <coordinates>-3.695081503056362,40.354758633797566,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="421">
+            <Placemark id="415">
                 <name>Rosa Chacel</name>
                 <description>
 <![CDATA[
@@ -3832,11 +3810,11 @@ URL: <a href="http://www.educa.madrid.org/ies.rosachacel.madrid">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="420">
+                <Point id="414">
                     <coordinates>-3.649188851963565,40.47974673501012,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="423">
+            <Placemark id="417">
                 <name>Antonio Dominguez Ortiz</name>
                 <description>
 <![CDATA[
@@ -3851,12 +3829,12 @@ URL: <a href="http://www.educa.madrid.org/ies.antoniodomingue.madrid">www.educa.
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="422">
+                <styleUrl>#141</styleUrl>
+                <Point id="416">
                     <coordinates>-3.6342192530275694,40.39087464301895,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="425">
+            <Placemark id="419">
                 <name>Joaquín Rodrigo</name>
                 <description>
 <![CDATA[
@@ -3871,11 +3849,11 @@ URL: <a href="http://www.educa.madrid.org/ies.joaquinrodrigo.madrid">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="424">
+                <Point id="418">
                     <coordinates>-3.612769404724433,40.411035532475296,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="427">
+            <Placemark id="421">
                 <name>Pradolongo</name>
                 <description>
 <![CDATA[
@@ -3890,11 +3868,11 @@ URL: <a href="http://www.educa.madrid.org/ies.pradolongo.madrid">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="426">
+                <Point id="420">
                     <coordinates>-3.715889437427392,40.38142481244314,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="429">
+            <Placemark id="423">
                 <name>Rey Fernando vi</name>
                 <description>
 <![CDATA[
@@ -3908,11 +3886,11 @@ URL: <a href="http://www.educa.madrid.org/ies.reyfernando.sanfernando">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="428">
+                <Point id="422">
                     <coordinates>-3.527543053288893,40.42590637857999,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="431">
+            <Placemark id="425">
                 <name>Victoria Kent</name>
                 <description>
 <![CDATA[
@@ -3926,11 +3904,11 @@ URL: <a href="http://www.educa.madrid.org/ies.victoriakent.torrejondeardoz">www.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="430">
+                <Point id="424">
                     <coordinates>-3.4494677041025783,40.4578851296075,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="433">
+            <Placemark id="427">
                 <name>Diego Velazquez</name>
                 <description>
 <![CDATA[
@@ -3945,11 +3923,11 @@ URL: <a href="http://www.educa.madrid.org/ies.velazquez.torrelodones">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="432">
+                <Point id="426">
                     <coordinates>-3.9343318359365034,40.58251146347924,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="435">
+            <Placemark id="429">
                 <name>Virgen de la Paz</name>
                 <description>
 <![CDATA[
@@ -3963,11 +3941,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lapaz.alcobendas">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="434">
+                <Point id="428">
                     <coordinates>-3.6534961512631865,40.52606436951223,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="437">
+            <Placemark id="431">
                 <name>Luis Buñuel</name>
                 <description>
 <![CDATA[
@@ -3982,11 +3960,11 @@ URL: <a href="http://www.educa.madrid.org/ies.luisbunuel.alcorcon">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="436">
+                <Point id="430">
                     <coordinates>-3.8313501175433524,40.35245397077218,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="439">
+            <Placemark id="433">
                 <name>Rafael Alberti</name>
                 <description>
 <![CDATA[
@@ -4001,11 +3979,11 @@ URL: <a href="http://www.educa.madrid.org/ies.alberti.coslada">www.educa.madrid.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="438">
+                <Point id="432">
                     <coordinates>-3.5634299208255036,40.431836192423766,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="441">
+            <Placemark id="435">
                 <name>Salvador Dali</name>
                 <description>
 <![CDATA[
@@ -4019,11 +3997,11 @@ URL: <a href="http://www.educa.madrid.org/ies.salvadordali.leganes">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="440">
+                <Point id="434">
                     <coordinates>-3.7413874454109908,40.33882219651819,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="443">
+            <Placemark id="437">
                 <name>Siglo Xxi</name>
                 <description>
 <![CDATA[
@@ -4038,11 +4016,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sigloveintiuno.leganes">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="442">
+                <Point id="436">
                     <coordinates>-3.7625129847197885,40.34023443041909,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="445">
+            <Placemark id="439">
                 <name>Mirasierra</name>
                 <description>
 <![CDATA[
@@ -4057,11 +4035,11 @@ URL: <a href="http://www.educa.madrid.org/ies.mirasierra.madrid">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="444">
+                <Point id="438">
                     <coordinates>-3.71394599568244,40.49292329963323,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="447">
+            <Placemark id="441">
                 <name>Francisco Tomas y Valiente</name>
                 <description>
 <![CDATA[
@@ -4075,11 +4053,11 @@ URL: <a href="http://www.educa.madrid.org/ies.tomasyvaliente.madrid">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="446">
+                <Point id="440">
                     <coordinates>-3.649241027793299,40.46556631911747,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="449">
+            <Placemark id="443">
                 <name>Islas Filipinas</name>
                 <description>
 <![CDATA[
@@ -4093,11 +4071,11 @@ URL: <a href="http://www.educa.madrid.org/ies.islasfilipinas.madrid">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="448">
+                <Point id="442">
                     <coordinates>-3.7099925923191552,40.44248845837069,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="451">
+            <Placemark id="445">
                 <name>Luis Buñuel</name>
                 <description>
 <![CDATA[
@@ -4111,11 +4089,11 @@ URL: <a href="http://www.educa.madrid.org/ies.luisbunuel.mostoles">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="450">
+                <Point id="444">
                     <coordinates>-3.86418143944443,40.34143843721706,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="453">
+            <Placemark id="447">
                 <name>Narcis Monturiol</name>
                 <description>
 <![CDATA[
@@ -4130,11 +4108,11 @@ URL: <a href="http://www.educa.madrid.org/ies.narcismonturiol.parla">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="452">
+                <Point id="446">
                     <coordinates>-3.7754249685406047,40.24521854926735,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="455">
+            <Placemark id="449">
                 <name>Jaime Ferrán Clúa</name>
                 <description>
 <![CDATA[
@@ -4149,11 +4127,11 @@ URL: <a href="http://www.educa.madrid.org/ies.jaimeferran.sanfernando">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="454">
+                <Point id="448">
                     <coordinates>-3.5197262991439007,40.41659936066267,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="457">
+            <Placemark id="451">
                 <name>Maria de Molina</name>
                 <description>
 <![CDATA[
@@ -4168,11 +4146,11 @@ URL: <a href="http://www.educa.madrid.org/ies.mariademolina.madrid">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="456">
+                <Point id="450">
                     <coordinates>-3.778765429186077,40.37954998919622,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="459">
+            <Placemark id="453">
                 <name>Isaac Newton</name>
                 <description>
 <![CDATA[
@@ -4187,11 +4165,11 @@ URL: <a href="http://www.educa.madrid.org/ies.newton.madrid">www.educa.madrid.or
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="458">
+                <Point id="452">
                     <coordinates>-3.7213404545279842,40.47488654169473,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="461">
+            <Placemark id="455">
                 <name>Isidra de Guzmán</name>
                 <description>
 <![CDATA[
@@ -4206,11 +4184,11 @@ URL: <a href="http://www.educa.madrid.org/ies.isidradeguzman.alcala">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="460">
+                <Point id="454">
                     <coordinates>-3.3704492135224595,40.47558886246507,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="463">
+            <Placemark id="457">
                 <name>Severo Ochoa</name>
                 <description>
 <![CDATA[
@@ -4224,11 +4202,11 @@ URL: <a href="http://www.educa.madrid.org/ies.severoochoa.alcobendas">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="462">
+                <Point id="456">
                     <coordinates>-3.6531355162084904,40.525399750736526,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="465">
+            <Placemark id="459">
                 <name>Parque de Lisboa</name>
                 <description>
 <![CDATA[
@@ -4243,11 +4221,11 @@ URL: <a href="http://www.educa.madrid.org/ies.parquelisboa.alcorcon">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="464">
+                <Point id="458">
                     <coordinates>-3.8108273536040116,40.352644716393435,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="467">
+            <Placemark id="461">
                 <name>la Serna</name>
                 <description>
 <![CDATA[
@@ -4262,11 +4240,11 @@ URL: <a href="http://www.educa.madrid.org/ies.laserna.fuenlabrada">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="466">
+                <Point id="460">
                     <coordinates>-3.792864238968165,40.29788549478517,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="469">
+            <Placemark id="463">
                 <name>la Fortuna</name>
                 <description>
 <![CDATA[
@@ -4280,11 +4258,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lafortuna.leganes">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="468">
+                <Point id="462">
                     <coordinates>-3.7827150176793403,40.36149613945548,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="471">
+            <Placemark id="465">
                 <name>Clara Campoamor</name>
                 <description>
 <![CDATA[
@@ -4299,11 +4277,11 @@ URL: <a href="http://www.educa.madrid.org/ies.claracampoamor.mostoles">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="470">
+                <Point id="464">
                     <coordinates>-3.8521231342516584,40.33192418855821,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="473">
+            <Placemark id="467">
                 <name>Velazquez</name>
                 <description>
 <![CDATA[
@@ -4318,11 +4296,11 @@ URL: <a href="http://www.educa.madrid.org/ies.velazquez.mostoles">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="472">
+                <Point id="466">
                     <coordinates>-3.8708354516467645,40.33242446892547,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="475">
+            <Placemark id="469">
                 <name>Manuel Elkin Patarroyo</name>
                 <description>
 <![CDATA[
@@ -4336,11 +4314,11 @@ URL: <a href="http://www.educa.madrid.org/ies.manuelelkinpatarroyo.parla">www.ed
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="474">
+                <Point id="468">
                     <coordinates>-3.7624266064194107,40.24566528603726,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="477">
+            <Placemark id="471">
                 <name>Camilo Jose Cela</name>
                 <description>
 <![CDATA[
@@ -4355,11 +4333,11 @@ URL: <a href="http://www.educa.madrid.org/ies.camilojosecela.pozuelodealarcon">w
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="476">
+                <Point id="470">
                     <coordinates>-3.8183737547344183,40.44105127289609,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="479">
+            <Placemark id="473">
                 <name>Villa de Valdemoro</name>
                 <description>
 <![CDATA[
@@ -4374,11 +4352,11 @@ URL: <a href="http://www.educa.madrid.org/ies.villadevaldemoro.valdemoro">www.ed
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="478">
+                <Point id="472">
                     <coordinates>-3.681554649094883,40.191131678417264,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="481">
+            <Placemark id="475">
                 <name>Alpajes</name>
                 <description>
 <![CDATA[
@@ -4393,11 +4371,11 @@ URL: <a href="http://www.educa.madrid.org/ies.alpajes.aranjuez">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="480">
+                <Point id="474">
                     <coordinates>-3.592388615754827,40.03695549095346,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="483">
+            <Placemark id="477">
                 <name>Maria de Zayas y Sotomayor</name>
                 <description>
 <![CDATA[
@@ -4411,11 +4389,11 @@ URL: <a href="http://www.educa.madrid.org/ies.mariadezayas.majadahonda">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="482">
+                <Point id="476">
                     <coordinates>-3.856382060178908,40.47863144549409,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="485">
+            <Placemark id="479">
                 <name>Cardenal Cisneros</name>
                 <description>
 <![CDATA[
@@ -4430,11 +4408,11 @@ URL: <a href="http://www.educa.madrid.org/ies.cardenalcisnero.alcala">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="484">
+                <Point id="478">
                     <coordinates>-3.3695229923792267,40.48309634478398,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="487">
+            <Placemark id="481">
                 <name>Alkala-Nahar</name>
                 <description>
 <![CDATA[
@@ -4449,11 +4427,11 @@ URL: <a href="http://www.educa.madrid.org/ies.alkalanahar.alcala">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="486">
+                <Point id="480">
                     <coordinates>-3.3411044992647234,40.48864317471666,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="489">
+            <Placemark id="483">
                 <name>Josefina Aldecoa</name>
                 <description>
 <![CDATA[
@@ -4468,11 +4446,11 @@ URL: <a href="http://www.educa.madrid.org/ies.josefinaaldecoa.alcorcon">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="488">
+                <Point id="482">
                     <coordinates>-3.8155151162448777,40.35859379826233,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="491">
+            <Placemark id="485">
                 <name>Grande Covian</name>
                 <description>
 <![CDATA[
@@ -4488,12 +4466,12 @@ Nocturno en:<br />
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#182</styleUrl>
-                <Point id="490">
+                <styleUrl>#157</styleUrl>
+                <Point id="484">
                     <coordinates>-3.432207049443549,40.298452596923546,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="493">
+            <Placemark id="487">
                 <name>Julio Caro Baroja</name>
                 <description>
 <![CDATA[
@@ -4507,11 +4485,11 @@ URL: <a href="http://www.educa.madrid.org/ies.carobaroja.fuenlabrada">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="492">
+                <Point id="486">
                     <coordinates>-3.784988436925499,40.289389466572,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="495">
+            <Placemark id="489">
                 <name>Salvador Allende</name>
                 <description>
 <![CDATA[
@@ -4525,11 +4503,11 @@ URL: <a href="http://www.educa.madrid.org/ies.salvadorallende.fuenlabrada">www.e
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="494">
+                <Point id="488">
                     <coordinates>-3.7960338598767693,40.29125097699545,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="497">
+            <Placemark id="491">
                 <name>Laguna de Joatzel</name>
                 <description>
 <![CDATA[
@@ -4544,11 +4522,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lagunadejoatzel.getafe">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="496">
+                <Point id="490">
                     <coordinates>-3.7106858493833323,40.31332973936926,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="499">
+            <Placemark id="493">
                 <name>Isaac Albeniz</name>
                 <description>
 <![CDATA[
@@ -4563,11 +4541,11 @@ URL: <a href="http://www.educa.madrid.org/ies.albeniz.leganes">www.educa.madrid.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="498">
+                <Point id="492">
                     <coordinates>-3.74228574218399,40.342366039174514,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="501">
+            <Placemark id="495">
                 <name>Marques de Suanzes</name>
                 <description>
 <![CDATA[
@@ -4582,11 +4560,11 @@ URL: <a href="http://www.educa.madrid.org/ies.marquesdesuanze.madrid">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="500">
+                <Point id="494">
                     <coordinates>-3.624175084034476,40.4463980968315,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="503">
+            <Placemark id="497">
                 <name>Julio Verne</name>
                 <description>
 <![CDATA[
@@ -4600,11 +4578,11 @@ URL: <a href="http://www.educa.madrid.org/ies.julioverne.leganes">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="502">
+                <Point id="496">
                     <coordinates>-3.7618076524509165,40.3392841091029,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="505">
+            <Placemark id="499">
                 <name>Salvador Dalí</name>
                 <description>
 <![CDATA[
@@ -4619,11 +4597,11 @@ URL: <a href="http://www.educa.madrid.org/ies.salvadordali.madrid">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="504">
+                <Point id="498">
                     <coordinates>-3.6553058620093903,40.4414870721716,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="507">
+            <Placemark id="501">
                 <name>Gabriel Garcia Marquez</name>
                 <description>
 <![CDATA[
@@ -4638,11 +4616,11 @@ URL: <a href="http://www.educa.madrid.org/ies.garciamarquez.madrid">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="506">
+                <Point id="500">
                     <coordinates>-3.6341888785986627,40.47172194050753,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="509">
+            <Placemark id="503">
                 <name>Villablanca</name>
                 <description>
 <![CDATA[
@@ -4657,11 +4635,11 @@ URL: <a href="http://www.educa.madrid.org/ies.villablanca.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="508">
+                <Point id="502">
                     <coordinates>-3.598975325674461,40.407873554206795,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="511">
+            <Placemark id="505">
                 <name>Carlos Bousoño</name>
                 <description>
 <![CDATA[
@@ -4675,11 +4653,11 @@ URL: <a href="http://www.educa.madrid.org/ies.carlosbousono.majadahonda">www.edu
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="510">
+                <Point id="504">
                     <coordinates>-3.8594407615101525,40.47424843433242,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="513">
+            <Placemark id="507">
                 <name>Los Rosales</name>
                 <description>
 <![CDATA[
@@ -4694,11 +4672,11 @@ URL: <a href="http://www.educa.madrid.org/ies.losrosales.mostoles">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="512">
+                <Point id="506">
                     <coordinates>-3.8697251975544713,40.3376400876928,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="515">
+            <Placemark id="509">
                 <name>Benjamin Rua</name>
                 <description>
 <![CDATA[
@@ -4712,11 +4690,11 @@ URL: <a href="http://www.educa.madrid.org/ies.benjaminrua.mostoles">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="514">
+                <Point id="508">
                     <coordinates>-3.8702026732669323,40.338150015351495,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="517">
+            <Placemark id="511">
                 <name>Luis de Gongora</name>
                 <description>
 <![CDATA[
@@ -4731,11 +4709,11 @@ URL: <a href="http://www.educa.madrid.org/ies.gongora.torrejondeardoz">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="516">
+                <Point id="510">
                     <coordinates>-3.471587179817097,40.45189608140963,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="519">
+            <Placemark id="513">
                 <name>Al-Satt</name>
                 <description>
 <![CDATA[
@@ -4750,11 +4728,11 @@ URL: <a href="http://www.educa.madrid.org/ies.alsatt.algete">www.educa.madrid.or
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="518">
+                <Point id="512">
                     <coordinates>-3.5077832297576252,40.599317972515365,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="521">
+            <Placemark id="515">
                 <name>Aldebaran</name>
                 <description>
 <![CDATA[
@@ -4769,11 +4747,11 @@ URL: <a href="http://www.educa.madrid.org/ies.aldebaran.alcobendas">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="520">
+                <Point id="514">
                     <coordinates>-3.659372430154738,40.545012680786456,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="523">
+            <Placemark id="517">
                 <name>Gustavo Adolfo Becquer</name>
                 <description>
 <![CDATA[
@@ -4788,11 +4766,11 @@ URL: <a href="http://www.educa.madrid.org/ies.becquer.algete">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="522">
+                <Point id="516">
                     <coordinates>-3.5077832297576252,40.599317972515365,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="525">
+            <Placemark id="519">
                 <name>Carpe Diem</name>
                 <description>
 <![CDATA[
@@ -4806,11 +4784,11 @@ URL: <a href="http://www.educa.madrid.org/ies.carpediem.chinchon">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="524">
+                <Point id="518">
                     <coordinates>-3.4132007277910774,40.141172509538166,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="527">
+            <Placemark id="521">
                 <name>José Hierro</name>
                 <description>
 <![CDATA[
@@ -4825,11 +4803,11 @@ URL: <a href="http://www.educa.madrid.org/ies.josehierro.getafe">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="526">
+                <Point id="520">
                     <coordinates>-3.750388768107644,40.29262812557192,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="529">
+            <Placemark id="523">
                 <name>Leon Felipe</name>
                 <description>
 <![CDATA[
@@ -4844,12 +4822,12 @@ URL: <a href="http://www.educa.madrid.org/ies.leonfelipe.getafe">www.educa.madri
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="528">
+                <styleUrl>#141</styleUrl>
+                <Point id="522">
                     <coordinates>-3.7314013026319337,40.30152469565321,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="531">
+            <Placemark id="525">
                 <name>de Guadarrama</name>
                 <description>
 <![CDATA[
@@ -4864,11 +4842,11 @@ URL: <a href="http://www.educa.madrid.org/ies.guadarrama">www.educa.madrid.org/i
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="530">
+                <Point id="524">
                     <coordinates>-4.086874798557293,40.66711865077474,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="533">
+            <Placemark id="527">
                 <name>San Nicasio</name>
                 <description>
 <![CDATA[
@@ -4882,11 +4860,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sannicasio.leganes">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="532">
+                <Point id="526">
                     <coordinates>-3.7616566756296352,40.3426094760745,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="535">
+            <Placemark id="529">
                 <name>Iturralde</name>
                 <description>
 <![CDATA[
@@ -4901,11 +4879,11 @@ URL: <a href="http://www.educa.madrid.org/ies.iturralde.madrid">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="534">
+                <Point id="528">
                     <coordinates>-3.749908906838941,40.3874885291889,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="537">
+            <Placemark id="531">
                 <name>Villa de Vallecas</name>
                 <description>
 <![CDATA[
@@ -4920,12 +4898,12 @@ URL: <a href="http://www.educa.madrid.org/ies.villadevallecas.madrid">www.educa.
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="536">
+                <styleUrl>#141</styleUrl>
+                <Point id="530">
                     <coordinates>-3.623425742717717,40.37673497022089,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="539">
+            <Placemark id="533">
                 <name>San Juan de la Cruz</name>
                 <description>
 <![CDATA[
@@ -4939,11 +4917,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sanjuandelacruz.pozuelodealarcon">
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="538">
+                <Point id="532">
                     <coordinates>-3.8156851237774285,40.43225048974847,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="541">
+            <Placemark id="535">
                 <name>el Burgo-Ignacio Echeverría</name>
                 <description>
 <![CDATA[
@@ -4958,11 +4936,11 @@ URL: <a href="http://www.educa.madrid.org/ies.burgoiecheverria.lasrozas">www.edu
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="540">
+                <Point id="534">
                     <coordinates>-3.8816851564981905,40.49012569784734,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="543">
+            <Placemark id="537">
                 <name>Julio Palacios</name>
                 <description>
 <![CDATA[
@@ -4977,11 +4955,11 @@ URL: <a href="http://www.educa.madrid.org/ies.juliopalacios.sansebastian">www.ed
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="542">
+                <Point id="536">
                     <coordinates>-3.616885784550122,40.54541851041658,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="545">
+            <Placemark id="539">
                 <name>Agora</name>
                 <description>
 <![CDATA[
@@ -4996,11 +4974,11 @@ URL: <a href="http://www.educa.madrid.org/ies.agora.alcobendas">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="544">
+                <Point id="538">
                     <coordinates>-3.6411315053107476,40.55416924289384,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="547">
+            <Placemark id="541">
                 <name>el Pinar</name>
                 <description>
 <![CDATA[
@@ -5015,11 +4993,11 @@ URL: <a href="http://www.educa.madrid.org/ies.elpinar.alcorcon">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="546">
+                <Point id="540">
                     <coordinates>-3.823199905186755,40.34168332003485,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="549">
+            <Placemark id="543">
                 <name>Profesor Maximo Trueba</name>
                 <description>
 <![CDATA[
@@ -5034,11 +5012,11 @@ URL: <a href="http://www.educa.madrid.org/ies.maximotrueba.boadilla">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="548">
+                <Point id="542">
                     <coordinates>-3.880448676326674,40.408090789346915,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="551">
+            <Placemark id="545">
                 <name>de la Cabrera</name>
                 <description>
 <![CDATA[
@@ -5052,11 +5030,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lacabrera">www.educa.madrid.org/ie
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="550">
+                <Point id="544">
                     <coordinates>-3.609232653826637,40.86880554629884,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="553">
+            <Placemark id="547">
                 <name>Antonio Gaudi</name>
                 <description>
 <![CDATA[
@@ -5070,11 +5048,11 @@ URL: <a href="http://www.educa.madrid.org/ies.antoniogaudi.coslada">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="552">
+                <Point id="546">
                     <coordinates>-3.537453187909476,40.42539226194194,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="555">
+            <Placemark id="549">
                 <name>Altair</name>
                 <description>
 <![CDATA[
@@ -5088,11 +5066,11 @@ URL: <a href="http://www.educa.madrid.org/ies.altair.getafe">www.educa.madrid.or
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="554">
+                <Point id="548">
                     <coordinates>-3.74018537367733,40.31716284803004,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="557">
+            <Placemark id="551">
                 <name>Juana de Castilla</name>
                 <description>
 <![CDATA[
@@ -5107,11 +5085,11 @@ URL: <a href="http://www.educa.madrid.org/ies.juanadecastilla.madrid">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="556">
+                <Point id="550">
                     <coordinates>-3.6318222798259647,40.40041037975515,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="559">
+            <Placemark id="553">
                 <name>Miguel Delibes</name>
                 <description>
 <![CDATA[
@@ -5126,11 +5104,11 @@ URL: <a href="http://www.educa.madrid.org/ies.delibes.mejorada">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="558">
+                <Point id="552">
                     <coordinates>-3.482778694465418,40.39250699282308,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="561">
+            <Placemark id="555">
                 <name>Profesor Angel Ysern</name>
                 <description>
 <![CDATA[
@@ -5144,11 +5122,11 @@ URL: <a href="http://www.educa.madrid.org/ies.angelysern.navalcarnero">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="560">
+                <Point id="554">
                     <coordinates>-4.009425569183311,40.29504546348087,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="563">
+            <Placemark id="557">
                 <name>la Laguna</name>
                 <description>
 <![CDATA[
@@ -5162,11 +5140,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lalaguna.parla">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="562">
+                <Point id="556">
                     <coordinates>-3.7710954055039965,40.24703131634002,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="565">
+            <Placemark id="559">
                 <name>Las Lagunas</name>
                 <description>
 <![CDATA[
@@ -5181,11 +5159,11 @@ URL: <a href="http://www.educa.madrid.org/ies.laslagunas.rivas">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="564">
+                <Point id="558">
                     <coordinates>-3.546601847942929,40.36428555493367,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="567">
+            <Placemark id="561">
                 <name>Palas Atenea</name>
                 <description>
 <![CDATA[
@@ -5200,11 +5178,11 @@ URL: <a href="http://www.educa.madrid.org/ies.palasatenea.torrejondeardoz">www.e
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="566">
+                <Point id="560">
                     <coordinates>-3.456491264434036,40.46574051280959,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="569">
+            <Placemark id="563">
                 <name>Calatalifa</name>
                 <description>
 <![CDATA[
@@ -5219,11 +5197,11 @@ URL: <a href="http://www.educa.madrid.org/ies.calatalifa.villaviciosa">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="568">
+                <Point id="562">
                     <coordinates>-3.9009285474779425,40.35657256720988,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="571">
+            <Placemark id="565">
                 <name>Las Canteras</name>
                 <description>
 <![CDATA[
@@ -5238,11 +5216,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lascanteras.colladovillalba">www.e
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="570">
+                <Point id="564">
                     <coordinates>-3.998612325674447,40.64140358664213,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="573">
+            <Placemark id="567">
                 <name>Satafi</name>
                 <description>
 <![CDATA[
@@ -5257,11 +5235,11 @@ URL: <a href="http://www.educa.madrid.org/ies.satafi.getafe">www.educa.madrid.or
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="572">
+                <Point id="566">
                     <coordinates>-3.7109413899463046,40.314129987891135,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="575">
+            <Placemark id="569">
                 <name>Ignacio Ellacuria</name>
                 <description>
 <![CDATA[
@@ -5275,11 +5253,11 @@ URL: <a href="http://www.educa.madrid.org/ies.ignacioellacuria.alcala">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="574">
+                <Point id="568">
                     <coordinates>-3.3534079842011852,40.496966565517745,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="577">
+            <Placemark id="571">
                 <name>Maria Guerrero</name>
                 <description>
 <![CDATA[
@@ -5294,11 +5272,11 @@ URL: <a href="http://www.educa.madrid.org/ies.mariaguerrero.colladovillalba">www
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="576">
+                <Point id="570">
                     <coordinates>-4.003067193767891,40.626149448325044,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="579">
+            <Placemark id="573">
                 <name>Pablo Neruda</name>
                 <description>
 <![CDATA[
@@ -5312,11 +5290,11 @@ URL: <a href="http://www.educa.madrid.org/ies.neruda.leganes">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="578">
+                <Point id="572">
                     <coordinates>-3.7442195361008705,40.33083991551338,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="581">
+            <Placemark id="575">
                 <name>Gabriel Garcia Marquez</name>
                 <description>
 <![CDATA[
@@ -5330,11 +5308,11 @@ URL: <a href="http://www.educa.madrid.org/ies.garciamarquez.leganes">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="580">
+                <Point id="574">
                     <coordinates>-3.751551431799145,40.32959429189037,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="583">
+            <Placemark id="577">
                 <name>Joaquin Araujo</name>
                 <description>
 <![CDATA[
@@ -5349,11 +5327,11 @@ URL: <a href="http://www.educa.madrid.org/ies.joaquinaraujo.fuenlabrada">www.edu
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="582">
+                <Point id="576">
                     <coordinates>-3.786620977042366,40.280017801437204,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="585">
+            <Placemark id="579">
                 <name>Dolores Ibarruri</name>
                 <description>
 <![CDATA[
@@ -5367,11 +5345,11 @@ URL: <a href="http://www.educa.madrid.org/ies.doloresibarruri.fuenlabrada">www.e
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="584">
+                <Point id="578">
                     <coordinates>-3.79523901713812,40.278643543355,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="587">
+            <Placemark id="581">
                 <name>Antonio Lopez García</name>
                 <description>
 <![CDATA[
@@ -5385,11 +5363,11 @@ URL: <a href="http://www.educa.madrid.org/ies.antoniolopezgarcia.getafe">www.edu
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="586">
+                <Point id="580">
                     <coordinates>-3.724143408956329,40.32597626047357,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="589">
+            <Placemark id="583">
                 <name>Margarita Salas</name>
                 <description>
 <![CDATA[
@@ -5404,11 +5382,11 @@ URL: <a href="http://www.educa.madrid.org/ies.margaritasalas.majadahonda">www.ed
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="588">
+                <Point id="582">
                     <coordinates>-3.866118611503743,40.46696443456846,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="591">
+            <Placemark id="585">
                 <name>Antonio Gala</name>
                 <description>
 <![CDATA[
@@ -5423,11 +5401,11 @@ URL: <a href="http://www.educa.madrid.org/ies.antoniogala.mostoles">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="590">
+                <Point id="584">
                     <coordinates>-3.881463155585161,40.32408260832969,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="593">
+            <Placemark id="587">
                 <name>Miguel Hernández</name>
                 <description>
 <![CDATA[
@@ -5441,11 +5419,11 @@ URL: <a href="http://www.educa.madrid.org/ies.miguelhernandez.mostoles">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="592">
+                <Point id="586">
                     <coordinates>-3.84840421053408,40.32542891772433,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="595">
+            <Placemark id="589">
                 <name>Pintor Antonio Lopez</name>
                 <description>
 <![CDATA[
@@ -5460,11 +5438,11 @@ URL: <a href="http://www.educa.madrid.org/ies.antoniolopez.trescantos">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="594">
+                <Point id="588">
                     <coordinates>-3.701276707151476,40.604278065441164,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="597">
+            <Placemark id="591">
                 <name>Itaca</name>
                 <description>
 <![CDATA[
@@ -5480,12 +5458,12 @@ Nocturno en:<br />
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#182</styleUrl>
-                <Point id="596">
+                <styleUrl>#157</styleUrl>
+                <Point id="590">
                     <coordinates>-3.807617598107521,40.358000562771466,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="599">
+            <Placemark id="593">
                 <name>Albéniz</name>
                 <description>
 <![CDATA[
@@ -5500,11 +5478,11 @@ URL: <a href="http://www.educa.madrid.org/ies.albeniz.alcala">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="598">
+                <Point id="592">
                     <coordinates>-3.37026139960608,40.47576063583667,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="601">
+            <Placemark id="595">
                 <name>Luis Braille</name>
                 <description>
 <![CDATA[
@@ -5518,11 +5496,11 @@ URL: <a href="http://www.educa.madrid.org/ies.luisbraille.coslada">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="600">
+                <Point id="594">
                     <coordinates>-3.5567212408584377,40.42893173876431,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="603">
+            <Placemark id="597">
                 <name>Infanta Elena</name>
                 <description>
 <![CDATA[
@@ -5537,11 +5515,11 @@ URL: <a href="http://www.educa.madrid.org/ies.infantaelena.galapagar">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="602">
+                <Point id="596">
                     <coordinates>-4.010176593656962,40.584773852699804,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="605">
+            <Placemark id="599">
                 <name>Icaro</name>
                 <description>
 <![CDATA[
@@ -5555,11 +5533,11 @@ URL: <a href="http://www.educa.madrid.org/ies.icaro.getafe">www.educa.madrid.org
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="604">
+                <Point id="598">
                     <coordinates>-3.7409223252165846,40.31782480980307,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="607">
+            <Placemark id="601">
                 <name>Santa Eugenia</name>
                 <description>
 <![CDATA[
@@ -5573,11 +5551,11 @@ URL: <a href="http://www.educa.madrid.org/ies.santaeugenia.madrid">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="606">
+                <Point id="600">
                     <coordinates>-3.6032356895837507,40.387400745688566,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="609">
+            <Placemark id="603">
                 <name>Clara Del Rey</name>
                 <description>
 <![CDATA[
@@ -5591,11 +5569,11 @@ URL: <a href="http://www.educa.madrid.org/ies.claradelrey.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="608">
+                <Point id="602">
                     <coordinates>-3.6631195016769222,40.44828035483784,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="611">
+            <Placemark id="605">
                 <name>Europa</name>
                 <description>
 <![CDATA[
@@ -5610,11 +5588,11 @@ URL: <a href="http://www.educa.madrid.org/ies.europa.mostoles">www.educa.madrid.
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="610">
+                <Point id="604">
                     <coordinates>-3.8491477442484134,40.32934243300557,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="613">
+            <Placemark id="607">
                 <name>Antonio de Nebrija</name>
                 <description>
 <![CDATA[
@@ -5629,11 +5607,11 @@ URL: <a href="http://www.educa.madrid.org/ies.antoniodenebrija.mostoles">www.edu
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="612">
+                <Point id="606">
                     <coordinates>-3.851198004972071,40.31450733384269,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="615">
+            <Placemark id="609">
                 <name>Valle Inclan</name>
                 <description>
 <![CDATA[
@@ -5647,11 +5625,11 @@ URL: <a href="http://www.educa.madrid.org/ies.valleinclan.torrejondeardoz">www.e
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="614">
+                <Point id="608">
                     <coordinates>-3.457215302662548,40.46466557646621,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="617">
+            <Placemark id="611">
                 <name>Rosa Chacel</name>
                 <description>
 <![CDATA[
@@ -5666,11 +5644,11 @@ URL: <a href="http://www.educa.madrid.org/ies.rosachacel.colmenarviejo">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="616">
+                <Point id="610">
                     <coordinates>-3.764275961375952,40.65609276767517,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="619">
+            <Placemark id="613">
                 <name>Victoria Kent</name>
                 <description>
 <![CDATA[
@@ -5684,11 +5662,11 @@ URL: <a href="http://www.educa.madrid.org/ies.victoriakent.fuenlabrada">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="618">
+                <Point id="612">
                     <coordinates>-3.8091198167100515,40.304340644397605,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="621">
+            <Placemark id="615">
                 <name>Pablo Picasso</name>
                 <description>
 <![CDATA[
@@ -5703,11 +5681,11 @@ URL: <a href="http://www.educa.madrid.org/ies.picasso.pinto">www.educa.madrid.or
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="620">
+                <Point id="614">
                     <coordinates>-3.6926965645217376,40.24009445823419,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="623">
+            <Placemark id="617">
                 <name>Juan de Mairena</name>
                 <description>
 <![CDATA[
@@ -5722,11 +5700,11 @@ URL: <a href="http://www.educa.madrid.org/ies.juandemairena.sansebastian">www.ed
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="622">
+                <Point id="616">
                     <coordinates>-3.6336347854332876,40.55076021123937,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="625">
+            <Placemark id="619">
                 <name>Carmen Conde</name>
                 <description>
 <![CDATA[
@@ -5741,11 +5719,11 @@ URL: <a href="http://www.educa.madrid.org/ies.carmenconde.lasrozas">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="624">
+                <Point id="618">
                     <coordinates>-3.90941678296864,40.53223425974364,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="627">
+            <Placemark id="621">
                 <name>Luis Garcia Berlanga</name>
                 <description>
 <![CDATA[
@@ -5760,11 +5738,11 @@ URL: <a href="http://www.educa.madrid.org/ies.garciaberlanga.coslada">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="626">
+                <Point id="620">
                     <coordinates>-3.561366292350298,40.43178316786993,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="629">
+            <Placemark id="623">
                 <name>Rayuela</name>
                 <description>
 <![CDATA[
@@ -5779,11 +5757,11 @@ URL: <a href="http://www.educa.madrid.org/ies.rayuela.mostoles">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="628">
+                <Point id="622">
                     <coordinates>-3.873397667130768,40.333017769762144,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="631">
+            <Placemark id="625">
                 <name>el Olivo</name>
                 <description>
 <![CDATA[
@@ -5797,11 +5775,11 @@ URL: <a href="http://www.educa.madrid.org/ies.elolivo.parla">www.educa.madrid.or
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="630">
+                <Point id="624">
                     <coordinates>-3.7603109202751153,40.23836365981099,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="633">
+            <Placemark id="627">
                 <name>Doctor Marañon</name>
                 <description>
 <![CDATA[
@@ -5816,11 +5794,11 @@ URL: <a href="http://www.educa.madrid.org/ies.maranon.alcala">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="632">
+                <Point id="626">
                     <coordinates>-3.375385294444324,40.49550988458704,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="635">
+            <Placemark id="629">
                 <name>Duque de Rivas</name>
                 <description>
 <![CDATA[
@@ -5835,11 +5813,11 @@ URL: <a href="http://www.educa.madrid.org/ies.duquederivas.rivas">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="634">
+                <Point id="628">
                     <coordinates>-3.53249705685492,40.36942351842263,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="637">
+            <Placemark id="631">
                 <name>Anselmo Lorenzo</name>
                 <description>
 <![CDATA[
@@ -5854,11 +5832,11 @@ URL: <a href="http://www.educa.madrid.org/ies.anselmolorenzo.sanmartindelavega">
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="636">
+                <Point id="630">
                     <coordinates>-3.565370269265144,40.21679455017861,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="639">
+            <Placemark id="633">
                 <name>Francisco de Quevedo</name>
                 <description>
 <![CDATA[
@@ -5876,12 +5854,12 @@ Nocturno en:<br />
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="638">
+                <styleUrl>#141</styleUrl>
+                <Point id="632">
                     <coordinates>-3.6212404296694998,40.423512929137424,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="641">
+            <Placemark id="635">
                 <name>Los Olivos</name>
                 <description>
 <![CDATA[
@@ -5895,11 +5873,11 @@ URL: <a href="http://www.educa.madrid.org/ies.losolivos.mejorada">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="640">
+                <Point id="634">
                     <coordinates>-3.4786455574590582,40.39454222171172,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="643">
+            <Placemark id="637">
                 <name>Manuel de Falla</name>
                 <description>
 <![CDATA[
@@ -5914,11 +5892,11 @@ URL: <a href="http://www.educa.madrid.org/ies.manueldefalla.coslada">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="642">
+                <Point id="636">
                     <coordinates>-3.553394003206593,40.41853322408502,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="645">
+            <Placemark id="639">
                 <name>Villarejo de Salvanés</name>
                 <description>
 <![CDATA[
@@ -5933,11 +5911,11 @@ URL: <a href="http://www.educa.madrid.org/ies.villarejo">www.educa.madrid.org/ie
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="644">
+                <Point id="638">
                     <coordinates>-3.2853674336437595,40.17667725267392,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="647">
+            <Placemark id="641">
                 <name>Lazaro Cardenas</name>
                 <description>
 <![CDATA[
@@ -5952,11 +5930,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lazarocardenas.colladovillalba">ww
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="646">
+                <Point id="640">
                     <coordinates>-4.017158593075469,40.62288218517892,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="649">
+            <Placemark id="643">
                 <name>Francisco de Goya</name>
                 <description>
 <![CDATA[
@@ -5971,11 +5949,11 @@ URL: <a href="http://www.educa.madrid.org/ies.goya.madrid">www.educa.madrid.org/
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="648">
+                <Point id="642">
                     <coordinates>-3.649582971836749,40.42023101736306,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="651">
+            <Placemark id="645">
                 <name>Pedro de Tolosa</name>
                 <description>
 <![CDATA[
@@ -5990,11 +5968,11 @@ URL: <a href="http://www.educa.madrid.org/ies.pedrodetolosa.sanmartindevaldeigle
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="650">
+                <Point id="644">
                     <coordinates>-4.403253061027988,40.36442385941407,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="653">
+            <Placemark id="647">
                 <name>Senda Galiana</name>
                 <description>
 <![CDATA[
@@ -6008,11 +5986,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sendagaliana.torres">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="652">
+                <Point id="646">
                     <coordinates>-3.3582815543399716,40.39920309545337,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="655">
+            <Placemark id="649">
                 <name>Humanes</name>
                 <description>
 <![CDATA[
@@ -6027,11 +6005,11 @@ URL: <a href="http://www.educa.madrid.org/ies.humanes.humanes">www.educa.madrid.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="654">
+                <Point id="648">
                     <coordinates>-3.8188195410439856,40.24904589040468,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="657">
+            <Placemark id="651">
                 <name>Avalon</name>
                 <description>
 <![CDATA[
@@ -6045,11 +6023,11 @@ URL: <a href="http://www.educa.madrid.org/ies.avalon.valdemoro">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="656">
+                <Point id="650">
                     <coordinates>-3.6854729195366236,40.197586295398104,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="659">
+            <Placemark id="653">
                 <name>Valmayor</name>
                 <description>
 <![CDATA[
@@ -6063,11 +6041,11 @@ URL: <a href="http://www.educa.madrid.org/ies.valmayor.valdemorillo">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="658">
+                <Point id="652">
                     <coordinates>-4.064417305752013,40.50373086321872,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="661">
+            <Placemark id="655">
                 <name>Madrid-Sur</name>
                 <description>
 <![CDATA[
@@ -6082,12 +6060,12 @@ URL: <a href="http://www.educa.madrid.org/ies.madridsur.madrid">www.educa.madrid
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="660">
+                <styleUrl>#141</styleUrl>
+                <Point id="654">
                     <coordinates>-3.6553064077645456,40.37836053224286,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="663">
+            <Placemark id="657">
                 <name>Atenea</name>
                 <description>
 <![CDATA[
@@ -6102,11 +6080,11 @@ URL: <a href="http://www.educa.madrid.org/ies.atenea.alcala">www.educa.madrid.or
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="662">
+                <Point id="656">
                     <coordinates>-3.366821082639458,40.470086904342764,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="665">
+            <Placemark id="659">
                 <name>Alpedrete</name>
                 <description>
 <![CDATA[
@@ -6121,11 +6099,11 @@ URL: <a href="http://www.educa.madrid.org/ies.alpedrete.alpedrete">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="664">
+                <Point id="658">
                     <coordinates>-4.015106792379385,40.65602481168723,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="667">
+            <Placemark id="661">
                 <name>Francisco Ayala</name>
                 <description>
 <![CDATA[
@@ -6139,11 +6117,11 @@ URL: <a href="http://www.educa.madrid.org/ies.franciscoayala.hoyodemanzanares">w
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="666">
+                <Point id="660">
                     <coordinates>-3.9000001202950605,40.62784550890536,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="669">
+            <Placemark id="663">
                 <name>Ignacio Aldecoa</name>
                 <description>
 <![CDATA[
@@ -6158,11 +6136,11 @@ URL: <a href="http://www.educa.madrid.org/ies.ignacioaldecoa.getafe">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="668">
+                <Point id="662">
                     <coordinates>-3.656176935763625,40.32721062015021,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="671">
+            <Placemark id="665">
                 <name>Maestro Juan Maria Leonet</name>
                 <description>
 <![CDATA[
@@ -6176,11 +6154,11 @@ URL: <a href="http://www.educa.madrid.org/ies.maestrojmleonet.villadelprado">www
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="670">
+                <Point id="664">
                     <coordinates>-4.302747177093565,40.27457373027531,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="673">
+            <Placemark id="667">
                 <name>Las Encinas</name>
                 <description>
 <![CDATA[
@@ -6195,11 +6173,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lasencinas.villanuevadelacanada">w
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="672">
+                <Point id="666">
                     <coordinates>-3.992849099053833,40.45723370943881,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="675">
+            <Placemark id="669">
                 <name>Griñon</name>
                 <description>
 <![CDATA[
@@ -6213,11 +6191,11 @@ URL: <a href="http://www.educa.madrid.org/ies.grinon.grinon">www.educa.madrid.or
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="674">
+                <Point id="668">
                     <coordinates>-3.8446601536446705,40.216642996627364,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="677">
+            <Placemark id="671">
                 <name>San Agustin de Guadalix</name>
                 <description>
 <![CDATA[
@@ -6232,11 +6210,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sanagustin.sanagustin">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="676">
+                <Point id="670">
                     <coordinates>-3.617920956346776,40.6809948760735,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="679">
+            <Placemark id="673">
                 <name>Cañada Real</name>
                 <description>
 <![CDATA[
@@ -6251,11 +6229,11 @@ URL: <a href="http://www.educa.madrid.org/ies.canadareal.galapagar">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="678">
+                <Point id="672">
                     <coordinates>-4.0069939159539025,40.5852881120288,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="681">
+            <Placemark id="675">
                 <name>el Escorial</name>
                 <description>
 <![CDATA[
@@ -6270,11 +6248,11 @@ URL: <a href="http://www.educa.madrid.org/ies.elescorial.elescorial">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="680">
+                <Point id="674">
                     <coordinates>-4.1230424773689,40.58037138671233,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="683">
+            <Placemark id="677">
                 <name>Escuela de la Vid</name>
                 <description>
 <![CDATA[
@@ -6288,11 +6266,11 @@ URL: <a href="http://www.educa.madrid.org/ies.vid.madrid">www.educa.madrid.org/i
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="682">
+                <Point id="676">
                     <coordinates>-3.7417977430775653,40.412775212387984,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="685">
+            <Placemark id="679">
                 <name>Europa</name>
                 <description>
 <![CDATA[
@@ -6306,11 +6284,11 @@ URL: <a href="http://www.educa.madrid.org/ies.europa.rivas">www.educa.madrid.org
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="684">
+                <Point id="678">
                     <coordinates>-3.528475841081945,40.35827059016687,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="687">
+            <Placemark id="681">
                 <name>Gregorio Peces-Barba</name>
                 <description>
 <![CDATA[
@@ -6325,11 +6303,11 @@ URL: <a href="http://www.educa.madrid.org/ies.colmenarejo">www.educa.madrid.org/
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="686">
+                <Point id="680">
                     <coordinates>-4.0116508937125275,40.55870781607632,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="689">
+            <Placemark id="683">
                 <name>Principe Felipe</name>
                 <description>
 <![CDATA[
@@ -6344,11 +6322,11 @@ URL: <a href="http://www.educa.madrid.org/ies.principefelipe.madrid">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="688">
+                <Point id="682">
                     <coordinates>-3.7014003108561178,40.48253174113349,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="691">
+            <Placemark id="685">
                 <name>Puerta Bonita</name>
                 <description>
 <![CDATA[
@@ -6362,11 +6340,11 @@ URL: <a href="http://www.educa.madrid.org/ies.puertabonita.madrid">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="690">
+                <Point id="684">
                     <coordinates>-3.738355726932021,40.38145471952968,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="693">
+            <Placemark id="687">
                 <name>Hotel Escuela de la Comunidad de Madrid</name>
                 <description>
 <![CDATA[
@@ -6380,11 +6358,11 @@ URL: <a href="http://www.educa.madrid.org/ies.hotelescuela.madrid">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="692">
+                <Point id="686">
                     <coordinates>-3.6815378965044627,40.5274519007419,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="695">
+            <Placemark id="689">
                 <name>Federico Garcia Lorca</name>
                 <description>
 <![CDATA[
@@ -6399,11 +6377,11 @@ URL: <a href="http://www.educa.madrid.org/ies.garcialorca.lasrozas">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="694">
+                <Point id="688">
                     <coordinates>-3.897476023764592,40.55318295805941,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="697">
+            <Placemark id="691">
                 <name>Centro de Capacitacion Agraria</name>
                 <description>
 <![CDATA[
@@ -6417,11 +6395,11 @@ URL: <a href="http://www.educa.madrid.org/ies.capacitacionagraria.villaviciosa">
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="696">
+                <Point id="690">
                     <coordinates>-3.88933479729651,40.36150917884228,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="699">
+            <Placemark id="693">
                 <name>Gabriela Mistral</name>
                 <description>
 <![CDATA[
@@ -6436,11 +6414,11 @@ URL: <a href="http://www.educa.madrid.org/ies.gabrielamistral.arroyomolinos">www
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="698">
+                <Point id="692">
                     <coordinates>-3.914825556108031,40.265939760179386,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="701">
+            <Placemark id="695">
                 <name>Alfonso Moreno</name>
                 <description>
 <![CDATA[
@@ -6455,11 +6433,11 @@ URL: <a href="http://www.educa.madrid.org/ies.alfonsomoreno.brunete">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="700">
+                <Point id="694">
                     <coordinates>-4.000705244138449,40.415184481482754,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="703">
+            <Placemark id="697">
                 <name>Gabriel Cisneros</name>
                 <description>
 <![CDATA[
@@ -6474,11 +6452,11 @@ URL: <a href="http://www.educa.madrid.org/ies.gabrielcisneros.mostoles">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="702">
+                <Point id="696">
                     <coordinates>-3.92129215126297,40.31779019143552,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="705">
+            <Placemark id="699">
                 <name>Sevilla la Nueva</name>
                 <description>
 <![CDATA[
@@ -6493,11 +6471,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sevillalanueva.sevilla">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="704">
+                <Point id="698">
                     <coordinates>-4.029788824123546,40.348289727505964,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="707">
+            <Placemark id="701">
                 <name>Sapere Aude</name>
                 <description>
 <![CDATA[
@@ -6512,11 +6490,11 @@ URL: <a href="http://www.educa.madrid.org/ies.villanuevadelpardillo">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="706">
+                <Point id="700">
                     <coordinates>-3.960969753648518,40.492781840820314,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="709">
+            <Placemark id="703">
                 <name>Miguel de Cervantes</name>
                 <description>
 <![CDATA[
@@ -6531,11 +6509,11 @@ URL: <a href="http://www.educa.madrid.org/ies.cervantes.mostoles">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="708">
+                <Point id="702">
                     <coordinates>-3.876970499888654,40.31072918428328,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="711">
+            <Placemark id="705">
                 <name>Profesor Julio Perez</name>
                 <description>
 <![CDATA[
@@ -6549,11 +6527,11 @@ URL: <a href="http://www.educa.madrid.org/ies.profesorjulioperez.rivas">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="710">
+                <Point id="704">
                     <coordinates>-3.5127346856162505,40.333980559816126,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="713">
+            <Placemark id="707">
                 <name>Las Americas</name>
                 <description>
 <![CDATA[
@@ -6567,11 +6545,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lasamericas.parla">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="712">
+                <Point id="706">
                     <coordinates>-3.760937827715024,40.237656814307215,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="715">
+            <Placemark id="709">
                 <name>Ana Maria Matute</name>
                 <description>
 <![CDATA[
@@ -6585,11 +6563,11 @@ URL: <a href="http://www.educa.madrid.org/ies.anammatute.velilla">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="714">
+                <Point id="708">
                     <coordinates>-3.4828886338850062,40.37325397348443,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="717">
+            <Placemark id="711">
                 <name>Gaspar Sanz</name>
                 <description>
 <![CDATA[
@@ -6604,11 +6582,11 @@ URL: <a href="http://www.educa.madrid.org/ies.gasparsanz.meco">www.educa.madrid.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="716">
+                <Point id="710">
                     <coordinates>-3.3209272224261057,40.548079091806606,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="719">
+            <Placemark id="713">
                 <name>Adolfo Suarez</name>
                 <description>
 <![CDATA[
@@ -6623,11 +6601,11 @@ URL: <a href="http://www.educa.madrid.org/ies.adolfosuarez.paracuellos">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="718">
+                <Point id="712">
                     <coordinates>-3.524619333661828,40.50472154523509,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="721">
+            <Placemark id="715">
                 <name>Renacimiento</name>
                 <description>
 <![CDATA[
@@ -6642,11 +6620,11 @@ URL: <a href="http://www.educa.madrid.org/ies.renacimiento.madrid">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="720">
+                <Point id="714">
                     <coordinates>-3.736239723111443,40.39593678580128,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="723">
+            <Placemark id="717">
                 <name>Sierra de Guadarrama</name>
                 <description>
 <![CDATA[
@@ -6661,11 +6639,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sierradeguadarrama.soto">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="722">
+                <Point id="716">
                     <coordinates>-3.77875319927015,40.756576755460266,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="725">
+            <Placemark id="719">
                 <name>Numancia</name>
                 <description>
 <![CDATA[
@@ -6680,11 +6658,11 @@ URL: <a href="http://www.educa.madrid.org/ies.numancia.madrid">www.educa.madrid.
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="724">
+                <Point id="718">
                     <coordinates>-3.653198591825861,40.40405739321793,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="727">
+            <Placemark id="721">
                 <name>Escuela de Hosteleria y Turismo</name>
                 <description>
 <![CDATA[
@@ -6698,11 +6676,11 @@ URL: <a href="http://www.educa.madrid.org/ies.hosteleria.alcala">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="726">
+                <Point id="720">
                     <coordinates>-3.345900943990549,40.49436765807968,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="729">
+            <Placemark id="723">
                 <name>Jose Saramago</name>
                 <description>
 <![CDATA[
@@ -6717,11 +6695,11 @@ URL: <a href="http://www.educa.madrid.org/ies.josesaramago.arganda">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="728">
+                <Point id="722">
                     <coordinates>-3.4514809439052385,40.314424514949486,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="731">
+            <Placemark id="725">
                 <name>Atenea</name>
                 <description>
 <![CDATA[
@@ -6736,11 +6714,11 @@ URL: <a href="http://www.educa.madrid.org/ies.atenea.sansebastian">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="730">
+                <Point id="724">
                     <coordinates>-3.6252856872058516,40.56101272735195,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="733">
+            <Placemark id="727">
                 <name>Arquitecto Ventura Rodriguez</name>
                 <description>
 <![CDATA[
@@ -6755,11 +6733,11 @@ URL: <a href="http://www.educa.madrid.org/ies.arquitectoventurarodriguez.boadill
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="732">
+                <Point id="726">
                     <coordinates>-3.8918023860424036,40.4111028634933,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="735">
+            <Placemark id="729">
                 <name>Jose Saramago</name>
                 <description>
 <![CDATA[
@@ -6774,11 +6752,11 @@ URL: <a href="http://www.educa.madrid.org/ies.josesaramago.majadahonda">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="734">
+                <Point id="728">
                     <coordinates>-3.8752644159562775,40.46910271940943,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="737">
+            <Placemark id="731">
                 <name>Barrio Loranca</name>
                 <description>
 <![CDATA[
@@ -6793,11 +6771,11 @@ URL: <a href="http://www.educa.madrid.org/ies.barrioloranca.fuenlabrada">www.edu
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="736">
+                <Point id="730">
                     <coordinates>-3.833793652551097,40.29649863409369,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="739">
+            <Placemark id="733">
                 <name>el Alamo</name>
                 <description>
 <![CDATA[
@@ -6812,11 +6790,11 @@ URL: <a href="http://www.educa.madrid.org/ies.elalamo.elalamo">www.educa.madrid.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="738">
+                <Point id="732">
                     <coordinates>-3.9835433850324167,40.23024019947756,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="741">
+            <Placemark id="735">
                 <name>Miguel Delibes</name>
                 <description>
 <![CDATA[
@@ -6830,11 +6808,11 @@ URL: <a href="http://www.educa.madrid.org/ies.migueldelibes.torrejondelacalzada"
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="740">
+                <Point id="734">
                     <coordinates>-3.8036649735910344,40.195438638607726,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="743">
+            <Placemark id="737">
                 <name>Sabino Fernandez Campo</name>
                 <description>
 <![CDATA[
@@ -6849,11 +6827,11 @@ URL: <a href="http://www.educa.madrid.org/ies.sabinofernandezcampo.robledo">www.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="742">
+                <Point id="736">
                     <coordinates>-4.233729835734161,40.500614802625876,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="745">
+            <Placemark id="739">
                 <name>Lazaro Carreter</name>
                 <description>
 <![CDATA[
@@ -6868,12 +6846,12 @@ URL: <a href="http://www.educa.madrid.org/ies.lazarocarreter.alcala">www.educa.m
     </body>
 </html>
 ]]>                </description>
-                <styleUrl>#215</styleUrl>
-                <Point id="744">
+                <styleUrl>#141</styleUrl>
+                <Point id="738">
                     <coordinates>-3.372165456622246,40.506511266348426,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="747">
+            <Placemark id="741">
                 <name>Miguel de Cervantes</name>
                 <description>
 <![CDATA[
@@ -6887,11 +6865,11 @@ URL: <a href="http://www.educa.madrid.org/ies.migueldecervantes.daganzo">www.edu
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="746">
+                <Point id="740">
                     <coordinates>-3.461374829811982,40.54672073732189,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="749">
+            <Placemark id="743">
                 <name>Don Pelayo</name>
                 <description>
 <![CDATA[
@@ -6906,11 +6884,11 @@ URL: <a href="http://www.educa.madrid.org/ies.donpelayo.villalbilla">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="748">
+                <Point id="742">
                     <coordinates>-3.3506805258880927,40.451344108480534,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="751">
+            <Placemark id="745">
                 <name>Santiago Rusiñol</name>
                 <description>
 <![CDATA[
@@ -6925,11 +6903,11 @@ URL: <a href="http://www.educa.madrid.org/ies.santiagorusinol.aranjuez">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="750">
+                <Point id="744">
                     <coordinates>-3.5825931281453594,40.03599607371764,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="753">
+            <Placemark id="747">
                 <name>Maestro Matias Bravo</name>
                 <description>
 <![CDATA[
@@ -6943,11 +6921,11 @@ URL: <a href="http://www.educa.madrid.org/ies.maestromatiasbravo.valdemoro">www.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="752">
+                <Point id="746">
                     <coordinates>-3.687943217707881,40.18044477550918,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="755">
+            <Placemark id="749">
                 <name>Francisco Umbral</name>
                 <description>
 <![CDATA[
@@ -6962,11 +6940,11 @@ URL: <a href="http://www.educa.madrid.org/ies.franciscoumbral.ciempozuelos">www.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="754">
+                <Point id="748">
                     <coordinates>-3.6260032374089546,40.16345309015113,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="757">
+            <Placemark id="751">
                 <name>Villaverde</name>
                 <description>
 <![CDATA[
@@ -6980,11 +6958,11 @@ URL: <a href="http://www.educa.madrid.org/ies.villaverde.madrid">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="756">
+                <Point id="750">
                     <coordinates>-3.6891210598261033,40.35921778907771,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="759">
+            <Placemark id="753">
                 <name>Antares</name>
                 <description>
 <![CDATA[
@@ -6999,11 +6977,11 @@ URL: <a href="http://www.educa.madrid.org/ies.antares.rivas">www.educa.madrid.or
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="758">
+                <Point id="752">
                     <coordinates>-3.514357892375157,40.3554963447304,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="761">
+            <Placemark id="755">
                 <name>Luis Garcia Berlanga</name>
                 <description>
 <![CDATA[
@@ -7017,11 +6995,11 @@ URL: <a href="http://www.educa.madrid.org/ies.luisgarciaberlanga.guadalix">www.e
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="760">
+                <Point id="754">
                     <coordinates>-3.694808885795988,40.78405709376294,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="763">
+            <Placemark id="757">
                 <name>Gonzalo Anes</name>
                 <description>
 <![CDATA[
@@ -7035,11 +7013,11 @@ URL: <a href="http://www.educa.madrid.org/ies.gonzaloanes.colladomediano">www.ed
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="762">
+                <Point id="756">
                     <coordinates>-4.04069700245632,40.69207431619013,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="765">
+            <Placemark id="759">
                 <name>Calderon de la Barca</name>
                 <description>
 <![CDATA[
@@ -7054,11 +7032,11 @@ URL: <a href="http://www.educa.madrid.org/ies.calderon.pinto">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="764">
+                <Point id="758">
                     <coordinates>-3.695523669191185,40.25787087650402,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="767">
+            <Placemark id="761">
                 <name>Fernando Fernan Gomez</name>
                 <description>
 <![CDATA[
@@ -7072,11 +7050,11 @@ URL: <a href="http://www.educa.madrid.org/ies.fernangomez.humanes">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="766">
+                <Point id="760">
                     <coordinates>-3.816971265351488,40.25765378218842,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="769">
+            <Placemark id="763">
                 <name>Jimena Menendez Pidal</name>
                 <description>
 <![CDATA[
@@ -7090,11 +7068,11 @@ URL: <a href="http://www.educa.madrid.org/ies.jimenamenendezpidal.fuenlabrada">w
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="768">
+                <Point id="762">
                     <coordinates>-3.813852083911901,40.286838628545695,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="771">
+            <Placemark id="765">
                 <name>Carpe Diem</name>
                 <description>
 <![CDATA[
@@ -7108,11 +7086,11 @@ URL: <a href="http://www.educa.madrid.org/ies.carpediem.fuenlabrada">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="770">
+                <Point id="764">
                     <coordinates>-3.829886121225142,40.29543661848211,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="773">
+            <Placemark id="767">
                 <name>Nicolas Copernico</name>
                 <description>
 <![CDATA[
@@ -7127,11 +7105,11 @@ URL: <a href="http://www.educa.madrid.org/ies.nicolascopernico.parla">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="772">
+                <Point id="766">
                     <coordinates>-3.7601569254713083,40.22564352881919,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="775">
+            <Placemark id="769">
                 <name>Cortes de Cadiz</name>
                 <description>
 <![CDATA[
@@ -7146,11 +7124,11 @@ URL: <a href="http://www.educa.madrid.org/ies.cortesdecadiz.elmolar">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="774">
+                <Point id="768">
                     <coordinates>-3.5820059725148514,40.74211581935749,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="777">
+            <Placemark id="771">
                 <name>la Senda</name>
                 <description>
 <![CDATA[
@@ -7165,11 +7143,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lasenda.getafe">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="776">
+                <Point id="770">
                     <coordinates>-3.746157788531093,40.29625016729616,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="779">
+            <Placemark id="773">
                 <name>Pedro Duque</name>
                 <description>
 <![CDATA[
@@ -7184,11 +7162,11 @@ URL: <a href="http://www.educa.madrid.org/ies.pedroduque.leganes">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="778">
+                <Point id="772">
                     <coordinates>-3.752188630350496,40.32867121560742,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="781">
+            <Placemark id="775">
                 <name>Manuel Fraga Iribarne</name>
                 <description>
 <![CDATA[
@@ -7203,11 +7181,11 @@ URL: <a href="http://www.educa.madrid.org/ies.manuelfragairibarne.madrid">www.ed
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="780">
+                <Point id="774">
                     <coordinates>-3.655962435857508,40.5017173370031,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="783">
+            <Placemark id="777">
                 <name>Jorge Guillen</name>
                 <description>
 <![CDATA[
@@ -7221,11 +7199,11 @@ URL: <a href="http://www.educa.madrid.org/ies.jorgeguillen.alcorcon">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="782">
+                <Point id="776">
                     <coordinates>-3.8182651346068512,40.341556172668525,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="785">
+            <Placemark id="779">
                 <name>Gonzalo Chacon</name>
                 <description>
 <![CDATA[
@@ -7239,11 +7217,11 @@ URL: <a href="http://www.educa.madrid.org/ies.gonzalochacon.arroyomolinos">www.e
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="784">
+                <Point id="778">
                     <coordinates>-3.9196920300265488,40.28659526611944,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="787">
+            <Placemark id="781">
                 <name>Jose Luis Lopez Aranguren</name>
                 <description>
 <![CDATA[
@@ -7257,11 +7235,11 @@ URL: <a href="http://www.educa.madrid.org/ies.lopezaranguren.fuenlabrada">www.ed
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="786">
+                <Point id="780">
                     <coordinates>-3.7808077310786716,40.29515662199597,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="789">
+            <Placemark id="783">
                 <name>Neil Armstrong</name>
                 <description>
 <![CDATA[
@@ -7276,11 +7254,11 @@ URL: <a href="http://www.educa.madrid.org/ies.neilarmstrong.valdemoro">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="788">
+                <Point id="782">
                     <coordinates>-3.666117666276544,40.191095401641455,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="791">
+            <Placemark id="785">
                 <name>Pedro Salinas</name>
                 <description>
 <![CDATA[
@@ -7298,11 +7276,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="790">
+                <Point id="784">
                     <coordinates>-3.7076351531552,40.3908180426279,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="793">
+            <Placemark id="787">
                 <name>Menendez Pelayo</name>
                 <description>
 <![CDATA[
@@ -7317,11 +7295,11 @@ URL: <a href="http://www.educa.madrid.org/ies.menendezpelayo.getafe">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="792">
+                <Point id="786">
                     <coordinates>-3.7218422026503912,40.32100856690091,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="795">
+            <Placemark id="789">
                 <name>Juan Gris</name>
                 <description>
 <![CDATA[
@@ -7339,11 +7317,11 @@ Nocturno en:<br />
 </html>
 ]]>                </description>
                 <styleUrl>#157</styleUrl>
-                <Point id="794">
+                <Point id="788">
                     <coordinates>-3.8526041443511194,40.31308254226893,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="797">
+            <Placemark id="791">
                 <name>el Cañaveral</name>
                 <description>
 <![CDATA[
@@ -7357,11 +7335,11 @@ URL: <a href="http://www.educa.madrid.org/ies.elcanaveral.mostoles">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="796">
+                <Point id="790">
                     <coordinates>-3.851198004972071,40.31450733384269,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="799">
+            <Placemark id="793">
                 <name>Francisco Ayala</name>
                 <description>
 <![CDATA[
@@ -7376,11 +7354,11 @@ URL: <a href="http://www.educa.madrid.org/ies.franciscoayala.madrid">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="798">
+                <Point id="792">
                     <coordinates>-3.7595234275964216,40.367605791280496,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="801">
+            <Placemark id="795">
                 <name>Rafael Frühbeck de Burgos</name>
                 <description>
 <![CDATA[
@@ -7395,11 +7373,11 @@ URL: <a href="http://www.educa.madrid.org/ies.rafaelfruhbeckdeburgos.leganes">ww
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="800">
+                <Point id="794">
                     <coordinates>-3.7864666249384165,40.31135285112994,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="803">
+            <Placemark id="797">
                 <name>Sor Juana de la Cruz</name>
                 <description>
 <![CDATA[
@@ -7414,11 +7392,11 @@ URL: <a href="http://www.educa.madrid.org/sies.humanes.cubasdelasagra">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="802">
+                <Point id="796">
                     <coordinates>-3.843110012593663,40.198716753866066,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="805">
+            <Placemark id="799">
                 <name>Jose Garcia Nieto</name>
                 <description>
 <![CDATA[
@@ -7433,11 +7411,11 @@ URL: <a href="http://www.educa.madrid.org/ies.josegarcianieto.lasrozas">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="804">
+                <Point id="798">
                     <coordinates>-3.891058732087455,40.52614320512832,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="807">
+            <Placemark id="801">
                 <name>Alfredo Kraus</name>
                 <description>
 <![CDATA[
@@ -7452,11 +7430,11 @@ URL: <a href="http://www.educa.madrid.org/ies.alfredokraus.madrid">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="806">
+                <Point id="800">
                     <coordinates>-3.606418921514693,40.42571775924666,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="809">
+            <Placemark id="803">
                 <name>Juan Ramón Jiménez</name>
                 <description>
 <![CDATA[
@@ -7470,11 +7448,11 @@ URL: <a href="http://www.educa.madrid.org/ies.juanramonjimenez.madrid">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="808">
+                <Point id="802">
                     <coordinates>-3.673565086350277,40.34633625669759,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="811">
+            <Placemark id="805">
                 <name>Maria Rodrigo</name>
                 <description>
 <![CDATA[
@@ -7489,11 +7467,11 @@ URL: <a href="http://www.educa.madrid.org/ies.mariarodrigo.madrid">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="810">
+                <Point id="804">
                     <coordinates>-3.617980155913691,40.36993527475338,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="813">
+            <Placemark id="807">
                 <name>Montserrat Caballe</name>
                 <description>
 <![CDATA[
@@ -7508,11 +7486,11 @@ URL: <a href="http://www.educa.madrid.org/sies.jlsampedro.trescantos">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="812">
+                <Point id="806">
                     <coordinates>-3.721776344079965,40.61783605129233,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="815">
+            <Placemark id="809">
                 <name>Malala Yousafzai</name>
                 <description>
 <![CDATA[
@@ -7527,11 +7505,11 @@ URL: <a href="http://www.educa.madrid.org/ies.malalayousafzai.madrid">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="814">
+                <Point id="808">
                     <coordinates>-3.6634577780076083,40.50183670938894,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="817">
+            <Placemark id="811">
                 <name>Simone Veil</name>
                 <description>
 <![CDATA[
@@ -7545,11 +7523,11 @@ URL: <a href="http://www.educa.madrid.org/ies.simoneveil.paracuellos">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="816">
+                <Point id="810">
                     <coordinates>-3.513505978219882,40.49912284280932,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="819">
+            <Placemark id="813">
                 <name>Africa</name>
                 <description>
 <![CDATA[
@@ -7564,11 +7542,11 @@ URL: <a href="http://www.educa.madrid.org/ies.africa.fuenlabrada">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="818">
+                <Point id="812">
                     <coordinates>-3.808274912574678,40.28775161829964,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="821">
+            <Placemark id="815">
                 <name>Federica Montseny</name>
                 <description>
 <![CDATA[
@@ -7582,11 +7560,11 @@ URL: <a href="http://www.educa.madrid.org/ies.federicamontsen.fuenlabrada">www.e
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="820">
+                <Point id="814">
                     <coordinates>-3.811107335978952,40.29145259618491,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="823">
+            <Placemark id="817">
                 <name>Antonio Fraguas Forges</name>
                 <description>
 <![CDATA[
@@ -7601,11 +7579,11 @@ URL: <a href="http://www.educa.madrid.org/ies.forges.madrid">www.educa.madrid.or
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="822">
+                <Point id="816">
                     <coordinates>-3.6779938741558977,40.399374085942235,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="825">
+            <Placemark id="819">
                 <name>Francisca de Pedraza</name>
                 <description>
 <![CDATA[
@@ -7619,11 +7597,11 @@ Dirección: Avenida De Europa C/v Calle Jesus Guridi 28806 Alcalá de Henares<br
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="824">
+                <Point id="818">
                     <coordinates>-3.38639731789433,40.485545668958,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="827">
+            <Placemark id="821">
                 <name>Juan Bautista Monegro</name>
                 <description>
 <![CDATA[
@@ -7638,14 +7616,14 @@ URL: <a href="http://www.educa.madrid.org/ies.juanbautistamonegro.torrejondeardo
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="826">
+                <Point id="820">
                     <coordinates>-3.444784301578092,40.45235367134508,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
-        <Folder id="828">
+        <Folder id="822">
             <name>Sección de instituto de educación secundaria</name>
-            <Placemark id="830">
+            <Placemark id="824">
                 <name>Seccion Del Ies Carpe Diem en Colmenar Oreja</name>
                 <description>
 <![CDATA[
@@ -7659,11 +7637,11 @@ URL: <a href="http://www.educa.madrid.org/sies.carpediem.colmenardeoreja">www.ed
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="829">
+                <Point id="823">
                     <coordinates>-3.391844505897756,40.11621816871076,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="832">
+            <Placemark id="826">
                 <name>Seccion Del Ies Anselmo Lorenzo en Morata Tajuña</name>
                 <description>
 <![CDATA[
@@ -7677,11 +7655,11 @@ URL: <a href="http://www.educa.madrid.org/sies.anselmolorenzo.morata">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="831">
+                <Point id="825">
                     <coordinates>-3.4415244917567502,40.231279775626426,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="834">
+            <Placemark id="828">
                 <name>Seccion Del Ies Africa en Moraleja de Enmedio</name>
                 <description>
 <![CDATA[
@@ -7695,11 +7673,11 @@ URL: <a href="http://www.educa.madrid.org/sies.africa.moraleja">www.educa.madrid
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="833">
+                <Point id="827">
                     <coordinates>-3.8531543444186864,40.26794247466474,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="836">
+            <Placemark id="830">
                 <name>Seccion Del Ies la Poveda en Campo Real</name>
                 <description>
 <![CDATA[
@@ -7713,11 +7691,11 @@ URL: <a href="http://www.educa.madrid.org/sies.lapoveda.camporeal">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="835">
+                <Point id="829">
                     <coordinates>-3.3711292402492976,40.33535041863552,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="838">
+            <Placemark id="832">
                 <name>Seccion Del Ies Luis de Gongora en Loeches</name>
                 <description>
 <![CDATA[
@@ -7732,14 +7710,14 @@ URL: <a href="http://www.educa.madrid.org/sies.luisdegongora.loeches">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="837">
+                <Point id="831">
                     <coordinates>-3.4139144973346487,40.385845954819395,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
-        <Folder id="839">
+        <Folder id="833">
             <name>Colegio de educación infantil, primaria y secundaria</name>
-            <Placemark id="841">
+            <Placemark id="835">
                 <name>San Blas</name>
                 <description>
 <![CDATA[
@@ -7754,11 +7732,11 @@ URL: <a href="http://www.educa.madrid.org/cp.sanblas.ajalvir">www.educa.madrid.o
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="840">
+                <Point id="834">
                     <coordinates>-3.4848642908731255,40.541777760201356,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="843">
+            <Placemark id="837">
                 <name>Juan Ramon Jimenez</name>
                 <description>
 <![CDATA[
@@ -7773,11 +7751,11 @@ URL: <a href="http://www.educa.madrid.org/cp.juanramonjimenez.becerril">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="842">
+                <Point id="836">
                     <coordinates>-3.9899035223359984,40.7154747038207,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="845">
+            <Placemark id="839">
                 <name>Principe Don Felipe</name>
                 <description>
 <![CDATA[
@@ -7792,11 +7770,11 @@ URL: <a href="http://www.educa.madrid.org/cp.principedonfelipe.boadilla">www.edu
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="844">
+                <Point id="838">
                     <coordinates>-3.8774470124785623,40.40927576862279,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="847">
+            <Placemark id="841">
                 <name>San Sebastian</name>
                 <description>
 <![CDATA[
@@ -7811,11 +7789,11 @@ URL: <a href="http://www.educa.madrid.org/cp.sansebastian.elboalo">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="846">
+                <Point id="840">
                     <coordinates>-3.900700832377365,40.715998040746975,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="849">
+            <Placemark id="843">
                 <name>Eugenio Muro</name>
                 <description>
 <![CDATA[
@@ -7829,11 +7807,11 @@ URL: <a href="http://www.educa.madrid.org/cp.eugeniomuro.cadalso">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="848">
+                <Point id="842">
                     <coordinates>-4.449212855800353,40.30356102351912,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="851">
+            <Placemark id="845">
                 <name>Federico Garcia Lorca</name>
                 <description>
 <![CDATA[
@@ -7848,11 +7826,11 @@ URL: <a href="http://www.educa.madrid.org/cp.garcialorca.camarma">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="850">
+                <Point id="844">
                     <coordinates>-3.3734619956432366,40.54873202637723,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="853">
+            <Placemark id="847">
                 <name>Suarez Somonte</name>
                 <description>
 <![CDATA[
@@ -7866,11 +7844,11 @@ URL: <a href="http://www.educa.madrid.org/cp.suarezsomonte.cenicientos">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="852">
+                <Point id="846">
                     <coordinates>-4.468608794782714,40.26354223109728,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="855">
+            <Placemark id="849">
                 <name>Villa de Cobeña</name>
                 <description>
 <![CDATA[
@@ -7885,11 +7863,11 @@ URL: <a href="http://www.educa.madrid.org/cp.villadecobena.cobena">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="854">
+                <Point id="848">
                     <coordinates>-3.504843027863743,40.571394466151396,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="857">
+            <Placemark id="851">
                 <name>Martina Garcia</name>
                 <description>
 <![CDATA[
@@ -7904,11 +7882,11 @@ URL: <a href="http://www.educa.madrid.org/cp.martinagarcia.fuenteelsaz">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="856">
+                <Point id="850">
                     <coordinates>-3.5143762853175704,40.6314321466235,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="859">
+            <Placemark id="853">
                 <name>Vicente Aleixandre</name>
                 <description>
 <![CDATA[
@@ -7922,11 +7900,11 @@ URL: <a href="http://www.educa.madrid.org/cp.vicentealeixandre.miraflores">www.e
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="858">
+                <Point id="852">
                     <coordinates>-3.757817388222225,40.812649653008734,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="861">
+            <Placemark id="855">
                 <name>Isabel la Catolica</name>
                 <description>
 <![CDATA[
@@ -7941,11 +7919,11 @@ URL: <a href="http://www.educa.madrid.org/cp.isabellacatolica.navas">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="860">
+                <Point id="854">
                     <coordinates>-4.248767028420855,40.39052833500879,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="863">
+            <Placemark id="857">
                 <name>Juan de Goyeneche</name>
                 <description>
 <![CDATA[
@@ -7960,11 +7938,11 @@ URL: <a href="http://www.educa.madrid.org/cp.goyeneche.nuevobaztan">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="862">
+                <Point id="856">
                     <coordinates>-3.2421003155846386,40.36226069860521,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="865">
+            <Placemark id="859">
                 <name>Los Angeles</name>
                 <description>
 <![CDATA[
@@ -7979,11 +7957,11 @@ URL: <a href="http://www.educa.madrid.org/cp.losangeles.pozuelodealarcon">www.ed
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="864">
+                <Point id="858">
                     <coordinates>-3.783261633949682,40.4026008229752,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="867">
+            <Placemark id="861">
                 <name>Miguel de Cervantes</name>
                 <description>
 <![CDATA[
@@ -7998,11 +7976,11 @@ URL: <a href="http://www.educa.madrid.org/cp.cervantes.valdilecha">www.educa.mad
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="866">
+                <Point id="860">
                     <coordinates>-3.2984571666055538,40.29570365410601,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="869">
+            <Placemark id="863">
                 <name>Miguel de Cervantes</name>
                 <description>
 <![CDATA[
@@ -8017,11 +7995,11 @@ URL: <a href="http://www.educa.madrid.org/cp.cervantes.alcorcon">www.educa.madri
 </html>
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
-                <Point id="868">
+                <Point id="862">
                     <coordinates>-3.831619341313971,40.35328087213258,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="871">
+            <Placemark id="865">
                 <name>Santo Domingo</name>
                 <description>
 <![CDATA[
@@ -8036,11 +8014,11 @@ URL: <a href="http://www.educa.madrid.org/cp.santodomingo.algete">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="870">
+                <Point id="864">
                     <coordinates>-3.5818395217677956,40.63046332746802,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="873">
+            <Placemark id="867">
                 <name>Velazquez</name>
                 <description>
 <![CDATA[
@@ -8054,11 +8032,11 @@ URL: <a href="http://www.educa.madrid.org/cp.velazquez.fuenlabrada">www.educa.ma
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="872">
+                <Point id="866">
                     <coordinates>-3.8308267088966685,40.29442083883349,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="875">
+            <Placemark id="869">
                 <name>el Encinar</name>
                 <description>
 <![CDATA[
@@ -8073,11 +8051,11 @@ URL: <a href="http://www.educa.madrid.org/cp.elencinar.torrelodones">www.educa.m
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="874">
+                <Point id="868">
                     <coordinates>-3.9259352074004994,40.57169654627475,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="877">
+            <Placemark id="871">
                 <name>Maria Moliner</name>
                 <description>
 <![CDATA[
@@ -8092,11 +8070,11 @@ URL: <a href="http://www.educa.madrid.org/cp.mariamoliner.villanuevadelacanada">
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="876">
+                <Point id="870">
                     <coordinates>-3.998587478056196,40.44174305224789,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="879">
+            <Placemark id="873">
                 <name>Salvador Dali</name>
                 <description>
 <![CDATA[
@@ -8110,11 +8088,11 @@ URL: <a href="http://www.educa.madrid.org/cp.salvadordali.fuenlabrada">www.educa
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="878">
+                <Point id="872">
                     <coordinates>-3.841061114333537,40.30567142152467,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="881">
+            <Placemark id="875">
                 <name>el Cantizal</name>
                 <description>
 <![CDATA[
@@ -8129,11 +8107,11 @@ URL: <a href="http://www.educa.madrid.org/cp.elcantizal.lasrozas">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="880">
+                <Point id="874">
                     <coordinates>-3.9212674731356953,40.52076226402795,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="883">
+            <Placemark id="877">
                 <name>Adolfo Suarez</name>
                 <description>
 <![CDATA[
@@ -8147,11 +8125,11 @@ URL: <a href="http://www.educa.madrid.org/cp.adolfosuarez.madrid">www.educa.madr
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="882">
+                <Point id="876">
                     <coordinates>-3.6516587894307895,40.4911561864729,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="885">
+            <Placemark id="879">
                 <name>Principes de Asturias</name>
                 <description>
 <![CDATA[
@@ -8166,11 +8144,11 @@ URL: <a href="http://www.educa.madrid.org/cp.principesdeasturias.pozuelodealarco
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="884">
+                <Point id="878">
                     <coordinates>-3.8055258864499226,40.459204473747405,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="887">
+            <Placemark id="881">
                 <name>Santo Angel de la Guarda</name>
                 <description>
 <![CDATA[
@@ -8184,11 +8162,11 @@ URL: <a href="http://www.educa.madrid.org/cp.santoangeldelaguarda.chapineria">ww
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="886">
+                <Point id="880">
                     <coordinates>-4.203910974063037,40.37985111191092,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="889">
+            <Placemark id="883">
                 <name>San Miguel</name>
                 <description>
 <![CDATA[
@@ -8202,11 +8180,11 @@ URL: <a href="http://www.educa.madrid.org/cp.sanmiguel.villamantilla">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="888">
+                <Point id="882">
                     <coordinates>-4.127016997583486,40.34707681851441,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="891">
+            <Placemark id="885">
                 <name>Maestro Rodrigo</name>
                 <description>
 <![CDATA[
@@ -8221,11 +8199,11 @@ URL: <a href="http://www.educa.madrid.org/cp.maestrorodrigo.aranjuez">www.educa.
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="890">
+                <Point id="884">
                     <coordinates>-3.5958315606861158,40.067561592678715,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="893">
+            <Placemark id="887">
                 <name>Beethoven</name>
                 <description>
 <![CDATA[
@@ -8240,11 +8218,11 @@ URL: <a href="http://www.educa.madrid.org/cp.beethoven.torrejondeardoz">www.educ
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="892">
+                <Point id="886">
                     <coordinates>-3.438314505395564,40.45852255595892,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="895">
+            <Placemark id="889">
                 <name>Puerta de la Sierra</name>
                 <description>
 <![CDATA[
@@ -8259,7 +8237,7 @@ URL: <a href="http://www.educa.madrid.org/cp.puertadelasierra.venturada">www.edu
 </html>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
-                <Point id="894">
+                <Point id="888">
                     <coordinates>-3.6238132440851114,40.80008345062888,0.0</coordinates>
                 </Point>
             </Placemark>

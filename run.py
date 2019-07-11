@@ -38,7 +38,7 @@ def get_description(c):
     return des
 
 
-mapa = Map("Colegios - Profesores", color="blue")
+mapa = Map("Colegios - Profesores", color="green")
 
 for t in sorted(tipos):
     tp = d.tipos[t].capitalize()

@@ -44,7 +44,9 @@ def _readme(key):
             cuando además se da alguna característica especial como
             bilingüismo, excelencia o innovación tecnológica
         '''.format(*lgd)
-
+    if key == "enlaces_mail":
+        mail = [c.mail for c in d.centros if c.mail]
+        return "mailto:?bcc="+";".join(mail)+"&subject=Consulta+en+relacción+al+concurso+de+traslados"
 
 def readme(mtch):
     key = mtch.group(1)

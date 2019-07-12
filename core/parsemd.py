@@ -1,6 +1,6 @@
 import re
 
-re_key = re.compile(r"{{{([a-z0-9]+)}}}", re.IGNORECASE)
+re_key = re.compile(r"{{{([a-z0-9_\-]+)}}}", re.IGNORECASE)
 
 
 def parsemd(src, dst, func):

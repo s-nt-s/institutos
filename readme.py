@@ -46,7 +46,7 @@ def _readme(key):
         '''.format(*lgd)
     if key == "enlaces_mail":
         mail = [c.mail for c in d.centros if c.mail]
-        return "mailto:?bcc="+";".join(mail)+"&subject=Consulta+en+relacción+al+concurso+de+traslados"
+        return "mailto:?bcc="+";".join(mail)+"&subject=Consulta%20en%20relacción%20al%20concurso%20de%20traslados"
 
 def readme(mtch):
     key = mtch.group(1)

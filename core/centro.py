@@ -43,6 +43,8 @@ def get_data1(ctr):
     for i in items:
         n = i.attrs.get("name", "").strip()
         v = i.attrs.get("value", "").strip()
+        if v == "null":
+            continue
         if len(n) > 0 and len(v) > 0 and n not in ("filtroConsultaSer", "salidaCompSerializada", "formularioConsulta"):
             data[n] = v
     d = re_sp.sub(" ", soup.find(text=re_dire).findParent(

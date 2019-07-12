@@ -88,6 +88,7 @@ class Dataset():
                 url=extra.get("url"),
                 info=extra.get("info"),
                 tipo=self.centro_tipo.get(id) or i["TIPO DE CENTRO"],
+                status_web=extra.get("status_web")
             )
             if id in self.nocturno and not c.nocturno:
                 print(extra["info"])

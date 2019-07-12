@@ -14,7 +14,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.sanblas.ajalvir",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000029",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28000364,
   "dat": "Este",
@@ -34,7 +35,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.complutense.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000364",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28000467,
   "dat": "Este",
@@ -51,7 +53,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.alonsodeavellan.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000467",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 991
 },{
   "id": 28000522,
   "dat": "Este",
@@ -70,7 +73,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.machado.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000522",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28000753,
   "dat": "Norte",
@@ -91,7 +95,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.ginerdelosrios.alcobendas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000753",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28001629,
   "dat": "Sur",
@@ -111,7 +116,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.domenicoscarlat.aranjuez",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001629",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28001678,
   "dat": "Norte",
@@ -128,7 +134,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.jorgemanrique.trescantos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001678",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28001769,
   "dat": "Este",
@@ -145,7 +152,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.elcarrascal.arganda",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001769",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28001812,
   "dat": "Oeste",
@@ -162,7 +170,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.juanramonjimenez.becerril",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001812",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28001848,
   "dat": "Oeste",
@@ -179,7 +188,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.principedonfelipe.boadilla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001848",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28001873,
   "dat": "Oeste",
@@ -196,7 +206,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.sansebastian.elboalo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001873",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28002026,
   "dat": "Sur",
@@ -213,7 +224,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cp.eugeniomuro.cadalso",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002026",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28002038,
   "dat": "Este",
@@ -230,7 +242,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.garcialorca.camarma",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002038",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28002105,
   "dat": "Sur",
@@ -247,7 +260,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cp.suarezsomonte.cenicientos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002105",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28002181,
   "dat": "Sur",
@@ -264,7 +278,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.juancarlosprimero.ciempozuelos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002181",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28002211,
   "dat": "Norte",
@@ -281,7 +296,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.villadecobena.cobena",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002211",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28002312,
   "dat": "Norte",
@@ -301,7 +317,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.marquesdesantil.colmenarviejo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002312",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28002415,
   "dat": "Oeste",
@@ -318,7 +335,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.jaimeferran.colladovillalba",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002415",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28002580,
   "dat": "Este",
@@ -335,7 +353,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.miguelcatalan.coslada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002580",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28002853,
   "dat": "Norte",
@@ -352,7 +371,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.martinagarcia.fuenteelsaz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002853",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28003201,
   "dat": "Sur",
@@ -372,7 +392,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.puigadam.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003201",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28003304,
   "dat": "Sur",
@@ -389,7 +410,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.alarnes.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003304",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28003882,
   "dat": "Sur",
@@ -409,7 +431,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.churriguera.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003882",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28003894,
   "dat": "Sur",
@@ -426,7 +449,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.luisvives.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003894",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28003900,
   "dat": "Sur",
@@ -443,7 +467,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.mariazambrano.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003900",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28004059,
   "dat": "Capital",
@@ -463,7 +488,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.cervantes.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28004059",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28013899,
   "dat": "Capital",
@@ -480,7 +506,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.elespinillo.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28013899",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28015756,
   "dat": "Capital",
@@ -497,7 +524,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.valdebernardo.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28015756",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28018344,
   "dat": "Capital",
@@ -514,7 +542,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.santateresa.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018344",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28018356,
   "dat": "Capital",
@@ -531,7 +560,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.santamarca.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018356",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28018368,
   "dat": "Capital",
@@ -548,7 +578,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.santaengracia.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018368",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28018381,
   "dat": "Capital",
@@ -565,7 +596,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.ortegaygasset.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018381",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28018423,
   "dat": "Capital",
@@ -582,7 +614,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.numerounoejercito.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018423",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28018435,
   "dat": "Capital",
@@ -601,7 +634,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.emiliocastelar.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018435",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28018460,
   "dat": "Capital",
@@ -618,7 +652,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.arciprestedehita.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018460",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28018472,
   "dat": "Capital",
@@ -635,7 +670,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.sancristobal.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018472",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28018484,
   "dat": "Capital",
@@ -652,7 +688,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.rodriguezdevalcarcel.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018484",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 404
 },{
   "id": 28018903,
   "dat": "Capital",
@@ -669,7 +706,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.joaquinturina.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018903",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28019312,
   "dat": "Capital",
@@ -686,7 +724,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.ellago.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019312",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28019351,
   "dat": "Capital",
@@ -703,7 +742,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.sanfernando.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019351",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28019464,
   "dat": "Capital",
@@ -723,7 +763,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.tirsodemolina.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019464",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28019889,
   "dat": "Capital",
@@ -740,7 +781,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.lopedevega.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019889",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28019971,
   "dat": "Capital",
@@ -757,7 +799,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.barajas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019971",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020119,
   "dat": "Capital",
@@ -777,7 +820,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.gregoriomaranon.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020119",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020201,
   "dat": "Capital",
@@ -794,7 +838,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.barriosimancas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020201",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020341,
   "dat": "Capital",
@@ -811,7 +856,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.lapaloma.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020341",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28020545,
   "dat": "Capital",
@@ -828,7 +874,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.condedeorgaz.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020545",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28020557,
   "dat": "Capital",
@@ -845,7 +892,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.carlostercero.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020557",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020570,
   "dat": "Capital",
@@ -862,7 +910,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.sanblas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020570",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020582,
   "dat": "Capital",
@@ -879,7 +928,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.gomezmoreno.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020582",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28020624,
   "dat": "Capital",
@@ -900,7 +950,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.reypastor.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020624",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020648,
   "dat": "Capital",
@@ -917,7 +968,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.vallecasuno.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020648",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020703,
   "dat": "Capital",
@@ -934,7 +986,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.tiernogalvan.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020703",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020715,
   "dat": "Capital",
@@ -951,7 +1004,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.piobaroja.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020715",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020727,
   "dat": "Capital",
@@ -968,7 +1022,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.parquealuche.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020727",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020739,
   "dat": "Capital",
@@ -985,7 +1040,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.eijogaray.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020739",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020806,
   "dat": "Capital",
@@ -1002,7 +1058,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.almudena.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020806",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020831,
   "dat": "Capital",
@@ -1019,7 +1076,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.tetuan.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020831",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020855,
   "dat": "Capital",
@@ -1036,7 +1094,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.cardenalherrera.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020855",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 991
 },{
   "id": 28020892,
   "dat": "Capital",
@@ -1056,7 +1115,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.beatrizgalindo.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020892",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020909,
   "dat": "Capital",
@@ -1076,7 +1136,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.isabellacatolica.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020909",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28020910,
   "dat": "Capital",
@@ -1093,7 +1154,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.juandelacierva.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020910",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020934,
   "dat": "Capital",
@@ -1112,7 +1174,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.cardenalcisnero.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020934",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020946,
   "dat": "Capital",
@@ -1133,7 +1196,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.sanisidro.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020946",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020958,
   "dat": "Capital",
@@ -1150,7 +1214,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.emperatrizmaria.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020958",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28020961,
   "dat": "Capital",
@@ -1167,7 +1232,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.calderondelabar.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020961",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 503
 },{
   "id": 28021008,
   "dat": "Capital",
@@ -1184,7 +1250,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.vistaalegre.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021008",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28021252,
   "dat": "Capital",
@@ -1201,7 +1268,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.pacifico.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021252",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28021549,
   "dat": "Capital",
@@ -1218,7 +1286,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.palomerasvallecas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021549",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 404
 },{
   "id": 28021550,
   "dat": "Capital",
@@ -1235,7 +1304,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.garciamorato.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021550",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28021562,
   "dat": "Capital",
@@ -1252,7 +1322,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.grancapitan.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021562",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28022207,
   "dat": "Oeste",
@@ -1269,7 +1340,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.carmenmartingai.moralzarzal",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022207",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28022724,
   "dat": "Capital",
@@ -1286,7 +1358,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.ciudadescolar.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022724",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28022891,
   "dat": "Norte",
@@ -1303,7 +1376,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cp.vicentealeixandre.miraflores",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022891",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28023194,
   "dat": "Sur",
@@ -1320,7 +1394,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.felipetrigo.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023194",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28023327,
   "dat": "Sur",
@@ -1337,7 +1412,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.carmenmartingai.navalcarnero",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023327",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28023364,
   "dat": "Sur",
@@ -1354,7 +1430,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.isabellacatolica.navas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023364",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28023388,
   "dat": "Este",
@@ -1371,7 +1448,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.goyeneche.nuevobaztan",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023388",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28023741,
   "dat": "Oeste",
@@ -1388,7 +1466,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.losangeles.pozuelodealarcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023741",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28023911,
   "dat": "Oeste",
@@ -1405,7 +1484,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.gerardodiego.pozuelodealarcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023911",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28024290,
   "dat": "Este",
@@ -1425,7 +1505,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.vegadeljarama.sanfernando",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024290",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28024642,
   "dat": "Norte",
@@ -1442,7 +1523,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.joanmiro.sansebastian",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024642",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28025014,
   "dat": "Este",
@@ -1459,7 +1541,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.isaacperal.torrejondeardoz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025014",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28025026,
   "dat": "Este",
@@ -1479,7 +1562,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.lasveredillas.torrejondeardoz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025026",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28025129,
   "dat": "Norte",
@@ -1496,7 +1580,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.altojarama.torrelaguna",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025129",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28025415,
   "dat": "Este",
@@ -1513,7 +1598,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.cervantes.valdilecha",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025415",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28025658,
   "dat": "Este",
@@ -1530,7 +1616,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.victoria.villarejo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025658",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28025828,
   "dat": "Capital",
@@ -1547,7 +1634,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.felipesegundo.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025828",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 404
 },{
   "id": 28026031,
   "dat": "Sur",
@@ -1567,7 +1655,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.vicentealeixand.pinto",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28026031",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28026092,
   "dat": "Sur",
@@ -1584,7 +1673,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.loscastillos.alcorcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28026092",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28028301,
   "dat": "Este",
@@ -1601,7 +1691,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.arquitectopedro.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028301",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28028350,
   "dat": "Este",
@@ -1618,7 +1709,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.mariamoliner.coslada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028350",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28028374,
   "dat": "Sur",
@@ -1638,7 +1730,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.dionisioaguado.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028374",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28028404,
   "dat": "Sur",
@@ -1655,7 +1748,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.butarque.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028404",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28028428,
   "dat": "Capital",
@@ -1672,7 +1766,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.avenidadelostor.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028428",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28028431,
   "dat": "Capital",
@@ -1692,7 +1787,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.larra.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028431",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28028453,
   "dat": "Capital",
@@ -1709,7 +1805,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.laestrella.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028453",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28028465,
   "dat": "Capital",
@@ -1726,7 +1823,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.sanjuanbautista.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028465",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28028477,
   "dat": "Capital",
@@ -1743,7 +1841,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.jaimevera.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028477",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28028568,
   "dat": "Sur",
@@ -1760,7 +1859,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.manueldefalla.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028568",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28028571,
   "dat": "Oeste",
@@ -1777,7 +1877,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.uno.lasrozas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028571",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 404
 },{
   "id": 28028611,
   "dat": "Norte",
@@ -1794,7 +1895,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.torrenteballest.sansebastian",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028611",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28028672,
   "dat": "Capital",
@@ -1815,7 +1917,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.ramirodemaeztu.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028672",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28028684,
   "dat": "Oeste",
@@ -1835,7 +1938,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.juandeherrera.sanlorenzo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028684",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28030101,
   "dat": "Sur",
@@ -1852,7 +1956,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030101",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28030113,
   "dat": "Capital",
@@ -1869,7 +1974,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.moratalaz.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030113",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 991
 },{
   "id": 28030125,
   "dat": "Capital",
@@ -1886,7 +1992,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.aluche.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030125",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28030137,
   "dat": "Capital",
@@ -1903,7 +2010,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.fortuny.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030137",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28030149,
   "dat": "Capital",
@@ -1920,7 +2028,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.ciudaddelospoetas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030149",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28030150,
   "dat": "Capital",
@@ -1937,7 +2046,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.ramonycajal.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030150",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28030162,
   "dat": "Capital",
@@ -1954,7 +2064,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.delibes.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030162",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28030174,
   "dat": "Capital",
@@ -1971,7 +2082,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.celestinomutis.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030174",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28030186,
   "dat": "Capital",
@@ -1988,7 +2100,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.damasoalonso.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030186",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28030204,
   "dat": "Sur",
@@ -2005,7 +2118,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030204",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28030216,
   "dat": "Sur",
@@ -2022,7 +2136,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.humanejos.parla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030216",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28030228,
   "dat": "Este",
@@ -2039,7 +2154,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.leonfelipe.torrejondeardoz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030228",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28030241,
   "dat": "Sur",
@@ -2056,7 +2172,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.pradodesantodomingo.alcorcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030241",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28030575,
   "dat": "Capital",
@@ -2073,7 +2190,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.arturosoria.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030575",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28030903,
   "dat": "Este",
@@ -2090,7 +2208,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.mateoaleman.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030903",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28030915,
   "dat": "Sur",
@@ -2107,7 +2226,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.galileogalilei.alcorcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030915",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 991
 },{
   "id": 28030927,
   "dat": "Capital",
@@ -2124,7 +2244,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.blasdeotero.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030927",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28030939,
   "dat": "Capital",
@@ -2141,7 +2262,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.sanmateo.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030939",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28030952,
   "dat": "Capital",
@@ -2158,7 +2280,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.marianapineda.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030952",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 991
 },{
   "id": 28030964,
   "dat": "Capital",
@@ -2175,7 +2298,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.magerit.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030964",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28030976,
   "dat": "Capital",
@@ -2192,7 +2316,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.lasmusas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030976",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28030991,
   "dat": "Capital",
@@ -2209,7 +2334,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.barriodebilbao.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030991",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28031002,
   "dat": "Capital",
@@ -2226,7 +2352,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.leonardodavinci.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031002",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28031014,
   "dat": "Capital",
@@ -2243,7 +2370,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.moratalaz.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031014",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28031555,
   "dat": "Capital",
@@ -2260,7 +2388,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.hosteleria.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031555",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28032471,
   "dat": "Sur",
@@ -2277,7 +2406,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.arquitectoperid.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032471",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28032481,
   "dat": "Capital",
@@ -2294,7 +2424,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.ciudaddejaen.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032481",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28032501,
   "dat": "Oeste",
@@ -2311,7 +2442,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.leonardodavinci.majadahonda",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032501",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28032559,
   "dat": "Sur",
@@ -2331,7 +2463,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.tiernogalvan.parla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032559",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28033311,
   "dat": "Capital",
@@ -2348,7 +2481,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.maramarillo.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033311",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 404
 },{
   "id": 28033321,
   "dat": "Capital",
@@ -2365,7 +2499,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.sampedro.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033321",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28033333,
   "dat": "Capital",
@@ -2382,7 +2517,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.laalbufera.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033333",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28033539,
   "dat": "Capital",
@@ -2399,7 +2535,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.alamedadeosuna.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033539",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28033552,
   "dat": "Sur",
@@ -2416,7 +2553,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.malasana.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033552",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28033679,
   "dat": "Sur",
@@ -2433,7 +2571,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cp.cervantes.alcorcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033679",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28033850,
   "dat": "Sur",
@@ -2450,7 +2589,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.jovellanos.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033850",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28034441,
   "dat": "Capital",
@@ -2467,7 +2607,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.sanisidoro.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28034441",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28035305,
   "dat": "Este",
@@ -2484,7 +2625,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.alonsoquijano.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035305",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28035317,
   "dat": "Norte",
@@ -2501,7 +2643,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.sampedro.trescantos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035317",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28035330,
   "dat": "Capital",
@@ -2518,7 +2661,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.juandevillanuev.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035330",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28035342,
   "dat": "Oeste",
@@ -2535,7 +2679,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.ladehesilla.cercedilla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035342",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28036656,
   "dat": "Este",
@@ -2552,7 +2697,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.sanfernandodehenares",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036656",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28036930,
   "dat": "Sur",
@@ -2569,7 +2715,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036930",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28036978,
   "dat": "Sur",
@@ -2586,7 +2733,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.laarboleda.alcorcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036978",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28036981,
   "dat": "Este",
@@ -2603,7 +2751,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.lapoveda.arganda",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036981",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 404
 },{
   "id": 28036991,
   "dat": "Norte",
@@ -2620,7 +2769,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.angelcorella.colmenarviejo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036991",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28037004,
   "dat": "Sur",
@@ -2637,7 +2787,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.tiernogalvan.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037004",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28037016,
   "dat": "Capital",
@@ -2654,7 +2805,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.ciudaddelosangeles.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037016",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28037028,
   "dat": "Capital",
@@ -2671,7 +2823,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.rosachacel.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037028",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28037031,
   "dat": "Capital",
@@ -2688,7 +2841,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.antoniodomingue.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037031",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28037041,
   "dat": "Capital",
@@ -2705,7 +2859,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.joaquinrodrigo.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037041",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28037053,
   "dat": "Capital",
@@ -2722,7 +2877,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.pradolongo.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037053",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28037065,
   "dat": "Este",
@@ -2739,7 +2895,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.reyfernando.sanfernando",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037065",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28037077,
   "dat": "Este",
@@ -2756,7 +2913,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.victoriakent.torrejondeardoz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037077",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28037089,
   "dat": "Oeste",
@@ -2773,7 +2931,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.velazquez.torrelodones",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037089",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28037892,
   "dat": "Este",
@@ -2790,7 +2949,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037892",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28038070,
   "dat": "Norte",
@@ -2807,7 +2967,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.lapaz.alcobendas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038070",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038100,
   "dat": "Sur",
@@ -2824,7 +2985,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.luisbunuel.alcorcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038100",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 404
 },{
   "id": 28038151,
   "dat": "Este",
@@ -2841,7 +3003,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.alberti.coslada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038151",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28038291,
   "dat": "Sur",
@@ -2858,7 +3021,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.salvadordali.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038291",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038306,
   "dat": "Sur",
@@ -2875,7 +3039,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.sigloveintiuno.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038306",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038355,
   "dat": "Capital",
@@ -2892,7 +3057,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.mirasierra.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038355",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038367,
   "dat": "Capital",
@@ -2909,7 +3075,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.tomasyvaliente.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038367",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038379,
   "dat": "Capital",
@@ -2926,7 +3093,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.islasfilipinas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038379",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038422,
   "dat": "Sur",
@@ -2943,7 +3111,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.luisbunuel.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038422",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038446,
   "dat": "Sur",
@@ -2960,7 +3129,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.narcismonturiol.parla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038446",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038616,
   "dat": "Este",
@@ -2977,7 +3147,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.jaimeferran.sanfernando",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038616",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038631,
   "dat": "Este",
@@ -2994,7 +3165,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.coslada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038631",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28038641,
   "dat": "Norte",
@@ -3011,7 +3183,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.colmenarviejo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038641",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28038665,
   "dat": "Sur",
@@ -3028,7 +3201,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.pinto",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038665",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28038689,
   "dat": "Capital",
@@ -3045,7 +3219,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.daoizyvelarde.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038689",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28038801,
   "dat": "Capital",
@@ -3062,7 +3237,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.mariademolina.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038801",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038823,
   "dat": "Capital",
@@ -3079,7 +3255,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.newton.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038823",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038835,
   "dat": "Este",
@@ -3096,7 +3273,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.isidradeguzman.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038835",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038847,
   "dat": "Norte",
@@ -3113,7 +3291,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.severoochoa.alcobendas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038847",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28038859,
   "dat": "Sur",
@@ -3130,7 +3309,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.parquelisboa.alcorcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038859",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038860,
   "dat": "Sur",
@@ -3147,7 +3327,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.laserna.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038860",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038872,
   "dat": "Sur",
@@ -3164,7 +3345,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.lafortuna.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038872",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038884,
   "dat": "Sur",
@@ -3181,7 +3363,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.claracampoamor.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038884",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038896,
   "dat": "Sur",
@@ -3198,7 +3381,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.velazquez.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038896",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038902,
   "dat": "Sur",
@@ -3215,7 +3399,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.manuelelkinpatarroyo.parla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038902",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038914,
   "dat": "Oeste",
@@ -3232,7 +3417,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.camilojosecela.pozuelodealarcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038914",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28038926,
   "dat": "Sur",
@@ -3249,7 +3435,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.villadevaldemoro.valdemoro",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038926",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039037,
   "dat": "Sur",
@@ -3266,7 +3453,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.alpajes.aranjuez",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039037",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039128,
   "dat": "Oeste",
@@ -3283,7 +3471,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.mariadezayas.majadahonda",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039128",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039669,
   "dat": "Norte",
@@ -3300,7 +3489,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.santodomingo.algete",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039669",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28039670,
   "dat": "Este",
@@ -3317,7 +3507,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.cardenalcisnero.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039670",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039682,
   "dat": "Este",
@@ -3334,7 +3525,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.alkalanahar.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039682",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039700,
   "dat": "Sur",
@@ -3351,7 +3543,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.josefinaaldecoa.alcorcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039700",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28039724,
   "dat": "Este",
@@ -3371,7 +3564,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.grandecovian.arganda",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039724",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039797,
   "dat": "Sur",
@@ -3388,7 +3582,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.carobaroja.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039797",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039803,
   "dat": "Sur",
@@ -3405,7 +3600,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.salvadorallende.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039803",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 404
 },{
   "id": 28039827,
   "dat": "Sur",
@@ -3422,7 +3618,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.lagunadejoatzel.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039827",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039839,
   "dat": "Sur",
@@ -3439,7 +3636,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.albeniz.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039839",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039840,
   "dat": "Capital",
@@ -3456,7 +3654,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.marquesdesuanze.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039840",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039864,
   "dat": "Sur",
@@ -3473,7 +3672,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.julioverne.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039864",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039876,
   "dat": "Capital",
@@ -3490,7 +3690,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.salvadordali.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039876",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039888,
   "dat": "Capital",
@@ -3507,7 +3708,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.garciamarquez.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039888",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039891,
   "dat": "Capital",
@@ -3524,7 +3726,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.villablanca.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039891",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28039943,
   "dat": "Oeste",
@@ -3541,7 +3744,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.carlosbousono.majadahonda",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039943",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28039992,
   "dat": "Sur",
@@ -3558,7 +3762,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.losrosales.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039992",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040003,
   "dat": "Sur",
@@ -3575,7 +3780,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.benjaminrua.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040003",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28040027,
   "dat": "Este",
@@ -3592,7 +3798,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.gongora.torrejondeardoz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040027",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040611,
   "dat": "Norte",
@@ -3609,7 +3816,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.alsatt.algete",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040611",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040660,
   "dat": "Norte",
@@ -3626,7 +3834,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.aldebaran.alcobendas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040660",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040672,
   "dat": "Norte",
@@ -3643,7 +3852,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.becquer.algete",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040672",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040684,
   "dat": "Este",
@@ -3660,7 +3870,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.carpediem.chinchon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040684",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040696,
   "dat": "Sur",
@@ -3677,7 +3888,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.josehierro.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040696",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040702,
   "dat": "Sur",
@@ -3694,7 +3906,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.leonfelipe.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040702",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040714,
   "dat": "Oeste",
@@ -3711,7 +3924,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.guadarrama",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040714",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040738,
   "dat": "Sur",
@@ -3728,7 +3942,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.sannicasio.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040738",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040741,
   "dat": "Capital",
@@ -3745,7 +3960,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.iturralde.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040741",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040751,
   "dat": "Capital",
@@ -3762,7 +3978,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.villadevallecas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040751",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040775,
   "dat": "Oeste",
@@ -3779,7 +3996,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.sanjuandelacruz.pozuelodealarcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040775",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28040787,
   "dat": "Oeste",
@@ -3796,7 +4014,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.burgoiecheverria.lasrozas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040787",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 404
 },{
   "id": 28040799,
   "dat": "Norte",
@@ -3813,7 +4032,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.juliopalacios.sansebastian",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040799",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041354,
   "dat": "Norte",
@@ -3830,7 +4050,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.agora.alcobendas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041354",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041366,
   "dat": "Sur",
@@ -3847,7 +4068,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.elpinar.alcorcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041366",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041378,
   "dat": "Oeste",
@@ -3864,7 +4086,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.maximotrueba.boadilla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041378",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041381,
   "dat": "Norte",
@@ -3881,7 +4104,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.lacabrera",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041381",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041391,
   "dat": "Este",
@@ -3898,7 +4122,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.antoniogaudi.coslada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041391",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041411,
   "dat": "Sur",
@@ -3915,7 +4140,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.altair.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041411",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041433,
   "dat": "Capital",
@@ -3932,7 +4158,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.juanadecastilla.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041433",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041445,
   "dat": "Este",
@@ -3949,7 +4176,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.delibes.mejorada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041445",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041470,
   "dat": "Sur",
@@ -3966,7 +4194,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.angelysern.navalcarnero",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041470",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041482,
   "dat": "Sur",
@@ -3983,7 +4212,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.lalaguna.parla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041482",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041494,
   "dat": "Este",
@@ -4000,7 +4230,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.laslagunas.rivas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041494",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041500,
   "dat": "Este",
@@ -4017,7 +4248,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.palasatenea.torrejondeardoz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041500",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28041512,
   "dat": "Sur",
@@ -4034,7 +4266,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.calatalifa.villaviciosa",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041512",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041597,
   "dat": "Oeste",
@@ -4051,7 +4284,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.lascanteras.colladovillalba",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041597",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28041615,
   "dat": "Sur",
@@ -4068,7 +4302,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.satafi.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041615",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042000,
   "dat": "Este",
@@ -4085,7 +4320,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.ignacioellacuria.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042000",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042012,
   "dat": "Oeste",
@@ -4102,7 +4338,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.mariaguerrero.colladovillalba",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042012",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042024,
   "dat": "Sur",
@@ -4119,7 +4356,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.neruda.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042024",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28042036,
   "dat": "Sur",
@@ -4136,7 +4374,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.garciamarquez.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042036",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042048,
   "dat": "Sur",
@@ -4153,7 +4392,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.joaquinaraujo.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042048",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042051,
   "dat": "Sur",
@@ -4170,7 +4410,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.doloresibarruri.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042051",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042061,
   "dat": "Sur",
@@ -4187,7 +4428,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.antoniolopezgarcia.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042061",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042073,
   "dat": "Oeste",
@@ -4204,7 +4446,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.margaritasalas.majadahonda",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042073",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042085,
   "dat": "Sur",
@@ -4221,7 +4464,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.antoniogala.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042085",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042097,
   "dat": "Sur",
@@ -4238,7 +4482,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.miguelhernandez.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042097",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042103,
   "dat": "Norte",
@@ -4255,7 +4500,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.antoniolopez.trescantos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042103",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042115,
   "dat": "Sur",
@@ -4275,7 +4521,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.itaca.alcorcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042115",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28042191,
   "dat": "Sur",
@@ -4292,7 +4539,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cp.velazquez.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042191",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 404
 },{
   "id": 28042590,
   "dat": "Este",
@@ -4309,7 +4557,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.albeniz.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042590",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042607,
   "dat": "Este",
@@ -4326,7 +4575,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.luisbraille.coslada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042607",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042620,
   "dat": "Oeste",
@@ -4343,7 +4593,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.infantaelena.galapagar",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042620",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042632,
   "dat": "Sur",
@@ -4360,7 +4611,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.icaro.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042632",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042644,
   "dat": "Capital",
@@ -4377,7 +4629,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.santaeugenia.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042644",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28042656,
   "dat": "Capital",
@@ -4394,7 +4647,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.claradelrey.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042656",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042668,
   "dat": "Sur",
@@ -4411,7 +4665,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.europa.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042668",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042671,
   "dat": "Sur",
@@ -4428,7 +4683,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.antoniodenebrija.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042671",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042681,
   "dat": "Este",
@@ -4445,7 +4701,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.valleinclan.torrejondeardoz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042681",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042875,
   "dat": "Este",
@@ -4462,7 +4719,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.arganda",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042875",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28042887,
   "dat": "Oeste",
@@ -4479,7 +4737,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.sanlorenzo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042887",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28042929,
   "dat": "Capital",
@@ -4496,7 +4755,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.panbendito.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042929",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28042930,
   "dat": "Capital",
@@ -4513,7 +4773,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.tetuan.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042930",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28042942,
   "dat": "Capital",
@@ -4530,7 +4791,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.fuencarral.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042942",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28042954,
   "dat": "Capital",
@@ -4547,7 +4809,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.entrevias.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042954",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28042981,
   "dat": "Norte",
@@ -4564,7 +4827,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.rosachacel.colmenarviejo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042981",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28042991,
   "dat": "Sur",
@@ -4581,7 +4845,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.victoriakent.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042991",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28043016,
   "dat": "Sur",
@@ -4598,7 +4863,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.picasso.pinto",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043016",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28043028,
   "dat": "Norte",
@@ -4615,7 +4881,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.juandemairena.sansebastian",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043028",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28043235,
   "dat": "Capital",
@@ -4632,7 +4899,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.villaverde.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043235",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28043259,
   "dat": "Capital",
@@ -4649,7 +4917,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.canillejas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043259",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28043260,
   "dat": "Capital",
@@ -4666,7 +4935,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.pabloguzman.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043260",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28044306,
   "dat": "Oeste",
@@ -4683,7 +4953,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.carmenconde.lasrozas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044306",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28044318,
   "dat": "Este",
@@ -4700,7 +4971,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.garciaberlanga.coslada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044318",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28044501,
   "dat": "Capital",
@@ -4717,7 +4989,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.vistaalegre.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044501",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28044513,
   "dat": "Capital",
@@ -4734,7 +5007,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.vallecas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044513",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28044549,
   "dat": "Este",
@@ -4751,7 +5025,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.paracuellos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044549",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28044562,
   "dat": "Este",
@@ -4768,7 +5043,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.torresdelaalameda",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044562",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28044574,
   "dat": "Este",
@@ -4785,7 +5061,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.villarejodesalvanes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044574",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28044628,
   "dat": "Sur",
@@ -4802,7 +5079,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.sanmartindevaldeiglesias",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044628",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28044719,
   "dat": "Sur",
@@ -4819,7 +5097,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.rayuela.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044719",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28044720,
   "dat": "Sur",
@@ -4836,7 +5115,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.elolivo.parla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044720",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28044744,
   "dat": "Este",
@@ -4853,7 +5133,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.maranon.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044744",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28044756,
   "dat": "Este",
@@ -4870,7 +5151,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.duquederivas.rivas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044756",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28044768,
   "dat": "Este",
@@ -4887,7 +5169,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.anselmolorenzo.sanmartindelavega",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044768",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28044896,
   "dat": "Norte",
@@ -4904,7 +5187,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.torrelaguna",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044896",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28044902,
   "dat": "Capital",
@@ -4924,7 +5208,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.quevedo.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044902",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28045025,
   "dat": "Este",
@@ -4941,7 +5226,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.losolivos.mejorada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045025",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28045037,
   "dat": "Este",
@@ -4958,7 +5244,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.manueldefalla.coslada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045037",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28045049,
   "dat": "Este",
@@ -4975,7 +5262,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.villarejo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045049",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28045050,
   "dat": "Oeste",
@@ -4992,7 +5280,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.lazarocardenas.colladovillalba",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045050",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28045268,
   "dat": "Capital",
@@ -5009,7 +5298,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.cidcampeador.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045268",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045271,
   "dat": "Capital",
@@ -5026,7 +5316,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.ciudadlineal.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045271",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045281,
   "dat": "Oeste",
@@ -5043,7 +5334,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.colladovillalba",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045281",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045293,
   "dat": "Capital",
@@ -5060,7 +5352,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.oporto.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045293",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045311,
   "dat": "Capital",
@@ -5077,7 +5370,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.losrosales.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045311",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045323,
   "dat": "Capital",
@@ -5094,7 +5388,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.vicalvaro.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045323",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045347,
   "dat": "Capital",
@@ -5111,7 +5406,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.dulcechacon.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045347",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045359,
   "dat": "Este",
@@ -5128,7 +5424,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.torrejondeardoz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045359",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045360,
   "dat": "Sur",
@@ -5145,7 +5442,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.alcorcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045360",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045372,
   "dat": "Sur",
@@ -5162,7 +5460,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.aranjuez",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045372",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045396,
   "dat": "Sur",
@@ -5179,7 +5478,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045396",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045414,
   "dat": "Sur",
@@ -5196,7 +5496,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.gloriafuertes.navalcarnero",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045414",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045426,
   "dat": "Sur",
@@ -5213,7 +5514,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.parla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045426",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045438,
   "dat": "Sur",
@@ -5230,7 +5532,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.valdemoro",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045438",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045441,
   "dat": "Sur",
@@ -5247,7 +5550,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.mancomunidadsuroeste.grinon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045441",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045463,
   "dat": "Norte",
@@ -5264,7 +5568,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.elmolar",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045463",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045608,
   "dat": "Capital",
@@ -5281,7 +5586,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.arganzuela.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045608",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045621,
   "dat": "Oeste",
@@ -5298,7 +5604,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.lasrozas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045621",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045633,
   "dat": "Capital",
@@ -5315,7 +5622,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.goya.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045633",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28045645,
   "dat": "Sur",
@@ -5332,7 +5640,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.pedrodetolosa.sanmartindevaldeiglesias",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045645",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28045657,
   "dat": "Capital",
@@ -5349,7 +5658,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.moncloa.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045657",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045669,
   "dat": "Este",
@@ -5366,7 +5676,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.sanmartindelavega",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045669",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28045773,
   "dat": "Este",
@@ -5383,7 +5694,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.sendagaliana.torres",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045773",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28045803,
   "dat": "Sur",
@@ -5400,7 +5712,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.humanes.humanes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045803",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28045815,
   "dat": "Sur",
@@ -5417,7 +5730,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.avalon.valdemoro",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045815",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 404
 },{
   "id": 28045839,
   "dat": "Oeste",
@@ -5434,7 +5748,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.valmayor.valdemorillo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045839",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 991
 },{
   "id": 28045840,
   "dat": "Capital",
@@ -5451,7 +5766,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.madridsur.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045840",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28046091,
   "dat": "Este",
@@ -5468,7 +5784,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.atenea.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046091",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28046111,
   "dat": "Oeste",
@@ -5485,7 +5802,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.alpedrete.alpedrete",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046111",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28046251,
   "dat": "Oeste",
@@ -5502,7 +5820,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.franciscoayala.hoyodemanzanares",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046251",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28046261,
   "dat": "Sur",
@@ -5519,7 +5838,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.ignacioaldecoa.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046261",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28046273,
   "dat": "Sur",
@@ -5536,7 +5856,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.maestrojmleonet.villadelprado",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046273",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28046285,
   "dat": "Este",
@@ -5553,7 +5874,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/sies.carpediem.colmenardeoreja",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046285",
-  "tipo": "047"
+  "tipo": "047",
+  "status_web": 200
 },{
   "id": 28046297,
   "dat": "Este",
@@ -5570,7 +5892,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/sies.anselmolorenzo.morata",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046297",
-  "tipo": "047"
+  "tipo": "047",
+  "status_web": 200
 },{
   "id": 28046303,
   "dat": "Oeste",
@@ -5587,7 +5910,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.lasencinas.villanuevadelacanada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046303",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28046315,
   "dat": "Sur",
@@ -5604,7 +5928,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.grinon.grinon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046315",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28046339,
   "dat": "Norte",
@@ -5621,7 +5946,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.sanagustin.sanagustin",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046339",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28046352,
   "dat": "Oeste",
@@ -5638,7 +5964,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.canadareal.galapagar",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046352",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28046364,
   "dat": "Oeste",
@@ -5655,7 +5982,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.elescorial.elescorial",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046364",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28046376,
   "dat": "Capital",
@@ -5672,7 +6000,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.vid.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046376",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28046467,
   "dat": "Capital",
@@ -5689,7 +6018,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.orcasitas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046467",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28046479,
   "dat": "Capital",
@@ -5706,7 +6036,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.joaquinsorolla.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046479",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28046522,
   "dat": "Este",
@@ -5723,7 +6054,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.europa.rivas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046522",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28046558,
   "dat": "Oeste",
@@ -5740,7 +6072,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.colmenarejo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046558",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28047411,
   "dat": "Capital",
@@ -5757,7 +6090,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.principefelipe.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28047411",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28048282,
   "dat": "Capital",
@@ -5774,7 +6108,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.puertabonita.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048282",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28048294,
   "dat": "Capital",
@@ -5791,7 +6126,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.hotelescuela.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048294",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28048476,
   "dat": "Oeste",
@@ -5808,7 +6144,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.garcialorca.lasrozas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048476",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28049341,
   "dat": "Sur",
@@ -5825,7 +6162,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.capacitacionagraria.villaviciosa",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28049341",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28050525,
   "dat": "Sur",
@@ -5842,7 +6180,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.gabrielamistral.arroyomolinos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050525",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28050537,
   "dat": "Sur",
@@ -5859,7 +6198,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.alfonsomoreno.brunete",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050537",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28050549,
   "dat": "Sur",
@@ -5876,7 +6216,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.gabrielcisneros.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050549",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28050550,
   "dat": "Sur",
@@ -5893,7 +6234,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.sevillalanueva.sevilla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050550",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28050562,
   "dat": "Oeste",
@@ -5910,7 +6252,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.villanuevadelpardillo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050562",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28050720,
   "dat": "Sur",
@@ -5927,7 +6270,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.cervantes.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050720",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28050732,
   "dat": "Este",
@@ -5944,7 +6288,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.profesorjulioperez.rivas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050732",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28056400,
   "dat": "Este",
@@ -5961,7 +6306,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.josehierro.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056400",
-  "tipo": "035"
+  "tipo": "035",
+  "status_web": 999
 },{
   "id": 28056412,
   "dat": "Este",
@@ -5978,7 +6324,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.claracampoamor.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056412",
-  "tipo": "035"
+  "tipo": "035",
+  "status_web": 999
 },{
   "id": 28056424,
   "dat": "Sur",
@@ -5995,7 +6342,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.alonsoquijano.valdemoro",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056424",
-  "tipo": "035"
+  "tipo": "035",
+  "status_web": 999
 },{
   "id": 28056436,
   "dat": "Sur",
@@ -6012,7 +6360,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.alborada.navalcarnero",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056436",
-  "tipo": "035"
+  "tipo": "035",
+  "status_web": 999
 },{
   "id": 28056448,
   "dat": "Norte",
@@ -6029,7 +6378,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.yucatan.soto",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056448",
-  "tipo": "035"
+  "tipo": "035",
+  "status_web": 200
 },{
   "id": 28056451,
   "dat": "Sur",
@@ -6046,7 +6396,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.dulcechacon.aranjuez",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056451",
-  "tipo": "035"
+  "tipo": "035",
+  "status_web": 999
 },{
   "id": 28057076,
   "dat": "Oeste",
@@ -6063,7 +6414,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.elencinar.torrelodones",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057076",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28057088,
   "dat": "Oeste",
@@ -6080,7 +6432,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.mariamoliner.villanuevadelacanada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057088",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28057180,
   "dat": "Sur",
@@ -6097,7 +6450,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.lasamericas.parla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057180",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28057209,
   "dat": "Este",
@@ -6114,7 +6468,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.anammatute.velilla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057209",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28057210,
   "dat": "Este",
@@ -6131,7 +6486,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.gasparsanz.meco",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057210",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28057222,
   "dat": "Este",
@@ -6148,7 +6504,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.adolfosuarez.paracuellos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057222",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28057271,
   "dat": "Capital",
@@ -6165,7 +6522,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.renacimiento.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057271",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28057660,
   "dat": "Este",
@@ -6182,7 +6540,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.rivas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057660",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28057672,
   "dat": "Oeste",
@@ -6199,7 +6558,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.mariovargasllosa.majadahonda",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057672",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28057684,
   "dat": "Oeste",
@@ -6216,7 +6576,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.pozuelodealarcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057684",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28057751,
   "dat": "Norte",
@@ -6233,7 +6594,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.sierradeguadarrama.soto",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057751",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28057805,
   "dat": "Capital",
@@ -6250,7 +6612,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.lasrosas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057805",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28058603,
   "dat": "Capital",
@@ -6267,7 +6630,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.numancia.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058603",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28058615,
   "dat": "Este",
@@ -6284,7 +6648,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.hosteleria.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058615",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28058627,
   "dat": "Este",
@@ -6301,7 +6666,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.josesaramago.arganda",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058627",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28058639,
   "dat": "Norte",
@@ -6318,7 +6684,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.atenea.sansebastian",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058639",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28058640,
   "dat": "Oeste",
@@ -6335,7 +6702,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.arquitectoventurarodriguez.boadilla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058640",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28058652,
   "dat": "Oeste",
@@ -6352,7 +6720,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.josesaramago.majadahonda",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058652",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28058664,
   "dat": "Sur",
@@ -6369,7 +6738,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.barrioloranca.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058664",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28058676,
   "dat": "Sur",
@@ -6386,7 +6756,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.elalamo.elalamo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058676",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28058688,
   "dat": "Sur",
@@ -6403,7 +6774,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.migueldelibes.torrejondelacalzada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058688",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28059279,
   "dat": "Oeste",
@@ -6420,7 +6792,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.sabinofernandezcampo.robledo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059279",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28059361,
   "dat": "Capital",
@@ -6437,7 +6810,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.centro.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059361",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28059371,
   "dat": "Oeste",
@@ -6454,7 +6828,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.lamesta.villanuevadelacanada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059371",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28059383,
   "dat": "Oeste",
@@ -6471,7 +6846,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.galapagar",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059383",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28059395,
   "dat": "Oeste",
@@ -6488,7 +6864,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.torrelodones",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059395",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28059401,
   "dat": "Norte",
@@ -6505,7 +6882,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.buitrago",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059401",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28060270,
   "dat": "Sur",
@@ -6522,7 +6900,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cp.salvadordali.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060270",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28060348,
   "dat": "Oeste",
@@ -6539,7 +6918,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.elcantizal.lasrozas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060348",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28060373,
   "dat": "Este",
@@ -6556,7 +6936,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.lazarocarreter.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060373",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28060385,
   "dat": "Este",
@@ -6573,7 +6954,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.migueldecervantes.daganzo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060385",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28060397,
   "dat": "Este",
@@ -6590,7 +6972,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.donpelayo.villalbilla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060397",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28060816,
   "dat": "Oeste",
@@ -6607,7 +6990,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/web/cim.sanlorenzo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060816",
-  "tipo": "016"
+  "tipo": "016",
+  "status_web": 991
 },{
   "id": 28060968,
   "dat": "Norte",
@@ -6624,7 +7008,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.sansebastian",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060968",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28060971,
   "dat": "Oeste",
@@ -6641,7 +7026,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cepa.sierradeguadarrama.colladomediano",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060971",
-  "tipo": "031"
+  "tipo": "031",
+  "status_web": 200
 },{
   "id": 28062011,
   "dat": "Sur",
@@ -6658,7 +7044,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.santiagorusinol.aranjuez",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062011",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28062023,
   "dat": "Sur",
@@ -6675,7 +7062,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.maestromatiasbravo.valdemoro",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062023",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28062035,
   "dat": "Sur",
@@ -6692,7 +7080,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.franciscoumbral.ciempozuelos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062035",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28062126,
   "dat": "Capital",
@@ -6709,7 +7098,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.villaverde.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062126",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28063799,
   "dat": "Capital",
@@ -6726,7 +7116,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cp.adolfosuarez.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28063799",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28064007,
   "dat": "Este",
@@ -6743,7 +7134,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.antares.rivas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064007",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28064044,
   "dat": "Norte",
@@ -6760,7 +7152,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.luisgarciaberlanga.guadalix",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064044",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28064160,
   "dat": "Oeste",
@@ -6777,7 +7170,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.principesdeasturias.pozuelodealarcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064160",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 999
 },{
   "id": 28065632,
   "dat": "Sur",
@@ -6794,7 +7188,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/sies.africa.moraleja",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065632",
-  "tipo": "047"
+  "tipo": "047",
+  "status_web": 999
 },{
   "id": 28065644,
   "dat": "Oeste",
@@ -6811,7 +7206,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.gonzaloanes.colladomediano",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065644",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28065711,
   "dat": "Capital",
@@ -6828,7 +7224,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cim.morenotorroba.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065711",
-  "tipo": "017"
+  "tipo": "017",
+  "status_web": 200
 },{
   "id": 28065841,
   "dat": "Este",
@@ -6845,7 +7242,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/sies.lapoveda.camporeal",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065841",
-  "tipo": "047"
+  "tipo": "047",
+  "status_web": 200
 },{
   "id": 28067628,
   "dat": "Sur",
@@ -6862,7 +7260,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.calderon.pinto",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067628",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28067744,
   "dat": "Sur",
@@ -6879,7 +7278,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cp.santoangeldelaguarda.chapineria",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067744",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28067768,
   "dat": "Sur",
@@ -6896,7 +7296,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/cp.sanmiguel.villamantilla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067768",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28069391,
   "dat": "Sur",
@@ -6913,7 +7314,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.fernangomez.humanes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069391",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28069844,
   "dat": "Sur",
@@ -6930,7 +7332,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.jimenamenendezpidal.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069844",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28070691,
   "dat": "Sur",
@@ -6947,7 +7350,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.maestrorodrigo.aranjuez",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070691",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 999
 },{
   "id": 28070721,
   "dat": "Este",
@@ -6964,7 +7368,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.beethoven.torrejondeardoz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070721",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28070962,
   "dat": "Sur",
@@ -6981,7 +7386,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.carpediem.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070962",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28070974,
   "dat": "Sur",
@@ -6998,7 +7404,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.nicolascopernico.parla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070974",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28071310,
   "dat": "Norte",
@@ -7015,7 +7422,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.cortesdecadiz.elmolar",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28071310",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28072107,
   "dat": "Sur",
@@ -7032,7 +7440,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.lasenda.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072107",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28072223,
   "dat": "Sur",
@@ -7049,7 +7458,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.pedroduque.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072223",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28073859,
   "dat": "Capital",
@@ -7066,7 +7476,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.manuelfragairibarne.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073859",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28073872,
   "dat": "Norte",
@@ -7083,7 +7494,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/cp.puertadelasierra.venturada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073872",
-  "tipo": "070"
+  "tipo": "070",
+  "status_web": 200
 },{
   "id": 28074037,
   "dat": "Sur",
@@ -7100,7 +7512,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.jorgeguillen.alcorcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074037",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28074049,
   "dat": "Sur",
@@ -7117,7 +7530,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.gonzalochacon.arroyomolinos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074049",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28074050,
   "dat": "Sur",
@@ -7134,7 +7548,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.lopezaranguren.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074050",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28074062,
   "dat": "Sur",
@@ -7151,7 +7566,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.neilarmstrong.valdemoro",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074062",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28074244,
   "dat": "Capital",
@@ -7171,7 +7587,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.pedrosalinas.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074244",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28074669,
   "dat": "Sur",
@@ -7188,7 +7605,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.menendezpelayo.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074669",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28074670,
   "dat": "Sur",
@@ -7208,7 +7626,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.juangris.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074670",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28074852,
   "dat": "Sur",
@@ -7225,7 +7644,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.elcanaveral.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074852",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28074918,
   "dat": "Capital",
@@ -7242,7 +7662,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.franciscoayala.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074918",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28075492,
   "dat": "Sur",
@@ -7259,7 +7680,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.rafaelfruhbeckdeburgos.leganes",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075492",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28075509,
   "dat": "Sur",
@@ -7276,7 +7698,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/sies.humanes.cubasdelasagra",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075509",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28075510,
   "dat": "Oeste",
@@ -7293,7 +7716,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.josegarcianieto.lasrozas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075510",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28076368,
   "dat": "Capital",
@@ -7310,7 +7734,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.alfredokraus.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076368",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28076371,
   "dat": "Capital",
@@ -7327,7 +7752,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.juanramonjimenez.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076371",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28076381,
   "dat": "Este",
@@ -7344,7 +7770,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/sies.luisdegongora.loeches",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076381",
-  "tipo": "047"
+  "tipo": "047",
+  "status_web": 200
 },{
   "id": 28077269,
   "dat": "Capital",
@@ -7361,7 +7788,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.mariarodrigo.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077269",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28077491,
   "dat": "Norte",
@@ -7378,7 +7806,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/sies.jlsampedro.trescantos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077491",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28077889,
   "dat": "Capital",
@@ -7395,7 +7824,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.malalayousafzai.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077889",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28077890,
   "dat": "Este",
@@ -7412,7 +7842,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.simoneveil.paracuellos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077890",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28077907,
   "dat": "Sur",
@@ -7429,7 +7860,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.africa.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077907",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28077971,
   "dat": "Sur",
@@ -7446,7 +7878,8 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.federicamontsen.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077971",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28078031,
   "dat": "Oeste",
@@ -7463,7 +7896,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.isabellacatolica.boadilla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078031",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28078043,
   "dat": "Norte",
@@ -7480,7 +7914,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/sies.alcobendasv.alcobendas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078043",
-  "tipo": "047"
+  "tipo": "047",
+  "status_web": 999
 },{
   "id": 28078547,
   "dat": "Sur",
@@ -7497,7 +7932,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.elisasorianofischer.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078547",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28078559,
   "dat": "Capital",
@@ -7514,7 +7950,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.forges.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078559",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 },{
   "id": 28079357,
   "dat": "Capital",
@@ -7531,7 +7968,8 @@
   "bilingue": true,
   "url": null,
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079357",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": null
 },{
   "id": 28079370,
   "dat": "Capital",
@@ -7548,7 +7986,8 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.anafrank.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079370",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 200
 },{
   "id": 28079382,
   "dat": "Capital",
@@ -7565,7 +8004,8 @@
   "bilingue": true,
   "url": null,
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079382",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": null
 },{
   "id": 28079394,
   "dat": "Este",
@@ -7582,7 +8022,8 @@
   "bilingue": true,
   "url": null,
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079394",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": null
 },{
   "id": 28079400,
   "dat": "Este",
@@ -7599,5 +8040,6 @@
   "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.juanbautistamonegro.torrejondeardoz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079400",
-  "tipo": "042"
+  "tipo": "042",
+  "status_web": 999
 }]

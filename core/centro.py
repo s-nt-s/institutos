@@ -4,16 +4,41 @@ import bs4
 import requests
 import simplekml
 import utm
+from html.parser import HTMLParser
+from contextlib import closing
 
 from .common import get_soup
 from .utm_to_geo import utm_to_geo
+
+import urllib3
+urllib3.disable_warnings()
 
 re_sp = re.compile(r"\s+", re.MULTILINE | re.UNICODE)
 re_dire = re.compile(r"^\s*Dirección:", re.MULTILINE | re.UNICODE | re.DOTALL)
 re_coord = re.compile(r"&xIni=([\d\.]+)&yIni=([\d\.]+)")
 re_minusculas = re.compile(r"[a-z]")
 re_nocturno = re.compile(r".*\bnocturno\b.*")
+re_title = re.compile("<title[^>]*>(.*?)</title>", re.IGNORECASE | re.DOTALL)
+htmlp = HTMLParser()
 
+def status_web(url):
+    buffer = ""
+    try:
+        with closing(requests.get(url, stream=True, verify=False)) as res:
+            status = res.status_code
+            if status != 200:
+                return status
+            for chunk in res.iter_content(chunk_size=1024, decode_unicode=True):
+                buffer = buffer+chunk
+                match = re_title.search(buffer)
+                if match:
+                    title = htmlp.unescape(match.group(1))
+                    title = re_sp.sub(" ", title).strip()
+                    if title == "Web de centro deshabilitada | EducaMadrid":
+                        return 999
+    except Exception as e:
+        return 991
+    return 200
 
 def get_text(n, index=0):
     if type(n) is list:
@@ -29,8 +54,12 @@ def get_data(ctr):
         if not d1.get("latlon"):
             d2 = get_data2(ctr)
             d1["latlon"] = d2.get("latlon")
-        return d1
-    return get_data2(ctr)
+    else:
+        d1 = get_data2(ctr)
+    url = d1.get("url")
+    if url:
+        d1["status_web"]=status_web(url)
+    return d1
 
 
 def get_data1(ctr):

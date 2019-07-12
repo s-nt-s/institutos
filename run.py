@@ -22,7 +22,7 @@ def get_description(c):
         FICHA: {3}
     '''.format(c.id, c.dat, c.direccion, c.info)
     des = textwrap.dedent(des).strip()
-    if c.url:
+    if c.status_web == 200:
         des = des+"\nURL: {0}".format(c.url.split("://")[-1])
     if c.dificultad:
         des = des+"\n**Centro de especial dificultad**"

@@ -13,10 +13,10 @@ def parse_word(w, first=False):
     if first:
         return w.capitalize()
     l=w.lower()
-    if len(l)<3 or l in ("del", "las", "los"):
-        return l
     if l in ("i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xii", "xiii", "xiv", "xv", "xvi", "xvii", "xviii", "xix", "xx"):
         return l.upper()
+    if len(l)<3 or l in ("del", "las", "los"):
+        return l
     return w.capitalize()
 
 def parse_nombre(name):

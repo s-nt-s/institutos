@@ -133,6 +133,6 @@ $("div.filter input").bind("click keypress change", function() {
         lnk.href=href+"bcc="+ mails.join(";");;
       }
     }
-}).click();
+}).change();
 
 });

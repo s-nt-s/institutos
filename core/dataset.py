@@ -4,9 +4,10 @@ from functools import lru_cache
 import requests
 from bunch import Bunch
 import json
+import geopy.distance
 
 from .centro import get_data
-from .common import get_pdf, get_soup, mkBunch, read_yml
+from .common import get_pdf, get_soup, mkBunch, read_yml, read_zip, get_km
 from .decorators import *
 
 re_bocm = re.compile(r".*(BOCM-[\d\-]+).PDF", re.IGNORECASE)
@@ -73,6 +74,7 @@ class Dataset():
             if dir in ("", "Madrid"):
                 dir = None
             extra = get_data(id)
+            latlon = self.arregos.get(id) or extra.get("latlon")
             c = Bunch(
                 id=id,
                 dat=dat,
@@ -80,7 +82,7 @@ class Dataset():
                 direccion=dir,
                 telefono=i["TELEFONO"],
                 mail=extra.get("tlMail"),
-                latlon=self.arregos.get(id) or extra.get("latlon"),
+                latlon=latlon,
                 nocturno=extra.get("nocturno"),
                 dificultad=id in self.dificultad,
                 adaptado=id in self.adaptado,
@@ -90,7 +92,8 @@ class Dataset():
                 url=extra.get("url"),
                 info=extra.get("info"),
                 tipo=self.centro_tipo.get(id) or i["TIPO DE CENTRO"],
-                status_web=extra.get("status_web")
+                status_web=extra.get("status_web"),
+                min_distance=self.min_distance(latlon)
             )
             if id in self.nocturno and not c.nocturno:
                 print(extra["info"])
@@ -281,3 +284,45 @@ class Dataset():
                 feature['properties'][k] = v
             geojson['features'].append(feature)
         return geojson
+
+    @property
+    @lru_cache(maxsize=None)
+    @JsonCache(file="data/metro.json")
+    def metro(self):
+        paradas = []
+        for line in read_zip(self.indice.metro, "stops.txt", start=1):
+            latlon = line.split(",")[4:6]
+            lat, lon = tuple(map(float, latlon))
+            paradas.append((lat, lon))
+        return paradas
+
+    @property
+    @lru_cache(maxsize=None)
+    @JsonCache(file="data/cercanias.json")
+    def cercanias(self):
+        paradas = []
+        for line in read_zip(self.indice.cercanias, "stops.txt", start=1):
+            latlon = line.split(",")[4:6]
+            lat, lon = tuple(map(float, latlon))
+            paradas.append((lat, lon))
+        return paradas
+
+
+    @property
+    @lru_cache(maxsize=None)
+    @JsonCache(file="data/estaciones.json")
+    def estaciones(self):
+        coords=set()
+        for url in self.indice.estaciones:
+            for line in read_zip(url, "stops.txt", start=1):
+                latlon = line.split(",")[4:6]
+                lat, lon = tuple(map(float, latlon))
+                coords.add((lat, lon))
+        return coords
+
+    def min_distance(self, latlon):
+        if not latlon:
+            return None
+        lat, lon = tuple(map(float, latlon.split(",")))
+        distances = [geopy.distance.vincenty((lat, lon), latlon).m for latlon in self.estaciones]
+        return min(distances)

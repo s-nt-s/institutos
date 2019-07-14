@@ -63,6 +63,8 @@ class JsonCache(Cache):
         return read_js(self.file, to_bunch=self.to_bunch)
 
     def save(self, data, *args, **kargs):
+        if isinstance(data, set):
+            data=list(sorted(data))
         save_js(self.file, data)
 
 

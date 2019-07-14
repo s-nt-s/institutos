@@ -10,6 +10,12 @@ import requests
 import yaml
 from bunch import Bunch
 
+from io import BytesIO
+from zipfile import ZipFile
+import urllib.request
+from math import sin, cos, sqrt, atan2, radians
+
+
 
 def get_pdf(url, to_file=None):
     ps = subprocess.Popen(("curl", "-s", url), stdout=subprocess.PIPE)
@@ -175,3 +181,32 @@ def create_script(file, **kargv):
             f.write("var "+k+" = ")
             json.dump(v, f, indent=2)
             f.write(";\n")
+
+
+
+def read_zip(url, file, start=0):
+    url = urllib.request.urlopen(url)
+    with ZipFile(BytesIO(url.read())) as my_zip_file:
+        for i, line in enumerate(my_zip_file.open(file).readlines()):
+            line = line.decode()
+            line = line.strip()
+            if line and i>=start:
+                yield line
+
+def get_km(lat1, lon1, lat2, lon2):
+    R = 6373.0
+
+    lat1 = radians(lat1)
+    lon1 = radians(lon1)
+    lat2 = radians(lat2)
+    lon2 = radians(lon2)
+
+    dlon = lon2 - lon1
+    dlat = lat2 - lat1
+
+    a = sin(dlat / 2)**2 + cos(lat1) * cos(lat2) * sin(dlon / 2)**2
+    c = 2 * atan2(sqrt(a), sqrt(1 - a))
+
+    distance = R * c
+
+    return distance

@@ -21,6 +21,12 @@ div.sidebar-pane > div.content {
 div.sidebar-pane input[type=text] {
   width: 95%;
 }
+div.sidebar-pane input[type=number] {
+  width: 5em;
+}
 fieldset {
   margin-top: 16px;
+}
+div.content ul {
+  padding-left: 20px;
 }

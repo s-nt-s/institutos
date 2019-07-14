@@ -21,6 +21,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000029",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 875.0589201381081,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -54,6 +55,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000364",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 75.27335515488062,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -84,6 +86,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000467",
         "tipo": "042",
         "status_web": 991,
+        "min_distance": 285.1112278085038,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -103,7 +106,7 @@ var geomap = {
         "direccion": "Calle Alalpardo, S/n 28806 Alcal\u00e1 de Henares",
         "telefono": 918892450,
         "mail": "ies.machado.alcala@educa.madrid.org",
-        "latlon": "40.49165857006046,-3.3696764563273067",
+        "latlon": "40.491658570060444,-3.3696764563273067",
         "nocturno": [
           "Artes (LOE-LOMCE)"
         ],
@@ -116,13 +119,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000522",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 96.88673429467292,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.3696764563273067,
-          40.49165857006046
+          40.491658570060444
         ]
       }
     },
@@ -150,6 +154,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000753",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 178.88534638561927,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -183,6 +188,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001629",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 95.24230611104399,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -213,6 +219,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001678",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 216.16461204247418,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -243,6 +250,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001769",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 130.58518304242463,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -262,7 +270,7 @@ var geomap = {
         "direccion": "Paseo De San Sebasti\u00e1n, 23 28490 Becerril de la Sierra",
         "telefono": 918538064,
         "mail": "cp.juanramonjimenez.becerril@educa.madrid.org",
-        "latlon": "40.71360141345145,-3.9910766855742534",
+        "latlon": "40.71360141345146,-3.9910766855742534",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -273,13 +281,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001812",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 281.40403220434547,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.9910766855742534,
-          40.71360141345145
+          40.71360141345146
         ]
       }
     },
@@ -303,6 +312,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001848",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 105.82369389158823,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -333,6 +343,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001873",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 23.00646848040257,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -363,6 +374,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002026",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 736.6156545907909,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -393,6 +405,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002038",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 194.20214618339546,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -423,6 +436,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002105",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 427.42036386756695,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -453,6 +467,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002181",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 41.400191771463554,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -483,6 +498,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002211",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 221.54896808438116,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -516,6 +532,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002312",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 86.12054235329994,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -546,6 +563,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002415",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 52.506740547412164,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -576,6 +594,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002580",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 33.184401860622685,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -606,6 +625,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002853",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 321.17291177025595,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -639,6 +659,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003201",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 77.7677552310935,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
@@ -669,6 +690,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003304",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 130.47665960133475,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -702,6 +724,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003882",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 121.73700244386171,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
@@ -732,6 +755,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003894",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 98.6904897575335,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -751,7 +775,7 @@ var geomap = {
         "direccion": "Calle Alpujarras, 52 28915 Legan\u00e9s",
         "telefono": 916880222,
         "mail": "ies.mariazambrano.leganes@educa.madrid.org",
-        "latlon": "40.330590380098705,-3.7475089043237886",
+        "latlon": "40.33059038009869,-3.7475089043237886",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -762,13 +786,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003900",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 154.27779116043268,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.7475089043237886,
-          40.330590380098705
+          40.33059038009869
         ]
       }
     },
@@ -795,6 +820,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28004059",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 96.6526267172232,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -825,6 +851,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28013899",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 427.68722721706,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -855,6 +882,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28015756",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 507.64897004686406,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -885,6 +913,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018344",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 121.12731361170057,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -915,6 +944,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018356",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 243.1166354194918,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -945,6 +975,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018368",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 143.98862307799908,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -975,6 +1006,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018381",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 233.7692762360179,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -994,7 +1026,7 @@ var geomap = {
         "direccion": "Avenida De Carabanchel Alto, 17 28044 Madrid",
         "telefono": null,
         "mail": "ies.numerounoejercito.madrid@educa.madrid.org",
-        "latlon": "40.36977293188244,-3.752712005119586",
+        "latlon": "40.369772931882444,-3.752712005119586",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -1005,13 +1037,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018423",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 45.32832921218471,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.752712005119586,
-          40.36977293188244
+          40.369772931882444
         ]
       }
     },
@@ -1037,6 +1070,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018435",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 57.741785050116746,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
@@ -1067,6 +1101,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018460",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 2019.3991214057046,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -1097,6 +1132,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018472",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 289.0012128560645,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -1127,6 +1163,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018484",
         "tipo": "042",
         "status_web": 404,
+        "min_distance": 513.7356313509639,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1157,6 +1194,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018903",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 154.8431823705998,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1187,6 +1225,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019312",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 179.76617096521758,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1217,6 +1256,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019351",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 165.22375760083116,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1250,6 +1290,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019464",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 87.8169540257072,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -1280,6 +1321,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019889",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 191.0810544195658,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1310,6 +1352,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019971",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 229.82891967960074,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1343,6 +1386,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020119",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 451.3580573543467,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -1373,6 +1417,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020201",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 72.1516954854248,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -1403,6 +1448,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020341",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 378.9077700842562,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1422,7 +1468,7 @@ var geomap = {
         "direccion": "Calle De N\u00e1poles, 56 28043 Madrid",
         "telefono": 913884579,
         "mail": "ies.condedeorgaz.madrid@educa.madrid.org",
-        "latlon": "40.459983181793525,-3.646389131938344",
+        "latlon": "40.45998318179353,-3.646389131938344",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -1433,13 +1479,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020545",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 64.18180116508786,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.646389131938344,
-          40.459983181793525
+          40.45998318179353
         ]
       }
     },
@@ -1452,7 +1499,7 @@ var geomap = {
         "direccion": "Calle De Arcos De Jal\u00f3n, 116 28037 Madrid",
         "telefono": 913064069,
         "mail": "ies.carlostercero.madrid@educa.madrid.org",
-        "latlon": "40.424914525909315,-3.6144371343516086",
+        "latlon": "40.42491452590933,-3.6144371343516086",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -1463,13 +1510,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020557",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 321.57952222934694,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6144371343516086,
-          40.424914525909315
+          40.42491452590933
         ]
       }
     },
@@ -1493,6 +1541,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020570",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 261.22781088045997,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1523,6 +1572,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020582",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 253.9903899004078,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1557,6 +1607,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020624",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 200.91723051748798,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -1587,6 +1638,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020648",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 48.23774867287857,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1617,6 +1669,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020703",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 47.381815611489465,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1647,6 +1700,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020715",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 114.44580814054969,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1677,6 +1731,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020727",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 149.26952812868313,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1707,6 +1762,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020739",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 171.13168587508613,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -1737,6 +1793,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020806",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 217.93258155147635,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -1756,7 +1813,7 @@ var geomap = {
         "direccion": "Calle V\u00eda L\u00edmite, 14 28029 Madrid",
         "telefono": 913146706,
         "mail": "ies.tetuan.madrid@educa.madrid.org",
-        "latlon": "40.473140346863296,-3.696828178293769",
+        "latlon": "40.47314034686331,-3.696828178293769",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -1767,13 +1824,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020831",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 391.4664954293876,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.696828178293769,
-          40.473140346863296
+          40.47314034686331
         ]
       }
     },
@@ -1797,6 +1855,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020855",
         "tipo": "042",
         "status_web": 991,
+        "min_distance": 332.74218801990514,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1830,6 +1889,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020892",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 8.0029516672003,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -1849,7 +1909,7 @@ var geomap = {
         "direccion": "Calle De Alfonso Xii, 3 28014 Madrid",
         "telefono": 915277878,
         "mail": "ies.isabellacatolica.madrid@educa.madrid.org",
-        "latlon": "40.40951712958399,-3.688192672587283",
+        "latlon": "40.409517129583975,-3.688192672587283",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -1863,13 +1923,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020909",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 223.48257501257868,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.688192672587283,
-          40.40951712958399
+          40.409517129583975
         ]
       }
     },
@@ -1893,6 +1954,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020910",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 175.29909456480587,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1925,6 +1987,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020934",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 72.57344879904582,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -1959,6 +2022,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020946",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 134.4105013952032,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -1989,6 +2053,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020958",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 133.5685394361768,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -2019,6 +2084,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020961",
         "tipo": "042",
         "status_web": 503,
+        "min_distance": 133.5685394361768,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2049,6 +2115,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021008",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 464.78074948015654,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2068,7 +2135,7 @@ var geomap = {
         "direccion": "Calle De Luis Mitjans, 41 28007 Madrid",
         "telefono": 915523979,
         "mail": "ies.pacifico.madrid@educa.madrid.org",
-        "latlon": "40.40410946519944,-3.6686222494004217",
+        "latlon": "40.404109465199426,-3.6686222494004217",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -2079,13 +2146,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021252",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 263.4172996090154,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6686222494004217,
-          40.40410946519944
+          40.404109465199426
         ]
       }
     },
@@ -2109,6 +2177,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021549",
         "tipo": "042",
         "status_web": 404,
+        "min_distance": 418.59920261075365,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -2139,6 +2208,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021550",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 185.90121811379393,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2169,6 +2239,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021562",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 652.0259129580626,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2199,6 +2270,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022207",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 320.6188917034392,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2229,6 +2301,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022724",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 232.43068827949344,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2259,6 +2332,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022891",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 328.27132366013575,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2289,6 +2363,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023194",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 74.95744588596277,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2319,6 +2394,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023327",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 57.55337116407596,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2349,6 +2425,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023364",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 93.55125524188121,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2379,6 +2456,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023388",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 39.79851867407472,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2409,6 +2487,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023741",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 231.74549364712678,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2439,6 +2518,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023911",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 207.90078626023873,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2472,6 +2552,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024290",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 103.65996143324412,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -2502,6 +2583,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024642",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 215.38508706347628,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2532,6 +2614,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025014",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 244.97679721483772,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2565,6 +2648,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025026",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 205.24442676153558,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -2595,6 +2679,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025129",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 302.6522100279078,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2614,7 +2699,7 @@ var geomap = {
         "direccion": "Calle Miguel Cervantes, 4 28511 Valdilecha",
         "telefono": 918738437,
         "mail": "cp.cervantes.valdilecha@educa.madrid.org",
-        "latlon": "40.29384204220651,-3.2996501318009703",
+        "latlon": "40.29384204220653,-3.2996501318009703",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -2625,13 +2710,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025415",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 53.049906654638534,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.2996501318009703,
-          40.29384204220651
+          40.29384204220653
         ]
       }
     },
@@ -2655,6 +2741,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025658",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 167.07582708692027,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2674,7 +2761,7 @@ var geomap = {
         "direccion": "Calle De Valdebernardo, 1 28030 Madrid",
         "telefono": 917731854,
         "mail": "ies.felipesegundo.madrid@educa.madrid.org",
-        "latlon": "40.39752159032749,-3.6338429115163104",
+        "latlon": "40.397521590327486,-3.6338429115163104",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -2685,13 +2772,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025828",
         "tipo": "042",
         "status_web": 404,
+        "min_distance": 349.10200678016423,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6338429115163104,
-          40.39752159032749
+          40.397521590327486
         ]
       }
     },
@@ -2718,6 +2806,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28026031",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 127.4606388259835,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
@@ -2748,6 +2837,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28026092",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 147.49988905434176,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2778,6 +2868,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028301",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 158.83008609566693,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2808,6 +2899,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028350",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 190.1534717080316,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2841,6 +2933,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028374",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 138.84388142594213,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -2871,6 +2964,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028404",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 137.76637636307967,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2890,7 +2984,7 @@ var geomap = {
         "direccion": "Avenida De Los Toreros, 57 28028 Madrid",
         "telefono": 913552326,
         "mail": "ies.avenidadelostor.madrid@educa.madrid.org",
-        "latlon": "40.43351870441474,-3.6647988443253077",
+        "latlon": "40.433518704414745,-3.6647988443253077",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -2901,13 +2995,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028428",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 284.2327348867626,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6647988443253077,
-          40.43351870441474
+          40.433518704414745
         ]
       }
     },
@@ -2934,6 +3029,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028431",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 481.1922598811963,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -2964,6 +3060,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028453",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 286.9961184782489,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2994,6 +3091,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028465",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 300.60348103320183,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3024,6 +3122,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028477",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 331.71640110004256,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3054,6 +3153,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028568",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 138.5191220815574,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3084,6 +3184,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028571",
         "tipo": "042",
         "status_web": 404,
+        "min_distance": 28.406542149867896,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3114,6 +3215,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028611",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 57.7683656300717,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3133,7 +3235,7 @@ var geomap = {
         "direccion": "Calle De Serrano, 127 28006 Madrid",
         "telefono": 915617838,
         "mail": "ies.ramirodemaeztu.madrid@educa.madrid.org",
-        "latlon": "40.44234017693831,-3.6860865092847903",
+        "latlon": "40.4423401769383,-3.6860865092847903",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)",
@@ -3148,13 +3250,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028672",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 214.44816106776105,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6860865092847903,
-          40.44234017693831
+          40.4423401769383
         ]
       }
     },
@@ -3181,6 +3284,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028684",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 139.87180483491113,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -3211,6 +3315,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030101",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 75.83532724605689,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3241,6 +3346,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030113",
         "tipo": "031",
         "status_web": 991,
+        "min_distance": 316.12902380608426,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3260,7 +3366,7 @@ var geomap = {
         "direccion": "Calle De Oca\u00f1a, 35bis 28047 Madrid",
         "telefono": 917179100,
         "mail": "cepa.aluche.madrid@educa.madrid.org",
-        "latlon": "40.38478069568678,-3.7556594164657175",
+        "latlon": "40.384780695686764,-3.7556594164657175",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3271,13 +3377,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030125",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 322.04399156491513,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.7556594164657175,
-          40.38478069568678
+          40.384780695686764
         ]
       }
     },
@@ -3290,7 +3397,7 @@ var geomap = {
         "direccion": "Calle De Fortuny, 24 28010 Madrid",
         "telefono": 913101839,
         "mail": "ies.fortuny.madrid@educa.madrid.org",
-        "latlon": "40.4337594258703,-3.6898309692897224",
+        "latlon": "40.433759425870306,-3.6898309692897224",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3301,13 +3408,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030137",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 70.99337329340972,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6898309692897224,
-          40.4337594258703
+          40.433759425870306
         ]
       }
     },
@@ -3331,6 +3439,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030149",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 244.25423813034269,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3361,6 +3470,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030150",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 84.78695256049548,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3391,6 +3501,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030162",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 333.9687307473054,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3421,6 +3532,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030174",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 615.5311452990168,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -3440,7 +3552,7 @@ var geomap = {
         "direccion": "Calle De Alfredo Marquerie, 21 28034 Madrid",
         "telefono": 917388675,
         "mail": "ies.damasoalonso.madrid@educa.madrid.org",
-        "latlon": "40.48718116314,-3.7004659272215004",
+        "latlon": "40.48718116313999,-3.7004659272215004",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -3451,13 +3563,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030186",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 297.07359081215833,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.7004659272215004,
-          40.48718116314
+          40.48718116313999
         ]
       }
     },
@@ -3481,6 +3594,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030204",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 116.42394658509528,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3500,7 +3614,7 @@ var geomap = {
         "direccion": "Avenida Juan Carlos I, 19 28981 Parla",
         "telefono": 916982906,
         "mail": "ies.humanejos.parla@educa.madrid.org",
-        "latlon": "40.228683137011366,-3.7688847486100605",
+        "latlon": "40.22868313701137,-3.7688847486100596",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -3511,13 +3625,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030216",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 317.316336011678,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7688847486100605,
-          40.228683137011366
+          -3.7688847486100596,
+          40.22868313701137
         ]
       }
     },
@@ -3541,6 +3656,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030228",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 105.8307731846581,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -3571,6 +3687,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030241",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 48.87121662228839,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3590,7 +3707,7 @@ var geomap = {
         "direccion": "Calle De Somont\u00edn, 59 28033 Madrid",
         "telefono": 913028445,
         "mail": "ies.arturosoria.madrid@educa.madrid.org",
-        "latlon": "40.477742910170676,-3.660161958912997",
+        "latlon": "40.47774291017068,-3.660161958912997",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -3601,13 +3718,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030575",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 249.01290646469795,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.660161958912997,
-          40.477742910170676
+          40.47774291017068
         ]
       }
     },
@@ -3631,6 +3749,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030903",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 47.90880200387551,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3661,6 +3780,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030915",
         "tipo": "042",
         "status_web": 991,
+        "min_distance": 133.87873291172437,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3680,7 +3800,7 @@ var geomap = {
         "direccion": "Calle De Maqueda, 130 28024 Madrid",
         "telefono": 917191511,
         "mail": "ies.blasdeotero.madrid@educa.madrid.org",
-        "latlon": "40.38888268881213,-3.76207929306955",
+        "latlon": "40.38888268881214,-3.76207929306955",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3691,13 +3811,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030927",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 245.54379420133387,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.76207929306955,
-          40.38888268881213
+          40.38888268881214
         ]
       }
     },
@@ -3721,6 +3842,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030939",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 93.99396214662474,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -3751,6 +3873,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030952",
         "tipo": "042",
         "status_web": 991,
+        "min_distance": 469.0587147862076,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -3781,6 +3904,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030964",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 453.0668337398902,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -3800,7 +3924,7 @@ var geomap = {
         "direccion": "Calle De Carlos Ii, S/n 28022 Madrid",
         "telefono": 913065946,
         "mail": "ies.lasmusas.madrid@educa.madrid.org",
-        "latlon": "40.42868839313901,-3.6077871485978754",
+        "latlon": "40.42868839313902,-3.6077871485978754",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3811,13 +3935,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030976",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 430.0211627237761,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6077871485978754,
-          40.42868839313901
+          40.42868839313902
         ]
       }
     },
@@ -3841,6 +3966,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030991",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 361.1462840299192,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3871,6 +3997,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031002",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 265.9850688582231,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3901,6 +4028,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031014",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 239.8372887103968,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3931,6 +4059,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031555",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 213.32254141716544,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3950,7 +4079,7 @@ var geomap = {
         "direccion": "Avenida Alemania, 19 28916 Legan\u00e9s",
         "telefono": 916867274,
         "mail": "ies.arquitectoperid.leganes@educa.madrid.org",
-        "latlon": "40.33420095800475,-3.740826690151356",
+        "latlon": "40.33420095800474,-3.740826690151356",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3961,13 +4090,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032471",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 69.46526099111593,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.740826690151356,
-          40.33420095800475
+          40.33420095800474
         ]
       }
     },
@@ -3991,6 +4121,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032481",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 479.85374663683905,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -4021,6 +4152,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032501",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 26.855059901048335,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4040,7 +4172,7 @@ var geomap = {
         "direccion": "Avenida Juan Carlos I, 12 28981 Parla",
         "telefono": 916981111,
         "mail": "ies.tiernogalvan.parla@educa.madrid.org",
-        "latlon": "40.22596700849176,-3.768184077093533",
+        "latlon": "40.225967008491764,-3.768184077093533",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -4054,13 +4186,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032559",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 621.1574716907086,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.768184077093533,
-          40.22596700849176
+          40.225967008491764
         ]
       }
     },
@@ -4084,6 +4217,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033311",
         "tipo": "031",
         "status_web": 404,
+        "min_distance": 121.23455998620985,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4103,7 +4237,7 @@ var geomap = {
         "direccion": "Calle De Chantada, 34 28029 Madrid",
         "telefono": 913781949,
         "mail": "cepa.sampedro.madrid@educa.madrid.org",
-        "latlon": "40.47346444529825,-3.713111024424132",
+        "latlon": "40.47346444529824,-3.713111024424132",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4114,13 +4248,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033321",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 356.5423492345774,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.713111024424132,
-          40.47346444529825
+          40.47346444529824
         ]
       }
     },
@@ -4144,6 +4279,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033333",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 182.60965967247276,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4174,6 +4310,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033539",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 272.35723455803753,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4204,6 +4341,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033552",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 166.43213681172796,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4234,6 +4372,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033679",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 98.41269910910745,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -4264,6 +4403,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033850",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 128.91088416683328,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4294,6 +4434,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28034441",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 133.2499206701183,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4324,6 +4465,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035305",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 148.31249280445672,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4354,6 +4496,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035317",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 398.91801660759955,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4384,6 +4527,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035330",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 903.3035526490683,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4403,7 +4547,7 @@ var geomap = {
         "direccion": "Camino De La Dehesilla Y Rodeo, S/n 28470 Cercedilla",
         "telefono": 918521763,
         "mail": "ies.ladehesilla.cercedilla@educa.madrid.org",
-        "latlon": "40.737405789386784,-4.043729029455896",
+        "latlon": "40.73740578938678,-4.043729029455895",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4414,13 +4558,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035342",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 364.4172951763014,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.043729029455896,
-          40.737405789386784
+          -4.043729029455895,
+          40.73740578938678
         ]
       }
     },
@@ -4444,6 +4589,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036656",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 91.56448418976926,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4474,6 +4620,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036930",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 301.17004238849324,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4493,7 +4640,7 @@ var geomap = {
         "direccion": "Avenida Del Oeste, S/n 28922 Alcorc\u00f3n",
         "telefono": 916439991,
         "mail": "ies.laarboleda.alcorcon@educa.madrid.org",
-        "latlon": "40.34165824906582,-3.8325430117586587",
+        "latlon": "40.34165824906583,-3.8325430117586587",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4504,13 +4651,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036978",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 187.78975220745076,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.8325430117586587,
-          40.34165824906582
+          40.34165824906583
         ]
       }
     },
@@ -4534,6 +4682,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036981",
         "tipo": "042",
         "status_web": 404,
+        "min_distance": 65.13507449011541,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4564,6 +4713,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036991",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 45.68826758732873,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4583,7 +4733,7 @@ var geomap = {
         "direccion": "Calle Agustinos, S/n 28914 Legan\u00e9s",
         "telefono": 916947859,
         "mail": "ies.tiernogalvan.leganes@educa.madrid.org",
-        "latlon": "40.317109998761175,-3.7726174570450484",
+        "latlon": "40.31710999876118,-3.7726174570450484",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4594,13 +4744,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037004",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 188.82078726015175,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.7726174570450484,
-          40.317109998761175
+          40.31710999876118
         ]
       }
     },
@@ -4624,6 +4775,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037016",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 247.27422406101377,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4654,6 +4806,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037028",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 335.2811480524645,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4684,6 +4837,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037031",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 396.09555780666676,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -4714,6 +4868,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037041",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 302.38685006306895,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4744,6 +4899,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037053",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 548.4608264089883,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -4774,6 +4930,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037065",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 166.85128366019003,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4804,6 +4961,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037077",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 254.9229538726306,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4834,6 +4992,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037089",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 67.12635937213909,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4864,6 +5023,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037892",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 15.516884174172516,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4894,6 +5054,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038070",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 225.2756579132815,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4924,6 +5085,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038100",
         "tipo": "042",
         "status_web": 404,
+        "min_distance": 16.644439490795044,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -4954,6 +5116,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038151",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 141.9268939412389,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4973,7 +5136,7 @@ var geomap = {
         "direccion": "Calle Austria, 7 28916 Legan\u00e9s",
         "telefono": 916862999,
         "mail": "ies.salvadordali.leganes@educa.madrid.org",
-        "latlon": "40.336955597574175,-3.742563890444476",
+        "latlon": "40.33695559757417,-3.742563890444476",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -4984,13 +5147,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038291",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 82.60034432714083,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.742563890444476,
-          40.336955597574175
+          40.33695559757417
         ]
       }
     },
@@ -5003,7 +5167,7 @@ var geomap = {
         "direccion": "Calle De La Ingenier\u00eda, 1 28918 Legan\u00e9s",
         "telefono": 916806303,
         "mail": "ies.sigloveintiuno.leganes@educa.madrid.org",
-        "latlon": "40.338367602932315,-3.7636886267571183",
+        "latlon": "40.33836760293232,-3.7636886267571183",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -5014,13 +5178,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038306",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 160.79097213829286,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.7636886267571183,
-          40.338367602932315
+          40.33836760293232
         ]
       }
     },
@@ -5044,6 +5209,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038355",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 103.02618312980795,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5074,6 +5240,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038367",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 500.18555210602443,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5104,6 +5271,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038379",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 228.77841356819965,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5134,6 +5302,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038422",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 56.56896129297545,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5164,6 +5333,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038446",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 664.6142754307377,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5194,6 +5364,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038616",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 91.58144257354387,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5224,6 +5395,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038631",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 96.2862306143933,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5254,6 +5426,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038641",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 360.2131929989399,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5284,6 +5457,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038665",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 118.70657283773855,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5314,6 +5488,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038689",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 731.3316790807122,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5344,6 +5519,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038801",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 418.04988085447184,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -5363,7 +5539,7 @@ var geomap = {
         "direccion": "Calle De Joaqu\u00edn Lorenzo, 2 28035 Madrid",
         "telefono": 913732052,
         "mail": "ies.newton.madrid@educa.madrid.org",
-        "latlon": "40.473018628383926,-3.722520036764229",
+        "latlon": "40.47301862838391,-3.722520036764229",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -5374,13 +5550,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038823",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 279.0719863646141,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.722520036764229,
-          40.473018628383926
+          40.47301862838391
         ]
       }
     },
@@ -5393,7 +5570,7 @@ var geomap = {
         "direccion": "Calle Gardenia, 29 28803 Alcal\u00e1 de Henares",
         "telefono": 918808462,
         "mail": "ies.isidradeguzman.alcala@educa.madrid.org",
-        "latlon": "40.47372451898073,-3.371642537326748",
+        "latlon": "40.473724518980724,-3.371642537326748",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -5404,13 +5581,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038835",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 163.9280224351214,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.371642537326748,
-          40.47372451898073
+          40.473724518980724
         ]
       }
     },
@@ -5434,6 +5612,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038847",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 259.4577627120382,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5464,6 +5643,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038859",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 183.14160839207014,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5494,6 +5674,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038860",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 270.30007377406366,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5524,6 +5705,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038872",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 135.3150152378687,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5554,6 +5736,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038884",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 183.75754778693116,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5584,6 +5767,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038896",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 166.14375369105557,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5614,6 +5798,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038902",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 203.75070777187804,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5644,6 +5829,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038914",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 190.30821090355903,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5674,6 +5860,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038926",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 28.14391118820251,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5693,7 +5880,7 @@ var geomap = {
         "direccion": "Calle De Las Moreras, 28 28300 Aranjuez",
         "telefono": 918920298,
         "mail": "ies.alpajes.aranjuez@educa.madrid.org",
-        "latlon": "40.03509377888681,-3.5935656943584227",
+        "latlon": "40.035093778886825,-3.5935656943584227",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -5704,13 +5891,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039037",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 72.3028994427753,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.5935656943584227,
-          40.03509377888681
+          40.035093778886825
         ]
       }
     },
@@ -5734,6 +5922,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039128",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 256.7198312926955,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5764,6 +5953,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039669",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 44.994921210049874,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5783,7 +5973,7 @@ var geomap = {
         "direccion": "Calle Cardenal Sandoval Y Rojas, 1 28802 Alcal\u00e1 de Henares",
         "telefono": 918817263,
         "mail": "ies.cardenalcisnero.alcala@educa.madrid.org",
-        "latlon": "40.48123192788996,-3.3707164846736113",
+        "latlon": "40.48123192788995,-3.3707164846736113",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -5794,13 +5984,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039670",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 187.00756782256715,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.3707164846736113,
-          40.48123192788996
+          40.48123192788995
         ]
       }
     },
@@ -5824,6 +6015,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039682",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 37.044746102866554,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5854,6 +6046,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039700",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 62.16260195188591,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5887,6 +6080,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039724",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 69.9929596455892,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
@@ -5906,7 +6100,7 @@ var geomap = {
         "direccion": "Calle De La Habana, 2 28945 Fuenlabrada",
         "telefono": 916060313,
         "mail": "ies.carobaroja.fuenlabrada@educa.madrid.org",
-        "latlon": "40.28752298199445,-3.7861623259145554",
+        "latlon": "40.28752298199444,-3.7861623259145554",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -5917,13 +6111,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039797",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 91.90372291747224,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.7861623259145554,
-          40.28752298199445
+          40.28752298199444
         ]
       }
     },
@@ -5947,6 +6142,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039803",
         "tipo": "042",
         "status_web": 404,
+        "min_distance": 17.388173164925536,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5977,6 +6173,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039827",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 103.2081230274517,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6007,6 +6204,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039839",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 186.06581351214137,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6037,6 +6235,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039840",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 410.7540042914484,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6067,6 +6266,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039864",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 271.89581715376704,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6097,6 +6297,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039876",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 385.090742113902,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6127,6 +6328,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039888",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 254.43691956791997,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6157,6 +6359,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039891",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 247.58981932451286,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6187,6 +6390,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039943",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 207.65908530723536,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6217,6 +6421,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039992",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 95.98780107600614,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6236,7 +6441,7 @@ var geomap = {
         "direccion": "Calle Tulip\u00e1n, 1 28933 M\u00f3stoles",
         "telefono": 916645070,
         "mail": "ies.benjaminrua.mostoles@educa.madrid.org",
-        "latlon": "40.336282129911524,-3.8713740570284276",
+        "latlon": "40.33628212991153,-3.8713740570284276",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -6247,13 +6452,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040003",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 146.0907509176668,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.8713740570284276,
-          40.336282129911524
+          40.33628212991153
         ]
       }
     },
@@ -6277,6 +6483,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040027",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 134.52006423629857,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6296,7 +6503,7 @@ var geomap = {
         "direccion": "Avenida De Europa, S/n 28110 Algete",
         "telefono": 916282412,
         "mail": "ies.alsatt.algete@educa.madrid.org",
-        "latlon": "40.59745085425011,-3.5089733634584626",
+        "latlon": "40.59745085425012,-3.5089733634584626",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -6307,13 +6514,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040611",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 199.62879120979088,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.5089733634584626,
-          40.59745085425011
+          40.59745085425012
         ]
       }
     },
@@ -6337,6 +6545,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040660",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 99.01111424682954,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6356,7 +6565,7 @@ var geomap = {
         "direccion": "Avenida De Europa, S/n 28110 Algete",
         "telefono": 916291601,
         "mail": "ies.becquer.algete@educa.madrid.org",
-        "latlon": "40.59745085425011,-3.5089733634584626",
+        "latlon": "40.59745085425012,-3.5089733634584626",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -6367,13 +6576,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040672",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 199.62879120979088,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.5089733634584626,
-          40.59745085425011
+          40.59745085425012
         ]
       }
     },
@@ -6386,7 +6596,7 @@ var geomap = {
         "direccion": "Calle \u00c1lvarez Laviada, 3 28370 Chinch\u00f3n",
         "telefono": 918940214,
         "mail": "ies.carpediem.chinchon@educa.madrid.org",
-        "latlon": "40.13931144486059,-3.4143865492545746",
+        "latlon": "40.1393114448606,-3.4143865492545746",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -6397,13 +6607,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040684",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 174.95612836147058,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.4143865492545746,
-          40.13931144486059
+          40.1393114448606
         ]
       }
     },
@@ -6427,6 +6638,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040696",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 126.94945438425113,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6457,6 +6669,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040702",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 183.4666527597564,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -6487,6 +6700,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040714",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 140.4806274412252,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6517,6 +6731,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040738",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 104.74277635519763,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6547,6 +6762,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040741",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 104.84330406852072,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -6577,6 +6793,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040751",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 562.4151500339038,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -6607,6 +6824,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040775",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 57.79939377692375,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6637,6 +6855,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040787",
         "tipo": "042",
         "status_web": 404,
+        "min_distance": 162.65759223105576,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6656,7 +6875,7 @@ var geomap = {
         "direccion": "Avenida Del Moscatelar, 19 28703 San Sebasti\u00e1n de los Reyes",
         "telefono": 916524999,
         "mail": "ies.juliopalacios.sansebastian@educa.madrid.org",
-        "latlon": "40.54355087413264,-3.6180706937215583",
+        "latlon": "40.54355087413265,-3.6180706937215583",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -6667,13 +6886,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040799",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 120.83067080099745,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6180706937215583,
-          40.54355087413264
+          40.54355087413265
         ]
       }
     },
@@ -6697,6 +6917,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041354",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 181.11249364708155,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6716,7 +6937,7 @@ var geomap = {
         "direccion": "Calle Del Parque Ferial, S/n 28923 Alcorc\u00f3n",
         "telefono": 916439644,
         "mail": "ies.elpinar.alcorcon@educa.madrid.org",
-        "latlon": "40.33981586630903,-3.8243731936041927",
+        "latlon": "40.339815866309024,-3.8243731936041927",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -6727,13 +6948,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041366",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 125.65292919272056,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.8243731936041927,
-          40.33981586630903
+          40.339815866309024
         ]
       }
     },
@@ -6746,7 +6968,7 @@ var geomap = {
         "direccion": "Calle De Santillana Del Mar, 22 28660 Boadilla del Monte",
         "telefono": 916321512,
         "mail": "ies.maximotrueba.boadilla@educa.madrid.org",
-        "latlon": "40.40622201868963,-3.8816208563948615",
+        "latlon": "40.406222018689625,-3.8816208563948615",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -6757,13 +6979,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041378",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 112.5951061073726,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.8816208563948615,
-          40.40622201868963
+          40.406222018689625
         ]
       }
     },
@@ -6787,6 +7010,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041381",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 333.876256130011,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6817,6 +7041,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041391",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 112.8294924841718,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6836,7 +7061,7 @@ var geomap = {
         "direccion": "Carretera De Getafe-legan\u00e9s, S/n 28904 Getafe",
         "telefono": 916831621,
         "mail": "ies.altair.getafe@educa.madrid.org",
-        "latlon": "40.315296503298526,-3.7413614930969064",
+        "latlon": "40.31529650329852,-3.7413614930969064",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -6847,13 +7072,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041411",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 77.4664182819599,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.7413614930969064,
-          40.315296503298526
+          40.31529650329852
         ]
       }
     },
@@ -6877,6 +7103,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041433",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 282.6938907153413,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6907,6 +7134,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041445",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 44.630664638159665,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6937,6 +7165,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041470",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 96.02345090856282,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6956,7 +7185,7 @@ var geomap = {
         "direccion": "Camino Del Salmoral, S/n 28981 Parla",
         "telefono": 916051520,
         "mail": "ies.lalaguna.parla@educa.madrid.org",
-        "latlon": "40.245165446020515,-3.7722691126590764",
+        "latlon": "40.24516544602051,-3.7722691126590764",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -6967,13 +7196,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041482",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 511.89510467952107,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.7722691126590764,
-          40.245165446020515
+          40.24516544602051
         ]
       }
     },
@@ -6997,6 +7227,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041494",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 45.58079344152986,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7027,6 +7258,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041500",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 55.611260024582556,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7057,6 +7289,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041512",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 101.08028847467457,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7087,6 +7320,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041597",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 56.19764607336682,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7117,6 +7351,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041615",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 77.27038672482172,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7147,6 +7382,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042000",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 39.16351686374206,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7177,6 +7413,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042012",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 155.59018783467326,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7207,6 +7444,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042024",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 180.158812423031,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7237,6 +7475,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042036",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 253.6667098932382,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7267,6 +7506,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042048",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 208.9815997379244,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7297,6 +7537,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042051",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 202.1450971816978,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7316,7 +7557,7 @@ var geomap = {
         "direccion": "Calle De Los Arquitectos, 39 28903 Getafe",
         "telefono": 916835621,
         "mail": "ies.antoniolopezgarcia.getafe@educa.madrid.org",
-        "latlon": "40.324109978875704,-3.7253203077880728",
+        "latlon": "40.32410997887572,-3.7253203077880728",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -7327,13 +7568,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042061",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 122.03014125701336,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.7253203077880728,
-          40.324109978875704
+          40.32410997887572
         ]
       }
     },
@@ -7357,6 +7599,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042073",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 129.30480216879099,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7387,6 +7630,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042085",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 123.95209407861523,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7417,6 +7661,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042097",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 37.81760964654395,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7447,6 +7692,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042103",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 177.82698529549245,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7466,7 +7712,7 @@ var geomap = {
         "direccion": "Avenida De Los Castillos, S/n 28925 Alcorc\u00f3n",
         "telefono": 916101411,
         "mail": "ies.itaca.alcorcon@educa.madrid.org",
-        "latlon": "40.35613308303381,-3.8087917777342697",
+        "latlon": "40.3561330830338,-3.8087917777342706",
         "nocturno": [
           "Humanidades y Ciencias Sociales (LOE-LOMCE)",
           "Artes (LOE-LOMCE)"
@@ -7480,13 +7726,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042115",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 50.84718715441356,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.8087917777342697,
-          40.35613308303381
+          -3.8087917777342706,
+          40.3561330830338
         ]
       }
     },
@@ -7510,6 +7757,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042191",
         "tipo": "070",
         "status_web": 404,
+        "min_distance": 66.05198440903109,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7540,6 +7788,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042590",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 185.80013238503963,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7570,6 +7819,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042607",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 82.89371985638651,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7589,7 +7839,7 @@ var geomap = {
         "direccion": "Carretera De Guadarrama, 85 28260 Galapagar",
         "telefono": 918587730,
         "mail": "ies.infantaelena.galapagar@educa.madrid.org",
-        "latlon": "40.582901811839065,-4.0113466952039065",
+        "latlon": "40.58290181183905,-4.0113466952039065",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -7600,13 +7850,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042620",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 37.41464817964112,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -4.0113466952039065,
-          40.582901811839065
+          40.58290181183905
         ]
       }
     },
@@ -7630,6 +7881,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042632",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 76.11942293965906,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7660,6 +7912,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042644",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 75.8261394048799,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7690,6 +7943,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042656",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 362.5066822929997,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7720,6 +7974,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042668",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 224.29234896985932,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -7750,6 +8005,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042671",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 126.22732615997911,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7780,6 +8036,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042681",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 33.168813106020906,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7799,7 +8056,7 @@ var geomap = {
         "direccion": "Calle Real, 94 28500 Arganda del Rey",
         "telefono": 918716668,
         "mail": "cepa.arganda@educa.madrid.org",
-        "latlon": "40.29845014340474,-3.432147753951383",
+        "latlon": "40.29845014340476,-3.432147753951383",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -7810,13 +8067,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042875",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 25.518222061564718,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.432147753951383,
-          40.29845014340474
+          40.29845014340476
         ]
       }
     },
@@ -7840,6 +8098,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042887",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 108.74954314844413,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7870,6 +8129,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042929",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 111.66498212875072,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7900,6 +8160,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042930",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 235.3992712120255,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7919,7 +8180,7 @@ var geomap = {
         "direccion": "Calle De Braille, 10 28034 Madrid",
         "telefono": 917364684,
         "mail": "cepa.fuencarral.madrid@educa.madrid.org",
-        "latlon": "40.49595308081296,-3.6934413405040494",
+        "latlon": "40.495953080812974,-3.6934413405040494",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -7930,13 +8191,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042942",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 97.06517327338786,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6934413405040494,
-          40.49595308081296
+          40.495953080812974
         ]
       }
     },
@@ -7960,6 +8222,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042954",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 1995.247626814375,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7979,7 +8242,7 @@ var geomap = {
         "direccion": "Calle De Las Huertas, 68 28770 Colmenar Viejo",
         "telefono": 918464801,
         "mail": "ies.rosachacel.colmenarviejo@educa.madrid.org",
-        "latlon": "40.65422240983051,-3.765457009852079",
+        "latlon": "40.65422240983053,-3.765457009852079",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -7990,13 +8253,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042981",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 169.41966978541257,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.765457009852079,
-          40.65422240983051
+          40.65422240983053
         ]
       }
     },
@@ -8020,6 +8284,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042991",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 108.28628453277865,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8050,6 +8315,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043016",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 35.11503508480714,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8080,6 +8346,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043028",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 68.27997194611709,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8110,6 +8377,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043235",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 265.87321047144354,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8140,6 +8408,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043259",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 267.3905115924142,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8159,7 +8428,7 @@ var geomap = {
         "direccion": "Calle De Andorra, 19bis 28043 Madrid",
         "telefono": 913003725,
         "mail": "cepa.pabloguzman.madrid@educa.madrid.org",
-        "latlon": "40.46208807191738,-3.6453477793211304",
+        "latlon": "40.46208807191737,-3.6453477793211304",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8170,13 +8439,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043260",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 282.97051459489927,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6453477793211304,
-          40.46208807191738
+          40.46208807191737
         ]
       }
     },
@@ -8200,6 +8470,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044306",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 238.5767725574534,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8219,7 +8490,7 @@ var geomap = {
         "direccion": "Calle De La Virgen Del Mar, S/n 28821 Coslada",
         "telefono": 916695610,
         "mail": "ies.garciaberlanga.coslada@educa.madrid.org",
-        "latlon": "40.429917356715066,-3.5625513912784825",
+        "latlon": "40.42991735671508,-3.5625513912784825",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8230,13 +8501,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044318",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 49.52323253169769,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.5625513912784825,
-          40.429917356715066
+          40.42991735671508
         ]
       }
     },
@@ -8260,6 +8532,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044501",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 460.9881895598639,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8290,6 +8563,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044513",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 740.2551879551886,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8320,6 +8594,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044549",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 106.91208471638251,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8350,6 +8625,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044562",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 191.2247193327188,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8369,7 +8645,7 @@ var geomap = {
         "direccion": "Calle Constitucion, 8 28590 Villarejo de Salvan\u00e9s",
         "telefono": 918742470,
         "mail": "cepa.villarejodesalvanes@educa.madrid.org",
-        "latlon": "40.16760932272032,-3.2755246323468707",
+        "latlon": "40.167609322720324,-3.2755246323468707",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8380,13 +8656,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044574",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 118.6036906795371,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.2755246323468707,
-          40.16760932272032
+          40.167609322720324
         ]
       }
     },
@@ -8410,6 +8687,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044628",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 421.72078805881875,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8440,6 +8718,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044719",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 95.8290615664625,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8470,6 +8749,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044720",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 669.0046930858213,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8500,6 +8780,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044744",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 44.00443859461574,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8519,7 +8800,7 @@ var geomap = {
         "direccion": "Paseo De La Chopera, 64 28523 Rivas-Vaciamadrid",
         "telefono": 916665259,
         "mail": "ies.duquederivas.rivas@educa.madrid.org",
-        "latlon": "40.36755869406593,-3.5336821972810446",
+        "latlon": "40.367558694065934,-3.5336821972810446",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -8530,13 +8811,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044756",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 38.60520358011801,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.5336821972810446,
-          40.36755869406593
+          40.367558694065934
         ]
       }
     },
@@ -8560,6 +8842,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044768",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 213.2331829023284,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8590,6 +8873,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044896",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 304.4643262507897,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8623,6 +8907,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044902",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 293.638475466901,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -8642,7 +8927,7 @@ var geomap = {
         "direccion": "Calle De Joan Mir\u00f3, 1 28840 Mejorada del Campo",
         "telefono": 916794920,
         "mail": "ies.losolivos.mejorada@educa.madrid.org",
-        "latlon": "40.392677667333786,-3.479833237461454",
+        "latlon": "40.39267766733379,-3.479833237461454",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8653,13 +8938,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045025",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 185.38604563928163,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.479833237461454,
-          40.392677667333786
+          40.39267766733379
         ]
       }
     },
@@ -8683,6 +8969,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045037",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 83.62608467198355,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8702,7 +8989,7 @@ var geomap = {
         "direccion": "Avenida De Santa Elena, S/n 28590 Villarejo de Salvan\u00e9s",
         "telefono": 918744960,
         "mail": "ies.villarejo@educa.madrid.org",
-        "latlon": "40.17481709845735,-3.286558826563877",
+        "latlon": "40.17481709845734,-3.286558826563877",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -8713,13 +9000,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045049",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 130.07062234935444,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.286558826563877,
-          40.17481709845735
+          40.17481709845734
         ]
       }
     },
@@ -8743,6 +9031,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045050",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 63.75859251620676,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8762,7 +9051,7 @@ var geomap = {
         "direccion": "Calle Del General Garc\u00eda Esc\u00e1mez, 12 28044 Madrid",
         "telefono": 917058402,
         "mail": "cepa.cidcampeador.madrid@educa.madrid.org",
-        "latlon": "40.381843641226276,-3.770694124615365",
+        "latlon": "40.38184364122627,-3.770694124615365",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8773,13 +9062,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045268",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 253.5454861513012,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.770694124615365,
-          40.381843641226276
+          40.38184364122627
         ]
       }
     },
@@ -8792,7 +9082,7 @@ var geomap = {
         "direccion": "Calle Hnos Garc\u00eda Noblejas (acceso Por Luis Campos), 70 28017 Madrid",
         "telefono": 917545206,
         "mail": "cepa.ciudadlineal.madrid@educa.madrid.org",
-        "latlon": "40.42931437020915,-3.632172537891254",
+        "latlon": "40.42931437020917,-3.632172537891254",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8803,13 +9093,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045271",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 12.455665732809173,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.632172537891254,
-          40.42931437020915
+          40.42931437020917
         ]
       }
     },
@@ -8833,6 +9124,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045281",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 26.538744753037868,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8863,6 +9155,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045293",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 111.0581823117445,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8893,6 +9186,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045311",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 31.173010042853623,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8923,6 +9217,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045323",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 308.2717687769276,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8942,7 +9237,7 @@ var geomap = {
         "direccion": "Calle De La Abertura, 2 28033 Madrid",
         "telefono": 913811272,
         "mail": "cepa.dulcechacon.madrid@educa.madrid.org",
-        "latlon": "40.477198909318325,-3.6496451386690976",
+        "latlon": "40.47719890931833,-3.6496451386690976",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8953,13 +9248,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045347",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 320.56152708142884,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6496451386690976,
-          40.477198909318325
+          40.47719890931833
         ]
       }
     },
@@ -8983,6 +9279,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045359",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 81.09310304435701,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9013,6 +9310,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045360",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 100.90783513006164,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9043,6 +9341,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045372",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 79.06903644640128,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9073,6 +9372,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045396",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 202.92128949997596,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9103,6 +9403,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045414",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 133.78201678963023,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9133,6 +9434,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045426",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 401.999037718894,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9163,6 +9465,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045438",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 82.3606762837675,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9193,6 +9496,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045441",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 1488.1967640374455,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9223,6 +9527,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045463",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 256.9712027010877,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9242,7 +9547,7 @@ var geomap = {
         "direccion": "Calle De La Batalla Del Salado, 29 28045 Madrid",
         "telefono": 915395395,
         "mail": "cepa.arganzuela.madrid@educa.madrid.org",
-        "latlon": "40.40047068046267,-3.695960459840022",
+        "latlon": "40.40047068046266,-3.695960459840022",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9253,13 +9558,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045608",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 162.33106922785444,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.695960459840022,
-          40.40047068046267
+          40.40047068046266
         ]
       }
     },
@@ -9283,6 +9589,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045621",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 122.61453465878007,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9302,7 +9609,7 @@ var geomap = {
         "direccion": "Calle De Santa Irene, 4 28017 Madrid",
         "telefono": 914051101,
         "mail": "ies.goya.madrid@educa.madrid.org",
-        "latlon": "40.41836443851034,-3.650764418326344",
+        "latlon": "40.418364438510345,-3.650764418326344",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9313,13 +9620,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045633",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 900.0757754876399,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.650764418326344,
-          40.41836443851034
+          40.418364438510345
         ]
       }
     },
@@ -9343,6 +9651,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045645",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 138.73904524114766,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9373,6 +9682,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045657",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 233.00958931657215,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9403,6 +9713,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045669",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 142.5801875198325,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9433,6 +9744,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045773",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 392.8261508006283,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9463,6 +9775,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045803",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 2531.1771669041555,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9482,7 +9795,7 @@ var geomap = {
         "direccion": "Calle Dal\u00ed, 50 28342 Valdemoro",
         "telefono": 918953211,
         "mail": "ies.avalon.valdemoro@educa.madrid.org",
-        "latlon": "40.195721840751226,-3.686649123756968",
+        "latlon": "40.19572184075123,-3.686649123756968",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -9493,13 +9806,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045815",
         "tipo": "042",
         "status_web": 404,
+        "min_distance": 57.01654928415505,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.686649123756968,
-          40.195721840751226
+          40.19572184075123
         ]
       }
     },
@@ -9523,6 +9837,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045839",
         "tipo": "042",
         "status_web": 991,
+        "min_distance": 134.9105234324769,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9553,6 +9868,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045840",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 1669.221435910804,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -9583,6 +9899,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046091",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 101.65170799552348,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9613,6 +9930,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046111",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 356.3797698725604,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9643,6 +9961,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046251",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 271.56942809690787,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9673,6 +9992,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046261",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 94.8967828059022,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9703,6 +10023,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046273",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 564.799520013182,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9733,6 +10054,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046285",
         "tipo": "047",
         "status_web": 200,
+        "min_distance": 75.55232940792321,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9752,7 +10074,7 @@ var geomap = {
         "direccion": "Calle Doctor S\u00e1nchez P\u00e9rez, 1 28530 Morata de Taju\u00f1a",
         "telefono": 918730777,
         "mail": "sies.anselmolorenzo.morata@educa.madrid.org",
-        "latlon": "40.22941741630608,-3.44271077476145",
+        "latlon": "40.229417416306084,-3.44271077476145",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -9763,13 +10085,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046297",
         "tipo": "047",
         "status_web": 200,
+        "min_distance": 150.01089286616585,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.44271077476145,
-          40.22941741630608
+          40.229417416306084
         ]
       }
     },
@@ -9793,6 +10116,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046303",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 121.22627538043153,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9812,7 +10136,7 @@ var geomap = {
         "direccion": "Plaza Alba, 3 28971 Gri\u00f1\u00f3n",
         "telefono": 918141768,
         "mail": "ies.grinon.grinon@educa.madrid.org",
-        "latlon": "40.21477673014127,-3.845830464169186",
+        "latlon": "40.21477673014126,-3.845830464169186",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9823,13 +10147,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046315",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 5084.129503156561,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.845830464169186,
-          40.21477673014127
+          40.21477673014126
         ]
       }
     },
@@ -9853,6 +10178,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046339",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 430.922933759978,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9883,6 +10209,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046352",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 121.23941423780477,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9913,6 +10240,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046364",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 411.9723737408322,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9943,6 +10271,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046376",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 350.78343606937506,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9973,6 +10302,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046467",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 403.45861363495476,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9992,7 +10322,7 @@ var geomap = {
         "direccion": "Calle De Alonso Heredia, 16 28028 Madrid",
         "telefono": 917261664,
         "mail": "cepa.joaquinsorolla.madrid@educa.madrid.org",
-        "latlon": "40.435464211234276,-3.6726584261840696",
+        "latlon": "40.43546421123427,-3.6726584261840696",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -10003,13 +10333,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046479",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 166.15149588371204,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6726584261840696,
-          40.435464211234276
+          40.43546421123427
         ]
       }
     },
@@ -10033,6 +10364,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046522",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 51.62005272992877,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10052,7 +10384,7 @@ var geomap = {
         "direccion": "Carretera De Villanueva Del Pardillo, S/n 28270 Colmenarejo",
         "telefono": 918424540,
         "mail": "ies.colmenarejo@educa.madrid.org",
-        "latlon": "40.55683605096615,-4.012820488461693",
+        "latlon": "40.556836050966155,-4.012820488461693",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -10063,13 +10395,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046558",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 141.417138796651,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -4.012820488461693,
-          40.55683605096615
+          40.556836050966155
         ]
       }
     },
@@ -10093,6 +10426,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28047411",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 181.49775188952052,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10123,6 +10457,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048282",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 588.14304160161,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10153,6 +10488,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048294",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 470.82081941885656,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10183,6 +10519,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048476",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 86.2020727585547,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10213,6 +10550,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28049341",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 121.77443901475264,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10243,6 +10581,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050525",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 13.529071548644538,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10273,6 +10612,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050537",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 238.48698454032285,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10303,6 +10643,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050549",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 329.0317467504578,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10333,6 +10674,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050550",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 268.4881225462137,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10363,6 +10705,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050562",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 41.32675539443757,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10393,6 +10736,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050720",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 192.7222714963367,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10412,7 +10756,7 @@ var geomap = {
         "direccion": "Avenida De Levante, 141 28521 Rivas-Vaciamadrid",
         "telefono": 916704112,
         "mail": "ies.profesorjulioperez.rivas@educa.madrid.org",
-        "latlon": "40.332116330938675,-3.5139199804422097",
+        "latlon": "40.33211633093869,-3.5139199804422097",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -10423,13 +10767,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050732",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 78.42672989800246,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.5139199804422097,
-          40.332116330938675
+          40.33211633093869
         ]
       }
     },
@@ -10442,7 +10787,7 @@ var geomap = {
         "direccion": "Carretera De Meco, K 4 28805 Alcal\u00e1 de Henares",
         "telefono": 918887061,
         "mail": "cepa.josehierro.alcala@educa.madrid.org",
-        "latlon": "40.52322148297118,-3.326192833309165",
+        "latlon": "40.523221482971174,-3.3261928333091655",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -10453,13 +10798,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056400",
         "tipo": "035",
         "status_web": 999,
+        "min_distance": 779.9126511349514,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.326192833309165,
-          40.52322148297118
+          -3.3261928333091655,
+          40.523221482971174
         ]
       }
     },
@@ -10472,7 +10818,7 @@ var geomap = {
         "direccion": "Carretera De Meco, K 4 28805 Alcal\u00e1 de Henares",
         "telefono": 918797892,
         "mail": "cepa.claracampoamor.alcala@educa.madrid.org",
-        "latlon": "40.52322148297118,-3.326192833309165",
+        "latlon": "40.523221482971174,-3.3261928333091655",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -10483,13 +10829,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056412",
         "tipo": "035",
         "status_web": 999,
+        "min_distance": 779.9126511349514,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.326192833309165,
-          40.52322148297118
+          -3.3261928333091655,
+          40.523221482971174
         ]
       }
     },
@@ -10513,6 +10860,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056424",
         "tipo": "035",
         "status_web": 999,
+        "min_distance": 279.84103650372043,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -10543,6 +10891,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056436",
         "tipo": "035",
         "status_web": 999,
+        "min_distance": 292.27448132318017,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -10573,6 +10922,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056448",
         "tipo": "035",
         "status_web": 200,
+        "min_distance": 140.9998336251068,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -10603,6 +10953,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056451",
         "tipo": "035",
         "status_web": 999,
+        "min_distance": 10421.911550000665,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -10622,7 +10973,7 @@ var geomap = {
         "direccion": "Calle Ribadesella, S/n 28250 Torrelodones",
         "telefono": 918593112,
         "mail": "cp.elencinar.torrelodones@educa.madrid.org",
-        "latlon": "40.56982549483604,-3.9271084126249205",
+        "latlon": "40.56982549483603,-3.9271084126249205",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -10633,13 +10984,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057076",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 39.15461009684748,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.9271084126249205,
-          40.56982549483604
+          40.56982549483603
         ]
       }
     },
@@ -10663,6 +11015,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057088",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 32.51010175150072,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10693,6 +11046,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057180",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 574.9252205497583,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10723,6 +11077,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057209",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 23.361670957533605,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10742,7 +11097,7 @@ var geomap = {
         "direccion": "Calle Del Acueducto, 3 28880 Meco",
         "telefono": 918877200,
         "mail": "ies.gasparsanz.meco@educa.madrid.org",
-        "latlon": "40.54621445870192,-3.322123760708147",
+        "latlon": "40.546214458701925,-3.322123760708147",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -10753,13 +11108,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057210",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 306.1727619706101,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.322123760708147,
-          40.54621445870192
+          40.546214458701925
         ]
       }
     },
@@ -10783,6 +11139,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057222",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 39.92068543981706,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10813,6 +11170,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057271",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 281.1187331115401,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -10843,6 +11201,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057660",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 131.01918595368105,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10862,7 +11221,7 @@ var geomap = {
         "direccion": "Calle Carmen Laforet, 1 28220 Majadahonda",
         "telefono": 916349498,
         "mail": "cepa.mariovargasllosa.majadahonda@educa.madrid.org",
-        "latlon": "40.46824772302307,-3.8709542188618413",
+        "latlon": "40.468247723023076,-3.8709542188618413",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -10873,13 +11232,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057672",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 104.48799442043801,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.8709542188618413,
-          40.46824772302307
+          40.468247723023076
         ]
       }
     },
@@ -10903,6 +11263,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057684",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 63.19380287479552,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10933,6 +11294,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057751",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 111.89664281418337,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10963,6 +11325,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057805",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 297.51754853218057,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10993,6 +11356,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058603",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 467.46631132768493,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -11023,6 +11387,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058615",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 52.72769688158793,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11053,6 +11418,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058627",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 157.89018495619936,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11083,6 +11449,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058639",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 130.674941802924,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11113,6 +11480,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058640",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 143.8591960952409,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11143,6 +11511,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058652",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 177.02096592377166,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11173,6 +11542,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058664",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 139.6057008683545,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11192,7 +11562,7 @@ var geomap = {
         "direccion": "Paseo Del Olivar, 62 28607 \u00c1lamo, El",
         "telefono": 918104133,
         "mail": "ies.elalamo.elalamo@educa.madrid.org",
-        "latlon": "40.228372395257914,-3.9847084823456784",
+        "latlon": "40.22837239525791,-3.9847084823456784",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -11203,13 +11573,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058676",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 31.30474157176468,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.9847084823456784,
-          40.228372395257914
+          40.22837239525791
         ]
       }
     },
@@ -11222,7 +11593,7 @@ var geomap = {
         "direccion": "Calle Miguel Hern\u00e1ndez, 2a 28991 Torrej\u00f3n de la Calzada",
         "telefono": 918106097,
         "mail": "ies.migueldelibes.torrejondelacalzada@educa.madrid.org",
-        "latlon": "40.19357302079286,-3.804836526306011",
+        "latlon": "40.193573020792854,-3.804836526306011",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -11233,13 +11604,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058688",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 5009.698790645778,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.804836526306011,
-          40.19357302079286
+          40.193573020792854
         ]
       }
     },
@@ -11263,6 +11635,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059279",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 321.45580633682385,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11293,6 +11666,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059361",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 191.0810544195658,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11323,6 +11697,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059371",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 203.706455733227,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11353,6 +11728,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059383",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 19.607899384242373,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11383,6 +11759,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059395",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 82.60973999497509,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11413,6 +11790,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059401",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 36.645412929255826,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11443,6 +11821,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060270",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 219.68459665591934,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11473,6 +11852,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060348",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 184.29027816729956,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11492,7 +11872,7 @@ var geomap = {
         "direccion": "Calle Pio Baroja, 7 28806 Alcal\u00e1 de Henares",
         "telefono": 918770290,
         "mail": "ies.lazarocarreter.alcala@educa.madrid.org",
-        "latlon": "40.50464656376394,-3.373359258844887",
+        "latlon": "40.50464656376395,-3.373359258844887",
         "nocturno": null,
         "dificultad": true,
         "adaptado": true,
@@ -11503,13 +11883,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060373",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 173.09871825321235,
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.373359258844887,
-          40.50464656376394
+          40.50464656376395
         ]
       }
     },
@@ -11533,6 +11914,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060385",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 93.10681124254468,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11563,6 +11945,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060397",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 275.4583667067733,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11593,6 +11976,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060816",
         "tipo": "016",
         "status_web": 991,
+        "min_distance": 227.78728599035784,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11623,6 +12007,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060968",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 157.39155503121694,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11653,6 +12038,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060971",
         "tipo": "031",
         "status_web": 200,
+        "min_distance": 251.35374374927983,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11683,6 +12069,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062011",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 108.5800850964367,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11702,7 +12089,7 @@ var geomap = {
         "direccion": "Avenida Del Mar Egeo, S/n 28341 Valdemoro",
         "telefono": 918018044,
         "mail": "ies.maestromatiasbravo.valdemoro@educa.madrid.org",
-        "latlon": "40.1785804882631,-3.6891190319937293",
+        "latlon": "40.178580488263094,-3.6891190319937293",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -11713,13 +12100,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062023",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 67.44032296712524,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6891190319937293,
-          40.1785804882631
+          40.178580488263094
         ]
       }
     },
@@ -11743,6 +12131,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062035",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 260.51907394719484,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11762,7 +12151,7 @@ var geomap = {
         "direccion": "Calle De La Alianza, 20-24 28041 Madrid",
         "telefono": 917239181,
         "mail": "ies.villaverde.madrid@educa.madrid.org",
-        "latlon": "40.357351489811464,-3.6902999023380567",
+        "latlon": "40.35735148981147,-3.6902999023380567",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -11773,13 +12162,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062126",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 266.0923478527828,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.6902999023380567,
-          40.357351489811464
+          40.35735148981147
         ]
       }
     },
@@ -11803,6 +12193,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28063799",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 128.36292989043292,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11833,6 +12224,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064007",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 112.11144159947452,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11852,7 +12244,7 @@ var geomap = {
         "direccion": "Camino De Chozas, S/n 28794 Guadalix de la Sierra",
         "telefono": 918470636,
         "mail": "ies.luisgarciaberlanga.guadalix@educa.madrid.org",
-        "latlon": "40.78218602978418,-3.695994920999966",
+        "latlon": "40.78218602978419,-3.695994920999966",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -11863,13 +12255,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064044",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 51.769085081528154,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.695994920999966,
-          40.78218602978418
+          40.78218602978419
         ]
       }
     },
@@ -11893,6 +12286,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064160",
         "tipo": "070",
         "status_web": 999,
+        "min_distance": 189.59985300737168,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11923,6 +12317,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065632",
         "tipo": "047",
         "status_web": 999,
+        "min_distance": 434.0696170950957,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11953,6 +12348,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065644",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 232.96478567392967,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11983,6 +12379,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065711",
         "tipo": "017",
         "status_web": 200,
+        "min_distance": 464.78074948015654,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12013,6 +12410,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065841",
         "tipo": "047",
         "status_web": 200,
+        "min_distance": 623.8870544670079,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12043,6 +12441,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067628",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 166.3447182283145,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12073,6 +12472,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067744",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 676.5341882471654,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12103,6 +12503,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067768",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 213.25110540352244,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12133,6 +12534,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069391",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 1699.9939219574333,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12163,6 +12565,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069844",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 109.71937169959384,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12193,6 +12596,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070691",
         "tipo": "070",
         "status_web": 999,
+        "min_distance": 385.0108376136148,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12223,6 +12627,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070721",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 374.234826924101,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12253,6 +12658,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070962",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 141.21982381223444,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12272,7 +12678,7 @@ var geomap = {
         "direccion": "Avenida Del Sistema Solar, 8 28983 Parla",
         "telefono": 918295357,
         "mail": "ies.nicolascopernico.parla@educa.madrid.org",
-        "latlon": "40.22377800825034,-3.761330694328965",
+        "latlon": "40.22377800825033,-3.761330694328965",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -12283,13 +12689,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070974",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 64.76929157354846,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.761330694328965,
-          40.22377800825034
+          40.22377800825033
         ]
       }
     },
@@ -12313,6 +12720,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28071310",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 360.6189691873725,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12332,7 +12740,7 @@ var geomap = {
         "direccion": "Senda De Mafalda, 2 28905 Getafe",
         "telefono": 916810212,
         "mail": "ies.lasenda.getafe@educa.madrid.org",
-        "latlon": "40.29438399635924,-3.747333314858952",
+        "latlon": "40.29438399635923,-3.747333314858952",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -12343,13 +12751,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072107",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 140.99110945767188,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.747333314858952,
-          40.29438399635924
+          40.29438399635923
         ]
       }
     },
@@ -12373,6 +12782,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072223",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 365.6462927959692,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12392,7 +12802,7 @@ var geomap = {
         "direccion": "Avenida De Niceto Alcal\u00e1 Zamora, 54 28050 Madrid",
         "telefono": 912761503,
         "mail": "ies.manuelfragairibarne.madrid@educa.madrid.org",
-        "latlon": "40.4998497880134,-3.657145049425794",
+        "latlon": "40.49984978801341,-3.657145049425794",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -12403,13 +12813,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073859",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 199.18609270711323,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.657145049425794,
-          40.4998497880134
+          40.49984978801341
         ]
       }
     },
@@ -12433,6 +12844,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073872",
         "tipo": "070",
         "status_web": 200,
+        "min_distance": 199.43994643191132,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12463,6 +12875,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074037",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 20.56119732433056,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12493,6 +12906,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074049",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 81.34768820087375,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12523,6 +12937,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074050",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 300.1734290160646,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12553,6 +12968,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074062",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 152.66434896943576,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12572,7 +12988,7 @@ var geomap = {
         "direccion": "Calle Del General Marv\u00e1, 24-26 28026 Madrid",
         "telefono": 915699236,
         "mail": "ies.pedrosalinas.madrid@educa.madrid.org",
-        "latlon": "40.38895120389475,-3.7088138168902693",
+        "latlon": "40.38895120389474,-3.7088138168902693",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -12586,13 +13002,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074244",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 254.68044470947194,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.7088138168902693,
-          40.38895120389475
+          40.38895120389474
         ]
       }
     },
@@ -12616,6 +13033,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074669",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 128.58251967597027,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12649,6 +13067,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074670",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 171.8934854387558,
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -12679,6 +13098,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074852",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 126.22732615997911,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12709,6 +13129,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074918",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 353.8600454553325,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12739,6 +13160,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075492",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 443.4165333769057,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12769,6 +13191,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075509",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 6792.980957825323,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12788,7 +13211,7 @@ var geomap = {
         "direccion": "Calle Camilo Jos\u00e9 Cela, 24 28232 Rozas de Madrid, Las",
         "telefono": 911733737,
         "mail": "ies.josegarcianieto.lasrozas@educa.madrid.org",
-        "latlon": "40.52427301092085,-3.892232526550431",
+        "latlon": "40.52427301092086,-3.8922325265504303",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -12799,13 +13222,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075510",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 34.775299729877574,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.892232526550431,
-          40.52427301092085
+          -3.8922325265504303,
+          40.52427301092086
         ]
       }
     },
@@ -12829,6 +13253,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076368",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 334.58813497374257,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12859,6 +13284,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076371",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 262.64743290679274,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12889,6 +13315,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076381",
         "tipo": "047",
         "status_web": 200,
+        "min_distance": 232.03937064660317,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12919,6 +13346,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077269",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 438.518427583105,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12949,6 +13377,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077491",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 39.48452808713108,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12979,6 +13408,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077889",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 160.9841322948634,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13009,6 +13439,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077890",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 110.78001202785829,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -13039,6 +13470,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077907",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 94.7817008234077,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13069,6 +13501,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077971",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 316.7894429401519,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -13099,6 +13532,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078031",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 292.2927424331277,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13129,6 +13563,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078043",
         "tipo": "047",
         "status_web": 999,
+        "min_distance": 97.20158677079236,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13159,6 +13594,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078547",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 302.2251871515903,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13178,7 +13614,7 @@ var geomap = {
         "direccion": "Calle De La Jacaranda, S/n 28045 Madrid",
         "telefono": 639101034,
         "mail": "ies.forges.madrid@educa.madrid.org",
-        "latlon": "40.397507451552244,-3.679173846707233",
+        "latlon": "40.39750745155225,-3.679173846707233",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -13189,13 +13625,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078559",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 138.48608074768546,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.679173846707233,
-          40.397507451552244
+          40.39750745155225
         ]
       }
     },
@@ -13219,6 +13656,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079357",
         "tipo": "042",
         "status_web": null,
+        "min_distance": 726.0308853596991,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13249,6 +13687,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079370",
         "tipo": "042",
         "status_web": 200,
+        "min_distance": 82.48614454137143,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13279,6 +13718,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079382",
         "tipo": "042",
         "status_web": null,
+        "min_distance": 205.48301949013728,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13309,6 +13749,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079394",
         "tipo": "042",
         "status_web": null,
+        "min_distance": 204.84076461720878,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13339,6 +13780,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079400",
         "tipo": "042",
         "status_web": 999,
+        "min_distance": 629.3890097689192,
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {

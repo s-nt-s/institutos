@@ -64,6 +64,8 @@ function make_filter(f, layer) {
   if (c.excelencia && !$("#excelencia").is(":checked")) return false;
   if (c.tecnico && !$("#tecnico").is(":checked")) return false;
   if (c.dificultad && !$("#dificultad").is(":checked")) return false;
+  var km = parseInt($("#kms").val(), 10);
+  if (!Number.isNaN(km) && c.min_distance>km) return false;
   if (!c.nocturno || !c.nocturno.length) return true;
   var ok=0;
   $("#nocturnos input:checked").each(function(){

@@ -860,6 +860,38 @@ var geomap = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28005520,
+        "dat": "Capital",
+        "nombre": "Hospital del Ni\u00f1o Jesus",
+        "direccion": "Avenida De Men\u00e9ndez Pelayo, 65 28009 Madrid",
+        "telefono": 914094607,
+        "mail": "cpee.hospitalninojesus.madrid@educa.madrid.org",
+        "latlon": "40.41389985091944,-3.676769219506791",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.hospitalninojesus.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28005520",
+        "tipo": "036",
+        "status_web": 200,
+        "min_distance": 506.6947088591469,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.676769219506791,
+          40.41389985091944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28013899,
         "dat": "Capital",
         "nombre": "El Espinillo",
@@ -1014,6 +1046,38 @@ var geomap = {
         "coordinates": [
           -3.696628374218877,
           40.429817802007804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28018371,
+        "dat": "Capital",
+        "nombre": "Catedra de Pediatria, Hospital Clinico",
+        "direccion": "Calle Del Profesor Mart\u00edn Lagos, 2 28040 Madrid",
+        "telefono": 913303400,
+        "mail": "cpee.hospitalclinico.madrid@educa.madrid.org",
+        "latlon": "40.43997577036905,-3.719359916171268",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.hospitalclinico.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018371",
+        "tipo": "036",
+        "status_web": 200,
+        "min_distance": 381.7947612557047,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.719359916171268,
+          40.43997577036905
         ]
       }
     },
@@ -5511,6 +5575,38 @@ var geomap = {
         "coordinates": [
           -3.776598475373316,
           40.24335265579898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28038550,
+        "dat": "Capital",
+        "nombre": "Hospital Gregorio Mara\u00f1on",
+        "direccion": "Calle De O'donnell, 50 28009 Madrid",
+        "telefono": 915290334,
+        "mail": "cpee.hospitalmaranon.madrid@educa.madrid.org",
+        "latlon": "40.42114946864584,-3.671030579525349",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.hospitalmaranon.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038550",
+        "tipo": "036",
+        "status_web": 200,
+        "min_distance": 162.6280534265585,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.671030579525349,
+          40.42114946864584
         ]
       }
     },
@@ -10822,7 +10918,7 @@ var geomap = {
         "url": "http://www.educa.madrid.org/ies.hotelescuela.madrid",
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048294",
         "tipo": "042",
-        "status_web": 991,
+        "status_web": 200,
         "min_distance": 1997.4336793598525,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -11696,6 +11792,230 @@ var geomap = {
         "coordinates": [
           -3.6236339548289145,
           40.421297735325105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28057957,
+        "dat": "Sur",
+        "nombre": "Aula Hospitalaria Fundacion Alcorcon",
+        "direccion": "Calle De Budapest, 1 28922 Alcorc\u00f3n",
+        "telefono": 916219950,
+        "mail": "ah.fundaciondealcorcon.alcorcon@educa.madrid.org",
+        "latlon": "40.35006309559496,-3.835119143779393",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/ah.fundaciondealcorcon.alcorcon",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057957",
+        "tipo": "036",
+        "status_web": 200,
+        "min_distance": 223.2485433804886,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.835119143779393,
+          40.35006309559496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28057969,
+        "dat": "Sur",
+        "nombre": "Aula Hospitalaria Hosp. Univ. de Getafe",
+        "direccion": "Carretera De Toledo, 12,50 28905 Getafe",
+        "telefono": 916839360,
+        "mail": "ah.hugetafe.getafe@educa.madrid.org",
+        "latlon": "40.31264922406126,-3.741144242221697",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/ah.hugetafe.getafe",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057969",
+        "tipo": "036",
+        "status_web": 200,
+        "min_distance": 661.0549506439556,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.741144242221697,
+          40.31264922406126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28057970,
+        "dat": "Sur",
+        "nombre": "Aula Hospitalaria Hosp. Gral. Mostoles",
+        "direccion": "Calle R\u00edo J\u00facar, S/n 28935 M\u00f3stoles",
+        "telefono": 916648723,
+        "mail": "ah.hgdemostoles.mostoles@educa.madrid.org",
+        "latlon": "40.31549591527104,-3.877650408192949",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/ah.hgdemostoles.mostoles",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057970",
+        "tipo": "036",
+        "status_web": 200,
+        "min_distance": 273.27931927282253,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.877650408192949,
+          40.31549591527104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28057982,
+        "dat": "Sur",
+        "nombre": "Aula Hospitalaria Severo Ochoa",
+        "direccion": "Avenida Orellana 28911 Legan\u00e9s",
+        "telefono": 914818000,
+        "mail": "ah.severoochoa.leganes@educa.madrid.org",
+        "latlon": "40.32060974687364,-3.7692793488735266",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/ah.severoochoa.leganes",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057982",
+        "tipo": "036",
+        "status_web": 200,
+        "min_distance": 103.81248081023108,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7692793488735266,
+          40.32060974687364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28057994,
+        "dat": "Capital",
+        "nombre": "Aula Hospitalaria la Paz",
+        "direccion": "Paseo De La Castellana, 261 28046 Madrid",
+        "telefono": 917277588,
+        "mail": "ah.lapaz.madrid@educa.madrid.org",
+        "latlon": "40.48030087224512,-3.6865436265844735",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/ah.lapaz.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057994",
+        "tipo": "036",
+        "status_web": 200,
+        "min_distance": 55.97866556257026,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6865436265844735,
+          40.48030087224512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28058007,
+        "dat": "Capital",
+        "nombre": "Aula Hospitalaria Ramon y Cajal",
+        "direccion": "Carretera De Colmenar Viejo, 9,100 28034 Madrid",
+        "telefono": 917293907,
+        "mail": "ah.ramonycajal.madrid@educa.madrid.org",
+        "latlon": "40.48722669770324,-3.694413437362532",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/ah.ramonycajal.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058007",
+        "tipo": "036",
+        "status_web": 200,
+        "min_distance": 115.61249840728136,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.694413437362532,
+          40.48722669770324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28058019,
+        "dat": "Capital",
+        "nombre": "Aula Hospitalaria Doce de Octubre",
+        "direccion": "Avenida De Andaluc\u00eda, 5,400 28041 Madrid",
+        "telefono": 914604923,
+        "mail": "ah.docedeoctubre.madrid@educa.madrid.org",
+        "latlon": "40.37645690648367,-3.6967617074489847",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/ah.docedeoctubre.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058019",
+        "tipo": "036",
+        "status_web": 999,
+        "min_distance": 130.89837498349806,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6967617074489847,
+          40.37645690648367
         ]
       }
     },
@@ -12694,6 +13014,38 @@ var geomap = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28064721,
+        "dat": "Sur",
+        "nombre": "Aula Hospitalaria de Fuenlabrada",
+        "direccion": "Camino Del Molino, 2 28942 Fuenlabrada",
+        "telefono": 916006510,
+        "mail": "ah.fuenlabrada.fuenlabrada@educa.madrid.org",
+        "latlon": "40.28599462962207,-3.8143547701447713",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/ah.fuenlabrada.fuenlabrada",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064721",
+        "tipo": "036",
+        "status_web": 200,
+        "min_distance": 177.5422818671819,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8143547701447713,
+          40.28599462962207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28065632,
         "dat": "Sur",
         "nombre": "Seccion del Ies Africa en Moraleja de Enmedio",
@@ -13660,6 +14012,38 @@ var geomap = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28075820,
+        "dat": "Este",
+        "nombre": "Aula Hospitalaria Hosp. Univ. Principe de Asturias",
+        "direccion": "Carretera De Meco, S/n 28805 Alcal\u00e1 de Henares",
+        "telefono": 918878100,
+        "mail": "ah.principedeasturias.alcala@educa.madrid.org",
+        "latlon": "40.510534546660026,-3.3486285159683145",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/ah.principedeasturias.alcala",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075820",
+        "tipo": "036",
+        "status_web": 999,
+        "min_distance": 1266.1904133891126,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3486285159683145,
+          40.510534546660026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28076368,
         "dat": "Capital",
         "nombre": "Alfredo Kraus",
@@ -14076,6 +14460,38 @@ var geomap = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28078857,
+        "dat": "Oeste",
+        "nombre": "Hospital Puerta de Hierro",
+        "direccion": "Calle Manuel De Falla, 1 28222 Majadahonda",
+        "telefono": 660954532,
+        "mail": "ah.puertadehierro.majadahonda@educa.madrid.org",
+        "latlon": "40.4503432,-3.8745153",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/ah.puertadehierro.majadahonda",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078857",
+        "tipo": "036",
+        "status_web": 200,
+        "min_distance": 3636.841140671129,
+        "color": "green",
+        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8745153,
+          40.4503432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28079357,
         "dat": "Capital",
         "nombre": "Jane Goodall",
@@ -14240,6 +14656,7 @@ var tipos = {
   "017": "Centro integrado de ense\u00f1anzas art\u00edsticas profesionales de m\u00fasica y educaci\u00f3n secundaria",
   "031": "Centro de educaci\u00f3n de personas adultas",
   "035": "Centro de educaci\u00f3n adultos establecimientos penitenciarios",
+  "036": "Aulas hospitalarias",
   "042": "Instituto de educaci\u00f3n secundaria",
   "047": "Secci\u00f3n de instituto de educaci\u00f3n secundaria",
   "070": "Colegio de educaci\u00f3n infantil, primaria y secundaria"

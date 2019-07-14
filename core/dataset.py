@@ -219,7 +219,7 @@ class Dataset():
     def centro_ok(self):
         col = set()
         # 020 068 080 081 103 106 120 131 132 151 152 171 180 204 205 206
-        for cod in "016 017 031 035 042 047 070".split():
+        for cod in "036 016 017 031 035 042 047 070".split():
             aux = self.get_centrosid(cdGenerico=cod)
             col = col.union(aux)
         return col

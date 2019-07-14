@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<base target="_blank" />
+    <meta charset="UTF-8">
+    <title>Mapa de colegios de Madrid</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="main.css"/>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+    integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+    crossorigin=""></script>
+    <link rel="stylesheet" href="sidebar/leaflet-sidebar.css" />
+    <script src="sidebar/leaflet-sidebar.js"></script>
+
+    <script src="geojson.js" defer="defer"></script>
+    <script src="main.js" defer="defer"></script>
+	</head>
+	<body>
+		<div id="sidebar" class="sidebar collapsed">
+        <!-- Nav tabs -->
+        <div class="sidebar-tabs">
+            <ul role="tablist">
+                <li><a href="#home" role="tab"><i class="fa fa-bars"></i></a></li>
+                <li><a href="#settings" role="tab"><i class="fa fa-gear"></i></a></li>
+								<li id="lkMessages"><a href="#messages" role="tab"><i class="fa fa-envelope"></i></a></li>
+            </ul>
+
+            <ul role="tablist">
+                <li><a href="https://github.com/s-nt-s/institutos-map" role="tab" target="_blank"><i class="fa fa-github"></i></a></li>
+            </ul>
+        </div>
+
+        <!-- Tab panes -->
+        <div class="sidebar-content">
+            <div class="sidebar-pane" id="home">
+                <h1 class="sidebar-header">
+                    Información
+                    <span class="sidebar-close"><i class="fa fa-caret-left"></i></span>
+                </h1>
+								<div class="content">
+									<h2>Leyenda</h2>
+									<p>Se han usado los siguientes iconos para dar información extra:</p>
+									<ul>
+										<li><img atl="{{lgd[0]}}" src="{{lgd[3]}}"/> Centro de especial dificultad</li>
+										<li><img atl="{{lgd[1]}}" src="{{lgd[4]}}"/> Centro con turnos nocturnos</li>
+										<li><img atl="{{lgd[2]}}" src="{{lgd[5]}}"/> Color por defecto</li>
+									  <li>Y las mismas chinchetas pero con un punto negro en el centro
+										cuando además se da alguna característica especial como
+										bilingüismo, excelencia o innovación tecnológica</li>
+									</ul>
+									<h2>Objetivo</h2>
+									<p>El objetivo de este mapa es ayudar a elegir destino
+										a los profesores de educación
+										segundaría</p>
+									<p>Para ello se han usado las siguientes fuente:</p>
+									<ul>
+								      <li>
+												<a href="{{indice.convocatoria}}">La última convocatoría</a></i>
+											</li>
+								      <li>
+												<a href="{{indice.anexo29}}">El anexo 29</a></i>
+											</li>
+								      <li>
+												<a href="{{indice.centros}}">El buscador de centros</a></i>
+											</li>
+									</ul>
+									<h2>Fuentes</h2>
+									<p>
+										De todos los centros que devuelve <a href="{{indice.centros}}">el buscador</a> solo se muestran
+										aquellos que son de alguno de los siguientes tipos:
+									</p>
+									<ul>
+					        {% for key, text in tipos.items() %}
+										<li>{{text}}</li>
+									{% endfor %}
+									</ul>
+								</div>
+	            </div>
+
+
+            <div class="sidebar-pane" id="settings">
+                <h1 class="sidebar-header">Filtros<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+                <div class="content filter">
+									{% set tt1 = "Escriba aquí los códigos de los centros que quiere que se muestren independientemente de los filtros" -%}
+									{% set tt2 = "Escriba aquí los códigos de los centros que quiere que no se muestren independientemente de los filtros" -%}
+                <p>
+                  <label for="siempre">Mostrar siempre</label>: <input type="text" id="siempre" pattern="[0-9 ]+" title="{{tt1}}" placeholder="{{tt1}}"/>
+                </p>
+                <p>
+                  <label for="nunca">Ocultar siempre</label>: <input type="text" id="nunca" pattern="[0-9 ]+" title="{{tt2}}" placeholder="{{tt2}}"/>
+                </p>
+                <fieldset id="tipos">
+                  <legend>Tipos</legend>
+					        {% for key, text in tipos.items() %}
+										<input id="t{{key}}" type="checkbox" checked="checked"/> <label for="t{{key}}">{{text}}</label><br/>
+									{% endfor %}
+                </fieldset>
+                <fieldset id="nocturnos">
+                  <legend>Nocturnos en</legend>
+					        {% for text in nocturnos %}
+										  <input id="n{{loop.index}}" type="checkbox" checked="checked"/> <label for="n{{loop.index}}">{{text}}</label><br/>
+									{% endfor %}
+                </fieldset>
+                <fieldset id="otros">
+                  <legend>Otras condiciones especiales</legend>
+										  <input id="dificultad" type="checkbox" checked="checked"/> <label for="dificultad">Centro de especial dificultad</label><br/>
+										  <input id="excelencia" type="checkbox" checked="checked"/> <label for="excelencia">Centro o aula de excelencia</label><br/>
+											<input id="bilingue" type="checkbox" checked="checked"/> <label for="bilingue">Bilingüismo o sección de idioma</label><br/>
+											<input id="tecnico" type="checkbox" checked="checked"/> <label for="tecnico">Instituto de innovación tecnológica</label>
+                </fieldset>
+                </div>
+            </div>
+
+						 <div class="sidebar-pane" id="messages">
+						      <h1 class="sidebar-header">Mandar un mail<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+									<div class="content">
+										<p>
+											Puedes mandar un correo electrónico a todos los centros que se estan motrando en el mapa
+											<a id="maillink" data-href="mailto:?subject=Consulta%20en%20relacción%20al%20concurso%20de%20traslados&" href="mailto:?subject=Consulta%20en%20relacción%20al%20concurso%20de%20traslados&bcc={{mails}}">pulsando en
+												este enlace</a>
+										</p>
+									</div>
+						</div>
+
+        </div>
+    </div>
+
+		<div id="map" class="sidebar-map"></div>
+
+  </body>
+
+</html>

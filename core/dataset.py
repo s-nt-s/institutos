@@ -3,6 +3,7 @@ from functools import lru_cache
 
 import requests
 from bunch import Bunch
+import json
 
 from .centro import get_data
 from .common import get_pdf, get_soup, mkBunch, read_yml
@@ -52,6 +53,7 @@ class Dataset():
         return list(out)
 
     @property
+    @lru_cache(maxsize=None)
     @JsonCache(file="data/centros.json", to_bunch=True)
     def centros(self):
         centros = []
@@ -262,3 +264,20 @@ class Dataset():
             elif l == 1:
                 tipos[kc] = c.pop()
         return tipos
+
+    @property
+    def geojson(self):
+        geojson = {'type':'FeatureCollection', 'features':[]}
+        for c in self.centros:
+            if not c.latlon:
+                continue
+            feature = {'type':'Feature',
+                       'properties':{},
+                       'geometry':{'type':'Point',
+                                   'coordinates':[]}}
+            lat, lon = tuple(map(float, c.latlon.split(",")))
+            feature['geometry']['coordinates'] = [lon,lat]
+            for k, v in c.items():
+                feature['properties'][k] = v
+            geojson['features'].append(feature)
+        return geojson

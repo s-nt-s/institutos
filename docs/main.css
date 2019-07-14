@@ -1,0 +1,26 @@
+body {
+  font-family: DejaVu Sans, Arial, Sans Serif;
+  margin:0;
+  padding: 0;
+  height: 100%;
+}
+html, body, #map  {
+  height: 100%;
+}
+
+div.leaflet-popup-content ul {
+  padding-left: 1em;
+}
+div.leaflet-popup-content p + ul {
+    margin-top: -10px;
+}
+
+div.sidebar-pane > div.content {
+  font-size: 0.75em;
+}
+div.sidebar-pane input[type=text] {
+  width: 95%;
+}
+fieldset {
+  margin-top: 16px;
+}

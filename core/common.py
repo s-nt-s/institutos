@@ -168,3 +168,10 @@ def read_csv(file, start=0, where=None, null=None):
                                 if v in null:
                                     o[k] = None
                         yield o
+
+def create_script(file, **kargv):
+    with open(file, "w") as f:
+        for k, v in kargv.items():
+            f.write("var "+k+" = ")
+            json.dump(v, f, indent=2)
+            f.write(";\n")

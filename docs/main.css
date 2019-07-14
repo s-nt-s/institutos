@@ -30,7 +30,24 @@ fieldset {
 div.content ul {
   padding-left: 20px;
 }
+ul.listCentros {
+  list-style-type: none;
+  padding-left: 0px !important;;
+  display: table;
+}
 ul.listCentros li {
-  cursor: pointer;
+  display: table-row;
   margin-top: 5px;
+  margin-bottom: 5px;
+}
+ul.listCentros li img {
+  display: table-cell;
+  cursor: pointer;
+  transform: scale(0.7);
+  margin-top: -0.5em;
+}
+
+ul.listCentros li span {
+  display: table-cell;
+  vertical-align: top;
 }

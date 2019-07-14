@@ -1,5 +1,18 @@
 var main_layer;
 var mymap;
+var cursorMarker;
+
+function get_distance(lat1,lon1,lat2,lon2) {
+  var R = 6371; // km (change this constant to get miles)
+  var dLat = (lat2-lat1) * Math.PI / 180;
+  var dLon = (lon2-lon1) * Math.PI / 180;
+  var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+    Math.cos(lat1 * Math.PI / 180 ) * Math.cos(lat2 * Math.PI / 180 ) *
+    Math.sin(dLon/2) * Math.sin(dLon/2);
+  var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  var d = R * c;
+  return d;
+}
 
 var observer = new MutationObserver(function(mutations) {
   mutations.forEach(function(mutation) {
@@ -178,6 +191,23 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
     id: 'mapbox.streets',
     accessToken: 'pk.eyJ1Ijoia2lkdHVuZXJvIiwiYSI6ImNqeTBjeG8zaTAwcWYzZG9oY2N1Z3VnazgifQ.HKixpk5HNX-svbNYxYSpsw'
 }).addTo(mymap);
+mymap.on('click', function(e){
+  if (!$("#casa").is(":checked")) return;
+  if (cursorMarker) mymap.removeLayer(cursorMarker);
+  let options = {
+    radius: 10,
+    fillColor: "yellow",
+    color: "black",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8,
+    clickable: false,
+    keyboard: false
+  }
+  cursorMarker = L.circleMarker(e.latlng, options );
+  cursorMarker.addTo(mymap);
+  $("#lista").trigger("activate");
+});
 main_layer = get_layer();
 main_layer.addTo(mymap);
 bounds = main_layer.getBounds()
@@ -236,18 +266,51 @@ $("#lista").bind("activate", function(){
   $("#cDsc").html(list_centros(descartados, "Aún no has descartados ningún centro"));
 });
 
+$("#casa").bind("change", function() {
+  var latlon = this.value.split(/,/);
+  if (latlon.length!=2) return;
+  var lat = parseFloat(latlon[0], 10);
+  var lon = parseFloat(latlon[1], 10);
+  if (Number.isNaN(lat) || Number.isNaN(lon)) return;
+
+  var marker = L.marker([lat, lon],
+    {icon: L.icon({iconUrl: "http://maps.google.com/mapfiles/ms/micons/homegardenbusiness.png"})}
+  ).addTo(mymap);
+})
+
 });
 
 function list_centros(centros, none) {
   if (centros.length==0) {return "<p>"+none+"</p>"}
   var mails=[]
   var html="<ul class='listCentros'>"
+  var lis=[];
   centros.forEach(function(c) {
     if (c.mail) mails.push(c.mail);
-    html = html + `
-      <li onclick="mymap.flyTo([${c.latlon}], 15);">${c.id} ${c.nombre}</li>
-    `;
+    var distance="";
+    var d=0;
+    if (cursorMarker) {
+      var ll = cursorMarker._latlng
+      var latlon = c.latlon.split(/,/)
+      d = get_distance(ll.lat, ll.lng, parseFloat(latlon[0]), parseFloat(latlon[1]));
+      if (d>1) distance=Math.round(d)+"km";
+      else if (d<=1) distance=Math.round(d*1000)+"m";
+      distance = " <small>("+distance+")</small>"
+    }
+    lis.push(`
+      <li data-order="${d}"><img src="${c.icon}" onclick="mymap.flyTo([${c.latlon}], 15);"/><span>${c.id} ${c.nombre}${distance}</span></li>
+    `);
   });
+  if (cursorMarker && lis.length>1) {
+    lis = lis.sort(function(a, b) {
+      var d1 = parseFloat(a.split(/"/)[1])
+      var d2 = parseFloat(b.split(/"/)[1])
+      var d = d1 - d2;
+      if (d!=0) return d;
+      return a.localeCompare(b);
+    })
+  }
+  html = html + lis.join("")
   html = html +"</ul>"
   if (mails.length) {
     var lnk = $("#maillink")

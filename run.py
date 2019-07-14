@@ -12,6 +12,7 @@ from core.common import create_script
 from core.j2 import Jnj2
 
 d = Dataset()
+d.unzip()
 
 tipos = set()
 for c in d.centros:
@@ -73,6 +74,7 @@ for t in sorted(tipos):
         c.nombre = parse_nombre(c.nombre)
         pnt = mapa.addPoint(c.nombre, lat, lon, description=description,
                       color=color, mod=mod)
+        c.color=color
         c.icon = pnt.style.iconstyle.icon.href
 
 mapa.save("data/mapa.kml")

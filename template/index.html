@@ -26,9 +26,10 @@
         <!-- Nav tabs -->
         <div class="sidebar-tabs">
             <ul role="tablist">
-                <li><a href="#home" role="tab"><i class="fa fa-bars"></i></a></li>
+                <li><a href="#home" role="tab"><i class="fa fa-info-circle"></i></a></li>
                 <li><a href="#settings" role="tab"><i class="fa fa-gear"></i></a></li>
 								<li id="lkMessages"><a href="#messages" role="tab"><i class="fa fa-envelope"></i></a></li>
+                <li><a href="#lista" role="tab"><i class="fa fa-pencil-square-o"></i></a></li>
             </ul>
 
             <ul role="tablist">
@@ -50,9 +51,12 @@
 										<li><img atl="{{lgd[0]}}" src="{{lgd[3]}}"/> Centro de especial dificultad</li>
 										<li><img atl="{{lgd[1]}}" src="{{lgd[4]}}"/> Centro con turnos nocturnos</li>
 										<li><img atl="{{lgd[2]}}" src="{{lgd[5]}}"/> Color por defecto</li>
-									  <li>Y las mismas chinchetas pero con un punto negro en el centro
+									  <li>Y las mismas marcas pero con un punto negro en el centro
 										cuando además se da alguna característica especial como
 										bilingüismo, excelencia o innovación tecnológica</li>
+										<li>Cada marca es sustituida por una chincheta
+											cuando se selecciona, y por un circulo pequeño cuando
+											se descarta</li>
 									</ul>
 									<h2>Objetivo</h2>
 									<p>El objetivo de este mapa es ayudar a elegir destino
@@ -68,6 +72,15 @@
 											</li>
 								      <li>
 												<a href="{{indice.centros}}">El buscador de centros</a></i>
+											</li>
+											<li>
+													Y para determinar la distancia a la estación de transporte más cercana,
+													se han usado los datos de:
+													<ul>
+									        {% for dt in indice.transporte.values() %}
+														<li><a href="{{dt.doc}}">la rede de {{dt.txt}}</a></li>
+													{% endfor %}
+													</ul>
 											</li>
 									</ul>
 									<h2>Fuentes</h2>
@@ -87,14 +100,17 @@
             <div class="sidebar-pane" id="settings">
                 <h1 class="sidebar-header">Filtros<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
                 <div class="content filter">
+									<p>
+										Los centros seleccionados siempre apareceran, independiemtemente del filtro definido en esta sección.
+									</p>
 									{% set tt1 = "Escriba aquí los códigos de los centros que quiere que se muestren independientemente de los filtros" -%}
 									{% set tt2 = "Escriba aquí los códigos de los centros que quiere que no se muestren independientemente de los filtros" -%}
-                <p>
+                <!--p>
                   <label for="siempre">Mostrar siempre</label>: <input type="text" id="siempre" pattern="[0-9 ]+" title="{{tt1}}" placeholder="{{tt1}}"/>
                 </p>
                 <p>
                   <label for="nunca">Ocultar siempre</label>: <input type="text" id="nunca" pattern="[0-9 ]+" title="{{tt2}}" placeholder="{{tt2}}"/>
-                </p>
+                </p-->
                 <fieldset id="tipos">
                   <legend>Tipos</legend>
 					        {% for key, text in tipos.items() %}
@@ -130,9 +146,33 @@
 											<a id="maillink" data-href="mailto:?subject=Consulta%20en%20relacción%20al%20concurso%20de%20traslados&" href="mailto:?subject=Consulta%20en%20relacción%20al%20concurso%20de%20traslados&bcc={{mails}}">pulsando en
 												este enlace</a>
 										</p>
+										<p>
+											También puedes mandar mails desde la pestaña <i class="fa fa-pencil-square-o"></i> Lista.
+										</p>
 									</div>
 						</div>
 
+						 <div class="sidebar-pane" id="lista">
+						      <h1 class="sidebar-header">Tu lista<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+									<div class="content">
+										<h2>Centros seleccionados</h2>
+										<div id="cSel">
+
+										</div>
+										<h2>Centros visibles</h2>
+										<div id="cShw">
+
+										</div>
+										<h2>Centros ocultos</h2>
+										<div id="cHdn">
+
+										</div>
+										<h2>Centros descartados</h2>
+										<div id="cDsc">
+
+										</div>
+									</div>
+						</div>
         </div>
     </div>
 

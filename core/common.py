@@ -5,6 +5,8 @@ import subprocess
 import sys
 from urllib.parse import urljoin
 
+import zipfile as zipfilelib
+
 import bs4
 import requests
 import yaml
@@ -15,6 +17,16 @@ from zipfile import ZipFile
 import urllib.request
 from math import sin, cos, sqrt, atan2, radians
 
+def unzip(target, *urls):
+    if os.path.isdir(target):
+        return
+    os.makedirs(target, exist_ok=True)
+    for url in urls:
+        print(url, "-->", target)
+        response = requests.get(url, verify=False)
+        filehandle = BytesIO(response.content)
+        with zipfilelib.ZipFile(filehandle, 'r') as zip:
+            zip.extractall(target)
 
 
 def get_pdf(url, to_file=None):
@@ -145,15 +157,15 @@ def save_js(file, data):
         f.write(txt)
 
 
-def read_csv(file, start=0, where=None, null=None):
+def read_csv(file, start=0, where=None, null=None, separator=";"):
     head = None
     with open(file, "r") as f:
         for i, l in enumerate(f.readlines()):
             l = l.rstrip()
-            l = l.rstrip(";")
+            l = l.rstrip(separator)
             if l:
                 campos = []
-                for c in l.split(";"):
+                for c in l.split(separator):
                     c = c.strip()
                     if c == "":
                         c = None
@@ -182,16 +194,6 @@ def create_script(file, **kargv):
             json.dump(v, f, indent=2)
             f.write(";\n")
 
-
-
-def read_zip(url, file, start=0):
-    url = urllib.request.urlopen(url)
-    with ZipFile(BytesIO(url.read())) as my_zip_file:
-        for i, line in enumerate(my_zip_file.open(file).readlines()):
-            line = line.decode()
-            line = line.strip()
-            if line and i>=start:
-                yield line
 
 def get_km(lat1, lon1, lat2, lon2):
     R = 6373.0

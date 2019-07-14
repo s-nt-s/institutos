@@ -7,7 +7,7 @@ import json
 import geopy.distance
 
 from .centro import get_data
-from .common import get_pdf, get_soup, mkBunch, read_yml, read_zip, get_km
+from .common import get_pdf, get_soup, mkBunch, read_yml, get_km, unzip
 from .decorators import *
 
 re_bocm = re.compile(r".*(BOCM-[\d\-]+).PDF", re.IGNORECASE)
@@ -287,38 +287,18 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    @JsonCache(file="data/metro.json")
-    def metro(self):
-        paradas = []
-        for line in read_zip(self.indice.metro, "stops.txt", start=1):
-            latlon = line.split(",")[4:6]
-            lat, lon = tuple(map(float, latlon))
-            paradas.append((lat, lon))
-        return paradas
-
-    @property
-    @lru_cache(maxsize=None)
-    @JsonCache(file="data/cercanias.json")
-    def cercanias(self):
-        paradas = []
-        for line in read_zip(self.indice.cercanias, "stops.txt", start=1):
-            latlon = line.split(",")[4:6]
-            lat, lon = tuple(map(float, latlon))
-            paradas.append((lat, lon))
-        return paradas
-
-
-    @property
-    @lru_cache(maxsize=None)
-    @JsonCache(file="data/estaciones.json")
+    @JsonCache(file="data/estaciones.json", reload=True)
     def estaciones(self):
-        coords=set()
-        for url in self.indice.estaciones:
-            for line in read_zip(url, "stops.txt", start=1):
-                latlon = line.split(",")[4:6]
-                lat, lon = tuple(map(float, latlon))
-                coords.add((lat, lon))
-        return coords
+        estaciones=set()
+        for k in self.indice.transporte.keys():
+            for o in read_csv("fuentes/transporte/"+k+"/stops.txt", separator=","):
+                lat, lon = float(o["stop_lat"]), float(o["stop_lon"])
+                estaciones.add((lat, lon))
+        return estaciones
+
+    def unzip(self):
+        for k, d in self.indice.transporte.items():
+            unzip("fuentes/transporte/"+k, d.data)
 
     def min_distance(self, latlon):
         if not latlon:

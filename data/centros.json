@@ -16,7 +16,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000029",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 875.0589201381081
+  "min_distance": 9291.950510646871
 },{
   "id": 28000364,
   "dat": "Este",
@@ -38,7 +38,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000364",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 75.27335515488062
+  "min_distance": 1635.5914025525217
 },{
   "id": 28000467,
   "dat": "Este",
@@ -57,7 +57,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000467",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 285.1112278085038
+  "min_distance": 1702.2675270505988
 },{
   "id": 28000522,
   "dat": "Este",
@@ -78,7 +78,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000522",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 96.88673429467292
+  "min_distance": 410.98936381678175
 },{
   "id": 28000753,
   "dat": "Norte",
@@ -101,7 +101,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000753",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 178.88534638561927
+  "min_distance": 1455.5754761744386
 },{
   "id": 28001629,
   "dat": "Sur",
@@ -123,7 +123,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001629",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 95.24230611104399
+  "min_distance": 961.795377240997
 },{
   "id": 28001678,
   "dat": "Norte",
@@ -142,7 +142,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001678",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 216.16461204247418
+  "min_distance": 1205.8462953830172
 },{
   "id": 28001769,
   "dat": "Este",
@@ -161,7 +161,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001769",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 130.58518304242463
+  "min_distance": 1556.5762399404352
 },{
   "id": 28001812,
   "dat": "Oeste",
@@ -180,7 +180,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001812",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 281.40403220434547
+  "min_distance": 4430.285366360287
 },{
   "id": 28001848,
   "dat": "Oeste",
@@ -199,7 +199,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001848",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 105.82369389158823
+  "min_distance": 124.1841192298214
 },{
   "id": 28001873,
   "dat": "Oeste",
@@ -218,7 +218,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001873",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 23.00646848040257
+  "min_distance": 11562.055251327944
 },{
   "id": 28002026,
   "dat": "Sur",
@@ -237,7 +237,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002026",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 736.6156545907909
+  "min_distance": 29844.171500382316
 },{
   "id": 28002038,
   "dat": "Este",
@@ -256,7 +256,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002038",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 194.20214618339546
+  "min_distance": 5688.8741786090695
 },{
   "id": 28002105,
   "dat": "Sur",
@@ -275,7 +275,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002105",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 427.42036386756695
+  "min_distance": 34445.160719479354
 },{
   "id": 28002181,
   "dat": "Sur",
@@ -294,7 +294,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002181",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 41.400191771463554
+  "min_distance": 1059.3381325486403
 },{
   "id": 28002211,
   "dat": "Norte",
@@ -313,7 +313,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002211",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 221.54896808438116
+  "min_distance": 8926.63797534027
 },{
   "id": 28002312,
   "dat": "Norte",
@@ -335,7 +335,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002312",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 86.12054235329994
+  "min_distance": 2751.3816772102628
 },{
   "id": 28002415,
   "dat": "Oeste",
@@ -354,7 +354,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002415",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 52.506740547412164
+  "min_distance": 1390.059852333341
 },{
   "id": 28002580,
   "dat": "Este",
@@ -373,7 +373,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002580",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 33.184401860622685
+  "min_distance": 967.8094288134089
 },{
   "id": 28002853,
   "dat": "Norte",
@@ -392,7 +392,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002853",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 321.17291177025595
+  "min_distance": 11175.001027771794
 },{
   "id": 28003201,
   "dat": "Sur",
@@ -414,7 +414,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003201",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 77.7677552310935
+  "min_distance": 365.8282128690611
 },{
   "id": 28003304,
   "dat": "Sur",
@@ -433,7 +433,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003304",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 130.47665960133475
+  "min_distance": 156.73628570218827
 },{
   "id": 28003882,
   "dat": "Sur",
@@ -455,7 +455,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003882",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 121.73700244386171
+  "min_distance": 424.1883701173416
 },{
   "id": 28003894,
   "dat": "Sur",
@@ -474,7 +474,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003894",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 98.6904897575335
+  "min_distance": 966.0958857865177
 },{
   "id": 28003900,
   "dat": "Sur",
@@ -493,7 +493,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003900",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 154.27779116043268
+  "min_distance": 594.8699844573669
 },{
   "id": 28004059,
   "dat": "Capital",
@@ -534,7 +534,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28013899",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 427.68722721706
+  "min_distance": 451.8213508379783
 },{
   "id": 28015756,
   "dat": "Capital",
@@ -629,7 +629,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018381",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 233.7692762360179
+  "min_distance": 1403.6147506844854
 },{
   "id": 28018423,
   "dat": "Capital",
@@ -648,7 +648,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018423",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 45.32832921218471
+  "min_distance": 240.6392544157933
 },{
   "id": 28018435,
   "dat": "Capital",
@@ -669,7 +669,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018435",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 57.741785050116746
+  "min_distance": 104.2970085692635
 },{
   "id": 28018460,
   "dat": "Capital",
@@ -688,7 +688,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018460",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2019.3991214057046
+  "min_distance": 625.8716403075971
 },{
   "id": 28018472,
   "dat": "Capital",
@@ -726,7 +726,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018484",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 513.7356313509639
+  "min_distance": 515.7251554764266
 },{
   "id": 28018903,
   "dat": "Capital",
@@ -783,7 +783,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019351",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 165.22375760083116
+  "min_distance": 1991.7597433681617
 },{
   "id": 28019464,
   "dat": "Capital",
@@ -843,7 +843,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019971",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 229.82891967960074
+  "min_distance": 412.95704732880796
 },{
   "id": 28020119,
   "dat": "Capital",
@@ -865,7 +865,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020119",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 451.3580573543467
+  "min_distance": 519.0919101720526
 },{
   "id": 28020201,
   "dat": "Capital",
@@ -979,7 +979,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020582",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 253.9903899004078
+  "min_distance": 461.443539901059
 },{
   "id": 28020624,
   "dat": "Capital",
@@ -1040,7 +1040,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020703",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 47.381815611489465
+  "min_distance": 54.56946082927515
 },{
   "id": 28020715,
   "dat": "Capital",
@@ -1059,7 +1059,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020715",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 114.44580814054969
+  "min_distance": 1164.746797279519
 },{
   "id": 28020727,
   "dat": "Capital",
@@ -1154,7 +1154,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020855",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 332.74218801990514
+  "min_distance": 410.90785693318867
 },{
   "id": 28020892,
   "dat": "Capital",
@@ -1198,7 +1198,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020909",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 223.48257501257868
+  "min_distance": 232.6786958946251
 },{
   "id": 28020910,
   "dat": "Capital",
@@ -1280,7 +1280,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020958",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 133.5685394361768
+  "min_distance": 185.10634550053243
 },{
   "id": 28020961,
   "dat": "Capital",
@@ -1299,7 +1299,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020961",
   "tipo": "042",
   "status_web": 503,
-  "min_distance": 133.5685394361768
+  "min_distance": 185.10634550053243
 },{
   "id": 28021008,
   "dat": "Capital",
@@ -1337,7 +1337,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021252",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 263.4172996090154
+  "min_distance": 348.6449551419684
 },{
   "id": 28021549,
   "dat": "Capital",
@@ -1356,7 +1356,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021549",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 418.59920261075365
+  "min_distance": 639.9115582313981
 },{
   "id": 28021550,
   "dat": "Capital",
@@ -1375,7 +1375,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021550",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 185.90121811379393
+  "min_distance": 1054.2393189696127
 },{
   "id": 28021562,
   "dat": "Capital",
@@ -1413,7 +1413,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022207",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 320.6188917034392
+  "min_distance": 5428.413470888441
 },{
   "id": 28022724,
   "dat": "Capital",
@@ -1432,7 +1432,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022724",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 232.43068827949344
+  "min_distance": 2136.045990837749
 },{
   "id": 28022891,
   "dat": "Norte",
@@ -1451,7 +1451,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022891",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 328.27132366013575
+  "min_distance": 17378.82083196123
 },{
   "id": 28023194,
   "dat": "Sur",
@@ -1470,7 +1470,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023194",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 74.95744588596277
+  "min_distance": 662.7937408537388
 },{
   "id": 28023327,
   "dat": "Sur",
@@ -1489,7 +1489,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023327",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 57.55337116407596
+  "min_distance": 12660.530246550506
 },{
   "id": 28023364,
   "dat": "Sur",
@@ -1508,7 +1508,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023364",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 93.55125524188121
+  "min_distance": 14674.017974916638
 },{
   "id": 28023388,
   "dat": "Este",
@@ -1527,7 +1527,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023388",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 39.79851867407472
+  "min_distance": 17689.612674197364
 },{
   "id": 28023741,
   "dat": "Oeste",
@@ -1546,7 +1546,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023741",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 231.74549364712678
+  "min_distance": 324.5683467248511
 },{
   "id": 28023911,
   "dat": "Oeste",
@@ -1565,7 +1565,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023911",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 207.90078626023873
+  "min_distance": 376.83530831692656
 },{
   "id": 28024290,
   "dat": "Este",
@@ -1587,7 +1587,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024290",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 103.65996143324412
+  "min_distance": 314.7250415191238
 },{
   "id": 28024642,
   "dat": "Norte",
@@ -1606,7 +1606,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024642",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 215.38508706347628
+  "min_distance": 859.9848488154629
 },{
   "id": 28025014,
   "dat": "Este",
@@ -1625,7 +1625,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025014",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 244.97679721483772
+  "min_distance": 1307.7177969615243
 },{
   "id": 28025026,
   "dat": "Este",
@@ -1647,7 +1647,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025026",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 205.24442676153558
+  "min_distance": 1489.6836015653312
 },{
   "id": 28025129,
   "dat": "Norte",
@@ -1666,7 +1666,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025129",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 302.6522100279078
+  "min_distance": 28380.34721425196
 },{
   "id": 28025415,
   "dat": "Este",
@@ -1685,7 +1685,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025415",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 53.049906654638534
+  "min_distance": 12616.2343506746
 },{
   "id": 28025658,
   "dat": "Este",
@@ -1704,7 +1704,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025658",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 167.07582708692027
+  "min_distance": 21011.71776427269
 },{
   "id": 28025828,
   "dat": "Capital",
@@ -1745,7 +1745,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28026031",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 127.4606388259835
+  "min_distance": 1309.3756561297296
 },{
   "id": 28026092,
   "dat": "Sur",
@@ -1764,7 +1764,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28026092",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 147.49988905434176
+  "min_distance": 503.0079452048164
 },{
   "id": 28028301,
   "dat": "Este",
@@ -1783,7 +1783,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028301",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 158.83008609566693
+  "min_distance": 1250.7908445164562
 },{
   "id": 28028350,
   "dat": "Este",
@@ -1802,7 +1802,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028350",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 190.1534717080316
+  "min_distance": 298.76692626675396
 },{
   "id": 28028374,
   "dat": "Sur",
@@ -1824,7 +1824,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028374",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 138.84388142594213
+  "min_distance": 198.51911763576464
 },{
   "id": 28028404,
   "dat": "Sur",
@@ -1843,7 +1843,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028404",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 137.76637636307967
+  "min_distance": 601.8287603156792
 },{
   "id": 28028428,
   "dat": "Capital",
@@ -1960,7 +1960,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028568",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 138.5191220815574
+  "min_distance": 346.7301308873078
 },{
   "id": 28028571,
   "dat": "Oeste",
@@ -1979,7 +1979,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028571",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 28.406542149867896
+  "min_distance": 547.1908861661842
 },{
   "id": 28028611,
   "dat": "Norte",
@@ -1998,7 +1998,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028611",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 57.7683656300717
+  "min_distance": 704.8794994579827
 },{
   "id": 28028672,
   "dat": "Capital",
@@ -2043,7 +2043,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028684",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 139.87180483491113
+  "min_distance": 1621.624577513837
 },{
   "id": 28030101,
   "dat": "Sur",
@@ -2062,7 +2062,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030101",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 75.83532724605689
+  "min_distance": 471.19730290247884
 },{
   "id": 28030113,
   "dat": "Capital",
@@ -2081,7 +2081,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030113",
   "tipo": "031",
   "status_web": 991,
-  "min_distance": 316.12902380608426
+  "min_distance": 530.6435805574044
 },{
   "id": 28030125,
   "dat": "Capital",
@@ -2100,7 +2100,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030125",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 322.04399156491513
+  "min_distance": 380.2953628601151
 },{
   "id": 28030137,
   "dat": "Capital",
@@ -2176,7 +2176,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030162",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 333.9687307473054
+  "min_distance": 672.6100874740964
 },{
   "id": 28030174,
   "dat": "Capital",
@@ -2195,7 +2195,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030174",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 615.5311452990168
+  "min_distance": 704.1698424610089
 },{
   "id": 28030186,
   "dat": "Capital",
@@ -2214,7 +2214,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030186",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 297.07359081215833
+  "min_distance": 507.3844498704271
 },{
   "id": 28030204,
   "dat": "Sur",
@@ -2233,7 +2233,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030204",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 116.42394658509528
+  "min_distance": 783.2480013608719
 },{
   "id": 28030216,
   "dat": "Sur",
@@ -2271,7 +2271,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030228",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 105.8307731846581
+  "min_distance": 987.0750185646491
 },{
   "id": 28030241,
   "dat": "Sur",
@@ -2290,7 +2290,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030241",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 48.87121662228839
+  "min_distance": 211.53286108288287
 },{
   "id": 28030575,
   "dat": "Capital",
@@ -2328,7 +2328,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030903",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 47.90880200387551
+  "min_distance": 912.4829254699561
 },{
   "id": 28030915,
   "dat": "Sur",
@@ -2347,7 +2347,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030915",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 133.87873291172437
+  "min_distance": 350.4197929833338
 },{
   "id": 28030927,
   "dat": "Capital",
@@ -2366,7 +2366,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030927",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 245.54379420133387
+  "min_distance": 334.99887899039237
 },{
   "id": 28030939,
   "dat": "Capital",
@@ -2461,7 +2461,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030991",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 361.1462840299192
+  "min_distance": 657.4271655582143
 },{
   "id": 28031002,
   "dat": "Capital",
@@ -2480,7 +2480,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031002",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 265.9850688582231
+  "min_distance": 749.9410820361096
 },{
   "id": 28031014,
   "dat": "Capital",
@@ -2537,7 +2537,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032471",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 69.46526099111593
+  "min_distance": 258.59150390489856
 },{
   "id": 28032481,
   "dat": "Capital",
@@ -2556,7 +2556,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032481",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 479.85374663683905
+  "min_distance": 503.3805458845696
 },{
   "id": 28032501,
   "dat": "Oeste",
@@ -2575,7 +2575,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032501",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 26.855059901048335
+  "min_distance": 1964.726831396561
 },{
   "id": 28032559,
   "dat": "Sur",
@@ -2673,7 +2673,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033539",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 272.35723455803753
+  "min_distance": 310.9715511234204
 },{
   "id": 28033552,
   "dat": "Sur",
@@ -2692,7 +2692,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033552",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 166.43213681172796
+  "min_distance": 413.1314169130112
 },{
   "id": 28033679,
   "dat": "Sur",
@@ -2711,7 +2711,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033679",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 98.41269910910745
+  "min_distance": 124.89472273766155
 },{
   "id": 28033850,
   "dat": "Sur",
@@ -2730,7 +2730,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033850",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 128.91088416683328
+  "min_distance": 754.2138087954196
 },{
   "id": 28034441,
   "dat": "Capital",
@@ -2768,7 +2768,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035305",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 148.31249280445672
+  "min_distance": 1446.7046403070196
 },{
   "id": 28035317,
   "dat": "Norte",
@@ -2787,7 +2787,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035317",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 398.91801660759955
+  "min_distance": 1418.0838734366055
 },{
   "id": 28035330,
   "dat": "Capital",
@@ -2806,7 +2806,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035330",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 903.3035526490683
+  "min_distance": 613.2796452782275
 },{
   "id": 28035342,
   "dat": "Oeste",
@@ -2825,7 +2825,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035342",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 364.4172951763014
+  "min_distance": 1864.9939746311986
 },{
   "id": 28036656,
   "dat": "Este",
@@ -2844,7 +2844,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036656",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 91.56448418976926
+  "min_distance": 455.3529915296733
 },{
   "id": 28036930,
   "dat": "Sur",
@@ -2863,7 +2863,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036930",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 301.17004238849324
+  "min_distance": 342.0029512153976
 },{
   "id": 28036978,
   "dat": "Sur",
@@ -2882,7 +2882,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036978",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 187.78975220745076
+  "min_distance": 832.0083302113059
 },{
   "id": 28036981,
   "dat": "Este",
@@ -2901,7 +2901,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036981",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 65.13507449011541
+  "min_distance": 573.9821785101033
 },{
   "id": 28036991,
   "dat": "Norte",
@@ -2920,7 +2920,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036991",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 45.68826758732873
+  "min_distance": 2320.7633578587156
 },{
   "id": 28037004,
   "dat": "Sur",
@@ -2939,7 +2939,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037004",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 188.82078726015175
+  "min_distance": 584.477289114196
 },{
   "id": 28037016,
   "dat": "Capital",
@@ -2958,7 +2958,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037016",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 247.27422406101377
+  "min_distance": 357.23452893204103
 },{
   "id": 28037028,
   "dat": "Capital",
@@ -3015,7 +3015,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037041",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 302.38685006306895
+  "min_distance": 630.9044545457197
 },{
   "id": 28037053,
   "dat": "Capital",
@@ -3034,7 +3034,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037053",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 548.4608264089883
+  "min_distance": 555.3905968269339
 },{
   "id": 28037065,
   "dat": "Este",
@@ -3053,7 +3053,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037065",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 166.85128366019003
+  "min_distance": 300.4154572345364
 },{
   "id": 28037077,
   "dat": "Este",
@@ -3072,7 +3072,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037077",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 254.9229538726306
+  "min_distance": 1155.3162096162396
 },{
   "id": 28037089,
   "dat": "Oeste",
@@ -3091,7 +3091,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037089",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 67.12635937213909
+  "min_distance": 1899.3568508345984
 },{
   "id": 28037892,
   "dat": "Este",
@@ -3110,7 +3110,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037892",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 15.516884174172516
+  "min_distance": 477.8504249250141
 },{
   "id": 28038070,
   "dat": "Norte",
@@ -3129,7 +3129,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038070",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 225.2756579132815
+  "min_distance": 502.6353480358724
 },{
   "id": 28038100,
   "dat": "Sur",
@@ -3148,7 +3148,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038100",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 16.644439490795044
+  "min_distance": 47.99083258095908
 },{
   "id": 28038151,
   "dat": "Este",
@@ -3167,7 +3167,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038151",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 141.9268939412389
+  "min_distance": 715.7258891050858
 },{
   "id": 28038291,
   "dat": "Sur",
@@ -3186,7 +3186,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038291",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 82.60034432714083
+  "min_distance": 181.61688773413158
 },{
   "id": 28038306,
   "dat": "Sur",
@@ -3205,7 +3205,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038306",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 160.79097213829286
+  "min_distance": 1019.6032539890311
 },{
   "id": 28038355,
   "dat": "Capital",
@@ -3281,7 +3281,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038422",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 56.56896129297545
+  "min_distance": 762.0635101331991
 },{
   "id": 28038446,
   "dat": "Sur",
@@ -3319,7 +3319,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038616",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 91.58144257354387
+  "min_distance": 624.5126659807934
 },{
   "id": 28038631,
   "dat": "Este",
@@ -3357,7 +3357,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038641",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 360.2131929989399
+  "min_distance": 1625.3174766304605
 },{
   "id": 28038665,
   "dat": "Sur",
@@ -3376,7 +3376,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038665",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 118.70657283773855
+  "min_distance": 234.08922707793886
 },{
   "id": 28038689,
   "dat": "Capital",
@@ -3395,7 +3395,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038689",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 731.3316790807122
+  "min_distance": 156.5787455451899
 },{
   "id": 28038801,
   "dat": "Capital",
@@ -3414,7 +3414,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038801",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 418.04988085447184
+  "min_distance": 81.90901033070219
 },{
   "id": 28038823,
   "dat": "Capital",
@@ -3433,7 +3433,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038823",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 279.0719863646141
+  "min_distance": 498.6705425128326
 },{
   "id": 28038835,
   "dat": "Este",
@@ -3452,7 +3452,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038835",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 163.9280224351214
+  "min_distance": 1760.9189667355383
 },{
   "id": 28038847,
   "dat": "Norte",
@@ -3471,7 +3471,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038847",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 259.4577627120382
+  "min_distance": 578.8438521434078
 },{
   "id": 28038859,
   "dat": "Sur",
@@ -3490,7 +3490,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038859",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 183.14160839207014
+  "min_distance": 382.1999819351525
 },{
   "id": 28038860,
   "dat": "Sur",
@@ -3509,7 +3509,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038860",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 270.30007377406366
+  "min_distance": 161.19022145968762
 },{
   "id": 28038872,
   "dat": "Sur",
@@ -3528,7 +3528,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038872",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 135.3150152378687
+  "min_distance": 547.5041458870264
 },{
   "id": 28038884,
   "dat": "Sur",
@@ -3547,7 +3547,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038884",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 183.75754778693116
+  "min_distance": 872.6243099615575
 },{
   "id": 28038896,
   "dat": "Sur",
@@ -3566,7 +3566,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038896",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 166.14375369105557
+  "min_distance": 465.79405479882615
 },{
   "id": 28038902,
   "dat": "Sur",
@@ -3604,7 +3604,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038914",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 190.30821090355903
+  "min_distance": 1396.099072547334
 },{
   "id": 28038926,
   "dat": "Sur",
@@ -3623,7 +3623,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038926",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 28.14391118820251
+  "min_distance": 1709.1280411700357
 },{
   "id": 28039037,
   "dat": "Sur",
@@ -3642,7 +3642,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039037",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 72.3028994427753
+  "min_distance": 2103.7884875154905
 },{
   "id": 28039128,
   "dat": "Oeste",
@@ -3661,7 +3661,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039128",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 256.7198312926955
+  "min_distance": 1078.6938209240323
 },{
   "id": 28039669,
   "dat": "Norte",
@@ -3680,7 +3680,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039669",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 44.994921210049874
+  "min_distance": 7966.466908586973
 },{
   "id": 28039670,
   "dat": "Este",
@@ -3699,7 +3699,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039670",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 187.00756782256715
+  "min_distance": 945.9508774188198
 },{
   "id": 28039682,
   "dat": "Este",
@@ -3718,7 +3718,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039682",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 37.044746102866554
+  "min_distance": 2046.2365289729069
 },{
   "id": 28039700,
   "dat": "Sur",
@@ -3737,7 +3737,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039700",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 62.16260195188591
+  "min_distance": 78.87394965839789
 },{
   "id": 28039724,
   "dat": "Este",
@@ -3759,7 +3759,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039724",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 69.9929596455892
+  "min_distance": 1425.4878288704303
 },{
   "id": 28039797,
   "dat": "Sur",
@@ -3797,7 +3797,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039803",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 17.388173164925536
+  "min_distance": 725.3716088710431
 },{
   "id": 28039827,
   "dat": "Sur",
@@ -3816,7 +3816,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039827",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 103.2081230274517
+  "min_distance": 755.9086776962524
 },{
   "id": 28039839,
   "dat": "Sur",
@@ -3835,7 +3835,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039839",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 186.06581351214137
+  "min_distance": 405.5324690435968
 },{
   "id": 28039840,
   "dat": "Capital",
@@ -3873,7 +3873,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039864",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 271.89581715376704
+  "min_distance": 925.8615413006513
 },{
   "id": 28039876,
   "dat": "Capital",
@@ -3949,7 +3949,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039943",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 207.65908530723536
+  "min_distance": 1319.5250961271622
 },{
   "id": 28039992,
   "dat": "Sur",
@@ -3968,7 +3968,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039992",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 95.98780107600614
+  "min_distance": 130.9138893970353
 },{
   "id": 28040003,
   "dat": "Sur",
@@ -4006,7 +4006,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040027",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 134.52006423629857
+  "min_distance": 779.2050944169549
 },{
   "id": 28040611,
   "dat": "Norte",
@@ -4025,7 +4025,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040611",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 199.62879120979088
+  "min_distance": 9573.099071309618
 },{
   "id": 28040660,
   "dat": "Norte",
@@ -4044,7 +4044,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040660",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 99.01111424682954
+  "min_distance": 717.2731048597583
 },{
   "id": 28040672,
   "dat": "Norte",
@@ -4063,7 +4063,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040672",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 199.62879120979088
+  "min_distance": 9573.099071309618
 },{
   "id": 28040684,
   "dat": "Este",
@@ -4082,7 +4082,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040684",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 174.95612836147058
+  "min_distance": 16805.941051488677
 },{
   "id": 28040696,
   "dat": "Sur",
@@ -4101,7 +4101,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040696",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 126.94945438425113
+  "min_distance": 488.9844914499561
 },{
   "id": 28040702,
   "dat": "Sur",
@@ -4120,7 +4120,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040702",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 183.4666527597564
+  "min_distance": 338.10863886050436
 },{
   "id": 28040714,
   "dat": "Oeste",
@@ -4139,7 +4139,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040714",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 140.4806274412252
+  "min_distance": 4556.441160178462
 },{
   "id": 28040738,
   "dat": "Sur",
@@ -4158,7 +4158,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040738",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 104.74277635519763
+  "min_distance": 1090.8353531484918
 },{
   "id": 28040741,
   "dat": "Capital",
@@ -4215,7 +4215,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040775",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 57.79939377692375
+  "min_distance": 790.3299588035569
 },{
   "id": 28040787,
   "dat": "Oeste",
@@ -4234,7 +4234,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040787",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 162.65759223105576
+  "min_distance": 1421.819476820526
 },{
   "id": 28040799,
   "dat": "Norte",
@@ -4253,7 +4253,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040799",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 120.83067080099745
+  "min_distance": 871.2702682175577
 },{
   "id": 28041354,
   "dat": "Norte",
@@ -4272,7 +4272,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041354",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 181.11249364708155
+  "min_distance": 424.2767332373943
 },{
   "id": 28041366,
   "dat": "Sur",
@@ -4291,7 +4291,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041366",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 125.65292919272056
+  "min_distance": 1116.223761366263
 },{
   "id": 28041378,
   "dat": "Oeste",
@@ -4310,7 +4310,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041378",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 112.5951061073726
+  "min_distance": 168.51704239628006
 },{
   "id": 28041381,
   "dat": "Norte",
@@ -4329,7 +4329,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041381",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 333.876256130011
+  "min_distance": 28323.056257290893
 },{
   "id": 28041391,
   "dat": "Este",
@@ -4348,7 +4348,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041391",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 112.8294924841718
+  "min_distance": 257.2808728581367
 },{
   "id": 28041411,
   "dat": "Sur",
@@ -4367,7 +4367,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041411",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 77.4664182819599
+  "min_distance": 847.668541823278
 },{
   "id": 28041433,
   "dat": "Capital",
@@ -4405,7 +4405,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041445",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 44.630664638159665
+  "min_distance": 4742.168310531943
 },{
   "id": 28041470,
   "dat": "Sur",
@@ -4424,7 +4424,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041470",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 96.02345090856282
+  "min_distance": 11686.822778378784
 },{
   "id": 28041482,
   "dat": "Sur",
@@ -4462,7 +4462,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041494",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 45.58079344152986
+  "min_distance": 484.870820865018
 },{
   "id": 28041500,
   "dat": "Este",
@@ -4481,7 +4481,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041500",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 55.611260024582556
+  "min_distance": 1394.2118020071716
 },{
   "id": 28041512,
   "dat": "Sur",
@@ -4500,7 +4500,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041512",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 101.08028847467457
+  "min_distance": 3135.623258379459
 },{
   "id": 28041597,
   "dat": "Oeste",
@@ -4519,7 +4519,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041597",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 56.19764607336682
+  "min_distance": 1618.5564343443273
 },{
   "id": 28041615,
   "dat": "Sur",
@@ -4538,7 +4538,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041615",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 77.27038672482172
+  "min_distance": 700.7119294678492
 },{
   "id": 28042000,
   "dat": "Este",
@@ -4557,7 +4557,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042000",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 39.16351686374206
+  "min_distance": 1195.2986263068085
 },{
   "id": 28042012,
   "dat": "Oeste",
@@ -4576,7 +4576,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042012",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 155.59018783467326
+  "min_distance": 394.5190346400367
 },{
   "id": 28042024,
   "dat": "Sur",
@@ -4595,7 +4595,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042024",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 180.158812423031
+  "min_distance": 848.7737632664004
 },{
   "id": 28042036,
   "dat": "Sur",
@@ -4614,7 +4614,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042036",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 253.6667098932382
+  "min_distance": 571.7453320737367
 },{
   "id": 28042048,
   "dat": "Sur",
@@ -4633,7 +4633,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042048",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 208.9815997379244
+  "min_distance": 933.2151220826036
 },{
   "id": 28042051,
   "dat": "Sur",
@@ -4652,7 +4652,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042051",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 202.1450971816978
+  "min_distance": 679.7828462311526
 },{
   "id": 28042061,
   "dat": "Sur",
@@ -4671,7 +4671,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042061",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 122.03014125701336
+  "min_distance": 204.2266108073161
 },{
   "id": 28042073,
   "dat": "Oeste",
@@ -4690,7 +4690,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042073",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 129.30480216879099
+  "min_distance": 2129.277893313142
 },{
   "id": 28042085,
   "dat": "Sur",
@@ -4709,7 +4709,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042085",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 123.95209407861523
+  "min_distance": 923.8243816286869
 },{
   "id": 28042097,
   "dat": "Sur",
@@ -4728,7 +4728,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042097",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 37.81760964654395
+  "min_distance": 1295.5623745996036
 },{
   "id": 28042103,
   "dat": "Norte",
@@ -4747,7 +4747,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042103",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 177.82698529549245
+  "min_distance": 1193.0152814260832
 },{
   "id": 28042115,
   "dat": "Sur",
@@ -4769,7 +4769,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042115",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 50.84718715441356
+  "min_distance": 596.3822663366165
 },{
   "id": 28042191,
   "dat": "Sur",
@@ -4788,7 +4788,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042191",
   "tipo": "070",
   "status_web": 404,
-  "min_distance": 66.05198440903109
+  "min_distance": 638.4228609513035
 },{
   "id": 28042590,
   "dat": "Este",
@@ -4807,7 +4807,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042590",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 185.80013238503963
+  "min_distance": 1738.3961803350096
 },{
   "id": 28042607,
   "dat": "Este",
@@ -4826,7 +4826,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042607",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 82.89371985638651
+  "min_distance": 445.8438474340863
 },{
   "id": 28042620,
   "dat": "Oeste",
@@ -4845,7 +4845,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042620",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 37.41464817964112
+  "min_distance": 3150.760883529921
 },{
   "id": 28042632,
   "dat": "Sur",
@@ -4864,7 +4864,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042632",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 76.11942293965906
+  "min_distance": 943.8229013898343
 },{
   "id": 28042644,
   "dat": "Capital",
@@ -4883,7 +4883,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042644",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 75.8261394048799
+  "min_distance": 419.0167213795515
 },{
   "id": 28042656,
   "dat": "Capital",
@@ -4921,7 +4921,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042668",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 224.29234896985932
+  "min_distance": 1117.4899429380912
 },{
   "id": 28042671,
   "dat": "Sur",
@@ -4940,7 +4940,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042671",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 126.22732615997911
+  "min_distance": 1068.3831442774465
 },{
   "id": 28042681,
   "dat": "Este",
@@ -4959,7 +4959,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042681",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 33.168813106020906
+  "min_distance": 1457.4721978545026
 },{
   "id": 28042875,
   "dat": "Este",
@@ -4978,7 +4978,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042875",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 25.518222061564718
+  "min_distance": 1421.8846530018998
 },{
   "id": 28042887,
   "dat": "Oeste",
@@ -4997,7 +4997,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042887",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 108.74954314844413
+  "min_distance": 747.2052638675019
 },{
   "id": 28042929,
   "dat": "Capital",
@@ -5073,7 +5073,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042954",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1995.247626814375
+  "min_distance": 578.9904713686798
 },{
   "id": 28042981,
   "dat": "Norte",
@@ -5092,7 +5092,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042981",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 169.41966978541257
+  "min_distance": 1340.3245896163537
 },{
   "id": 28042991,
   "dat": "Sur",
@@ -5111,7 +5111,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042991",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 108.28628453277865
+  "min_distance": 1650.4130118758262
 },{
   "id": 28043016,
   "dat": "Sur",
@@ -5130,7 +5130,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043016",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 35.11503508480714
+  "min_distance": 974.0533191852869
 },{
   "id": 28043028,
   "dat": "Norte",
@@ -5149,7 +5149,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043028",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 68.27997194611709
+  "min_distance": 258.30431290523387
 },{
   "id": 28043235,
   "dat": "Capital",
@@ -5168,7 +5168,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043235",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 265.87321047144354
+  "min_distance": 305.8781215900268
 },{
   "id": 28043259,
   "dat": "Capital",
@@ -5187,7 +5187,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043259",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 267.3905115924142
+  "min_distance": 487.06547273829113
 },{
   "id": 28043260,
   "dat": "Capital",
@@ -5225,7 +5225,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044306",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 238.5767725574534
+  "min_distance": 2577.29148965968
 },{
   "id": 28044318,
   "dat": "Este",
@@ -5244,7 +5244,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044318",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 49.52323253169769
+  "min_distance": 675.5405746309056
 },{
   "id": 28044501,
   "dat": "Capital",
@@ -5282,7 +5282,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044513",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 740.2551879551886
+  "min_distance": 690.0163453792114
 },{
   "id": 28044549,
   "dat": "Este",
@@ -5301,7 +5301,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044549",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 106.91208471638251
+  "min_distance": 4916.145902513409
 },{
   "id": 28044562,
   "dat": "Este",
@@ -5320,7 +5320,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044562",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 191.2247193327188
+  "min_distance": 9236.44738689847
 },{
   "id": 28044574,
   "dat": "Este",
@@ -5339,7 +5339,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044574",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 118.6036906795371
+  "min_distance": 21023.045181887817
 },{
   "id": 28044628,
   "dat": "Sur",
@@ -5358,7 +5358,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044628",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 421.72078805881875
+  "min_distance": 21672.364270254668
 },{
   "id": 28044719,
   "dat": "Sur",
@@ -5377,7 +5377,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044719",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 95.8290615664625
+  "min_distance": 449.5062843921501
 },{
   "id": 28044720,
   "dat": "Sur",
@@ -5415,7 +5415,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044744",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 44.00443859461574
+  "min_distance": 1013.9665372857464
 },{
   "id": 28044756,
   "dat": "Este",
@@ -5434,7 +5434,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044756",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 38.60520358011801
+  "min_distance": 1158.2414885016974
 },{
   "id": 28044768,
   "dat": "Este",
@@ -5453,7 +5453,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044768",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 213.2331829023284
+  "min_distance": 7218.771240190347
 },{
   "id": 28044896,
   "dat": "Norte",
@@ -5472,7 +5472,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044896",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 304.4643262507897
+  "min_distance": 28433.15799948551
 },{
   "id": 28044902,
   "dat": "Capital",
@@ -5494,7 +5494,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044902",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 293.638475466901
+  "min_distance": 340.14707072919964
 },{
   "id": 28045025,
   "dat": "Este",
@@ -5513,7 +5513,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045025",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 185.38604563928163
+  "min_distance": 4885.47908536609
 },{
   "id": 28045037,
   "dat": "Este",
@@ -5532,7 +5532,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045037",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 83.62608467198355
+  "min_distance": 946.8007236892745
 },{
   "id": 28045049,
   "dat": "Este",
@@ -5551,7 +5551,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045049",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 130.07062234935444
+  "min_distance": 19794.643070980736
 },{
   "id": 28045050,
   "dat": "Oeste",
@@ -5570,7 +5570,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045050",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 63.75859251620676
+  "min_distance": 1057.0202057276808
 },{
   "id": 28045268,
   "dat": "Capital",
@@ -5589,7 +5589,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045268",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 253.5454861513012
+  "min_distance": 275.95505280916
 },{
   "id": 28045271,
   "dat": "Capital",
@@ -5608,7 +5608,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045271",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 12.455665732809173
+  "min_distance": 20.08226534595342
 },{
   "id": 28045281,
   "dat": "Oeste",
@@ -5627,7 +5627,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045281",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 26.538744753037868
+  "min_distance": 279.08353224612586
 },{
   "id": 28045293,
   "dat": "Capital",
@@ -5665,7 +5665,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045311",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 31.173010042853623
+  "min_distance": 272.04485079164584
 },{
   "id": 28045323,
   "dat": "Capital",
@@ -5722,7 +5722,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045359",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 81.09310304435701
+  "min_distance": 208.4802338780616
 },{
   "id": 28045360,
   "dat": "Sur",
@@ -5741,7 +5741,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045360",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 100.90783513006164
+  "min_distance": 402.37633602428593
 },{
   "id": 28045372,
   "dat": "Sur",
@@ -5760,7 +5760,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045372",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 79.06903644640128
+  "min_distance": 806.3254742273995
 },{
   "id": 28045396,
   "dat": "Sur",
@@ -5779,7 +5779,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045396",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 202.92128949997596
+  "min_distance": 547.3054379014696
 },{
   "id": 28045414,
   "dat": "Sur",
@@ -5798,7 +5798,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045414",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 133.78201678963023
+  "min_distance": 12137.61077644397
 },{
   "id": 28045426,
   "dat": "Sur",
@@ -5836,7 +5836,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045438",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 82.3606762837675
+  "min_distance": 2326.9848084034184
 },{
   "id": 28045441,
   "dat": "Sur",
@@ -5855,7 +5855,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045441",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1488.1967640374455
+  "min_distance": 160.4333435510137
 },{
   "id": 28045463,
   "dat": "Norte",
@@ -5874,7 +5874,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045463",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 256.9712027010877
+  "min_distance": 19096.72059611932
 },{
   "id": 28045608,
   "dat": "Capital",
@@ -5912,7 +5912,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045621",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 122.61453465878007
+  "min_distance": 827.1697294335768
 },{
   "id": 28045633,
   "dat": "Capital",
@@ -5950,7 +5950,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045645",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 138.73904524114766
+  "min_distance": 22084.180156965816
 },{
   "id": 28045657,
   "dat": "Capital",
@@ -5988,7 +5988,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045669",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 142.5801875198325
+  "min_distance": 6551.490799907985
 },{
   "id": 28045773,
   "dat": "Este",
@@ -6007,7 +6007,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045773",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 392.8261508006283
+  "min_distance": 9658.885224614047
 },{
   "id": 28045803,
   "dat": "Sur",
@@ -6026,7 +6026,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045803",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 2531.1771669041555
+  "min_distance": 1181.2009119535203
 },{
   "id": 28045815,
   "dat": "Sur",
@@ -6045,7 +6045,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045815",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 57.01654928415505
+  "min_distance": 1867.7915311485722
 },{
   "id": 28045839,
   "dat": "Oeste",
@@ -6064,7 +6064,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045839",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 134.9105234324769
+  "min_distance": 8849.887218294578
 },{
   "id": 28045840,
   "dat": "Capital",
@@ -6083,7 +6083,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045840",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1669.221435910804
+  "min_distance": 71.20079273002065
 },{
   "id": 28046091,
   "dat": "Este",
@@ -6102,7 +6102,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046091",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 101.65170799552348
+  "min_distance": 2316.3383951339465
 },{
   "id": 28046111,
   "dat": "Oeste",
@@ -6121,7 +6121,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046111",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 356.3797698725604
+  "min_distance": 1642.4126174579578
 },{
   "id": 28046251,
   "dat": "Oeste",
@@ -6140,7 +6140,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046251",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 271.56942809690787
+  "min_distance": 7385.312961796786
 },{
   "id": 28046261,
   "dat": "Sur",
@@ -6159,7 +6159,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046261",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 94.8967828059022
+  "min_distance": 2933.70669716762
 },{
   "id": 28046273,
   "dat": "Sur",
@@ -6178,7 +6178,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046273",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 564.799520013182
+  "min_distance": 27971.727452387255
 },{
   "id": 28046285,
   "dat": "Este",
@@ -6197,7 +6197,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046285",
   "tipo": "047",
   "status_web": 200,
-  "min_distance": 75.55232940792321
+  "min_distance": 19140.405332174516
 },{
   "id": 28046297,
   "dat": "Este",
@@ -6216,7 +6216,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046297",
   "tipo": "047",
   "status_web": 200,
-  "min_distance": 150.01089286616585
+  "min_distance": 8239.520198646105
 },{
   "id": 28046303,
   "dat": "Oeste",
@@ -6235,7 +6235,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046303",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 121.22627538043153
+  "min_distance": 9303.761933170712
 },{
   "id": 28046315,
   "dat": "Sur",
@@ -6254,7 +6254,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046315",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5084.129503156561
+  "min_distance": 4776.63514448985
 },{
   "id": 28046339,
   "dat": "Norte",
@@ -6273,7 +6273,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046339",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 430.922933759978
+  "min_distance": 12117.757322423095
 },{
   "id": 28046352,
   "dat": "Oeste",
@@ -6292,7 +6292,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046352",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 121.23941423780477
+  "min_distance": 2904.3677676256816
 },{
   "id": 28046364,
   "dat": "Oeste",
@@ -6311,7 +6311,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046364",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 411.9723737408322
+  "min_distance": 1014.1941788308475
 },{
   "id": 28046376,
   "dat": "Capital",
@@ -6349,7 +6349,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046467",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 403.45861363495476
+  "min_distance": 1261.702964328221
 },{
   "id": 28046479,
   "dat": "Capital",
@@ -6387,7 +6387,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046522",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 51.62005272992877
+  "min_distance": 1723.3637827460655
 },{
   "id": 28046558,
   "dat": "Oeste",
@@ -6406,7 +6406,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046558",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 141.417138796651
+  "min_distance": 5161.673458860587
 },{
   "id": 28047411,
   "dat": "Capital",
@@ -6425,7 +6425,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28047411",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 181.49775188952052
+  "min_distance": 299.30436416142146
 },{
   "id": 28048282,
   "dat": "Capital",
@@ -6462,8 +6462,8 @@
   "url": "http://www.educa.madrid.org/ies.hotelescuela.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048294",
   "tipo": "042",
-  "status_web": 200,
-  "min_distance": 470.82081941885656
+  "status_web": 991,
+  "min_distance": 1997.4336793598525
 },{
   "id": 28048476,
   "dat": "Oeste",
@@ -6482,7 +6482,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048476",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 86.2020727585547
+  "min_distance": 210.4427021013843
 },{
   "id": 28049341,
   "dat": "Sur",
@@ -6501,7 +6501,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28049341",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 121.77443901475264
+  "min_distance": 3136.541149962088
 },{
   "id": 28050525,
   "dat": "Sur",
@@ -6520,7 +6520,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050525",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 13.529071548644538
+  "min_distance": 6628.106415017138
 },{
   "id": 28050537,
   "dat": "Sur",
@@ -6539,7 +6539,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050537",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 238.48698454032285
+  "min_distance": 8348.87421684742
 },{
   "id": 28050549,
   "dat": "Sur",
@@ -6558,7 +6558,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050549",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 329.0317467504578
+  "min_distance": 3801.5630851641167
 },{
   "id": 28050550,
   "dat": "Sur",
@@ -6577,7 +6577,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050550",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 268.4881225462137
+  "min_distance": 12753.179624615841
 },{
   "id": 28050562,
   "dat": "Oeste",
@@ -6596,7 +6596,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050562",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 41.32675539443757
+  "min_distance": 7630.068370311576
 },{
   "id": 28050720,
   "dat": "Sur",
@@ -6615,7 +6615,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050720",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 192.7222714963367
+  "min_distance": 884.2230507138211
 },{
   "id": 28050732,
   "dat": "Este",
@@ -6634,7 +6634,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050732",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 78.42672989800246
+  "min_distance": 681.4148907625237
 },{
   "id": 28056400,
   "dat": "Este",
@@ -6653,7 +6653,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056400",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 779.9126511349514
+  "min_distance": 2130.2022373718746
 },{
   "id": 28056412,
   "dat": "Este",
@@ -6672,7 +6672,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056412",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 779.9126511349514
+  "min_distance": 2130.2022373718746
 },{
   "id": 28056424,
   "dat": "Sur",
@@ -6691,7 +6691,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056424",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 279.84103650372043
+  "min_distance": 2704.0459401634384
 },{
   "id": 28056436,
   "dat": "Sur",
@@ -6710,7 +6710,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056436",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 292.27448132318017
+  "min_distance": 7768.41164163568
 },{
   "id": 28056448,
   "dat": "Norte",
@@ -6729,7 +6729,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056448",
   "tipo": "035",
   "status_web": 200,
-  "min_distance": 140.9998336251068
+  "min_distance": 8195.16878684636
 },{
   "id": 28056451,
   "dat": "Sur",
@@ -6748,7 +6748,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056451",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 10421.911550000665
+  "min_distance": 11523.056775845387
 },{
   "id": 28057076,
   "dat": "Oeste",
@@ -6767,7 +6767,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057076",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 39.15461009684748
+  "min_distance": 2538.443361618829
 },{
   "id": 28057088,
   "dat": "Oeste",
@@ -6786,7 +6786,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057088",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 32.51010175150072
+  "min_distance": 8890.775349709735
 },{
   "id": 28057180,
   "dat": "Sur",
@@ -6824,7 +6824,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057209",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 23.361670957533605
+  "min_distance": 4805.8154649272465
 },{
   "id": 28057210,
   "dat": "Este",
@@ -6843,7 +6843,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057210",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 306.1727619706101
+  "min_distance": 2374.075527446809
 },{
   "id": 28057222,
   "dat": "Este",
@@ -6862,7 +6862,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057222",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 39.92068543981706
+  "min_distance": 5308.873569287038
 },{
   "id": 28057271,
   "dat": "Capital",
@@ -6900,7 +6900,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057660",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 131.01918595368105
+  "min_distance": 1889.273174592918
 },{
   "id": 28057672,
   "dat": "Oeste",
@@ -6919,7 +6919,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057672",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 104.48799442043801
+  "min_distance": 2280.0855705630483
 },{
   "id": 28057684,
   "dat": "Oeste",
@@ -6938,7 +6938,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057684",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 63.19380287479552
+  "min_distance": 260.66477281241424
 },{
   "id": 28057751,
   "dat": "Norte",
@@ -6957,7 +6957,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057751",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 111.89664281418337
+  "min_distance": 12190.75998986556
 },{
   "id": 28057805,
   "dat": "Capital",
@@ -6995,7 +6995,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058603",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 467.46631132768493
+  "min_distance": 887.7697953294161
 },{
   "id": 28058615,
   "dat": "Este",
@@ -7014,7 +7014,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058615",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 52.72769688158793
+  "min_distance": 1669.0152076679683
 },{
   "id": 28058627,
   "dat": "Este",
@@ -7033,7 +7033,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058627",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 157.89018495619936
+  "min_distance": 1079.9308948506657
 },{
   "id": 28058639,
   "dat": "Norte",
@@ -7052,7 +7052,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058639",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 130.674941802924
+  "min_distance": 899.5935603596274
 },{
   "id": 28058640,
   "dat": "Oeste",
@@ -7071,7 +7071,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058640",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 143.8591960952409
+  "min_distance": 456.6477133582433
 },{
   "id": 28058652,
   "dat": "Oeste",
@@ -7090,7 +7090,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058652",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 177.02096592377166
+  "min_distance": 2757.855218550114
 },{
   "id": 28058664,
   "dat": "Sur",
@@ -7109,7 +7109,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058664",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 139.6057008683545
+  "min_distance": 296.59051389597
 },{
   "id": 28058676,
   "dat": "Sur",
@@ -7128,7 +7128,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058676",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 31.30474157176468
+  "min_distance": 13531.343434335464
 },{
   "id": 28058688,
   "dat": "Sur",
@@ -7166,7 +7166,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059279",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 321.45580633682385
+  "min_distance": 2644.37917787636
 },{
   "id": 28059361,
   "dat": "Capital",
@@ -7204,7 +7204,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059371",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 203.706455733227
+  "min_distance": 9833.223321829928
 },{
   "id": 28059383,
   "dat": "Oeste",
@@ -7223,7 +7223,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059383",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 19.607899384242373
+  "min_distance": 3031.7424141850997
 },{
   "id": 28059395,
   "dat": "Oeste",
@@ -7242,7 +7242,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059395",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 82.60973999497509
+  "min_distance": 1048.4586486717117
 },{
   "id": 28059401,
   "dat": "Norte",
@@ -7261,7 +7261,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059401",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 36.645412929255826
+  "min_distance": 33379.30837566091
 },{
   "id": 28060270,
   "dat": "Sur",
@@ -7280,7 +7280,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060270",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 219.68459665591934
+  "min_distance": 842.6215643590664
 },{
   "id": 28060348,
   "dat": "Oeste",
@@ -7299,7 +7299,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060348",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 184.29027816729956
+  "min_distance": 3442.327703957533
 },{
   "id": 28060373,
   "dat": "Este",
@@ -7318,7 +7318,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060373",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 173.09871825321235
+  "min_distance": 1834.8802777859503
 },{
   "id": 28060385,
   "dat": "Este",
@@ -7337,7 +7337,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060385",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 93.10681124254468
+  "min_distance": 9208.239452833654
 },{
   "id": 28060397,
   "dat": "Este",
@@ -7356,7 +7356,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060397",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 275.4583667067733
+  "min_distance": 4558.826287612402
 },{
   "id": 28060816,
   "dat": "Oeste",
@@ -7375,7 +7375,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060816",
   "tipo": "016",
   "status_web": 991,
-  "min_distance": 227.78728599035784
+  "min_distance": 1101.6161548302105
 },{
   "id": 28060968,
   "dat": "Norte",
@@ -7394,7 +7394,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060968",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 157.39155503121694
+  "min_distance": 214.62762206256215
 },{
   "id": 28060971,
   "dat": "Oeste",
@@ -7413,7 +7413,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060971",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 251.35374374927983
+  "min_distance": 552.2511405522044
 },{
   "id": 28062011,
   "dat": "Sur",
@@ -7432,7 +7432,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062011",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 108.5800850964367
+  "min_distance": 2940.715039003135
 },{
   "id": 28062023,
   "dat": "Sur",
@@ -7451,7 +7451,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062023",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 67.44032296712524
+  "min_distance": 2843.213212012855
 },{
   "id": 28062035,
   "dat": "Sur",
@@ -7470,7 +7470,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062035",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 260.51907394719484
+  "min_distance": 1495.725840675742
 },{
   "id": 28062126,
   "dat": "Capital",
@@ -7489,7 +7489,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062126",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 266.0923478527828
+  "min_distance": 331.2597252609027
 },{
   "id": 28063799,
   "dat": "Capital",
@@ -7527,7 +7527,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064007",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 112.11144159947452
+  "min_distance": 1574.832001196581
 },{
   "id": 28064044,
   "dat": "Norte",
@@ -7546,7 +7546,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064044",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 51.769085081528154
+  "min_distance": 16657.15944894314
 },{
   "id": 28064160,
   "dat": "Oeste",
@@ -7565,7 +7565,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064160",
   "tipo": "070",
   "status_web": 999,
-  "min_distance": 189.59985300737168
+  "min_distance": 897.1916687246154
 },{
   "id": 28065632,
   "dat": "Sur",
@@ -7584,7 +7584,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065632",
   "tipo": "047",
   "status_web": 999,
-  "min_distance": 434.0696170950957
+  "min_distance": 2492.3463135542343
 },{
   "id": 28065644,
   "dat": "Oeste",
@@ -7603,7 +7603,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065644",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 232.96478567392967
+  "min_distance": 588.0572269302692
 },{
   "id": 28065711,
   "dat": "Capital",
@@ -7641,7 +7641,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065841",
   "tipo": "047",
   "status_web": 200,
-  "min_distance": 623.8870544670079
+  "min_distance": 7198.330615877129
 },{
   "id": 28067628,
   "dat": "Sur",
@@ -7660,7 +7660,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067628",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 166.3447182283145
+  "min_distance": 1580.7114552455064
 },{
   "id": 28067744,
   "dat": "Sur",
@@ -7679,7 +7679,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067744",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 676.5341882471654
+  "min_distance": 16245.723894915694
 },{
   "id": 28067768,
   "dat": "Sur",
@@ -7698,7 +7698,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067768",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 213.25110540352244
+  "min_distance": 20283.415620580625
 },{
   "id": 28069391,
   "dat": "Sur",
@@ -7717,7 +7717,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069391",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1699.9939219574333
+  "min_distance": 870.3064429915967
 },{
   "id": 28069844,
   "dat": "Sur",
@@ -7736,7 +7736,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069844",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 109.71937169959384
+  "min_distance": 147.42759611794526
 },{
   "id": 28070691,
   "dat": "Sur",
@@ -7755,7 +7755,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070691",
   "tipo": "070",
   "status_web": 999,
-  "min_distance": 385.0108376136148
+  "min_distance": 3874.0982462730094
 },{
   "id": 28070721,
   "dat": "Este",
@@ -7774,7 +7774,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070721",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 374.234826924101
+  "min_distance": 778.7243028656288
 },{
   "id": 28070962,
   "dat": "Sur",
@@ -7793,7 +7793,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070962",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 141.21982381223444
+  "min_distance": 637.3786147684015
 },{
   "id": 28070974,
   "dat": "Sur",
@@ -7831,7 +7831,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28071310",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 360.6189691873725
+  "min_distance": 19318.793014945513
 },{
   "id": 28072107,
   "dat": "Sur",
@@ -7869,7 +7869,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072223",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 365.6462927959692
+  "min_distance": 507.03314221621486
 },{
   "id": 28073859,
   "dat": "Capital",
@@ -7888,7 +7888,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073859",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 199.18609270711323
+  "min_distance": 245.58819253832507
 },{
   "id": 28073872,
   "dat": "Norte",
@@ -7907,7 +7907,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073872",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 199.43994643191132
+  "min_distance": 21249.811459348814
 },{
   "id": 28074037,
   "dat": "Sur",
@@ -7926,7 +7926,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074037",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 20.56119732433056
+  "min_distance": 788.26693297902
 },{
   "id": 28074049,
   "dat": "Sur",
@@ -7945,7 +7945,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074049",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 81.34768820087375
+  "min_distance": 5270.607998780928
 },{
   "id": 28074050,
   "dat": "Sur",
@@ -7964,7 +7964,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074050",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 300.1734290160646
+  "min_distance": 818.4808281988537
 },{
   "id": 28074062,
   "dat": "Sur",
@@ -7983,7 +7983,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074062",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 152.66434896943576
+  "min_distance": 789.0472503002725
 },{
   "id": 28074244,
   "dat": "Capital",
@@ -8005,7 +8005,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074244",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 254.68044470947194
+  "min_distance": 262.03360851558597
 },{
   "id": 28074669,
   "dat": "Sur",
@@ -8024,7 +8024,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074669",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 128.58251967597027
+  "min_distance": 565.7462852473591
 },{
   "id": 28074670,
   "dat": "Sur",
@@ -8046,7 +8046,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074670",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 171.8934854387558
+  "min_distance": 903.9933209632318
 },{
   "id": 28074852,
   "dat": "Sur",
@@ -8065,7 +8065,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074852",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 126.22732615997911
+  "min_distance": 1068.3831442774465
 },{
   "id": 28074918,
   "dat": "Capital",
@@ -8103,7 +8103,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075492",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 443.4165333769057
+  "min_distance": 502.4276258934881
 },{
   "id": 28075509,
   "dat": "Sur",
@@ -8122,7 +8122,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075509",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 6792.980957825323
+  "min_distance": 6669.068216688161
 },{
   "id": 28075510,
   "dat": "Oeste",
@@ -8141,7 +8141,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075510",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 34.775299729877574
+  "min_distance": 888.7712259573207
 },{
   "id": 28076368,
   "dat": "Capital",
@@ -8179,7 +8179,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076371",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 262.64743290679274
+  "min_distance": 800.1644860117963
 },{
   "id": 28076381,
   "dat": "Este",
@@ -8198,7 +8198,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076381",
   "tipo": "047",
   "status_web": 200,
-  "min_distance": 232.03937064660317
+  "min_distance": 8949.163666851839
 },{
   "id": 28077269,
   "dat": "Capital",
@@ -8236,7 +8236,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077491",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 39.48452808713108
+  "min_distance": 2043.8852310404232
 },{
   "id": 28077889,
   "dat": "Capital",
@@ -8255,7 +8255,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077889",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 160.9841322948634
+  "min_distance": 572.2554239476623
 },{
   "id": 28077890,
   "dat": "Este",
@@ -8274,7 +8274,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077890",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 110.78001202785829
+  "min_distance": 5586.713224196822
 },{
   "id": 28077907,
   "dat": "Sur",
@@ -8293,7 +8293,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077907",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 94.7817008234077
+  "min_distance": 264.17255199919026
 },{
   "id": 28077971,
   "dat": "Sur",
@@ -8312,7 +8312,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077971",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 316.7894429401519
+  "min_distance": 551.7174003326456
 },{
   "id": 28078031,
   "dat": "Oeste",
@@ -8331,7 +8331,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078031",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 292.2927424331277
+  "min_distance": 835.064385290594
 },{
   "id": 28078043,
   "dat": "Norte",
@@ -8350,7 +8350,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078043",
   "tipo": "047",
   "status_web": 999,
-  "min_distance": 97.20158677079236
+  "min_distance": 839.9379003111387
 },{
   "id": 28078547,
   "dat": "Sur",
@@ -8369,7 +8369,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078547",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 302.2251871515903
+  "min_distance": 1383.4192990635047
 },{
   "id": 28078559,
   "dat": "Capital",
@@ -8407,7 +8407,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079357",
   "tipo": "042",
   "status_web": null,
-  "min_distance": 726.0308853596991
+  "min_distance": 1140.552891111384
 },{
   "id": 28079370,
   "dat": "Capital",
@@ -8426,7 +8426,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079370",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 82.48614454137143
+  "min_distance": 611.6013288097525
 },{
   "id": 28079382,
   "dat": "Capital",
@@ -8464,7 +8464,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079394",
   "tipo": "042",
   "status_web": null,
-  "min_distance": 204.84076461720878
+  "min_distance": 588.0454769552887
 },{
   "id": 28079400,
   "dat": "Este",
@@ -8483,5 +8483,5 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079400",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 629.3890097689192
+  "min_distance": 1503.978852751892
 }]

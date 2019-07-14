@@ -30,3 +30,7 @@ fieldset {
 div.content ul {
   padding-left: 20px;
 }
+ul.listCentros li {
+  cursor: pointer;
+  margin-top: 5px;
+}

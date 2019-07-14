@@ -21,7 +21,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000029",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 875.0589201381081,
+        "min_distance": 9291.950510646871,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -55,7 +56,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000364",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 75.27335515488062,
+        "min_distance": 1635.5914025525217,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -86,7 +88,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000467",
         "tipo": "042",
         "status_web": 991,
-        "min_distance": 285.1112278085038,
+        "min_distance": 1702.2675270505988,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -119,7 +122,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000522",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 96.88673429467292,
+        "min_distance": 410.98936381678175,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -154,7 +158,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000753",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 178.88534638561927,
+        "min_distance": 1455.5754761744386,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -188,7 +193,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001629",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 95.24230611104399,
+        "min_distance": 961.795377240997,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -219,7 +225,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001678",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 216.16461204247418,
+        "min_distance": 1205.8462953830172,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -250,7 +257,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001769",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 130.58518304242463,
+        "min_distance": 1556.5762399404352,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -281,7 +289,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001812",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 281.40403220434547,
+        "min_distance": 4430.285366360287,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -312,7 +321,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001848",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 105.82369389158823,
+        "min_distance": 124.1841192298214,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -343,7 +353,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001873",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 23.00646848040257,
+        "min_distance": 11562.055251327944,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -374,7 +385,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002026",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 736.6156545907909,
+        "min_distance": 29844.171500382316,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -405,7 +417,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002038",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 194.20214618339546,
+        "min_distance": 5688.8741786090695,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -436,7 +449,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002105",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 427.42036386756695,
+        "min_distance": 34445.160719479354,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -467,7 +481,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002181",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 41.400191771463554,
+        "min_distance": 1059.3381325486403,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -498,7 +513,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002211",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 221.54896808438116,
+        "min_distance": 8926.63797534027,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -532,7 +548,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002312",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 86.12054235329994,
+        "min_distance": 2751.3816772102628,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -563,7 +580,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002415",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 52.506740547412164,
+        "min_distance": 1390.059852333341,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -594,7 +612,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002580",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 33.184401860622685,
+        "min_distance": 967.8094288134089,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -625,7 +644,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002853",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 321.17291177025595,
+        "min_distance": 11175.001027771794,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -659,7 +679,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003201",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 77.7677552310935,
+        "min_distance": 365.8282128690611,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
@@ -690,7 +711,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003304",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 130.47665960133475,
+        "min_distance": 156.73628570218827,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -724,7 +746,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003882",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 121.73700244386171,
+        "min_distance": 424.1883701173416,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
@@ -755,7 +778,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003894",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 98.6904897575335,
+        "min_distance": 966.0958857865177,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -786,7 +810,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003900",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 154.27779116043268,
+        "min_distance": 594.8699844573669,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -821,6 +846,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 96.6526267172232,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -851,7 +877,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28013899",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 427.68722721706,
+        "min_distance": 451.8213508379783,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -883,6 +910,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 507.64897004686406,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -914,6 +942,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 121.12731361170057,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -945,6 +974,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 243.1166354194918,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -976,6 +1006,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 143.98862307799908,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1006,7 +1037,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018381",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 233.7692762360179,
+        "min_distance": 1403.6147506844854,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1037,7 +1069,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018423",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 45.32832921218471,
+        "min_distance": 240.6392544157933,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1070,7 +1103,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018435",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 57.741785050116746,
+        "min_distance": 104.2970085692635,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
@@ -1101,7 +1135,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018460",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 2019.3991214057046,
+        "min_distance": 625.8716403075971,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -1133,6 +1168,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 289.0012128560645,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -1163,7 +1199,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018484",
         "tipo": "042",
         "status_web": 404,
-        "min_distance": 513.7356313509639,
+        "min_distance": 515.7251554764266,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1195,6 +1232,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 154.8431823705998,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1226,6 +1264,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 179.76617096521758,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1256,7 +1295,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019351",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 165.22375760083116,
+        "min_distance": 1991.7597433681617,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1291,6 +1331,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 87.8169540257072,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -1322,6 +1363,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 191.0810544195658,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1352,7 +1394,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019971",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 229.82891967960074,
+        "min_distance": 412.95704732880796,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1386,7 +1429,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020119",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 451.3580573543467,
+        "min_distance": 519.0919101720526,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -1418,6 +1462,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 72.1516954854248,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -1449,6 +1494,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 378.9077700842562,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1480,6 +1526,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 64.18180116508786,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1511,6 +1558,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 321.57952222934694,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1542,6 +1590,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 261.22781088045997,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1572,7 +1621,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020582",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 253.9903899004078,
+        "min_distance": 461.443539901059,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1608,6 +1658,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 200.91723051748798,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -1639,6 +1690,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 48.23774867287857,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1669,7 +1721,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020703",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 47.381815611489465,
+        "min_distance": 54.56946082927515,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1700,7 +1753,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020715",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 114.44580814054969,
+        "min_distance": 1164.746797279519,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1732,6 +1786,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 149.26952812868313,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1763,6 +1818,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 171.13168587508613,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -1794,6 +1850,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 217.93258155147635,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -1825,6 +1882,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 391.4664954293876,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -1855,7 +1913,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020855",
         "tipo": "042",
         "status_web": 991,
-        "min_distance": 332.74218801990514,
+        "min_distance": 410.90785693318867,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1890,6 +1949,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 8.0029516672003,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -1923,7 +1983,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020909",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 223.48257501257868,
+        "min_distance": 232.6786958946251,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -1955,6 +2016,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 175.29909456480587,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -1988,6 +2050,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 72.57344879904582,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -2023,6 +2086,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 134.4105013952032,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -2053,7 +2117,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020958",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 133.5685394361768,
+        "min_distance": 185.10634550053243,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -2084,7 +2149,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020961",
         "tipo": "042",
         "status_web": 503,
-        "min_distance": 133.5685394361768,
+        "min_distance": 185.10634550053243,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2116,6 +2182,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 464.78074948015654,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2146,7 +2213,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021252",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 263.4172996090154,
+        "min_distance": 348.6449551419684,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2177,7 +2245,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021549",
         "tipo": "042",
         "status_web": 404,
-        "min_distance": 418.59920261075365,
+        "min_distance": 639.9115582313981,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -2208,7 +2277,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021550",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 185.90121811379393,
+        "min_distance": 1054.2393189696127,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2240,6 +2310,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 652.0259129580626,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2270,7 +2341,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022207",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 320.6188917034392,
+        "min_distance": 5428.413470888441,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2301,7 +2373,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022724",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 232.43068827949344,
+        "min_distance": 2136.045990837749,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2332,7 +2405,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022891",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 328.27132366013575,
+        "min_distance": 17378.82083196123,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2363,7 +2437,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023194",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 74.95744588596277,
+        "min_distance": 662.7937408537388,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2394,7 +2469,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023327",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 57.55337116407596,
+        "min_distance": 12660.530246550506,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2425,7 +2501,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023364",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 93.55125524188121,
+        "min_distance": 14674.017974916638,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2456,7 +2533,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023388",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 39.79851867407472,
+        "min_distance": 17689.612674197364,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2487,7 +2565,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023741",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 231.74549364712678,
+        "min_distance": 324.5683467248511,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2518,7 +2597,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023911",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 207.90078626023873,
+        "min_distance": 376.83530831692656,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2552,7 +2632,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024290",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 103.65996143324412,
+        "min_distance": 314.7250415191238,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -2583,7 +2664,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024642",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 215.38508706347628,
+        "min_distance": 859.9848488154629,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2614,7 +2696,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025014",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 244.97679721483772,
+        "min_distance": 1307.7177969615243,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2648,7 +2731,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025026",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 205.24442676153558,
+        "min_distance": 1489.6836015653312,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -2679,7 +2763,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025129",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 302.6522100279078,
+        "min_distance": 28380.34721425196,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2710,7 +2795,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025415",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 53.049906654638534,
+        "min_distance": 12616.2343506746,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2741,7 +2827,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025658",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 167.07582708692027,
+        "min_distance": 21011.71776427269,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2773,6 +2860,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 404,
         "min_distance": 349.10200678016423,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2806,7 +2894,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28026031",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 127.4606388259835,
+        "min_distance": 1309.3756561297296,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
@@ -2837,7 +2926,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28026092",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 147.49988905434176,
+        "min_distance": 503.0079452048164,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2868,7 +2958,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028301",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 158.83008609566693,
+        "min_distance": 1250.7908445164562,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2899,7 +2990,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028350",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 190.1534717080316,
+        "min_distance": 298.76692626675396,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -2933,7 +3025,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028374",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 138.84388142594213,
+        "min_distance": 198.51911763576464,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -2964,7 +3057,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028404",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 137.76637636307967,
+        "min_distance": 601.8287603156792,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -2996,6 +3090,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 284.2327348867626,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3030,6 +3125,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 481.1922598811963,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -3061,6 +3157,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 286.9961184782489,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3092,6 +3189,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 300.60348103320183,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3123,6 +3221,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 331.71640110004256,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3153,7 +3252,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028568",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 138.5191220815574,
+        "min_distance": 346.7301308873078,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3184,7 +3284,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028571",
         "tipo": "042",
         "status_web": 404,
-        "min_distance": 28.406542149867896,
+        "min_distance": 547.1908861661842,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3215,7 +3316,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028611",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 57.7683656300717,
+        "min_distance": 704.8794994579827,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3251,6 +3353,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 214.44816106776105,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -3284,7 +3387,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028684",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 139.87180483491113,
+        "min_distance": 1621.624577513837,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -3315,7 +3419,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030101",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 75.83532724605689,
+        "min_distance": 471.19730290247884,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3346,7 +3451,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030113",
         "tipo": "031",
         "status_web": 991,
-        "min_distance": 316.12902380608426,
+        "min_distance": 530.6435805574044,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3377,7 +3483,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030125",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 322.04399156491513,
+        "min_distance": 380.2953628601151,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3409,6 +3516,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 70.99337329340972,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3440,6 +3548,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 244.25423813034269,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3471,6 +3580,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 84.78695256049548,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3501,7 +3611,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030162",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 333.9687307473054,
+        "min_distance": 672.6100874740964,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3532,7 +3643,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030174",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 615.5311452990168,
+        "min_distance": 704.1698424610089,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -3563,7 +3675,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030186",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 297.07359081215833,
+        "min_distance": 507.3844498704271,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3594,7 +3707,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030204",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 116.42394658509528,
+        "min_distance": 783.2480013608719,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3626,6 +3740,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 317.316336011678,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3656,7 +3771,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030228",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 105.8307731846581,
+        "min_distance": 987.0750185646491,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -3687,7 +3803,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030241",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 48.87121662228839,
+        "min_distance": 211.53286108288287,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3719,6 +3836,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 249.01290646469795,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -3749,7 +3867,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030903",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 47.90880200387551,
+        "min_distance": 912.4829254699561,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3780,7 +3899,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030915",
         "tipo": "042",
         "status_web": 991,
-        "min_distance": 133.87873291172437,
+        "min_distance": 350.4197929833338,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3811,7 +3931,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030927",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 245.54379420133387,
+        "min_distance": 334.99887899039237,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -3843,6 +3964,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 93.99396214662474,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -3874,6 +3996,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 991,
         "min_distance": 469.0587147862076,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -3905,6 +4028,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 453.0668337398902,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -3936,6 +4060,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 430.0211627237761,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3966,7 +4091,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030991",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 361.1462840299192,
+        "min_distance": 657.4271655582143,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -3997,7 +4123,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031002",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 265.9850688582231,
+        "min_distance": 749.9410820361096,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4029,6 +4156,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 239.8372887103968,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4060,6 +4188,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 213.32254141716544,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4090,7 +4219,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032471",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 69.46526099111593,
+        "min_distance": 258.59150390489856,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4121,7 +4251,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032481",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 479.85374663683905,
+        "min_distance": 503.3805458845696,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -4152,7 +4283,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032501",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 26.855059901048335,
+        "min_distance": 1964.726831396561,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4187,6 +4319,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 621.1574716907086,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
@@ -4218,6 +4351,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 404,
         "min_distance": 121.23455998620985,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4249,6 +4383,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 356.5423492345774,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4280,6 +4415,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 182.60965967247276,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4310,7 +4446,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033539",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 272.35723455803753,
+        "min_distance": 310.9715511234204,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4341,7 +4478,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033552",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 166.43213681172796,
+        "min_distance": 413.1314169130112,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4372,7 +4510,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033679",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 98.41269910910745,
+        "min_distance": 124.89472273766155,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -4403,7 +4542,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033850",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 128.91088416683328,
+        "min_distance": 754.2138087954196,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4435,6 +4575,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 133.2499206701183,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4465,7 +4606,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035305",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 148.31249280445672,
+        "min_distance": 1446.7046403070196,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4496,7 +4638,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035317",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 398.91801660759955,
+        "min_distance": 1418.0838734366055,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4527,7 +4670,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035330",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 903.3035526490683,
+        "min_distance": 613.2796452782275,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4558,7 +4702,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035342",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 364.4172951763014,
+        "min_distance": 1864.9939746311986,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4589,7 +4734,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036656",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 91.56448418976926,
+        "min_distance": 455.3529915296733,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4620,7 +4766,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036930",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 301.17004238849324,
+        "min_distance": 342.0029512153976,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4651,7 +4798,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036978",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 187.78975220745076,
+        "min_distance": 832.0083302113059,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4682,7 +4830,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036981",
         "tipo": "042",
         "status_web": 404,
-        "min_distance": 65.13507449011541,
+        "min_distance": 573.9821785101033,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4713,7 +4862,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036991",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 45.68826758732873,
+        "min_distance": 2320.7633578587156,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4744,7 +4894,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037004",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 188.82078726015175,
+        "min_distance": 584.477289114196,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4775,7 +4926,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037016",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 247.27422406101377,
+        "min_distance": 357.23452893204103,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4807,6 +4959,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 335.2811480524645,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4838,6 +4991,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 396.09555780666676,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -4868,7 +5022,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037041",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 302.38685006306895,
+        "min_distance": 630.9044545457197,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -4899,7 +5054,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037053",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 548.4608264089883,
+        "min_distance": 555.3905968269339,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -4930,7 +5086,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037065",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 166.85128366019003,
+        "min_distance": 300.4154572345364,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4961,7 +5118,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037077",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 254.9229538726306,
+        "min_distance": 1155.3162096162396,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -4992,7 +5150,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037089",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 67.12635937213909,
+        "min_distance": 1899.3568508345984,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5023,7 +5182,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037892",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 15.516884174172516,
+        "min_distance": 477.8504249250141,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5054,7 +5214,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038070",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 225.2756579132815,
+        "min_distance": 502.6353480358724,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5085,7 +5246,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038100",
         "tipo": "042",
         "status_web": 404,
-        "min_distance": 16.644439490795044,
+        "min_distance": 47.99083258095908,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -5116,7 +5278,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038151",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 141.9268939412389,
+        "min_distance": 715.7258891050858,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5147,7 +5310,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038291",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 82.60034432714083,
+        "min_distance": 181.61688773413158,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5178,7 +5342,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038306",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 160.79097213829286,
+        "min_distance": 1019.6032539890311,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5210,6 +5375,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 103.02618312980795,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5241,6 +5407,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 500.18555210602443,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5272,6 +5439,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 228.77841356819965,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5302,7 +5470,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038422",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 56.56896129297545,
+        "min_distance": 762.0635101331991,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5334,6 +5503,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 664.6142754307377,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5364,7 +5534,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038616",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 91.58144257354387,
+        "min_distance": 624.5126659807934,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5396,6 +5567,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 96.2862306143933,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5426,7 +5598,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038641",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 360.2131929989399,
+        "min_distance": 1625.3174766304605,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5457,7 +5630,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038665",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 118.70657283773855,
+        "min_distance": 234.08922707793886,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5488,7 +5662,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038689",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 731.3316790807122,
+        "min_distance": 156.5787455451899,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5519,7 +5694,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038801",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 418.04988085447184,
+        "min_distance": 81.90901033070219,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -5550,7 +5726,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038823",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 279.0719863646141,
+        "min_distance": 498.6705425128326,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5581,7 +5758,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038835",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 163.9280224351214,
+        "min_distance": 1760.9189667355383,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5612,7 +5790,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038847",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 259.4577627120382,
+        "min_distance": 578.8438521434078,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5643,7 +5822,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038859",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 183.14160839207014,
+        "min_distance": 382.1999819351525,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5674,7 +5854,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038860",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 270.30007377406366,
+        "min_distance": 161.19022145968762,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5705,7 +5886,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038872",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 135.3150152378687,
+        "min_distance": 547.5041458870264,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5736,7 +5918,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038884",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 183.75754778693116,
+        "min_distance": 872.6243099615575,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5767,7 +5950,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038896",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 166.14375369105557,
+        "min_distance": 465.79405479882615,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5799,6 +5983,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 203.75070777187804,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5829,7 +6014,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038914",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 190.30821090355903,
+        "min_distance": 1396.099072547334,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5860,7 +6046,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038926",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 28.14391118820251,
+        "min_distance": 1709.1280411700357,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5891,7 +6078,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039037",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 72.3028994427753,
+        "min_distance": 2103.7884875154905,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5922,7 +6110,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039128",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 256.7198312926955,
+        "min_distance": 1078.6938209240323,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -5953,7 +6142,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039669",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 44.994921210049874,
+        "min_distance": 7966.466908586973,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -5984,7 +6174,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039670",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 187.00756782256715,
+        "min_distance": 945.9508774188198,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6015,7 +6206,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039682",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 37.044746102866554,
+        "min_distance": 2046.2365289729069,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6046,7 +6238,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039700",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 62.16260195188591,
+        "min_distance": 78.87394965839789,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6080,7 +6273,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039724",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 69.9929596455892,
+        "min_distance": 1425.4878288704303,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
@@ -6112,6 +6306,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 91.90372291747224,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6142,7 +6337,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039803",
         "tipo": "042",
         "status_web": 404,
-        "min_distance": 17.388173164925536,
+        "min_distance": 725.3716088710431,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6173,7 +6369,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039827",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 103.2081230274517,
+        "min_distance": 755.9086776962524,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6204,7 +6401,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039839",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 186.06581351214137,
+        "min_distance": 405.5324690435968,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6236,6 +6434,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 410.7540042914484,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6266,7 +6465,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039864",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 271.89581715376704,
+        "min_distance": 925.8615413006513,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6298,6 +6498,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 385.090742113902,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6329,6 +6530,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 254.43691956791997,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6360,6 +6562,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 247.58981932451286,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6390,7 +6593,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039943",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 207.65908530723536,
+        "min_distance": 1319.5250961271622,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6421,7 +6625,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039992",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 95.98780107600614,
+        "min_distance": 130.9138893970353,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6453,6 +6658,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 146.0907509176668,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6483,7 +6689,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040027",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 134.52006423629857,
+        "min_distance": 779.2050944169549,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6514,7 +6721,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040611",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 199.62879120979088,
+        "min_distance": 9573.099071309618,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6545,7 +6753,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040660",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 99.01111424682954,
+        "min_distance": 717.2731048597583,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6576,7 +6785,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040672",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 199.62879120979088,
+        "min_distance": 9573.099071309618,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6607,7 +6817,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040684",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 174.95612836147058,
+        "min_distance": 16805.941051488677,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6638,7 +6849,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040696",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 126.94945438425113,
+        "min_distance": 488.9844914499561,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6669,7 +6881,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040702",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 183.4666527597564,
+        "min_distance": 338.10863886050436,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -6700,7 +6913,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040714",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 140.4806274412252,
+        "min_distance": 4556.441160178462,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6731,7 +6945,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040738",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 104.74277635519763,
+        "min_distance": 1090.8353531484918,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6763,6 +6978,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 104.84330406852072,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -6794,6 +7010,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 562.4151500339038,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -6824,7 +7041,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040775",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 57.79939377692375,
+        "min_distance": 790.3299588035569,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -6855,7 +7073,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040787",
         "tipo": "042",
         "status_web": 404,
-        "min_distance": 162.65759223105576,
+        "min_distance": 1421.819476820526,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6886,7 +7105,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040799",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 120.83067080099745,
+        "min_distance": 871.2702682175577,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6917,7 +7137,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041354",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 181.11249364708155,
+        "min_distance": 424.2767332373943,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6948,7 +7169,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041366",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 125.65292919272056,
+        "min_distance": 1116.223761366263,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -6979,7 +7201,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041378",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 112.5951061073726,
+        "min_distance": 168.51704239628006,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7010,7 +7233,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041381",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 333.876256130011,
+        "min_distance": 28323.056257290893,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7041,7 +7265,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041391",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 112.8294924841718,
+        "min_distance": 257.2808728581367,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7072,7 +7297,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041411",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 77.4664182819599,
+        "min_distance": 847.668541823278,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7104,6 +7330,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 282.6938907153413,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7134,7 +7361,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041445",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 44.630664638159665,
+        "min_distance": 4742.168310531943,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7165,7 +7393,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041470",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 96.02345090856282,
+        "min_distance": 11686.822778378784,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7197,6 +7426,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 511.89510467952107,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7227,7 +7457,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041494",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 45.58079344152986,
+        "min_distance": 484.870820865018,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7258,7 +7489,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041500",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 55.611260024582556,
+        "min_distance": 1394.2118020071716,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7289,7 +7521,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041512",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 101.08028847467457,
+        "min_distance": 3135.623258379459,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7320,7 +7553,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041597",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 56.19764607336682,
+        "min_distance": 1618.5564343443273,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7351,7 +7585,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041615",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 77.27038672482172,
+        "min_distance": 700.7119294678492,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7382,7 +7617,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042000",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 39.16351686374206,
+        "min_distance": 1195.2986263068085,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7413,7 +7649,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042012",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 155.59018783467326,
+        "min_distance": 394.5190346400367,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7444,7 +7681,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042024",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 180.158812423031,
+        "min_distance": 848.7737632664004,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7475,7 +7713,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042036",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 253.6667098932382,
+        "min_distance": 571.7453320737367,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7506,7 +7745,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042048",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 208.9815997379244,
+        "min_distance": 933.2151220826036,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7537,7 +7777,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042051",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 202.1450971816978,
+        "min_distance": 679.7828462311526,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7568,7 +7809,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042061",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 122.03014125701336,
+        "min_distance": 204.2266108073161,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7599,7 +7841,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042073",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 129.30480216879099,
+        "min_distance": 2129.277893313142,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7630,7 +7873,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042085",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 123.95209407861523,
+        "min_distance": 923.8243816286869,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7661,7 +7905,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042097",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 37.81760964654395,
+        "min_distance": 1295.5623745996036,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7692,7 +7937,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042103",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 177.82698529549245,
+        "min_distance": 1193.0152814260832,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7726,7 +7972,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042115",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 50.84718715441356,
+        "min_distance": 596.3822663366165,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
@@ -7757,7 +8004,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042191",
         "tipo": "070",
         "status_web": 404,
-        "min_distance": 66.05198440903109,
+        "min_distance": 638.4228609513035,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7788,7 +8036,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042590",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 185.80013238503963,
+        "min_distance": 1738.3961803350096,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -7819,7 +8068,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042607",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 82.89371985638651,
+        "min_distance": 445.8438474340863,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7850,7 +8100,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042620",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 37.41464817964112,
+        "min_distance": 3150.760883529921,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -7881,7 +8132,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042632",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 76.11942293965906,
+        "min_distance": 943.8229013898343,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7912,7 +8164,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042644",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 75.8261394048799,
+        "min_distance": 419.0167213795515,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7944,6 +8197,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 362.5066822929997,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -7974,7 +8228,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042668",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 224.29234896985932,
+        "min_distance": 1117.4899429380912,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -8005,7 +8260,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042671",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 126.22732615997911,
+        "min_distance": 1068.3831442774465,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8036,7 +8292,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042681",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 33.168813106020906,
+        "min_distance": 1457.4721978545026,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8067,7 +8324,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042875",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 25.518222061564718,
+        "min_distance": 1421.8846530018998,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8098,7 +8356,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042887",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 108.74954314844413,
+        "min_distance": 747.2052638675019,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8130,6 +8389,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 111.66498212875072,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8161,6 +8421,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 235.3992712120255,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8192,6 +8453,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 97.06517327338786,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8222,7 +8484,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042954",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 1995.247626814375,
+        "min_distance": 578.9904713686798,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8253,7 +8516,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042981",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 169.41966978541257,
+        "min_distance": 1340.3245896163537,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8284,7 +8548,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042991",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 108.28628453277865,
+        "min_distance": 1650.4130118758262,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8315,7 +8580,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043016",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 35.11503508480714,
+        "min_distance": 974.0533191852869,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8346,7 +8612,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043028",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 68.27997194611709,
+        "min_distance": 258.30431290523387,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8377,7 +8644,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043235",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 265.87321047144354,
+        "min_distance": 305.8781215900268,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8408,7 +8676,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043259",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 267.3905115924142,
+        "min_distance": 487.06547273829113,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8440,6 +8709,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 282.97051459489927,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8470,7 +8740,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044306",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 238.5767725574534,
+        "min_distance": 2577.29148965968,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8501,7 +8772,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044318",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 49.52323253169769,
+        "min_distance": 675.5405746309056,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8533,6 +8805,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 460.9881895598639,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8563,7 +8836,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044513",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 740.2551879551886,
+        "min_distance": 690.0163453792114,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8594,7 +8868,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044549",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 106.91208471638251,
+        "min_distance": 4916.145902513409,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8625,7 +8900,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044562",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 191.2247193327188,
+        "min_distance": 9236.44738689847,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8656,7 +8932,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044574",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 118.6036906795371,
+        "min_distance": 21023.045181887817,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8687,7 +8964,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044628",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 421.72078805881875,
+        "min_distance": 21672.364270254668,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8718,7 +8996,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044719",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 95.8290615664625,
+        "min_distance": 449.5062843921501,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8750,6 +9029,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 669.0046930858213,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8780,7 +9060,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044744",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 44.00443859461574,
+        "min_distance": 1013.9665372857464,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8811,7 +9092,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044756",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 38.60520358011801,
+        "min_distance": 1158.2414885016974,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8842,7 +9124,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044768",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 213.2331829023284,
+        "min_distance": 7218.771240190347,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -8873,7 +9156,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044896",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 304.4643262507897,
+        "min_distance": 28433.15799948551,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8907,7 +9191,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044902",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 293.638475466901,
+        "min_distance": 340.14707072919964,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -8938,7 +9223,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045025",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 185.38604563928163,
+        "min_distance": 4885.47908536609,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -8969,7 +9255,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045037",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 83.62608467198355,
+        "min_distance": 946.8007236892745,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9000,7 +9287,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045049",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 130.07062234935444,
+        "min_distance": 19794.643070980736,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9031,7 +9319,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045050",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 63.75859251620676,
+        "min_distance": 1057.0202057276808,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9062,7 +9351,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045268",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 253.5454861513012,
+        "min_distance": 275.95505280916,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9093,7 +9383,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045271",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 12.455665732809173,
+        "min_distance": 20.08226534595342,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9124,7 +9415,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045281",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 26.538744753037868,
+        "min_distance": 279.08353224612586,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9156,6 +9448,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 111.0581823117445,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9186,7 +9479,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045311",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 31.173010042853623,
+        "min_distance": 272.04485079164584,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9218,6 +9512,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 308.2717687769276,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9249,6 +9544,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 320.56152708142884,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9279,7 +9575,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045359",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 81.09310304435701,
+        "min_distance": 208.4802338780616,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9310,7 +9607,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045360",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 100.90783513006164,
+        "min_distance": 402.37633602428593,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9341,7 +9639,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045372",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 79.06903644640128,
+        "min_distance": 806.3254742273995,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9372,7 +9671,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045396",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 202.92128949997596,
+        "min_distance": 547.3054379014696,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9403,7 +9703,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045414",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 133.78201678963023,
+        "min_distance": 12137.61077644397,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9435,6 +9736,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 401.999037718894,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9465,7 +9767,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045438",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 82.3606762837675,
+        "min_distance": 2326.9848084034184,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9496,7 +9799,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045441",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 1488.1967640374455,
+        "min_distance": 160.4333435510137,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9527,7 +9831,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045463",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 256.9712027010877,
+        "min_distance": 19096.72059611932,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9559,6 +9864,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 162.33106922785444,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9589,7 +9895,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045621",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 122.61453465878007,
+        "min_distance": 827.1697294335768,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9621,6 +9928,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 900.0757754876399,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9651,7 +9959,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045645",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 138.73904524114766,
+        "min_distance": 22084.180156965816,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9683,6 +9992,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 233.00958931657215,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9713,7 +10023,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045669",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 142.5801875198325,
+        "min_distance": 6551.490799907985,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9744,7 +10055,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045773",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 392.8261508006283,
+        "min_distance": 9658.885224614047,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9775,7 +10087,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045803",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 2531.1771669041555,
+        "min_distance": 1181.2009119535203,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9806,7 +10119,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045815",
         "tipo": "042",
         "status_web": 404,
-        "min_distance": 57.01654928415505,
+        "min_distance": 1867.7915311485722,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9837,7 +10151,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045839",
         "tipo": "042",
         "status_web": 991,
-        "min_distance": 134.9105234324769,
+        "min_distance": 8849.887218294578,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9868,7 +10183,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045840",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1669.221435910804,
+        "min_distance": 71.20079273002065,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -9899,7 +10215,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046091",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 101.65170799552348,
+        "min_distance": 2316.3383951339465,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9930,7 +10247,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046111",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 356.3797698725604,
+        "min_distance": 1642.4126174579578,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -9961,7 +10279,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046251",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 271.56942809690787,
+        "min_distance": 7385.312961796786,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -9992,7 +10311,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046261",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 94.8967828059022,
+        "min_distance": 2933.70669716762,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10023,7 +10343,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046273",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 564.799520013182,
+        "min_distance": 27971.727452387255,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10054,7 +10375,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046285",
         "tipo": "047",
         "status_web": 200,
-        "min_distance": 75.55232940792321,
+        "min_distance": 19140.405332174516,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10085,7 +10407,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046297",
         "tipo": "047",
         "status_web": 200,
-        "min_distance": 150.01089286616585,
+        "min_distance": 8239.520198646105,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10116,7 +10439,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046303",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 121.22627538043153,
+        "min_distance": 9303.761933170712,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10147,7 +10471,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046315",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 5084.129503156561,
+        "min_distance": 4776.63514448985,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10178,7 +10503,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046339",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 430.922933759978,
+        "min_distance": 12117.757322423095,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10209,7 +10535,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046352",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 121.23941423780477,
+        "min_distance": 2904.3677676256816,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10240,7 +10567,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046364",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 411.9723737408322,
+        "min_distance": 1014.1941788308475,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10272,6 +10600,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 350.78343606937506,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10302,7 +10631,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046467",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 403.45861363495476,
+        "min_distance": 1261.702964328221,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10334,6 +10664,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 166.15149588371204,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10364,7 +10695,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046522",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 51.62005272992877,
+        "min_distance": 1723.3637827460655,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10395,7 +10727,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046558",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 141.417138796651,
+        "min_distance": 5161.673458860587,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10426,7 +10759,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28047411",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 181.49775188952052,
+        "min_distance": 299.30436416142146,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10458,6 +10792,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 588.14304160161,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10487,8 +10822,9 @@ var geomap = {
         "url": "http://www.educa.madrid.org/ies.hotelescuela.madrid",
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048294",
         "tipo": "042",
-        "status_web": 200,
-        "min_distance": 470.82081941885656,
+        "status_web": 991,
+        "min_distance": 1997.4336793598525,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10519,7 +10855,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048476",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 86.2020727585547,
+        "min_distance": 210.4427021013843,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10550,7 +10887,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28049341",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 121.77443901475264,
+        "min_distance": 3136.541149962088,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10581,7 +10919,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050525",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 13.529071548644538,
+        "min_distance": 6628.106415017138,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10612,7 +10951,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050537",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 238.48698454032285,
+        "min_distance": 8348.87421684742,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10643,7 +10983,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050549",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 329.0317467504578,
+        "min_distance": 3801.5630851641167,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10674,7 +11015,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050550",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 268.4881225462137,
+        "min_distance": 12753.179624615841,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10705,7 +11047,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050562",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 41.32675539443757,
+        "min_distance": 7630.068370311576,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10736,7 +11079,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050720",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 192.7222714963367,
+        "min_distance": 884.2230507138211,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -10767,7 +11111,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050732",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 78.42672989800246,
+        "min_distance": 681.4148907625237,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -10798,7 +11143,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056400",
         "tipo": "035",
         "status_web": 999,
-        "min_distance": 779.9126511349514,
+        "min_distance": 2130.2022373718746,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -10829,7 +11175,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056412",
         "tipo": "035",
         "status_web": 999,
-        "min_distance": 779.9126511349514,
+        "min_distance": 2130.2022373718746,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -10860,7 +11207,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056424",
         "tipo": "035",
         "status_web": 999,
-        "min_distance": 279.84103650372043,
+        "min_distance": 2704.0459401634384,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -10891,7 +11239,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056436",
         "tipo": "035",
         "status_web": 999,
-        "min_distance": 292.27448132318017,
+        "min_distance": 7768.41164163568,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -10922,7 +11271,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056448",
         "tipo": "035",
         "status_web": 200,
-        "min_distance": 140.9998336251068,
+        "min_distance": 8195.16878684636,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -10953,7 +11303,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056451",
         "tipo": "035",
         "status_web": 999,
-        "min_distance": 10421.911550000665,
+        "min_distance": 11523.056775845387,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -10984,7 +11335,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057076",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 39.15461009684748,
+        "min_distance": 2538.443361618829,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11015,7 +11367,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057088",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 32.51010175150072,
+        "min_distance": 8890.775349709735,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11047,6 +11400,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 574.9252205497583,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11077,7 +11431,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057209",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 23.361670957533605,
+        "min_distance": 4805.8154649272465,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11108,7 +11463,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057210",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 306.1727619706101,
+        "min_distance": 2374.075527446809,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11139,7 +11495,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057222",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 39.92068543981706,
+        "min_distance": 5308.873569287038,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11171,6 +11528,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 281.1187331115401,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -11201,7 +11559,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057660",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 131.01918595368105,
+        "min_distance": 1889.273174592918,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11232,7 +11591,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057672",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 104.48799442043801,
+        "min_distance": 2280.0855705630483,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11263,7 +11623,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057684",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 63.19380287479552,
+        "min_distance": 260.66477281241424,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11294,7 +11655,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057751",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 111.89664281418337,
+        "min_distance": 12190.75998986556,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11326,6 +11688,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 297.51754853218057,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11356,7 +11719,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058603",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 467.46631132768493,
+        "min_distance": 887.7697953294161,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
@@ -11387,7 +11751,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058615",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 52.72769688158793,
+        "min_distance": 1669.0152076679683,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11418,7 +11783,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058627",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 157.89018495619936,
+        "min_distance": 1079.9308948506657,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11449,7 +11815,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058639",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 130.674941802924,
+        "min_distance": 899.5935603596274,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11480,7 +11847,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058640",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 143.8591960952409,
+        "min_distance": 456.6477133582433,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11511,7 +11879,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058652",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 177.02096592377166,
+        "min_distance": 2757.855218550114,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11542,7 +11911,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058664",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 139.6057008683545,
+        "min_distance": 296.59051389597,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11573,7 +11943,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058676",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 31.30474157176468,
+        "min_distance": 13531.343434335464,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11605,6 +11976,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 5009.698790645778,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11635,7 +12007,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059279",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 321.45580633682385,
+        "min_distance": 2644.37917787636,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11667,6 +12040,7 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 191.0810544195658,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11697,7 +12071,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059371",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 203.706455733227,
+        "min_distance": 9833.223321829928,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11728,7 +12103,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059383",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 19.607899384242373,
+        "min_distance": 3031.7424141850997,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11759,7 +12135,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059395",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 82.60973999497509,
+        "min_distance": 1048.4586486717117,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11790,7 +12167,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059401",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 36.645412929255826,
+        "min_distance": 33379.30837566091,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11821,7 +12199,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060270",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 219.68459665591934,
+        "min_distance": 842.6215643590664,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11852,7 +12231,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060348",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 184.29027816729956,
+        "min_distance": 3442.327703957533,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11883,7 +12263,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060373",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 173.09871825321235,
+        "min_distance": 1834.8802777859503,
+        "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
@@ -11914,7 +12295,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060385",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 93.10681124254468,
+        "min_distance": 9208.239452833654,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -11945,7 +12327,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060397",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 275.4583667067733,
+        "min_distance": 4558.826287612402,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -11976,7 +12359,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060816",
         "tipo": "016",
         "status_web": 991,
-        "min_distance": 227.78728599035784,
+        "min_distance": 1101.6161548302105,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12007,7 +12391,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060968",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 157.39155503121694,
+        "min_distance": 214.62762206256215,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12038,7 +12423,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060971",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 251.35374374927983,
+        "min_distance": 552.2511405522044,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12069,7 +12455,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062011",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 108.5800850964367,
+        "min_distance": 2940.715039003135,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12100,7 +12487,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062023",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 67.44032296712524,
+        "min_distance": 2843.213212012855,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12131,7 +12519,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062035",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 260.51907394719484,
+        "min_distance": 1495.725840675742,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12162,7 +12551,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062126",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 266.0923478527828,
+        "min_distance": 331.2597252609027,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12194,6 +12584,7 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 128.36292989043292,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12224,7 +12615,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064007",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 112.11144159947452,
+        "min_distance": 1574.832001196581,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12255,7 +12647,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064044",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 51.769085081528154,
+        "min_distance": 16657.15944894314,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12286,7 +12679,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064160",
         "tipo": "070",
         "status_web": 999,
-        "min_distance": 189.59985300737168,
+        "min_distance": 897.1916687246154,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12317,7 +12711,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065632",
         "tipo": "047",
         "status_web": 999,
-        "min_distance": 434.0696170950957,
+        "min_distance": 2492.3463135542343,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12348,7 +12743,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065644",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 232.96478567392967,
+        "min_distance": 588.0572269302692,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12380,6 +12776,7 @@ var geomap = {
         "tipo": "017",
         "status_web": 200,
         "min_distance": 464.78074948015654,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12410,7 +12807,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065841",
         "tipo": "047",
         "status_web": 200,
-        "min_distance": 623.8870544670079,
+        "min_distance": 7198.330615877129,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12441,7 +12839,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067628",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 166.3447182283145,
+        "min_distance": 1580.7114552455064,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12472,7 +12871,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067744",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 676.5341882471654,
+        "min_distance": 16245.723894915694,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12503,7 +12903,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067768",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 213.25110540352244,
+        "min_distance": 20283.415620580625,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12534,7 +12935,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069391",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1699.9939219574333,
+        "min_distance": 870.3064429915967,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12565,7 +12967,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069844",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 109.71937169959384,
+        "min_distance": 147.42759611794526,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12596,7 +12999,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070691",
         "tipo": "070",
         "status_web": 999,
-        "min_distance": 385.0108376136148,
+        "min_distance": 3874.0982462730094,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12627,7 +13031,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070721",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 374.234826924101,
+        "min_distance": 778.7243028656288,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12658,7 +13063,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070962",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 141.21982381223444,
+        "min_distance": 637.3786147684015,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12690,6 +13096,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 64.76929157354846,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12720,7 +13127,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28071310",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 360.6189691873725,
+        "min_distance": 19318.793014945513,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12752,6 +13160,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 140.99110945767188,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12782,7 +13191,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072223",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 365.6462927959692,
+        "min_distance": 507.03314221621486,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12813,7 +13223,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073859",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 199.18609270711323,
+        "min_distance": 245.58819253832507,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12844,7 +13255,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073872",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 199.43994643191132,
+        "min_distance": 21249.811459348814,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -12875,7 +13287,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074037",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 20.56119732433056,
+        "min_distance": 788.26693297902,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12906,7 +13319,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074049",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 81.34768820087375,
+        "min_distance": 5270.607998780928,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12937,7 +13351,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074050",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 300.1734290160646,
+        "min_distance": 818.4808281988537,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -12968,7 +13383,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074062",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 152.66434896943576,
+        "min_distance": 789.0472503002725,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13002,7 +13418,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074244",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 254.68044470947194,
+        "min_distance": 262.03360851558597,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -13033,7 +13450,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074669",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 128.58251967597027,
+        "min_distance": 565.7462852473591,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13067,7 +13485,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074670",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 171.8934854387558,
+        "min_distance": 903.9933209632318,
+        "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
@@ -13098,7 +13517,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074852",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 126.22732615997911,
+        "min_distance": 1068.3831442774465,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -13130,6 +13550,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 353.8600454553325,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13160,7 +13581,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075492",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 443.4165333769057,
+        "min_distance": 502.4276258934881,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13191,7 +13613,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075509",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 6792.980957825323,
+        "min_distance": 6669.068216688161,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13222,7 +13645,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075510",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 34.775299729877574,
+        "min_distance": 888.7712259573207,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13254,6 +13678,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 334.58813497374257,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13284,7 +13709,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076371",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 262.64743290679274,
+        "min_distance": 800.1644860117963,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -13315,7 +13741,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076381",
         "tipo": "047",
         "status_web": 200,
-        "min_distance": 232.03937064660317,
+        "min_distance": 8949.163666851839,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13347,6 +13774,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 438.518427583105,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13377,7 +13805,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077491",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 39.48452808713108,
+        "min_distance": 2043.8852310404232,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13408,7 +13837,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077889",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 160.9841322948634,
+        "min_distance": 572.2554239476623,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13439,7 +13869,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077890",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 110.78001202785829,
+        "min_distance": 5586.713224196822,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -13470,7 +13901,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077907",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 94.7817008234077,
+        "min_distance": 264.17255199919026,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13501,7 +13933,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077971",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 316.7894429401519,
+        "min_distance": 551.7174003326456,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
@@ -13532,7 +13965,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078031",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 292.2927424331277,
+        "min_distance": 835.064385290594,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13563,7 +13997,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078043",
         "tipo": "047",
         "status_web": 999,
-        "min_distance": 97.20158677079236,
+        "min_distance": 839.9379003111387,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13594,7 +14029,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078547",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 302.2251871515903,
+        "min_distance": 1383.4192990635047,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13626,6 +14062,7 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 138.48608074768546,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13656,7 +14093,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079357",
         "tipo": "042",
         "status_web": null,
-        "min_distance": 726.0308853596991,
+        "min_distance": 1140.552891111384,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13687,7 +14125,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079370",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 82.48614454137143,
+        "min_distance": 611.6013288097525,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13719,6 +14158,7 @@ var geomap = {
         "tipo": "042",
         "status_web": null,
         "min_distance": 205.48301949013728,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13749,7 +14189,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079394",
         "tipo": "042",
         "status_web": null,
-        "min_distance": 204.84076461720878,
+        "min_distance": 588.0454769552887,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
@@ -13780,7 +14221,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079400",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 629.3890097689192,
+        "min_distance": 1503.978852751892,
+        "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {

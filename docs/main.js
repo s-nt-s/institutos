@@ -40,17 +40,27 @@ var observer = new MutationObserver(function(mutations) {
   });
 });
 
-function toUrl(url, txt) {
+function toUrl(url, txt, title) {
   if (!txt) txt = url.split(/:\/\//)[1]
-  return `<a href="${url}">${txt}</a>`
+  if (title==null) title = " title='"+url.split(/:\/\//)[1]+"'";
+  return `<a href="${url}"${title}>${txt}</a>`
 }
 
 function getPopUp(c) {
   var body = [`Código: ${c.id}`,`Dirección: ${c.direccion}`]
+  var links=[]
   if (c.status_web == 200)
-    body.push(toUrl(c.url))
-  if (c.dificultad)
-    body.push("<b>Centro de especial dificultad</b>")
+    links.push(toUrl(c.url, "Web"))
+  if (c.mail) {
+    mailto=$("#maillink").data("href")+"to="+c.mail+"&body="+get_msg();
+    links.push(`<a href='${mailto}' title="${c.mail}">Mail</a>`);
+  }
+  if (c.telefono) {
+    var telefono = c.telefono.toString()
+    if (telefono.length==9) telefono = telefono.replace(/(...)(...)(...)/, "$1 $2 $3")
+    links.push(`<a href='tel:${c.telefono}' title="Teléfono: ${telefono}">${telefono}</a>`);
+  }
+  body.push(links.join(" - "))
 
   body =body.join("<br/>")
   url = toUrl(c.info, c.nombre)
@@ -60,6 +70,8 @@ function getPopUp(c) {
   `;
 
   body = []
+  if (c.dificultad)
+    body.push("<b>Centro de especial dificultad</b>")
   var tags=[];
   if (c.excelencia)
       tags.push("excelencia")
@@ -100,6 +112,7 @@ function getPopUp(c) {
     html = html + Math.round(c.min_distance) + " metros</p>"
   } else {
     var km = Math.round(c.min_distance / 100)/10;
+    km = km.toString().replace(".", ",");
     html = html + km + " kms</p>"
   }
   html = html + `
@@ -306,14 +319,22 @@ function list_centros(centros, none) {
   centros.forEach(function(c) {
     if (c.mail) mails.push(c.mail);
     var distance="";
+    var title="";
     var d=0;
     if (cursorMarker) {
       var ll = cursorMarker._latlng
       var latlon = c.latlon.split(/,/)
       d = get_distance(ll.lat, ll.lng, parseFloat(latlon[0]), parseFloat(latlon[1]));
-      if (d>1) distance=Math.round(d)+"km";
-      else if (d<=1) distance=Math.round(d*1000)+"m";
-      distance = " <small>("+distance+")</small>"
+      if (d>1) {
+        distance=Math.round(d)+"km";
+        title=(Math.round(d*100)/100)+"km";
+        title=title.replace(".", ",");
+        title=" title='"+title+"'";
+      }
+      else if (d<=1) {
+        distance=Math.round(d*1000)+"m";
+      }
+      distance = ` <small${title}>(${distance})</small>`
     }
     lis.push(`
       <li data-order="${d}"><img src="${c.icon}" onclick="mymap.flyTo([${c.latlon}], 15);"/><span>${c.id} ${c.nombre}${distance}</span></li>
@@ -331,7 +352,7 @@ function list_centros(centros, none) {
   html = html + lis.join("")
   html = html +"</ul>"
   if (mails.length) {
-    var lnk = $("#maillink")
+    var lnk = $("#maillink");
     var href = lnk.data("href");
     if (mails.length==1) {
       href = href+"to="+mails[0]+"&body="+get_msg();

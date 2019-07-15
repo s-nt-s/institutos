@@ -51,3 +51,24 @@ ul.listCentros li span {
   display: table-cell;
   vertical-align: top;
 }
+
+
+ul.leyenda {
+}
+ul.leyenda li {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+ul.leyenda li.liimg {
+  margin-left: -2em !important;
+  list-style-type: none;
+}
+ul.leyenda li img {
+  transform: scale(0.7);
+  margin-top: -0.8em;
+}
+ul.leyenda li span {
+  vertical-align: top;
+}
+
+

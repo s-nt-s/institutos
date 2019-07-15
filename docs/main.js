@@ -192,7 +192,7 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
     accessToken: 'pk.eyJ1Ijoia2lkdHVuZXJvIiwiYSI6ImNqeTBjeG8zaTAwcWYzZG9oY2N1Z3VnazgifQ.HKixpk5HNX-svbNYxYSpsw'
 }).addTo(mymap);
 mymap.on('click', function(e){
-  if (!$("#casa").is(":checked")) return;
+  if (!e || !e.originalEvent || !e.originalEvent.ctrlKey) return;
   if (cursorMarker) mymap.removeLayer(cursorMarker);
   let options = {
     radius: 10,

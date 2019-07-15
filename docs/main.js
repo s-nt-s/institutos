@@ -2,6 +2,20 @@ var main_layer;
 var mymap;
 var cursorMarker;
 
+function get_msg() {
+  var hora = (new Date()).getHours();
+  var msg='Buenos días';
+  if (hora>12) msg='Buenas tardes';
+  if (hora>20) msg='Buenas noches';
+  msg = msg + "\n" +`
+Soy ... y quería preguntarles ...
+
+Muchas gracias.`
+  msg = msg.replace(/\n/g, "%0D%0A");
+  msg = msg.replace(/\s+/g, "%20");
+  return msg
+}
+
 function get_distance(lat1,lon1,lat2,lon2) {
   var R = 6371; // km (change this constant to get miles)
   var dLat = (lat2-lat1) * Math.PI / 180;
@@ -115,7 +129,7 @@ function marcar(t, id) {
   mymap.removeLayer(main_layer)
   main_layer = get_layer();
   mymap.addLayer(main_layer);
-  $("#lista").trigger("active");
+  $(".active").trigger("active");
 }
 
 function getIcon(p) {
@@ -227,7 +241,7 @@ $("#messages").bind("active", function(){
   var mails=[]
   geomap["features"].forEach(function(f) {
     var mail = f.properties.mail;
-    if (mail && make_filter(f)) {
+    if (mail && make_filter(f) && c.marca!=2) {
       mails.push(mail)
     }
   })
@@ -241,9 +255,9 @@ $("#messages").bind("active", function(){
     lnk.removeAttr("title");
     lnk.removeAttr("onclick");
     if (mails.length==1) {
-      lnk.attr("href",href+"to="+mails[0]);
+      lnk.attr("href",href+"to="+mails[0]+"&body="+get_msg());
     } else{
-      lnk.attr("href",href+"bcc="+ mails.join(";"));
+      lnk.attr("href",href+"bcc="+ mails.join(";")+"&body="+get_msg());
     }
   }
 })
@@ -320,9 +334,9 @@ function list_centros(centros, none) {
     var lnk = $("#maillink")
     var href = lnk.data("href");
     if (mails.length==1) {
-      href = href+"to="+mails[0];
+      href = href+"to="+mails[0]+"&body="+get_msg();
     } else{
-      href = href+"bcc="+ mails.join(";");
+      href = href+"bcc="+ mails.join(";")+"&body="+get_msg();
     }
     html = html + `
     <p><a href="${href}">Pincha aquí para mandar un email a todos los centros de esta lista que tienen correo electrónico</a></p>

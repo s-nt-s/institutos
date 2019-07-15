@@ -71,4 +71,13 @@ ul.leyenda li span {
   vertical-align: top;
 }
 
+#contacto div.content code {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+#contacto div.content img {
+  float: left;
+  margin-right: 10px;
+  margin-top: 5px;
+}
 

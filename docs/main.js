@@ -231,6 +231,7 @@ mymap.on('click', function(e){
     clickable: false,
     keyboard: false
   }
+  console.log(e.latlng.lat+","+e.latlng.lng)
   cursorMarker = L.circleMarker(e.latlng, options );
   cursorMarker.addTo(mymap);
   $(".active").trigger("active");

@@ -92,13 +92,13 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
                 <description>
 <![CDATA[
     <p>28065711 Capital<br />
-Dirección: Calle Del General Ricardos, 177 28025 Madrid<br />
+Dirección: Calle Clara Campoamor, 10, 28025 Madrid<br />
 FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065711<br />
 URL: www.educa.madrid.org/cim.morenotorroba.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="9">
-                    <coordinates>-3.736307550082406,40.38521184541167,0.0</coordinates>
+                    <coordinates>-3.7351047992706303,40.383219822094595,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
@@ -897,7 +897,7 @@ URL: www.educa.madrid.org/cepa.centro.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="124">
-                    <coordinates>-3.7063012591782933,40.42699337026677,0.0</coordinates>
+                    <coordinates>-3.705546855926514,40.42688743418374,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="127">
@@ -1012,7 +1012,7 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
                 <Point id="144">
-                    <coordinates>-3.3261928333091655,40.523221482971174,0.0</coordinates>
+                    <coordinates>-3.3266043663024907,40.52270556253311,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="147">
@@ -2111,7 +2111,7 @@ URL: www.educa.madrid.org/ies.emperatrizmaria.madrid<br />
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
                 <Point id="304">
-                    <coordinates>-3.7169951898753517,40.38717103878236,0.0</coordinates>
+                    <coordinates>-3.716731667518616,40.38791473432509,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="307">
@@ -3901,7 +3901,7 @@ URL: www.educa.madrid.org/ies.alsatt.algete<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="548">
-                    <coordinates>-3.5089733634584626,40.59745085425012,0.0</coordinates>
+                    <coordinates>-3.5100696,40.5996526,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="551">
@@ -3931,7 +3931,7 @@ URL: www.educa.madrid.org/ies.becquer.algete<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="552">
-                    <coordinates>-3.5089733634584626,40.59745085425012,0.0</coordinates>
+                    <coordinates>-3.5100616,40.5999622,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="555">
@@ -4580,14 +4580,14 @@ URL: www.educa.madrid.org/ies.europa.mostoles<br />
                 <description>
 <![CDATA[
     <p>28042671 Sur<br />
-Dirección: Avenida De La O.n.u., 81 28936 Móstoles<br />
+Dirección: Avenida de la ONU 83, 28936, Móstoles<br />
 FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042671<br />
 URL: www.educa.madrid.org/ies.antoniodenebrija.mostoles<br />
 <strong>&#35;bilingue</strong></p>
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="642">
-                    <coordinates>-3.8523697298201487,40.312639903638534,0.0</coordinates>
+                    <coordinates>-3.8527733087539677,40.31227828445638,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="645">

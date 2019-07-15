@@ -74,7 +74,9 @@ class Dataset():
             if dir in ("", "Madrid"):
                 dir = None
             extra = get_data(id)
-            latlon = self.arregos.get(id) or extra.get("latlon")
+            latlon = extra.get("latlon")
+            arreglo = self.arregos.get(id, {})
+            latlon = arreglo.get("latlon") or extra.get("latlon")
             c = Bunch(
                 id=id,
                 dat=dat,
@@ -95,6 +97,8 @@ class Dataset():
                 status_web=extra.get("status_web"),
                 min_distance=self.min_distance(latlon)
             )
+            for k, v in arreglo.items():
+                c[k]=v
             if id in self.nocturno and not c.nocturno:
                 print(extra["info"])
             centros.append(c)

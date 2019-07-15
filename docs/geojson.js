@@ -5779,7 +5779,7 @@ var geomap = {
         "direccion": "Calle De Mirabel, 22 28044 Madrid",
         "telefono": 917054289,
         "mail": "ies.mariademolina.madrid@educa.madrid.org",
-        "latlon": "40.3806816,-3.7808752",
+        "latlon": "40.38056372159925,-3.780182003974915",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -5790,15 +5790,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038801",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 81.90901033070219,
+        "min_distance": 70.03554044062572,
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7808752,
-          40.3806816
+          -3.780182003974915,
+          40.38056372159925
         ]
       }
     },
@@ -10918,7 +10918,7 @@ var geomap = {
         "url": "http://www.educa.madrid.org/ies.hotelescuela.madrid",
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048294",
         "tipo": "042",
-        "status_web": 200,
+        "status_web": 991,
         "min_distance": 1997.4336793598525,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"

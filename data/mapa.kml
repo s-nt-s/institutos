@@ -3448,7 +3448,7 @@ URL: www.educa.madrid.org/ies.mariademolina.madrid<br />
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
                 <Point id="486">
-                    <coordinates>-3.7808752,40.3806816,0.0</coordinates>
+                    <coordinates>-3.780182003974915,40.38056372159925,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="489">
@@ -5164,8 +5164,7 @@ URL: www.educa.madrid.org/ies.puertabonita.madrid</p>
 <![CDATA[
     <p>28048294 Capital<br />
 Dirección: Carretera De Colmenar Viejo, K12.8 28049 Madrid<br />
-FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048294<br />
-URL: www.educa.madrid.org/ies.hotelescuela.madrid</p>
+FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048294</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="722">

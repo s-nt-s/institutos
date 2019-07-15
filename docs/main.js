@@ -20,7 +20,7 @@ var observer = new MutationObserver(function(mutations) {
       elem = $(mutation.target);
       var attributeValue = elem.prop(mutation.attributeName);
       if (attributeValue.indexOf("active")>=0) {
-        elem.trigger("activate");
+        elem.trigger("active");
       }
     }
   });
@@ -115,7 +115,7 @@ function marcar(t, id) {
   mymap.removeLayer(main_layer)
   main_layer = get_layer();
   mymap.addLayer(main_layer);
-  $("#lista").trigger("activate");
+  $("#lista").trigger("active");
 }
 
 function getIcon(p) {
@@ -206,7 +206,7 @@ mymap.on('click', function(e){
   }
   cursorMarker = L.circleMarker(e.latlng, options );
   cursorMarker.addTo(mymap);
-  $("#lista").trigger("activate");
+  $(".active").trigger("active");
 });
 main_layer = get_layer();
 main_layer.addTo(mymap);
@@ -220,7 +220,8 @@ $("div.filter input").bind("click keypress change", function() {
     main_layer = get_layer();
     mymap.addLayer(main_layer);
 }).change();
-$("#messages").bind("activate", function(){
+$("#messages").bind("active", function(){
+  if (!$(this).is(".active")) return;
   var lnk = $("#maillink")
   var href = lnk.data("href");
   var mails=[]
@@ -232,7 +233,7 @@ $("#messages").bind("activate", function(){
   })
   if (mails.length==0) {
     lnk.attr("disabled", "disabled");
-    lnk.attr("title", "No se visualiza ningún centro");
+    lnk.attr("title", "No se visualiza ningún centro con correo electrónico");
     lnk.attr("href", "#")
     lnk.attr("onclick","return false;")
   } else {
@@ -247,7 +248,8 @@ $("#messages").bind("activate", function(){
   }
 })
 
-$("#lista").bind("activate", function(){
+$("#lista").bind("active", function(){
+  if (!$(this).is(".active")) return;
   var seleccionados=[];
   var descartados=[];
   var hidden=[];

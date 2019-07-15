@@ -81,3 +81,8 @@ ul.leyenda li span {
   margin-top: 5px;
 }
 
+a[disabled=disabled] {
+  pointer-events: fill;
+  cursor: not-allowed;
+  opacity: 0.5;
+}

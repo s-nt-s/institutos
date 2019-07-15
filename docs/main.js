@@ -232,11 +232,13 @@ $("#messages").bind("activate", function(){
   })
   if (mails.length==0) {
     lnk.attr("disabled", "disabled");
-    lnk.attr("title", "No hay ningún centro con mail seleccionado");
+    lnk.attr("title", "No se visualiza ningún centro");
     lnk.attr("href", "#")
+    lnk.attr("onclick","return false;")
   } else {
     lnk.removeAttr("disabled");
     lnk.removeAttr("title");
+    lnk.removeAttr("onclick");
     if (mails.length==1) {
       lnk.attr("href",href+"to="+mails[0]);
     } else{

@@ -2,6 +2,20 @@ var main_layer;
 var mymap;
 var cursorMarker;
 
+function get_msg() {
+  var hora = (new Date()).getHours();
+  var msg='Buenos días';
+  if (hora>12) msg='Buenas tardes';
+  if (hora>20) msg='Buenas noches';
+  msg = msg + "\n" +`
+Soy ... y quería preguntarles ...
+
+Muchas gracias.`
+  msg = msg.replace(/\n/g, "%0D%0A");
+  msg = msg.replace(/\s+/g, "%20");
+  return msg
+}
+
 function get_distance(lat1,lon1,lat2,lon2) {
   var R = 6371; // km (change this constant to get miles)
   var dLat = (lat2-lat1) * Math.PI / 180;
@@ -20,23 +34,33 @@ var observer = new MutationObserver(function(mutations) {
       elem = $(mutation.target);
       var attributeValue = elem.prop(mutation.attributeName);
       if (attributeValue.indexOf("active")>=0) {
-        elem.trigger("activate");
+        elem.trigger("active");
       }
     }
   });
 });
 
-function toUrl(url, txt) {
+function toUrl(url, txt, title) {
   if (!txt) txt = url.split(/:\/\//)[1]
-  return `<a href="${url}">${txt}</a>`
+  if (title==null) title = " title='"+url.split(/:\/\//)[1]+"'";
+  return `<a href="${url}"${title}>${txt}</a>`
 }
 
 function getPopUp(c) {
   var body = [`Código: ${c.id}`,`Dirección: ${c.direccion}`]
+  var links=[]
   if (c.status_web == 200)
-    body.push(toUrl(c.url))
-  if (c.dificultad)
-    body.push("<b>Centro de especial dificultad</b>")
+    links.push(toUrl(c.url, "Web"))
+  if (c.mail) {
+    mailto=$("#maillink").data("href")+"to="+c.mail+"&body="+get_msg();
+    links.push(`<a href='${mailto}' title="${c.mail}">Mail</a>`);
+  }
+  if (c.telefono) {
+    var telefono = c.telefono.toString()
+    if (telefono.length==9) telefono = telefono.replace(/(...)(...)(...)/, "$1 $2 $3")
+    links.push(`<a href='tel:${c.telefono}' title="Teléfono: ${telefono}">${telefono}</a>`);
+  }
+  body.push(links.join(" - "))
 
   body =body.join("<br/>")
   url = toUrl(c.info, c.nombre)
@@ -46,6 +70,8 @@ function getPopUp(c) {
   `;
 
   body = []
+  if (c.dificultad)
+    body.push("<b>Centro de especial dificultad</b>")
   var tags=[];
   if (c.excelencia)
       tags.push("excelencia")
@@ -86,6 +112,7 @@ function getPopUp(c) {
     html = html + Math.round(c.min_distance) + " metros</p>"
   } else {
     var km = Math.round(c.min_distance / 100)/10;
+    km = km.toString().replace(".", ",");
     html = html + km + " kms</p>"
   }
   html = html + `
@@ -115,7 +142,7 @@ function marcar(t, id) {
   mymap.removeLayer(main_layer)
   main_layer = get_layer();
   mymap.addLayer(main_layer);
-  $("#lista").trigger("activate");
+  $(".active").trigger("active");
 }
 
 function getIcon(p) {
@@ -204,9 +231,10 @@ mymap.on('click', function(e){
     clickable: false,
     keyboard: false
   }
+  console.log(e.latlng.lat+","+e.latlng.lng)
   cursorMarker = L.circleMarker(e.latlng, options );
   cursorMarker.addTo(mymap);
-  $("#lista").trigger("activate");
+  $(".active").trigger("active");
 });
 main_layer = get_layer();
 main_layer.addTo(mymap);
@@ -220,19 +248,20 @@ $("div.filter input").bind("click keypress change", function() {
     main_layer = get_layer();
     mymap.addLayer(main_layer);
 }).change();
-$("#messages").bind("activate", function(){
+$("#messages").bind("active", function(){
+  if (!$(this).is(".active")) return;
   var lnk = $("#maillink")
   var href = lnk.data("href");
   var mails=[]
   geomap["features"].forEach(function(f) {
     var mail = f.properties.mail;
-    if (mail && make_filter(f)) {
+    if (mail && make_filter(f) && c.marca!=2) {
       mails.push(mail)
     }
   })
   if (mails.length==0) {
     lnk.attr("disabled", "disabled");
-    lnk.attr("title", "No se visualiza ningún centro");
+    lnk.attr("title", "No se visualiza ningún centro con correo electrónico");
     lnk.attr("href", "#")
     lnk.attr("onclick","return false;")
   } else {
@@ -240,14 +269,15 @@ $("#messages").bind("activate", function(){
     lnk.removeAttr("title");
     lnk.removeAttr("onclick");
     if (mails.length==1) {
-      lnk.attr("href",href+"to="+mails[0]);
+      lnk.attr("href",href+"to="+mails[0]+"&body="+get_msg());
     } else{
-      lnk.attr("href",href+"bcc="+ mails.sort().join(";"));
+      lnk.attr("href",href+"bcc="+ mails.sort().join(";")+"&body="+get_msg());
     }
   }
 })
 
-$("#lista").bind("activate", function(){
+$("#lista").bind("active", function(){
+  if (!$(this).is(".active")) return;
   var seleccionados=[];
   var descartados=[];
   var hidden=[];
@@ -290,14 +320,22 @@ function list_centros(centros, none) {
   centros.forEach(function(c) {
     if (c.mail) mails.push(c.mail);
     var distance="";
+    var title="";
     var d=0;
     if (cursorMarker) {
       var ll = cursorMarker._latlng
       var latlon = c.latlon.split(/,/)
       d = get_distance(ll.lat, ll.lng, parseFloat(latlon[0]), parseFloat(latlon[1]));
-      if (d>1) distance=Math.round(d)+"km";
-      else if (d<=1) distance=Math.round(d*1000)+"m";
-      distance = " <small>("+distance+")</small>"
+      if (d>1) {
+        distance=Math.round(d)+"km";
+        title=(Math.round(d*100)/100)+"km";
+        title=title.replace(".", ",");
+        title=" title='"+title+"'";
+      }
+      else if (d<=1) {
+        distance=Math.round(d*1000)+"m";
+      }
+      distance = ` <small${title}>(${distance})</small>`
     }
     lis.push(`
       <li data-order="${d}"><img src="${c.icon}" onclick="mymap.flyTo([${c.latlon}], 15);"/><span>${c.id} ${c.nombre}${distance}</span></li>
@@ -315,12 +353,12 @@ function list_centros(centros, none) {
   html = html + lis.join("")
   html = html +"</ul>"
   if (mails.length) {
-    var lnk = $("#maillink")
+    var lnk = $("#maillink");
     var href = lnk.data("href");
     if (mails.length==1) {
-      href = href+"to="+mails[0];
+      href = href+"to="+mails[0]+"&body="+get_msg();
     } else{
-      href = href+"bcc="+ mails.sort().join(";");
+      href = href+"bcc="+ mails.sort().join(";")+"&body="+get_msg();
     }
     html = html + `
     <p><a href="${href}">Pincha aquí para mandar un email a todos los centros de esta lista que tienen correo electrónico</a></p>

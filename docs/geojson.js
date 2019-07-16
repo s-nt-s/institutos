@@ -2170,7 +2170,7 @@ var geomap = {
         "direccion": "Calle De Antonio De Leyva, 84 28019 Madrid",
         "telefono": 914692425,
         "mail": "ies.emperatrizmaria.madrid@educa.madrid.org",
-        "latlon": "40.38717103878236,-3.7169951898753517",
+        "latlon": "40.38791473432509,-3.716731667518616",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -2181,15 +2181,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020958",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 185.10634550053243,
+        "min_distance": 270.40778815380725,
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7169951898753517,
-          40.38717103878236
+          -3.716731667518616,
+          40.38791473432509
         ]
       }
     },
@@ -5779,7 +5779,7 @@ var geomap = {
         "direccion": "Calle De Mirabel, 22 28044 Madrid",
         "telefono": 917054289,
         "mail": "ies.mariademolina.madrid@educa.madrid.org",
-        "latlon": "40.3806816,-3.7808752",
+        "latlon": "40.38056372159925,-3.780182003974915",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -5790,15 +5790,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038801",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 81.90901033070219,
+        "min_distance": 70.03554044062572,
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7808752,
-          40.3806816
+          -3.780182003974915,
+          40.38056372159925
         ]
       }
     },
@@ -6806,7 +6806,7 @@ var geomap = {
         "direccion": "Avenida De Europa, S/n 28110 Algete",
         "telefono": 916282412,
         "mail": "ies.alsatt.algete@educa.madrid.org",
-        "latlon": "40.59745085425012,-3.5089733634584626",
+        "latlon": "40.5996526,-3.5100696",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -6817,15 +6817,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040611",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 9573.099071309618,
+        "min_distance": 9599.928046075744,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.5089733634584626,
-          40.59745085425012
+          -3.5100696,
+          40.5996526
         ]
       }
     },
@@ -6870,7 +6870,7 @@ var geomap = {
         "direccion": "Avenida De Europa, S/n 28110 Algete",
         "telefono": 916291601,
         "mail": "ies.becquer.algete@educa.madrid.org",
-        "latlon": "40.59745085425012,-3.5089733634584626",
+        "latlon": "40.5999622,-3.5100616",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -6881,15 +6881,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040672",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 9573.099071309618,
+        "min_distance": 9616.423614285564,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.5089733634584626,
-          40.59745085425012
+          -3.5100616,
+          40.5999622
         ]
       }
     },
@@ -8342,10 +8342,10 @@ var geomap = {
         "id": 28042671,
         "dat": "Sur",
         "nombre": "Antonio de Nebrija",
-        "direccion": "Avenida De La O.n.u., 81 28936 M\u00f3stoles",
+        "direccion": "Avenida de la ONU 83, 28936, M\u00f3stoles",
         "telefono": 916466443,
         "mail": "ies.antoniodenebrija.mostoles@educa.madrid.org",
-        "latlon": "40.312639903638534,-3.8523697298201487",
+        "latlon": "40.31227828445638,-3.8527733087539677",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -8356,15 +8356,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042671",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1068.3831442774465,
+        "min_distance": 1021.8099419473148,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.8523697298201487,
-          40.312639903638534
+          -3.8527733087539677,
+          40.31227828445638
         ]
       }
     },
@@ -10918,7 +10918,7 @@ var geomap = {
         "url": "http://www.educa.madrid.org/ies.hotelescuela.madrid",
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048294",
         "tipo": "042",
-        "status_web": 200,
+        "status_web": 991,
         "min_distance": 1997.4336793598525,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -11260,7 +11260,7 @@ var geomap = {
         "direccion": "Carretera De Meco, K 4 28805 Alcal\u00e1 de Henares",
         "telefono": 918797892,
         "mail": "cepa.claracampoamor.alcala@educa.madrid.org",
-        "latlon": "40.523221482971174,-3.3261928333091655",
+        "latlon": "40.52270556253311,-3.3266043663024907",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -11271,15 +11271,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056412",
         "tipo": "035",
         "status_web": 999,
-        "min_distance": 2130.2022373718746,
+        "min_distance": 2064.1899191507205,
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.3261928333091655,
-          40.523221482971174
+          -3.3266043663024907,
+          40.52270556253311
         ]
       }
     },
@@ -12348,7 +12348,7 @@ var geomap = {
         "direccion": "Calle De San Bernardo (edificio I.e.s Lope De Vega), 70 28015 Madrid",
         "telefono": 915329959,
         "mail": "cepa.centro.madrid@educa.madrid.org",
-        "latlon": "40.42699337026677,-3.7063012591782933",
+        "latlon": "40.42688743418374,-3.705546855926514",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -12359,15 +12359,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059361",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 191.0810544195658,
+        "min_distance": 221.36610906776636,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7063012591782933,
-          40.42699337026677
+          -3.705546855926514,
+          40.42688743418374
         ]
       }
     },
@@ -13113,10 +13113,10 @@ var geomap = {
         "id": 28065711,
         "dat": "Capital",
         "nombre": "Federico Moreno Torroba",
-        "direccion": "Calle Del General Ricardos, 177 28025 Madrid",
+        "direccion": "Calle Clara Campoamor, 10, 28025 Madrid",
         "telefono": 914698614,
         "mail": "cim.morenotorroba.madrid@educa.madrid.org",
-        "latlon": "40.38521184541167,-3.736307550082406",
+        "latlon": "40.383219822094595,-3.7351047992706303",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -13127,15 +13127,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065711",
         "tipo": "017",
         "status_web": 200,
-        "min_distance": 464.78074948015654,
+        "min_distance": 639.6672557163703,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.736307550082406,
-          40.38521184541167
+          -3.7351047992706303,
+          40.383219822094595
         ]
       }
     },

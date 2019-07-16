@@ -15,9 +15,24 @@ d = Dataset()
 d.unzip()
 
 tipos = set()
+latlon={}
 for c in d.centros:
     tipos.add(c.tipo)
+    if c.latlon:
+        col = latlon.get(c.latlon,[])
+        col.append(c)
+        latlon[c.latlon]=col
 
+latlon = [(ltln, col) for ltln, col in latlon.items() if len(col)>1]
+if len(latlon)>0:
+    print("Centros con misma coordenadas:")
+    for ltln, col in sorted(latlon):
+        print(ltln)
+        if len(col)>1:
+            for c in col:
+                print(" ",c.nombre)
+                print(" ",c.direccion)
+                print(" ",c.info)
 
 def get_description(c):
     des = '''

@@ -965,7 +965,7 @@ var geomap = {
       "properties": {
         "id": 28005520,
         "dat": "Capital",
-        "nombre": "<span title='Aulas hospitalarias'>AH</span> Hospital del Ni\u00f1o Jesus",
+        "nombre": "<span title='Aulas hospitalarias'>AH</span> del Ni\u00f1o Jesus",
         "direccion": "Avenida De Men\u00e9ndez Pelayo, 65 28009 Madrid",
         "telefono": 914094607,
         "mail": "cpee.hospitalninojesus.madrid@educa.madrid.org",
@@ -6197,7 +6197,7 @@ var geomap = {
       "properties": {
         "id": 28038550,
         "dat": "Capital",
-        "nombre": "<span title='Aulas hospitalarias'>AH</span> Hospital Gregorio Mara\u00f1on",
+        "nombre": "<span title='Aulas hospitalarias'>AH</span> Gregorio Mara\u00f1on",
         "direccion": "Calle De O'donnell, 50 28009 Madrid",
         "telefono": 915290334,
         "mail": "cpee.hospitalmaranon.madrid@educa.madrid.org",
@@ -13089,7 +13089,7 @@ var geomap = {
       "properties": {
         "id": 28057957,
         "dat": "Sur",
-        "nombre": "<span title='Aulas hospitalarias'>AH</span> Aula Hospitalaria Fundacion Alcorcon",
+        "nombre": "<span title='Aulas hospitalarias'>AH</span> Fundacion Alcorcon",
         "direccion": "Calle De Budapest, 1 28922 Alcorc\u00f3n",
         "telefono": 916219950,
         "mail": "ah.fundaciondealcorcon.alcorcon@educa.madrid.org",
@@ -13122,7 +13122,7 @@ var geomap = {
       "properties": {
         "id": 28057969,
         "dat": "Sur",
-        "nombre": "<span title='Aulas hospitalarias'>AH</span> Aula Hospitalaria Hosp. Univ. de Getafe",
+        "nombre": "<span title='Aulas hospitalarias'>AH</span> Univ. de Getafe",
         "direccion": "Carretera De Toledo, 12,50 28905 Getafe",
         "telefono": 916839360,
         "mail": "ah.hugetafe.getafe@educa.madrid.org",
@@ -13155,7 +13155,7 @@ var geomap = {
       "properties": {
         "id": 28057970,
         "dat": "Sur",
-        "nombre": "<span title='Aulas hospitalarias'>AH</span> Aula Hospitalaria Hosp. Gral. Mostoles",
+        "nombre": "<span title='Aulas hospitalarias'>AH</span> Gral. Mostoles",
         "direccion": "Calle R\u00edo J\u00facar, S/n 28935 M\u00f3stoles",
         "telefono": 916648723,
         "mail": "ah.hgdemostoles.mostoles@educa.madrid.org",
@@ -13188,7 +13188,7 @@ var geomap = {
       "properties": {
         "id": 28057982,
         "dat": "Sur",
-        "nombre": "<span title='Aulas hospitalarias'>AH</span> Aula Hospitalaria Severo Ochoa",
+        "nombre": "<span title='Aulas hospitalarias'>AH</span> Severo Ochoa",
         "direccion": "Avenida Orellana 28911 Legan\u00e9s",
         "telefono": 914818000,
         "mail": "ah.severoochoa.leganes@educa.madrid.org",
@@ -13221,7 +13221,7 @@ var geomap = {
       "properties": {
         "id": 28057994,
         "dat": "Capital",
-        "nombre": "<span title='Aulas hospitalarias'>AH</span> Aula Hospitalaria la Paz",
+        "nombre": "<span title='Aulas hospitalarias'>AH</span> la Paz",
         "direccion": "Paseo De La Castellana, 261 28046 Madrid",
         "telefono": 917277588,
         "mail": "ah.lapaz.madrid@educa.madrid.org",
@@ -13254,7 +13254,7 @@ var geomap = {
       "properties": {
         "id": 28058007,
         "dat": "Capital",
-        "nombre": "<span title='Aulas hospitalarias'>AH</span> Aula Hospitalaria Ramon y Cajal",
+        "nombre": "<span title='Aulas hospitalarias'>AH</span> Ramon y Cajal",
         "direccion": "Carretera De Colmenar Viejo, 9,100 28034 Madrid",
         "telefono": 917293907,
         "mail": "ah.ramonycajal.madrid@educa.madrid.org",
@@ -13287,7 +13287,7 @@ var geomap = {
       "properties": {
         "id": 28058019,
         "dat": "Capital",
-        "nombre": "<span title='Aulas hospitalarias'>AH</span> Aula Hospitalaria Doce de Octubre",
+        "nombre": "<span title='Aulas hospitalarias'>AH</span> Doce de Octubre",
         "direccion": "Avenida De Andaluc\u00eda, 5,400 28041 Madrid",
         "telefono": 914604923,
         "mail": "ah.docedeoctubre.madrid@educa.madrid.org",
@@ -14436,7 +14436,7 @@ var geomap = {
       "properties": {
         "id": 28064721,
         "dat": "Sur",
-        "nombre": "<span title='Aulas hospitalarias'>AH</span> Aula Hospitalaria de Fuenlabrada",
+        "nombre": "<span title='Aulas hospitalarias'>AH</span> de Fuenlabrada",
         "direccion": "Camino Del Molino, 2 28942 Fuenlabrada",
         "telefono": 916006510,
         "mail": "ah.fuenlabrada.fuenlabrada@educa.madrid.org",
@@ -15513,7 +15513,7 @@ var geomap = {
       "properties": {
         "id": 28075820,
         "dat": "Este",
-        "nombre": "<span title='Aulas hospitalarias'>AH</span> Aula Hospitalaria Hosp. Univ. Principe de Asturias",
+        "nombre": "<span title='Aulas hospitalarias'>AH</span> Univ. Principe de Asturias",
         "direccion": "Carretera De Meco, S/n 28805 Alcal\u00e1 de Henares",
         "telefono": 918878100,
         "mail": "ah.principedeasturias.alcala@educa.madrid.org",
@@ -16007,7 +16007,7 @@ var geomap = {
       "properties": {
         "id": 28078857,
         "dat": "Oeste",
-        "nombre": "<span title='Aulas hospitalarias'>AH</span> Hospital Puerta de Hierro",
+        "nombre": "<span title='Aulas hospitalarias'>AH</span> Puerta de Hierro",
         "direccion": "Calle Manuel De Falla, 1 28222 Majadahonda",
         "telefono": 660954532,
         "mail": "ah.puertadehierro.majadahonda@educa.madrid.org",

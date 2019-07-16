@@ -331,8 +331,13 @@ class Dataset():
                 properties[k] = v
             abr = get_abr(c.tipo)
             if abr:
+                nombre=c.nombre
+                if abr == "AH":
+                    for s in ("Aula Hospitalaria Hosp. ", "Aula Hospitalaria ", "Hospital "):
+                        if nombre.startswith(s):
+                            nombre=nombre[len(s):]
                 t = parse_tipo(self.tipos[c.tipo])
-                properties["nombre"] = "<span title='{0}'>{1}</span> {2}".format(t, abr, c.nombre)
+                properties["nombre"] = "<span title='{0}'>{1}</span> {2}".format(t, abr, nombre)
             geojson['features'].append(feature)
         return geojson
 

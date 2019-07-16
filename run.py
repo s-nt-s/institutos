@@ -4,7 +4,7 @@ import textwrap
 
 import simplekml
 
-from core.confmap import color_to_url, colors, parse_nombre, parse_tipo
+from core.confmap import color_to_url, colors, parse_nombre, parse_tipo, etapas_ban
 from core.dataset import Dataset
 from core.map import Map
 from core.common import create_script
@@ -72,6 +72,7 @@ def get_description(c):
 mapa = Map("Colegios - Profesores", color="green", color_to_url=color_to_url)
 
 ok_tipos = {}
+ok_etapas = set()
 nocturnos=set()
 for t in sorted(tipos):
     centros = [c for c in d.centros if c.tipo == t and c.latlon]
@@ -84,6 +85,8 @@ for t in sorted(tipos):
         lat, lon = tuple(map(float, c.latlon.split(",")))
         color = colors.default
         mod = None
+        for et in (c.etapas or []):
+            ok_etapas.add(et)
         if c.tecnico or c.excelencia or c.bilingue:
             mod = colors.especial
         if c.dificultad:
@@ -106,11 +109,18 @@ create_script("docs/geojson.js", geomap=d.geojson, tipos=ok_tipos, nocturnos=sor
 lgd = [colors.dificultad, colors.nocturno, colors.default]
 lgd = lgd + [color_to_url(c, None) for c in lgd]
 mail = [c.mail for c in d.centros if c.mail]
+etapas = set()
+for c in d.centros:
+    if c.etapas:
+        for e in c.etapas:
+            etapas
 
 j2 = Jnj2("template/", "docs/")
 j2.save(
     "index.html",
     tipos=ok_tipos,
+    etapas=sorted(ok_etapas),
+    etapas_ban=etapas_ban,
     nocturnos=sorted(nocturnos),
     lgd=lgd,
     indice=d.indice,

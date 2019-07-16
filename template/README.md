@@ -16,6 +16,10 @@ aquellos que son de alguno de los siguientes tipos:
 
 {{{tipos}}}
 
+a excepción de aquellos que solo ofertan alguna de estas etapas educativas:
+
+{{{etapas_ban}}}
+
 {{{excepcion}}}
 
 # Iconos

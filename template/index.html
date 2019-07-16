@@ -94,10 +94,16 @@
 										<li>{{text}}</li>
 									{% endfor %}
 									</ul>
+									<p>
+										a excepción de aquellos que solo ofertan alguna de estas etapas educativas:
+									</p>
+									<ul>
+					        {% for etapa in etapas_ban %}
+										<li>{{etapa}}</li>
+									{% endfor %}
+									</ul>
 								</div>
 	            </div>
-
-
             <div class="sidebar-pane" id="settings">
                 <h1 class="sidebar-header">Filtros<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
                 <div class="content filter">
@@ -122,6 +128,12 @@
                   <legend>Nocturnos en</legend>
 					        {% for text in nocturnos %}
 										  <input id="n{{loop.index}}" type="checkbox" checked="checked"/> <label for="n{{loop.index}}">{{text}}</label><br/>
+									{% endfor %}
+                </fieldset>
+                <fieldset id="etapas">
+                  <legend>Etapas eductativas</legend>
+					        {% for text in etapas %}
+										  <input id="et{{loop.index}}" type="checkbox" checked="checked"/> <label for="et{{loop.index}}">{{text}}</label><br/>
 									{% endfor %}
                 </fieldset>
                 <fieldset id="comunicacion">

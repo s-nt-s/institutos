@@ -47,7 +47,7 @@ ul.listCentros li img {
   margin-top: -0.5em;
 }
 
-ul.listCentros li span {
+ul.listCentros li > span {
   display: table-cell;
   vertical-align: top;
 }

@@ -182,14 +182,27 @@ function make_filter(f, layer) {
   if (c.dificultad && !$("#dificultad").is(":checked")) return false;
   var km = parseInt($("#kms").val(), 10);
   if (!Number.isNaN(km) && c.min_distance>km) return false;
-  if (!c.nocturno || !c.nocturno.length) return true;
-  var ok=0;
-  $("#nocturnos input:checked").each(function(){
-    var lb = $("label[for='"+this.id+"']");
-    var txt = lb.text().replace(/^\s*|\s*$/g, "");
-    if (c.nocturno.indexOf(txt)>-1) ok = ok + 1;
-  })
-  return c.nocturno.length == ok;
+  if (c.nocturno && c.nocturno.length) {
+    var ok=0;
+    $("#nocturnos input:checked").each(function(){
+      var lb = $("label[for='"+this.id+"']");
+      var txt = lb.text().replace(/^\s*|\s*$/g, "");
+      if (c.nocturno.indexOf(txt)>-1) ok = ok + 1;
+    })
+    if (c.nocturno.length != ok) return false;
+  }
+  if (c.etapas && c.etapas.length && $("#etapas input").not(":checked").length) {
+    var ok=false;
+    $("#etapas input:checked").each(function(){
+      var lb = $("label[for='"+this.id+"']");
+      var txt = lb.text().replace(/^\s*|\s*$/g, "");
+      if (c.etapas.indexOf(txt)>-1) ok=true;
+      //ok = ok + 1;
+    })
+    //return c.etapas.length == ok;
+    return ok;
+  }
+  return true;
 }
 
 function get_layer() {

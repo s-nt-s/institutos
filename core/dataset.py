@@ -5,9 +5,11 @@ import requests
 from bunch import Bunch
 import json
 import geopy.distance
+import copy
 
-from .centro import get_data
+from .centro import get_data, get_abr
 from .common import get_pdf, get_soup, mkBunch, read_yml, get_km, unzip
+from .confmap import parse_nombre, parse_tipo, etapas_ban
 from .decorators import *
 
 re_bocm = re.compile(r".*(BOCM-[\d\-]+).PDF", re.IGNORECASE)
@@ -60,6 +62,7 @@ class Dataset():
         centros = []
         col_centros = self.dwn_and_read("fuentes/csv/centros.csv")
         total = len(col_centros)
+        excluidos={}
         for count, i in enumerate(col_centros):
             print("Cargando centros %s%% [%s]      " % (
                 int(count*100/total), total-count), end="\r")
@@ -74,7 +77,17 @@ class Dataset():
             if dir in ("", "Madrid"):
                 dir = None
             extra = get_data(id)
-            latlon = extra.get("latlon")
+            etapas = extra.get("etapas")
+            excluir=[]
+            if etapas:
+                for e in etapas_ban:
+                    if e in etapas:
+                        excluir.append(e)
+                        etapas.remove(e)
+            tipo=self.centro_tipo.get(id) or i["TIPO DE CENTRO"]
+            if not etapas and tipo!="036":
+                excluidos[(tipo, extra.get("info"))]=excluir
+                continue
             arreglo = self.arreglos.get(id, {})
             latlon = arreglo.get("latlon") or extra.get("latlon")
             c = Bunch(
@@ -93,10 +106,10 @@ class Dataset():
                 bilingue=id in self.bilingue,
                 url=extra.get("url"),
                 info=extra.get("info"),
-                tipo=self.centro_tipo.get(id) or i["TIPO DE CENTRO"],
+                tipo=tipo,
                 status_web=extra.get("status_web"),
                 min_distance=self.min_distance(latlon),
-                etapas=extra.get("etapas")
+                etapas=etapas
             )
             for k, v in arreglo.items():
                 c[k]=v
@@ -105,6 +118,12 @@ class Dataset():
             centros.append(c)
         centros = sorted(centros, key=lambda c: c.id)
         print("Cargando centros 100%%: %s        " % len(centros))
+        if excluidos:
+            print("Centros excluidos:")
+            for e, lst in excluidos.items():
+                print(*e)
+                for ex in lst:
+                    print(" ", ex)
         return centros
 
     @property
@@ -307,8 +326,13 @@ class Dataset():
                                    'coordinates':[]}}
             lat, lon = tuple(map(float, c.latlon.split(",")))
             feature['geometry']['coordinates'] = [lon,lat]
-            for k, v in c.items():
-                feature['properties'][k] = v
+            properties = feature['properties']
+            for k, v in copy.deepcopy(c).items():
+                properties[k] = v
+            abr = get_abr(c.tipo)
+            if abr:
+                t = parse_tipo(self.tipos[c.tipo])
+                properties["nombre"] = "<span title='{0}'>{1}</span> {2}".format(t, abr, c.nombre)
             geojson['features'].append(feature)
         return geojson
 

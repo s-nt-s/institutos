@@ -1,5 +1,25 @@
 from bunch import Bunch
 
+etapas_ban=(
+    "Formación Profesional de grado medio",
+    "Formación Profesional de grado superior",
+    "Segundo Ciclo de Educación Infantil (LOE)",
+    "Educación Primaria (LOE - LOMCE)",
+    "Idiomas (LOE 1)",
+    "Artísticas (LOE)",
+    "Artísticas (LOGSE)",
+    "Enseñanzas Iniciales Básicas para personas adultas (LOE)",
+    "Programas Profesionales (LOE-LOMCE)",
+    "Técnico Profesional"
+)
+
+def index(literal, arr):
+    if literal in arr:
+        return arr.index(literal)
+    return None
+
+def parse_etapas(etapas):
+    iBachillerato = index("Bachillerato", etapas)
 
 def parse_tipo(name):
     name = name.capitalize()

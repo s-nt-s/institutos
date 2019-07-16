@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import textwrap
 
-from core.confmap import color_to_url, colors, parse_nombre, parse_tipo
+from core.confmap import color_to_url, colors, parse_nombre, parse_tipo, etapas_ban
 from core.dataset import Dataset
 from core.parsemd import parsemd
 
@@ -52,6 +52,11 @@ def _readme(key):
     if key == "enlaces_mail":
         mail = [c.mail for c in d.centros if c.mail]
         return "mailto:?bcc="+";".join(mail)+"&subject=Consulta%20en%20relacción%20al%20concurso%20de%20traslados"
+    if key == "etapas_ban":
+        s=""
+        for e in etapas_ban:
+            s=s +"\n* "+e
+        return s.strip()
 
 def readme(mtch):
     key = mtch.group(1)

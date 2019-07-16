@@ -21,6 +21,23 @@ re_nocturno = re.compile(r".*\bnocturno\b.*")
 re_title = re.compile("<title[^>]*>(.*?)</title>", re.IGNORECASE | re.DOTALL)
 htmlp = HTMLParser()
 
+def get_abr(t):
+    if t in ("016", "017"):
+        return "CI"
+    if t == "031":
+        return "CEPA"
+    if t == "035":
+        return "CARCEL"
+    if t == "036":
+        return "AH"
+    if t == "042":
+        return "IES"
+    if t == "047":
+        return "SIES"
+    if t == "070":
+        return "CEIPS"
+    return None
+
 def status_web(url):
     buffer = ""
     try:

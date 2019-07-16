@@ -16,7 +16,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000029",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 9291.950510646871
+  "min_distance": 9291.950510646871,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28000364,
   "dat": "Este",
@@ -38,7 +41,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000364",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1635.5914025525217
+  "min_distance": 1635.5914025525217,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28000467,
   "dat": "Este",
@@ -57,7 +64,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000467",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 1702.2675270505988
+  "min_distance": 1702.2675270505988,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28000522,
   "dat": "Este",
@@ -78,7 +89,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000522",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 410.98936381678175
+  "min_distance": 410.98936381678175,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28000753,
   "dat": "Norte",
@@ -101,7 +117,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000753",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1455.5754761744386
+  "min_distance": 1455.5754761744386,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Curso preparatorio prueba de acceso Grado Superior (LOE)",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28001629,
   "dat": "Sur",
@@ -123,7 +145,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001629",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 961.795377240997
+  "min_distance": 961.795377240997,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28001678,
   "dat": "Norte",
@@ -142,7 +169,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001678",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1205.8462953830172
+  "min_distance": 1205.8462953830172,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28001769,
   "dat": "Este",
@@ -161,7 +192,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001769",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1556.5762399404352
+  "min_distance": 1556.5762399404352,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28001812,
   "dat": "Oeste",
@@ -180,7 +215,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001812",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 4430.285366360287
+  "min_distance": 4430.285366360287,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28001848,
   "dat": "Oeste",
@@ -199,7 +237,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001848",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 124.1841192298214
+  "min_distance": 124.1841192298214,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28001873,
   "dat": "Oeste",
@@ -218,7 +259,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001873",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 11562.055251327944
+  "min_distance": 11562.055251327944,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28002026,
   "dat": "Sur",
@@ -237,7 +281,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002026",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 29844.171500382316
+  "min_distance": 29844.171500382316,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28002038,
   "dat": "Este",
@@ -256,7 +303,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002038",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 5688.8741786090695
+  "min_distance": 5688.8741786090695,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28002105,
   "dat": "Sur",
@@ -275,7 +325,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002105",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 34445.160719479354
+  "min_distance": 34445.160719479354,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28002181,
   "dat": "Sur",
@@ -294,7 +347,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002181",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1059.3381325486403
+  "min_distance": 1059.3381325486403,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28002211,
   "dat": "Norte",
@@ -313,7 +371,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002211",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 8926.63797534027
+  "min_distance": 8926.63797534027,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28002312,
   "dat": "Norte",
@@ -335,7 +396,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002312",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 2751.3816772102628
+  "min_distance": 2751.3816772102628,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28002415,
   "dat": "Oeste",
@@ -354,7 +420,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002415",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1390.059852333341
+  "min_distance": 1390.059852333341,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Curso preparatorio prueba de acceso Grado Superior (LOE)",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28002580,
   "dat": "Este",
@@ -373,7 +445,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002580",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 967.8094288134089
+  "min_distance": 967.8094288134089,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28002853,
   "dat": "Norte",
@@ -392,7 +469,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002853",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 11175.001027771794
+  "min_distance": 11175.001027771794,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28003201,
   "dat": "Sur",
@@ -414,7 +494,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003201",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 365.8282128690611
+  "min_distance": 365.8282128690611,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28003304,
   "dat": "Sur",
@@ -433,7 +517,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003304",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 156.73628570218827
+  "min_distance": 156.73628570218827,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28003882,
   "dat": "Sur",
@@ -455,7 +542,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003882",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 424.1883701173416
+  "min_distance": 424.1883701173416,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28003894,
   "dat": "Sur",
@@ -474,7 +565,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003894",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 966.0958857865177
+  "min_distance": 966.0958857865177,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28003900,
   "dat": "Sur",
@@ -493,7 +587,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003900",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 594.8699844573669
+  "min_distance": 594.8699844573669,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28004059,
   "dat": "Capital",
@@ -515,7 +613,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28004059",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 96.6526267172232
+  "min_distance": 96.6526267172232,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28005520,
   "dat": "Capital",
@@ -534,7 +637,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28005520",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 506.6947088591469
+  "min_distance": 506.6947088591469,
+  "etapas": [
+    "Educaci\u00f3n Especial (Adaptac.LOE)"
+  ]
 },{
   "id": 28013899,
   "dat": "Capital",
@@ -553,7 +659,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28013899",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 451.8213508379783
+  "min_distance": 451.8213508379783,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28015756,
   "dat": "Capital",
@@ -572,7 +682,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28015756",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 507.64897004686406
+  "min_distance": 507.64897004686406,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28018344,
   "dat": "Capital",
@@ -591,7 +705,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018344",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 121.12731361170057
+  "min_distance": 121.12731361170057,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28018356,
   "dat": "Capital",
@@ -610,7 +728,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018356",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 243.1166354194918
+  "min_distance": 243.1166354194918,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28018368,
   "dat": "Capital",
@@ -629,7 +751,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018368",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 143.98862307799908
+  "min_distance": 143.98862307799908,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28018371,
   "dat": "Capital",
@@ -648,7 +773,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018371",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 381.7947612557047
+  "min_distance": 381.7947612557047,
+  "etapas": [
+    "Educaci\u00f3n Especial (Adaptac.LOE)"
+  ]
 },{
   "id": 28018381,
   "dat": "Capital",
@@ -667,26 +795,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018381",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1403.6147506844854
-},{
-  "id": 28018423,
-  "dat": "Capital",
-  "nombre": "INSTITUTO POLITECNICO N.1 DEL EJERCITO",
-  "direccion": "Avenida De Carabanchel Alto, 17 28044 Madrid",
-  "telefono": null,
-  "mail": "ies.numerounoejercito.madrid@educa.madrid.org",
-  "latlon": "40.369772931882444,-3.752712005119586",
-  "nocturno": null,
-  "dificultad": false,
-  "adaptado": false,
-  "excelencia": false,
-  "tecnico": false,
-  "bilingue": false,
-  "url": "http://www.educa.madrid.org/ies.numerounoejercito.madrid",
-  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018423",
-  "tipo": "042",
-  "status_web": 999,
-  "min_distance": 240.6392544157933
+  "min_distance": 1403.6147506844854,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Curso preparatorio prueba de acceso Grado Superior (LOE)",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28018435,
   "dat": "Capital",
@@ -707,7 +822,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018435",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 104.2970085692635
+  "min_distance": 104.2970085692635,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28018460,
   "dat": "Capital",
@@ -726,7 +845,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018460",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 625.8716403075971
+  "min_distance": 625.8716403075971,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28018472,
   "dat": "Capital",
@@ -745,7 +870,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018472",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 289.0012128560645
+  "min_distance": 289.0012128560645,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28018484,
   "dat": "Capital",
@@ -764,7 +893,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018484",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 515.7251554764266
+  "min_distance": 515.7251554764266,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28018903,
   "dat": "Capital",
@@ -783,26 +916,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018903",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 154.8431823705998
-},{
-  "id": 28019312,
-  "dat": "Capital",
-  "nombre": "EL LAGO",
-  "direccion": "Paseo De La Puerta Del \u00c1ngel, S/n 28011 Madrid",
-  "telefono": 914796851,
-  "mail": "ies.ellago.madrid@educa.madrid.org",
-  "latlon": "40.4157377199797,-3.7329156441195193",
-  "nocturno": null,
-  "dificultad": false,
-  "adaptado": false,
-  "excelencia": false,
-  "tecnico": false,
-  "bilingue": false,
-  "url": "http://www.educa.madrid.org/ies.ellago.madrid",
-  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019312",
-  "tipo": "042",
-  "status_web": 200,
-  "min_distance": 179.76617096521758
+  "min_distance": 154.8431823705998,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28019351,
   "dat": "Capital",
@@ -821,7 +939,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019351",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1991.7597433681617
+  "min_distance": 1991.7597433681617,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28019464,
   "dat": "Capital",
@@ -843,7 +966,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019464",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 87.8169540257072
+  "min_distance": 87.8169540257072,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28019889,
   "dat": "Capital",
@@ -862,7 +989,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019889",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 191.0810544195658
+  "min_distance": 191.0810544195658,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28019971,
   "dat": "Capital",
@@ -881,7 +1013,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019971",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 412.95704732880796
+  "min_distance": 412.95704732880796,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28020119,
   "dat": "Capital",
@@ -903,7 +1038,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020119",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 519.0919101720526
+  "min_distance": 519.0919101720526,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+  ]
 },{
   "id": 28020201,
   "dat": "Capital",
@@ -922,7 +1063,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020201",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 72.1516954854248
+  "min_distance": 72.1516954854248,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28020341,
   "dat": "Capital",
@@ -941,7 +1086,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020341",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 378.9077700842562
+  "min_distance": 378.9077700842562,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28020545,
   "dat": "Capital",
@@ -960,7 +1108,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020545",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 64.18180116508786
+  "min_distance": 64.18180116508786,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28020557,
   "dat": "Capital",
@@ -979,7 +1131,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020557",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 321.57952222934694
+  "min_distance": 321.57952222934694,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28020570,
   "dat": "Capital",
@@ -998,7 +1154,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020570",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 261.22781088045997
+  "min_distance": 261.22781088045997,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28020582,
   "dat": "Capital",
@@ -1017,7 +1177,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020582",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 461.443539901059
+  "min_distance": 461.443539901059,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28020624,
   "dat": "Capital",
@@ -1040,7 +1204,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020624",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 200.91723051748798
+  "min_distance": 200.91723051748798,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28020648,
   "dat": "Capital",
@@ -1059,7 +1227,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020648",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 48.23774867287857
+  "min_distance": 48.23774867287857,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28020703,
   "dat": "Capital",
@@ -1078,7 +1250,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020703",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 54.56946082927515
+  "min_distance": 54.56946082927515,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28020715,
   "dat": "Capital",
@@ -1097,7 +1274,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020715",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1164.746797279519
+  "min_distance": 1164.746797279519,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28020727,
   "dat": "Capital",
@@ -1116,7 +1297,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020727",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 149.26952812868313
+  "min_distance": 149.26952812868313,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28020739,
   "dat": "Capital",
@@ -1135,7 +1321,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020739",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 171.13168587508613
+  "min_distance": 171.13168587508613,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28020806,
   "dat": "Capital",
@@ -1154,7 +1344,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020806",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 217.93258155147635
+  "min_distance": 217.93258155147635,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28020831,
   "dat": "Capital",
@@ -1173,7 +1368,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020831",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 391.4664954293876
+  "min_distance": 391.4664954293876,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28020855,
   "dat": "Capital",
@@ -1192,7 +1390,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020855",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 410.90785693318867
+  "min_distance": 410.90785693318867,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28020892,
   "dat": "Capital",
@@ -1214,7 +1416,14 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020892",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 8.0029516672003
+  "min_distance": 8.0029516672003,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Curso preparatorio prueba de acceso Grado Superior (LOE)",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+  ]
 },{
   "id": 28020909,
   "dat": "Capital",
@@ -1236,7 +1445,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020909",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 232.6786958946251
+  "min_distance": 232.6786958946251,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28020910,
   "dat": "Capital",
@@ -1255,7 +1469,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020910",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 175.29909456480587
+  "min_distance": 175.29909456480587,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28020934,
   "dat": "Capital",
@@ -1276,7 +1495,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020934",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 72.57344879904582
+  "min_distance": 72.57344879904582,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28020946,
   "dat": "Capital",
@@ -1299,7 +1523,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020946",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 134.4105013952032
+  "min_distance": 134.4105013952032,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+  ]
 },{
   "id": 28020958,
   "dat": "Capital",
@@ -1318,7 +1548,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020958",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 270.40778815380725
+  "min_distance": 270.40778815380725,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28020961,
   "dat": "Capital",
@@ -1337,7 +1571,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020961",
   "tipo": "042",
   "status_web": 503,
-  "min_distance": 185.10634550053243
+  "min_distance": 185.10634550053243,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28021008,
   "dat": "Capital",
@@ -1356,7 +1594,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021008",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 464.78074948015654
+  "min_distance": 464.78074948015654,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28021252,
   "dat": "Capital",
@@ -1375,7 +1618,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021252",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 348.6449551419684
+  "min_distance": 348.6449551419684,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28021549,
   "dat": "Capital",
@@ -1394,7 +1640,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021549",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 639.9115582313981
+  "min_distance": 639.9115582313981,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28021550,
   "dat": "Capital",
@@ -1413,7 +1664,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021550",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1054.2393189696127
+  "min_distance": 1054.2393189696127,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28021562,
   "dat": "Capital",
@@ -1432,7 +1687,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021562",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 652.0259129580626
+  "min_distance": 652.0259129580626,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28022207,
   "dat": "Oeste",
@@ -1451,7 +1710,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022207",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5428.413470888441
+  "min_distance": 5428.413470888441,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28022724,
   "dat": "Capital",
@@ -1470,7 +1734,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022724",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2136.045990837749
+  "min_distance": 2136.045990837749,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28022891,
   "dat": "Norte",
@@ -1489,7 +1756,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022891",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 17378.82083196123
+  "min_distance": 17378.82083196123,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28023194,
   "dat": "Sur",
@@ -1508,7 +1778,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023194",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 662.7937408537388
+  "min_distance": 662.7937408537388,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28023327,
   "dat": "Sur",
@@ -1527,7 +1800,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023327",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 12660.530246550506
+  "min_distance": 12660.530246550506,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28023364,
   "dat": "Sur",
@@ -1546,7 +1824,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023364",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 14674.017974916638
+  "min_distance": 14674.017974916638,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Educaci\u00f3n Especial (Adaptac.LOE)"
+  ]
 },{
   "id": 28023388,
   "dat": "Este",
@@ -1565,7 +1847,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023388",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 17689.612674197364
+  "min_distance": 17689.612674197364,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28023741,
   "dat": "Oeste",
@@ -1584,7 +1869,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023741",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 324.5683467248511
+  "min_distance": 324.5683467248511,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28023911,
   "dat": "Oeste",
@@ -1603,7 +1891,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023911",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 376.83530831692656
+  "min_distance": 376.83530831692656,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28024290,
   "dat": "Este",
@@ -1625,7 +1917,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024290",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 314.7250415191238
+  "min_distance": 314.7250415191238,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28024642,
   "dat": "Norte",
@@ -1644,7 +1941,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024642",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 859.9848488154629
+  "min_distance": 859.9848488154629,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28025014,
   "dat": "Este",
@@ -1663,7 +1965,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025014",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1307.7177969615243
+  "min_distance": 1307.7177969615243,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28025026,
   "dat": "Este",
@@ -1685,7 +1992,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025026",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1489.6836015653312
+  "min_distance": 1489.6836015653312,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Curso preparatorio prueba de acceso Grado Superior (LOE)"
+  ]
 },{
   "id": 28025129,
   "dat": "Norte",
@@ -1704,7 +2016,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025129",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 28380.34721425196
+  "min_distance": 28380.34721425196,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28025415,
   "dat": "Este",
@@ -1723,7 +2040,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025415",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 12616.2343506746
+  "min_distance": 12616.2343506746,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28025658,
   "dat": "Este",
@@ -1742,7 +2062,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025658",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 21011.71776427269
+  "min_distance": 21011.71776427269,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28025828,
   "dat": "Capital",
@@ -1761,7 +2084,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025828",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 349.10200678016423
+  "min_distance": 349.10200678016423,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28026031,
   "dat": "Sur",
@@ -1783,7 +2110,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28026031",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1309.3756561297296
+  "min_distance": 1309.3756561297296,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28026092,
   "dat": "Sur",
@@ -1802,7 +2133,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28026092",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 503.0079452048164
+  "min_distance": 503.0079452048164,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028301,
   "dat": "Este",
@@ -1821,7 +2156,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028301",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1250.7908445164562
+  "min_distance": 1250.7908445164562,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028350,
   "dat": "Este",
@@ -1840,7 +2179,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028350",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 298.76692626675396
+  "min_distance": 298.76692626675396,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028374,
   "dat": "Sur",
@@ -1862,7 +2205,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028374",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 198.51911763576464
+  "min_distance": 198.51911763576464,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028404,
   "dat": "Sur",
@@ -1881,7 +2228,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028404",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 601.8287603156792
+  "min_distance": 601.8287603156792,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028428,
   "dat": "Capital",
@@ -1900,7 +2251,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028428",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 284.2327348867626
+  "min_distance": 284.2327348867626,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028431,
   "dat": "Capital",
@@ -1922,7 +2277,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028431",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 481.1922598811963
+  "min_distance": 481.1922598811963,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028453,
   "dat": "Capital",
@@ -1941,7 +2300,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028453",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 286.9961184782489
+  "min_distance": 286.9961184782489,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028465,
   "dat": "Capital",
@@ -1960,7 +2323,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028465",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 300.60348103320183
+  "min_distance": 300.60348103320183,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028477,
   "dat": "Capital",
@@ -1979,7 +2346,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028477",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 331.71640110004256
+  "min_distance": 331.71640110004256,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028568,
   "dat": "Sur",
@@ -1998,7 +2369,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028568",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 346.7301308873078
+  "min_distance": 346.7301308873078,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028571,
   "dat": "Oeste",
@@ -2017,7 +2392,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028571",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 547.1908861661842
+  "min_distance": 547.1908861661842,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28028611,
   "dat": "Norte",
@@ -2036,7 +2416,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028611",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 704.8794994579827
+  "min_distance": 704.8794994579827,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028672,
   "dat": "Capital",
@@ -2059,7 +2443,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028672",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 214.44816106776105
+  "min_distance": 214.44816106776105,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28028684,
   "dat": "Oeste",
@@ -2081,7 +2469,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028684",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1621.624577513837
+  "min_distance": 1621.624577513837,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28030101,
   "dat": "Sur",
@@ -2100,7 +2494,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030101",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 471.19730290247884
+  "min_distance": 471.19730290247884,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28030113,
   "dat": "Capital",
@@ -2119,7 +2518,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030113",
   "tipo": "031",
   "status_web": 991,
-  "min_distance": 530.6435805574044
+  "min_distance": 530.6435805574044,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28030125,
   "dat": "Capital",
@@ -2138,7 +2542,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030125",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 380.2953628601151
+  "min_distance": 380.2953628601151,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28030137,
   "dat": "Capital",
@@ -2157,7 +2567,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030137",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 70.99337329340972
+  "min_distance": 70.99337329340972,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28030149,
   "dat": "Capital",
@@ -2176,7 +2590,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030149",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 244.25423813034269
+  "min_distance": 244.25423813034269,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28030150,
   "dat": "Capital",
@@ -2195,7 +2613,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030150",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 84.78695256049548
+  "min_distance": 84.78695256049548,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28030162,
   "dat": "Capital",
@@ -2214,7 +2636,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030162",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 672.6100874740964
+  "min_distance": 672.6100874740964,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28030174,
   "dat": "Capital",
@@ -2233,7 +2659,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030174",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 704.1698424610089
+  "min_distance": 704.1698424610089,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28030186,
   "dat": "Capital",
@@ -2252,7 +2682,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030186",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 507.3844498704271
+  "min_distance": 507.3844498704271,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28030204,
   "dat": "Sur",
@@ -2271,7 +2705,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030204",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 783.2480013608719
+  "min_distance": 783.2480013608719,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28030216,
   "dat": "Sur",
@@ -2290,7 +2729,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030216",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 317.316336011678
+  "min_distance": 317.316336011678,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28030228,
   "dat": "Este",
@@ -2309,7 +2753,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030228",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 987.0750185646491
+  "min_distance": 987.0750185646491,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28030241,
   "dat": "Sur",
@@ -2328,7 +2777,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030241",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 211.53286108288287
+  "min_distance": 211.53286108288287,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28030575,
   "dat": "Capital",
@@ -2347,7 +2801,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030575",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 249.01290646469795
+  "min_distance": 249.01290646469795,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28030903,
   "dat": "Este",
@@ -2366,7 +2824,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030903",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 912.4829254699561
+  "min_distance": 912.4829254699561,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28030915,
   "dat": "Sur",
@@ -2385,7 +2848,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030915",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 350.4197929833338
+  "min_distance": 350.4197929833338,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28030927,
   "dat": "Capital",
@@ -2404,7 +2871,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030927",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 334.99887899039237
+  "min_distance": 334.99887899039237,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28030939,
   "dat": "Capital",
@@ -2423,7 +2894,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030939",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 93.99396214662474
+  "min_distance": 93.99396214662474,
+  "etapas": [
+    "Bachillerato"
+  ]
 },{
   "id": 28030952,
   "dat": "Capital",
@@ -2442,7 +2916,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030952",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 469.0587147862076
+  "min_distance": 469.0587147862076,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28030964,
   "dat": "Capital",
@@ -2461,7 +2939,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030964",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 453.0668337398902
+  "min_distance": 453.0668337398902,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28030976,
   "dat": "Capital",
@@ -2480,7 +2963,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030976",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 430.0211627237761
+  "min_distance": 430.0211627237761,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28030991,
   "dat": "Capital",
@@ -2499,7 +2986,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030991",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 657.4271655582143
+  "min_distance": 657.4271655582143,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28031002,
   "dat": "Capital",
@@ -2518,26 +3010,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031002",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 749.9410820361096
-},{
-  "id": 28031014,
-  "dat": "Capital",
-  "nombre": "MORATALAZ",
-  "direccion": "Calle Del Corregidor Diego De Valderr\u00e1bano, 35 28030 Madrid",
-  "telefono": 914306809,
-  "mail": "ies.moratalaz.madrid@educa.madrid.org",
-  "latlon": "40.41274623601679,-3.6581237754428986",
-  "nocturno": null,
-  "dificultad": false,
-  "adaptado": false,
-  "excelencia": false,
-  "tecnico": false,
-  "bilingue": false,
-  "url": "http://www.educa.madrid.org/ies.moratalaz.madrid",
-  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031014",
-  "tipo": "042",
-  "status_web": 200,
-  "min_distance": 239.8372887103968
+  "min_distance": 749.9410820361096,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28031555,
   "dat": "Capital",
@@ -2556,7 +3032,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031555",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 213.32254141716544
+  "min_distance": 213.32254141716544,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28032471,
   "dat": "Sur",
@@ -2575,7 +3054,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032471",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 258.59150390489856
+  "min_distance": 258.59150390489856,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28032481,
   "dat": "Capital",
@@ -2594,7 +3077,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032481",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 503.3805458845696
+  "min_distance": 503.3805458845696,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28032501,
   "dat": "Oeste",
@@ -2613,7 +3101,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032501",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1964.726831396561
+  "min_distance": 1964.726831396561,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28032559,
   "dat": "Sur",
@@ -2635,7 +3127,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032559",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 621.1574716907086
+  "min_distance": 621.1574716907086,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28033311,
   "dat": "Capital",
@@ -2654,7 +3151,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033311",
   "tipo": "031",
   "status_web": 404,
-  "min_distance": 121.23455998620985
+  "min_distance": 121.23455998620985,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28033321,
   "dat": "Capital",
@@ -2673,7 +3175,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033321",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 356.5423492345774
+  "min_distance": 356.5423492345774,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28033333,
   "dat": "Capital",
@@ -2692,7 +3200,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033333",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 182.60965967247276
+  "min_distance": 182.60965967247276,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28033539,
   "dat": "Capital",
@@ -2711,7 +3224,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033539",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 310.9715511234204
+  "min_distance": 310.9715511234204,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28033552,
   "dat": "Sur",
@@ -2730,7 +3247,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033552",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 413.1314169130112
+  "min_distance": 413.1314169130112,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28033679,
   "dat": "Sur",
@@ -2749,7 +3270,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033679",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 124.89472273766155
+  "min_distance": 124.89472273766155,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28033850,
   "dat": "Sur",
@@ -2768,7 +3292,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033850",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 754.2138087954196
+  "min_distance": 754.2138087954196,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28034441,
   "dat": "Capital",
@@ -2787,7 +3316,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28034441",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 133.2499206701183
+  "min_distance": 133.2499206701183,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28035305,
   "dat": "Este",
@@ -2806,7 +3339,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035305",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1446.7046403070196
+  "min_distance": 1446.7046403070196,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28035317,
   "dat": "Norte",
@@ -2825,7 +3362,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035317",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1418.0838734366055
+  "min_distance": 1418.0838734366055,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28035330,
   "dat": "Capital",
@@ -2844,7 +3386,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035330",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 613.2796452782275
+  "min_distance": 613.2796452782275,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28035342,
   "dat": "Oeste",
@@ -2863,7 +3409,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035342",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1864.9939746311986
+  "min_distance": 1864.9939746311986,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28036656,
   "dat": "Este",
@@ -2882,7 +3432,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036656",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 455.3529915296733
+  "min_distance": 455.3529915296733,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28036930,
   "dat": "Sur",
@@ -2901,7 +3454,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036930",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 342.0029512153976
+  "min_distance": 342.0029512153976,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28036978,
   "dat": "Sur",
@@ -2920,7 +3478,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036978",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 832.0083302113059
+  "min_distance": 832.0083302113059,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28036981,
   "dat": "Este",
@@ -2939,7 +3502,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036981",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 573.9821785101033
+  "min_distance": 573.9821785101033,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28036991,
   "dat": "Norte",
@@ -2958,7 +3526,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036991",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2320.7633578587156
+  "min_distance": 2320.7633578587156,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28037004,
   "dat": "Sur",
@@ -2977,7 +3550,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037004",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 584.477289114196
+  "min_distance": 584.477289114196,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28037016,
   "dat": "Capital",
@@ -2996,7 +3573,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037016",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 357.23452893204103
+  "min_distance": 357.23452893204103,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28037028,
   "dat": "Capital",
@@ -3015,7 +3596,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037028",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 335.2811480524645
+  "min_distance": 335.2811480524645,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28037031,
   "dat": "Capital",
@@ -3034,7 +3620,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037031",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 396.09555780666676
+  "min_distance": 396.09555780666676,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28037041,
   "dat": "Capital",
@@ -3053,7 +3643,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037041",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 630.9044545457197
+  "min_distance": 630.9044545457197,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28037053,
   "dat": "Capital",
@@ -3072,7 +3666,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037053",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 555.3905968269339
+  "min_distance": 555.3905968269339,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28037065,
   "dat": "Este",
@@ -3091,7 +3689,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037065",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 300.4154572345364
+  "min_distance": 300.4154572345364,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28037077,
   "dat": "Este",
@@ -3110,7 +3713,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037077",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1155.3162096162396
+  "min_distance": 1155.3162096162396,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28037089,
   "dat": "Oeste",
@@ -3129,7 +3736,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037089",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1899.3568508345984
+  "min_distance": 1899.3568508345984,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28037892,
   "dat": "Este",
@@ -3148,7 +3760,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037892",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 477.8504249250141
+  "min_distance": 477.8504249250141,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28038070,
   "dat": "Norte",
@@ -3167,7 +3784,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038070",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 502.6353480358724
+  "min_distance": 502.6353480358724,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28038100,
   "dat": "Sur",
@@ -3186,7 +3806,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038100",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 47.99083258095908
+  "min_distance": 47.99083258095908,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28038151,
   "dat": "Este",
@@ -3205,7 +3828,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038151",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 715.7258891050858
+  "min_distance": 715.7258891050858,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038291,
   "dat": "Sur",
@@ -3224,7 +3851,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038291",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 181.61688773413158
+  "min_distance": 181.61688773413158,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038306,
   "dat": "Sur",
@@ -3243,7 +3874,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038306",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1019.6032539890311
+  "min_distance": 1019.6032539890311,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038355,
   "dat": "Capital",
@@ -3262,7 +3897,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038355",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 103.02618312980795
+  "min_distance": 103.02618312980795,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038367,
   "dat": "Capital",
@@ -3281,7 +3920,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038367",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 500.18555210602443
+  "min_distance": 500.18555210602443,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28038379,
   "dat": "Capital",
@@ -3300,7 +3942,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038379",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 228.77841356819965
+  "min_distance": 228.77841356819965,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28038422,
   "dat": "Sur",
@@ -3319,7 +3964,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038422",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 762.0635101331991
+  "min_distance": 762.0635101331991,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28038446,
   "dat": "Sur",
@@ -3338,7 +3986,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038446",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 664.6142754307377
+  "min_distance": 664.6142754307377,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28038550,
   "dat": "Capital",
@@ -3357,7 +4010,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038550",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 162.6280534265585
+  "min_distance": 162.6280534265585,
+  "etapas": [
+    "Educaci\u00f3n Especial (Adaptac.LOE)"
+  ]
 },{
   "id": 28038616,
   "dat": "Este",
@@ -3376,7 +4032,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038616",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 624.5126659807934
+  "min_distance": 624.5126659807934,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038631,
   "dat": "Este",
@@ -3395,7 +4055,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038631",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 96.2862306143933
+  "min_distance": 96.2862306143933,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28038641,
   "dat": "Norte",
@@ -3414,7 +4079,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038641",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1625.3174766304605
+  "min_distance": 1625.3174766304605,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28038665,
   "dat": "Sur",
@@ -3433,7 +4103,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038665",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 234.08922707793886
+  "min_distance": 234.08922707793886,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28038689,
   "dat": "Capital",
@@ -3452,7 +4126,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038689",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 156.5787455451899
+  "min_distance": 156.5787455451899,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28038801,
   "dat": "Capital",
@@ -3471,7 +4150,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038801",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 70.03554044062572
+  "min_distance": 70.03554044062572,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038823,
   "dat": "Capital",
@@ -3490,7 +4173,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038823",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 498.6705425128326
+  "min_distance": 498.6705425128326,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038835,
   "dat": "Este",
@@ -3509,7 +4196,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038835",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1760.9189667355383
+  "min_distance": 1760.9189667355383,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038847,
   "dat": "Norte",
@@ -3528,7 +4219,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038847",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 578.8438521434078
+  "min_distance": 578.8438521434078,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28038859,
   "dat": "Sur",
@@ -3547,7 +4243,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038859",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 382.1999819351525
+  "min_distance": 382.1999819351525,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038860,
   "dat": "Sur",
@@ -3566,7 +4266,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038860",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 161.19022145968762
+  "min_distance": 161.19022145968762,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038872,
   "dat": "Sur",
@@ -3585,7 +4289,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038872",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 547.5041458870264
+  "min_distance": 547.5041458870264,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038884,
   "dat": "Sur",
@@ -3604,7 +4312,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038884",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 872.6243099615575
+  "min_distance": 872.6243099615575,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038896,
   "dat": "Sur",
@@ -3623,7 +4335,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038896",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 465.79405479882615
+  "min_distance": 465.79405479882615,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038902,
   "dat": "Sur",
@@ -3642,7 +4358,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038902",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 203.75070777187804
+  "min_distance": 203.75070777187804,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28038914,
   "dat": "Oeste",
@@ -3661,7 +4382,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038914",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1396.099072547334
+  "min_distance": 1396.099072547334,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28038926,
   "dat": "Sur",
@@ -3680,7 +4405,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038926",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1709.1280411700357
+  "min_distance": 1709.1280411700357,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28039037,
   "dat": "Sur",
@@ -3699,7 +4428,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039037",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2103.7884875154905
+  "min_distance": 2103.7884875154905,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28039128,
   "dat": "Oeste",
@@ -3718,7 +4452,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039128",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1078.6938209240323
+  "min_distance": 1078.6938209240323,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28039669,
   "dat": "Norte",
@@ -3737,7 +4474,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039669",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 7966.466908586973
+  "min_distance": 7966.466908586973,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28039670,
   "dat": "Este",
@@ -3756,7 +4496,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039670",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 945.9508774188198
+  "min_distance": 945.9508774188198,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28039682,
   "dat": "Este",
@@ -3775,7 +4520,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039682",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2046.2365289729069
+  "min_distance": 2046.2365289729069,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28039700,
   "dat": "Sur",
@@ -3794,7 +4543,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039700",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 78.87394965839789
+  "min_distance": 78.87394965839789,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28039724,
   "dat": "Este",
@@ -3816,7 +4570,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039724",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1425.4878288704303
+  "min_distance": 1425.4878288704303,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28039797,
   "dat": "Sur",
@@ -3835,7 +4593,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039797",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 91.90372291747224
+  "min_distance": 91.90372291747224,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28039803,
   "dat": "Sur",
@@ -3854,7 +4617,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039803",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 725.3716088710431
+  "min_distance": 725.3716088710431,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28039827,
   "dat": "Sur",
@@ -3873,7 +4641,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039827",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 755.9086776962524
+  "min_distance": 755.9086776962524,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28039839,
   "dat": "Sur",
@@ -3892,7 +4664,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039839",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 405.5324690435968
+  "min_distance": 405.5324690435968,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28039840,
   "dat": "Capital",
@@ -3911,7 +4688,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039840",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 410.7540042914484
+  "min_distance": 410.7540042914484,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+  ]
 },{
   "id": 28039864,
   "dat": "Sur",
@@ -3930,7 +4712,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039864",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 925.8615413006513
+  "min_distance": 925.8615413006513,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28039876,
   "dat": "Capital",
@@ -3949,7 +4736,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039876",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 385.090742113902
+  "min_distance": 385.090742113902,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28039888,
   "dat": "Capital",
@@ -3968,7 +4759,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039888",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 254.43691956791997
+  "min_distance": 254.43691956791997,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+  ]
 },{
   "id": 28039891,
   "dat": "Capital",
@@ -3987,7 +4783,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039891",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 247.58981932451286
+  "min_distance": 247.58981932451286,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28039943,
   "dat": "Oeste",
@@ -4006,7 +4806,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039943",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1319.5250961271622
+  "min_distance": 1319.5250961271622,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28039992,
   "dat": "Sur",
@@ -4025,7 +4829,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039992",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 130.9138893970353
+  "min_distance": 130.9138893970353,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28040003,
   "dat": "Sur",
@@ -4044,7 +4852,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040003",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 146.0907509176668
+  "min_distance": 146.0907509176668,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28040027,
   "dat": "Este",
@@ -4063,7 +4874,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040027",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 779.2050944169549
+  "min_distance": 779.2050944169549,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28040611,
   "dat": "Norte",
@@ -4082,7 +4897,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040611",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 9599.928046075744
+  "min_distance": 9599.928046075744,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28040660,
   "dat": "Norte",
@@ -4101,7 +4920,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040660",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 717.2731048597583
+  "min_distance": 717.2731048597583,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28040672,
   "dat": "Norte",
@@ -4120,7 +4943,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040672",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 9616.423614285564
+  "min_distance": 9616.423614285564,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28040684,
   "dat": "Este",
@@ -4139,7 +4967,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040684",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 16805.941051488677
+  "min_distance": 16805.941051488677,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28040696,
   "dat": "Sur",
@@ -4158,7 +4990,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040696",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 488.9844914499561
+  "min_distance": 488.9844914499561,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28040702,
   "dat": "Sur",
@@ -4177,7 +5013,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040702",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 338.10863886050436
+  "min_distance": 338.10863886050436,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28040714,
   "dat": "Oeste",
@@ -4196,7 +5036,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040714",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 4556.441160178462
+  "min_distance": 4556.441160178462,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28040738,
   "dat": "Sur",
@@ -4215,7 +5060,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040738",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1090.8353531484918
+  "min_distance": 1090.8353531484918,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28040741,
   "dat": "Capital",
@@ -4234,7 +5083,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040741",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 104.84330406852072
+  "min_distance": 104.84330406852072,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28040751,
   "dat": "Capital",
@@ -4253,7 +5106,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040751",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 562.4151500339038
+  "min_distance": 562.4151500339038,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28040775,
   "dat": "Oeste",
@@ -4272,7 +5129,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040775",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 790.3299588035569
+  "min_distance": 790.3299588035569,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28040787,
   "dat": "Oeste",
@@ -4291,7 +5151,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040787",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 1421.819476820526
+  "min_distance": 1421.819476820526,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28040799,
   "dat": "Norte",
@@ -4310,7 +5175,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040799",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 871.2702682175577
+  "min_distance": 871.2702682175577,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28041354,
   "dat": "Norte",
@@ -4329,7 +5199,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041354",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 424.2767332373943
+  "min_distance": 424.2767332373943,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28041366,
   "dat": "Sur",
@@ -4348,7 +5223,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041366",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1116.223761366263
+  "min_distance": 1116.223761366263,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28041378,
   "dat": "Oeste",
@@ -4367,7 +5247,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041378",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 168.51704239628006
+  "min_distance": 168.51704239628006,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28041381,
   "dat": "Norte",
@@ -4386,7 +5270,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041381",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 28323.056257290893
+  "min_distance": 28323.056257290893,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28041391,
   "dat": "Este",
@@ -4405,7 +5294,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041391",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 257.2808728581367
+  "min_distance": 257.2808728581367,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28041411,
   "dat": "Sur",
@@ -4424,7 +5317,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041411",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 847.668541823278
+  "min_distance": 847.668541823278,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28041433,
   "dat": "Capital",
@@ -4443,7 +5341,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041433",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 282.6938907153413
+  "min_distance": 282.6938907153413,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28041445,
   "dat": "Este",
@@ -4462,7 +5364,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041445",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 4742.168310531943
+  "min_distance": 4742.168310531943,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28041470,
   "dat": "Sur",
@@ -4481,7 +5387,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041470",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 11686.822778378784
+  "min_distance": 11686.822778378784,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28041482,
   "dat": "Sur",
@@ -4500,7 +5410,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041482",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 511.89510467952107
+  "min_distance": 511.89510467952107,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28041494,
   "dat": "Este",
@@ -4519,7 +5433,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041494",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 484.870820865018
+  "min_distance": 484.870820865018,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28041500,
   "dat": "Este",
@@ -4538,7 +5456,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041500",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1394.2118020071716
+  "min_distance": 1394.2118020071716,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28041512,
   "dat": "Sur",
@@ -4557,7 +5479,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041512",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 3135.623258379459
+  "min_distance": 3135.623258379459,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28041597,
   "dat": "Oeste",
@@ -4576,7 +5502,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041597",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1618.5564343443273
+  "min_distance": 1618.5564343443273,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+  ]
 },{
   "id": 28041615,
   "dat": "Sur",
@@ -4595,7 +5527,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041615",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 700.7119294678492
+  "min_distance": 700.7119294678492,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042000,
   "dat": "Este",
@@ -4614,7 +5550,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042000",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1195.2986263068085
+  "min_distance": 1195.2986263068085,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042012,
   "dat": "Oeste",
@@ -4633,7 +5573,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042012",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 394.5190346400367
+  "min_distance": 394.5190346400367,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28042024,
   "dat": "Sur",
@@ -4652,7 +5597,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042024",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 848.7737632664004
+  "min_distance": 848.7737632664004,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042036,
   "dat": "Sur",
@@ -4671,7 +5620,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042036",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 571.7453320737367
+  "min_distance": 571.7453320737367,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042048,
   "dat": "Sur",
@@ -4690,7 +5643,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042048",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 933.2151220826036
+  "min_distance": 933.2151220826036,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042051,
   "dat": "Sur",
@@ -4709,7 +5666,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042051",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 679.7828462311526
+  "min_distance": 679.7828462311526,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042061,
   "dat": "Sur",
@@ -4728,7 +5689,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042061",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 204.2266108073161
+  "min_distance": 204.2266108073161,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042073,
   "dat": "Oeste",
@@ -4747,7 +5712,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042073",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2129.277893313142
+  "min_distance": 2129.277893313142,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042085,
   "dat": "Sur",
@@ -4766,7 +5735,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042085",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 923.8243816286869
+  "min_distance": 923.8243816286869,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042097,
   "dat": "Sur",
@@ -4785,7 +5758,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042097",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1295.5623745996036
+  "min_distance": 1295.5623745996036,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042103,
   "dat": "Norte",
@@ -4804,7 +5781,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042103",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1193.0152814260832
+  "min_distance": 1193.0152814260832,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042115,
   "dat": "Sur",
@@ -4826,7 +5807,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042115",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 596.3822663366165
+  "min_distance": 596.3822663366165,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Curso preparatorio prueba de acceso Grado Superior (LOE)"
+  ]
 },{
   "id": 28042191,
   "dat": "Sur",
@@ -4845,7 +5831,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042191",
   "tipo": "070",
   "status_web": 404,
-  "min_distance": 638.4228609513035
+  "min_distance": 638.4228609513035,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28042590,
   "dat": "Este",
@@ -4864,7 +5853,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042590",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1738.3961803350096
+  "min_distance": 1738.3961803350096,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042607,
   "dat": "Este",
@@ -4883,7 +5876,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042607",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 445.8438474340863
+  "min_distance": 445.8438474340863,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28042620,
   "dat": "Oeste",
@@ -4902,7 +5900,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042620",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 3150.760883529921
+  "min_distance": 3150.760883529921,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28042632,
   "dat": "Sur",
@@ -4921,7 +5924,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042632",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 943.8229013898343
+  "min_distance": 943.8229013898343,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28042644,
   "dat": "Capital",
@@ -4940,26 +5946,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042644",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 419.0167213795515
-},{
-  "id": 28042656,
-  "dat": "Capital",
-  "nombre": "CLARA DEL REY",
-  "direccion": "Calle Del Padre Claret, 8 28002 Madrid",
-  "telefono": 915195257,
-  "mail": "ies.claradelrey.madrid@educa.madrid.org",
-  "latlon": "40.44641332682228,-3.6643009050422553",
-  "nocturno": null,
-  "dificultad": false,
-  "adaptado": false,
-  "excelencia": false,
-  "tecnico": false,
-  "bilingue": false,
-  "url": "http://www.educa.madrid.org/ies.claradelrey.madrid",
-  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042656",
-  "tipo": "042",
-  "status_web": 200,
-  "min_distance": 362.5066822929997
+  "min_distance": 419.0167213795515,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042668,
   "dat": "Sur",
@@ -4978,7 +5969,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042668",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1117.4899429380912
+  "min_distance": 1117.4899429380912,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042671,
   "dat": "Sur",
@@ -4997,7 +5992,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042671",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1021.8099419473148
+  "min_distance": 1021.8099419473148,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042681,
   "dat": "Este",
@@ -5016,7 +6015,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042681",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1457.4721978545026
+  "min_distance": 1457.4721978545026,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28042875,
   "dat": "Este",
@@ -5035,7 +6039,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042875",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1421.8846530018998
+  "min_distance": 1421.8846530018998,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28042887,
   "dat": "Oeste",
@@ -5054,7 +6063,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042887",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 747.2052638675019
+  "min_distance": 747.2052638675019,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28042929,
   "dat": "Capital",
@@ -5073,7 +6087,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042929",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 111.66498212875072
+  "min_distance": 111.66498212875072,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28042930,
   "dat": "Capital",
@@ -5092,7 +6112,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042930",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 235.3992712120255
+  "min_distance": 235.3992712120255,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28042942,
   "dat": "Capital",
@@ -5111,7 +6137,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042942",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 97.06517327338786
+  "min_distance": 97.06517327338786,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28042954,
   "dat": "Capital",
@@ -5130,7 +6161,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042954",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 578.9904713686798
+  "min_distance": 578.9904713686798,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28042981,
   "dat": "Norte",
@@ -5149,7 +6186,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042981",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1340.3245896163537
+  "min_distance": 1340.3245896163537,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28042991,
   "dat": "Sur",
@@ -5168,7 +6209,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042991",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1650.4130118758262
+  "min_distance": 1650.4130118758262,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28043016,
   "dat": "Sur",
@@ -5187,7 +6232,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043016",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 974.0533191852869
+  "min_distance": 974.0533191852869,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28043028,
   "dat": "Norte",
@@ -5206,7 +6256,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043028",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 258.30431290523387
+  "min_distance": 258.30431290523387,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+  ]
 },{
   "id": 28043235,
   "dat": "Capital",
@@ -5225,7 +6280,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043235",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 305.8781215900268
+  "min_distance": 305.8781215900268,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes",
+    "Cursos a distancia Soporte Telem\u00e1tico"
+  ]
 },{
   "id": 28043259,
   "dat": "Capital",
@@ -5244,7 +6305,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043259",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 487.06547273829113
+  "min_distance": 487.06547273829113,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28043260,
   "dat": "Capital",
@@ -5263,7 +6329,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043260",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 282.97051459489927
+  "min_distance": 282.97051459489927,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28044306,
   "dat": "Oeste",
@@ -5282,7 +6353,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044306",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2577.29148965968
+  "min_distance": 2577.29148965968,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28044318,
   "dat": "Este",
@@ -5301,7 +6376,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044318",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 675.5405746309056
+  "min_distance": 675.5405746309056,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28044501,
   "dat": "Capital",
@@ -5320,7 +6399,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044501",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 460.9881895598639
+  "min_distance": 460.9881895598639,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28044513,
   "dat": "Capital",
@@ -5339,7 +6422,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044513",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 690.0163453792114
+  "min_distance": 690.0163453792114,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28044549,
   "dat": "Este",
@@ -5358,7 +6446,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044549",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 4916.145902513409
+  "min_distance": 4916.145902513409,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28044562,
   "dat": "Este",
@@ -5377,7 +6469,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044562",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 9236.44738689847
+  "min_distance": 9236.44738689847,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28044574,
   "dat": "Este",
@@ -5396,7 +6493,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044574",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 21023.045181887817
+  "min_distance": 21023.045181887817,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28044628,
   "dat": "Sur",
@@ -5415,7 +6517,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044628",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 21672.364270254668
+  "min_distance": 21672.364270254668,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28044719,
   "dat": "Sur",
@@ -5434,7 +6540,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044719",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 449.5062843921501
+  "min_distance": 449.5062843921501,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28044720,
   "dat": "Sur",
@@ -5453,7 +6563,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044720",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 669.0046930858213
+  "min_distance": 669.0046930858213,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28044744,
   "dat": "Este",
@@ -5472,7 +6586,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044744",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1013.9665372857464
+  "min_distance": 1013.9665372857464,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28044756,
   "dat": "Este",
@@ -5491,7 +6609,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044756",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1158.2414885016974
+  "min_distance": 1158.2414885016974,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28044768,
   "dat": "Este",
@@ -5510,7 +6633,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044768",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 7218.771240190347
+  "min_distance": 7218.771240190347,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28044896,
   "dat": "Norte",
@@ -5529,7 +6657,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044896",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 28433.15799948551
+  "min_distance": 28433.15799948551,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28044902,
   "dat": "Capital",
@@ -5551,7 +6684,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044902",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 340.14707072919964
+  "min_distance": 340.14707072919964,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28045025,
   "dat": "Este",
@@ -5570,7 +6708,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045025",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 4885.47908536609
+  "min_distance": 4885.47908536609,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28045037,
   "dat": "Este",
@@ -5589,7 +6732,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045037",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 946.8007236892745
+  "min_distance": 946.8007236892745,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28045049,
   "dat": "Este",
@@ -5608,7 +6755,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045049",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 19794.643070980736
+  "min_distance": 19794.643070980736,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28045050,
   "dat": "Oeste",
@@ -5627,7 +6778,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045050",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1057.0202057276808
+  "min_distance": 1057.0202057276808,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28045268,
   "dat": "Capital",
@@ -5646,7 +6802,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045268",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 275.95505280916
+  "min_distance": 275.95505280916,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045271,
   "dat": "Capital",
@@ -5665,7 +6827,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045271",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 20.08226534595342
+  "min_distance": 20.08226534595342,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045281,
   "dat": "Oeste",
@@ -5684,7 +6851,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045281",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 279.08353224612586
+  "min_distance": 279.08353224612586,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045293,
   "dat": "Capital",
@@ -5703,7 +6875,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045293",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 111.0581823117445
+  "min_distance": 111.0581823117445,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045311,
   "dat": "Capital",
@@ -5722,7 +6899,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045311",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 272.04485079164584
+  "min_distance": 272.04485079164584,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045323,
   "dat": "Capital",
@@ -5741,7 +6923,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045323",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 308.2717687769276
+  "min_distance": 308.2717687769276,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045347,
   "dat": "Capital",
@@ -5760,7 +6947,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045347",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 320.56152708142884
+  "min_distance": 320.56152708142884,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes",
+    "Cursos a distancia Soporte Telem\u00e1tico"
+  ]
 },{
   "id": 28045359,
   "dat": "Este",
@@ -5779,7 +6972,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045359",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 208.4802338780616
+  "min_distance": 208.4802338780616,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes",
+    "Cursos a distancia Soporte Telem\u00e1tico"
+  ]
 },{
   "id": 28045360,
   "dat": "Sur",
@@ -5798,7 +6997,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045360",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 402.37633602428593
+  "min_distance": 402.37633602428593,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045372,
   "dat": "Sur",
@@ -5817,7 +7022,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045372",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 806.3254742273995
+  "min_distance": 806.3254742273995,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045396,
   "dat": "Sur",
@@ -5836,7 +7046,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045396",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 547.3054379014696
+  "min_distance": 547.3054379014696,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045414,
   "dat": "Sur",
@@ -5855,7 +7070,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045414",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 12137.61077644397
+  "min_distance": 12137.61077644397,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045426,
   "dat": "Sur",
@@ -5874,7 +7093,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045426",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 401.999037718894
+  "min_distance": 401.999037718894,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045438,
   "dat": "Sur",
@@ -5893,7 +7118,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045438",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 2326.9848084034184
+  "min_distance": 2326.9848084034184,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045441,
   "dat": "Sur",
@@ -5912,7 +7142,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045441",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 160.4333435510137
+  "min_distance": 160.4333435510137,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045463,
   "dat": "Norte",
@@ -5931,7 +7166,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045463",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 19096.72059611932
+  "min_distance": 19096.72059611932,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045608,
   "dat": "Capital",
@@ -5950,7 +7190,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045608",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 162.33106922785444
+  "min_distance": 162.33106922785444,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045621,
   "dat": "Oeste",
@@ -5969,7 +7213,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045621",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 827.1697294335768
+  "min_distance": 827.1697294335768,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045633,
   "dat": "Capital",
@@ -5988,7 +7237,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045633",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 900.0757754876399
+  "min_distance": 900.0757754876399,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28045645,
   "dat": "Sur",
@@ -6007,7 +7261,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045645",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 22084.180156965816
+  "min_distance": 22084.180156965816,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28045657,
   "dat": "Capital",
@@ -6026,7 +7285,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045657",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 233.00958931657215
+  "min_distance": 233.00958931657215,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28045669,
   "dat": "Este",
@@ -6045,7 +7309,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045669",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 6551.490799907985
+  "min_distance": 6551.490799907985,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28045773,
   "dat": "Este",
@@ -6064,7 +7332,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045773",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 9658.885224614047
+  "min_distance": 9658.885224614047,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28045803,
   "dat": "Sur",
@@ -6083,7 +7355,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045803",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1181.2009119535203
+  "min_distance": 1181.2009119535203,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28045815,
   "dat": "Sur",
@@ -6102,7 +7378,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045815",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 1867.7915311485722
+  "min_distance": 1867.7915311485722,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28045839,
   "dat": "Oeste",
@@ -6121,7 +7401,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045839",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 8849.887218294578
+  "min_distance": 8849.887218294578,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28045840,
   "dat": "Capital",
@@ -6140,7 +7424,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045840",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 71.20079273002065
+  "min_distance": 71.20079273002065,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28046091,
   "dat": "Este",
@@ -6159,7 +7447,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046091",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2316.3383951339465
+  "min_distance": 2316.3383951339465,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28046111,
   "dat": "Oeste",
@@ -6178,7 +7470,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046111",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1642.4126174579578
+  "min_distance": 1642.4126174579578,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28046251,
   "dat": "Oeste",
@@ -6197,7 +7493,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046251",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 7385.312961796786
+  "min_distance": 7385.312961796786,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28046261,
   "dat": "Sur",
@@ -6216,7 +7515,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046261",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2933.70669716762
+  "min_distance": 2933.70669716762,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28046273,
   "dat": "Sur",
@@ -6235,7 +7538,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046273",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 27971.727452387255
+  "min_distance": 27971.727452387255,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28046285,
   "dat": "Este",
@@ -6254,7 +7561,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046285",
   "tipo": "047",
   "status_web": 200,
-  "min_distance": 19140.405332174516
+  "min_distance": 19140.405332174516,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28046297,
   "dat": "Este",
@@ -6273,7 +7583,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046297",
   "tipo": "047",
   "status_web": 200,
-  "min_distance": 8239.520198646105
+  "min_distance": 8239.520198646105,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28046303,
   "dat": "Oeste",
@@ -6292,7 +7605,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046303",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 9303.761933170712
+  "min_distance": 9303.761933170712,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28046315,
   "dat": "Sur",
@@ -6311,7 +7629,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046315",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 4776.63514448985
+  "min_distance": 4776.63514448985,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28046339,
   "dat": "Norte",
@@ -6330,7 +7652,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046339",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 12117.757322423095
+  "min_distance": 12117.757322423095,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28046352,
   "dat": "Oeste",
@@ -6349,7 +7676,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046352",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2904.3677676256816
+  "min_distance": 2904.3677676256816,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28046364,
   "dat": "Oeste",
@@ -6368,26 +7699,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046364",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1014.1941788308475
-},{
-  "id": 28046376,
-  "dat": "Capital",
-  "nombre": "ESCUELA DE LA VID",
-  "direccion": "Ronda De Las Provincias, 5 28011 Madrid",
-  "telefono": 914633100,
-  "mail": "ies.vid.madrid@educa.madrid.org",
-  "latlon": "40.41090778395,-3.7429754474705215",
-  "nocturno": null,
-  "dificultad": false,
-  "adaptado": false,
-  "excelencia": false,
-  "tecnico": false,
-  "bilingue": false,
-  "url": "http://www.educa.madrid.org/ies.vid.madrid",
-  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046376",
-  "tipo": "042",
-  "status_web": 200,
-  "min_distance": 350.78343606937506
+  "min_distance": 1014.1941788308475,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28046467,
   "dat": "Capital",
@@ -6406,7 +7723,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046467",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1261.702964328221
+  "min_distance": 1261.702964328221,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28046479,
   "dat": "Capital",
@@ -6425,7 +7747,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046479",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 166.15149588371204
+  "min_distance": 166.15149588371204,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28046522,
   "dat": "Este",
@@ -6444,7 +7771,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046522",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1723.3637827460655
+  "min_distance": 1723.3637827460655,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28046558,
   "dat": "Oeste",
@@ -6463,7 +7795,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046558",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5161.673458860587
+  "min_distance": 5161.673458860587,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28047411,
   "dat": "Capital",
@@ -6482,45 +7818,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28047411",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 299.30436416142146
-},{
-  "id": 28048282,
-  "dat": "Capital",
-  "nombre": "PUERTA BONITA",
-  "direccion": "Calle Del Padre Amigo, 5 28025 Madrid",
-  "telefono": 914661744,
-  "mail": "ies.puertabonita.madrid@educa.madrid.org",
-  "latlon": "40.37958767511893,-3.7395330254556387",
-  "nocturno": null,
-  "dificultad": false,
-  "adaptado": false,
-  "excelencia": false,
-  "tecnico": false,
-  "bilingue": false,
-  "url": "http://www.educa.madrid.org/ies.puertabonita.madrid",
-  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048282",
-  "tipo": "042",
-  "status_web": 200,
-  "min_distance": 588.14304160161
-},{
-  "id": 28048294,
-  "dat": "Capital",
-  "nombre": "HOTEL ESCUELA DE LA COMUNIDAD DE MADRID",
-  "direccion": "Carretera De Colmenar Viejo, K12.8 28049 Madrid",
-  "telefono": 913721333,
-  "mail": "ies.hotelescuela.madrid@educa.madrid.org",
-  "latlon": "40.5255838067216,-3.682719954960553",
-  "nocturno": null,
-  "dificultad": false,
-  "adaptado": false,
-  "excelencia": false,
-  "tecnico": false,
-  "bilingue": false,
-  "url": "http://www.educa.madrid.org/ies.hotelescuela.madrid",
-  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048294",
-  "tipo": "042",
-  "status_web": 991,
-  "min_distance": 1997.4336793598525
+  "min_distance": 299.30436416142146,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28048476,
   "dat": "Oeste",
@@ -6539,26 +7842,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048476",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 210.4427021013843
-},{
-  "id": 28049341,
-  "dat": "Sur",
-  "nombre": "CENTRO DE CAPACITACION AGRARIA",
-  "direccion": "Avenida Viveros, 1 28670 Villaviciosa de Od\u00f3n",
-  "telefono": 916160860,
-  "mail": "ies.capacitacionagraria.villaviciosa@educa.madrid.org",
-  "latlon": "40.35964084025668,-3.890505829603075",
-  "nocturno": null,
-  "dificultad": false,
-  "adaptado": false,
-  "excelencia": false,
-  "tecnico": false,
-  "bilingue": false,
-  "url": "http://www.educa.madrid.org/ies.capacitacionagraria.villaviciosa",
-  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28049341",
-  "tipo": "042",
-  "status_web": 200,
-  "min_distance": 3136.541149962088
+  "min_distance": 210.4427021013843,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28050525,
   "dat": "Sur",
@@ -6577,7 +7865,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050525",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 6628.106415017138
+  "min_distance": 6628.106415017138,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28050537,
   "dat": "Sur",
@@ -6596,7 +7888,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050537",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 8348.87421684742
+  "min_distance": 8348.87421684742,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28050549,
   "dat": "Sur",
@@ -6615,7 +7911,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050549",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 3801.5630851641167
+  "min_distance": 3801.5630851641167,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28050550,
   "dat": "Sur",
@@ -6634,7 +7934,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050550",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 12753.179624615841
+  "min_distance": 12753.179624615841,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28050562,
   "dat": "Oeste",
@@ -6653,7 +7957,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050562",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 7630.068370311576
+  "min_distance": 7630.068370311576,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28050720,
   "dat": "Sur",
@@ -6672,7 +7980,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050720",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 884.2230507138211
+  "min_distance": 884.2230507138211,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28050732,
   "dat": "Este",
@@ -6691,7 +8003,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050732",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 681.4148907625237
+  "min_distance": 681.4148907625237,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28056400,
   "dat": "Este",
@@ -6710,7 +8026,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056400",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 2130.2022373718746
+  "min_distance": 2130.2022373718746,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28056412,
   "dat": "Este",
@@ -6729,7 +8049,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056412",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 2064.1899191507205
+  "min_distance": 2064.1899191507205,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Cursos a distancia Soporte Telem\u00e1tico"
+  ]
 },{
   "id": 28056424,
   "dat": "Sur",
@@ -6748,7 +8073,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056424",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 2704.0459401634384
+  "min_distance": 2704.0459401634384,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28056436,
   "dat": "Sur",
@@ -6767,7 +8096,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056436",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 7768.41164163568
+  "min_distance": 7768.41164163568,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28056448,
   "dat": "Norte",
@@ -6786,7 +8119,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056448",
   "tipo": "035",
   "status_web": 200,
-  "min_distance": 8195.16878684636
+  "min_distance": 8195.16878684636,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28056451,
   "dat": "Sur",
@@ -6805,7 +8142,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056451",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 11523.056775845387
+  "min_distance": 11523.056775845387,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28057076,
   "dat": "Oeste",
@@ -6824,7 +8165,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057076",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 2538.443361618829
+  "min_distance": 2538.443361618829,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28057088,
   "dat": "Oeste",
@@ -6843,7 +8187,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057088",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 8890.775349709735
+  "min_distance": 8890.775349709735,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28057180,
   "dat": "Sur",
@@ -6862,7 +8209,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057180",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 574.9252205497583
+  "min_distance": 574.9252205497583,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28057209,
   "dat": "Este",
@@ -6881,7 +8232,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057209",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 4805.8154649272465
+  "min_distance": 4805.8154649272465,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28057210,
   "dat": "Este",
@@ -6900,7 +8255,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057210",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2374.075527446809
+  "min_distance": 2374.075527446809,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28057222,
   "dat": "Este",
@@ -6919,7 +8278,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057222",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5308.873569287038
+  "min_distance": 5308.873569287038,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28057271,
   "dat": "Capital",
@@ -6938,7 +8300,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057271",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 281.1187331115401
+  "min_distance": 281.1187331115401,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28057660,
   "dat": "Este",
@@ -6957,7 +8324,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057660",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1889.273174592918
+  "min_distance": 1889.273174592918,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28057672,
   "dat": "Oeste",
@@ -6976,7 +8348,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057672",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 2280.0855705630483
+  "min_distance": 2280.0855705630483,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes",
+    "Cursos a distancia Soporte Telem\u00e1tico"
+  ]
 },{
   "id": 28057684,
   "dat": "Oeste",
@@ -6995,7 +8373,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057684",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 260.66477281241424
+  "min_distance": 260.66477281241424,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28057751,
   "dat": "Norte",
@@ -7014,7 +8398,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057751",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 12190.75998986556
+  "min_distance": 12190.75998986556,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28057805,
   "dat": "Capital",
@@ -7033,7 +8421,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057805",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 297.51754853218057
+  "min_distance": 297.51754853218057,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28057957,
   "dat": "Sur",
@@ -7052,7 +8445,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057957",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 223.2485433804886
+  "min_distance": 223.2485433804886,
+  "etapas": null
 },{
   "id": 28057969,
   "dat": "Sur",
@@ -7071,7 +8465,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057969",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 661.0549506439556
+  "min_distance": 661.0549506439556,
+  "etapas": null
 },{
   "id": 28057970,
   "dat": "Sur",
@@ -7090,7 +8485,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057970",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 273.27931927282253
+  "min_distance": 273.27931927282253,
+  "etapas": null
 },{
   "id": 28057982,
   "dat": "Sur",
@@ -7109,7 +8505,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057982",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 103.81248081023108
+  "min_distance": 103.81248081023108,
+  "etapas": null
 },{
   "id": 28057994,
   "dat": "Capital",
@@ -7128,7 +8525,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057994",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 55.97866556257026
+  "min_distance": 55.97866556257026,
+  "etapas": null
 },{
   "id": 28058007,
   "dat": "Capital",
@@ -7147,7 +8545,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058007",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 115.61249840728136
+  "min_distance": 115.61249840728136,
+  "etapas": null
 },{
   "id": 28058019,
   "dat": "Capital",
@@ -7166,7 +8565,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058019",
   "tipo": "036",
   "status_web": 999,
-  "min_distance": 130.89837498349806
+  "min_distance": 130.89837498349806,
+  "etapas": null
 },{
   "id": 28058603,
   "dat": "Capital",
@@ -7185,7 +8585,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058603",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 887.7697953294161
+  "min_distance": 887.7697953294161,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28058615,
   "dat": "Este",
@@ -7204,7 +8608,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058615",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1669.0152076679683
+  "min_distance": 1669.0152076679683,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28058627,
   "dat": "Este",
@@ -7223,7 +8630,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058627",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1079.9308948506657
+  "min_distance": 1079.9308948506657,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28058639,
   "dat": "Norte",
@@ -7242,7 +8653,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058639",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 899.5935603596274
+  "min_distance": 899.5935603596274,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28058640,
   "dat": "Oeste",
@@ -7261,7 +8677,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058640",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 456.6477133582433
+  "min_distance": 456.6477133582433,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28058652,
   "dat": "Oeste",
@@ -7280,7 +8701,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058652",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2757.855218550114
+  "min_distance": 2757.855218550114,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28058664,
   "dat": "Sur",
@@ -7299,7 +8724,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058664",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 296.59051389597
+  "min_distance": 296.59051389597,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28058676,
   "dat": "Sur",
@@ -7318,7 +8747,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058676",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 13531.343434335464
+  "min_distance": 13531.343434335464,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28058688,
   "dat": "Sur",
@@ -7337,7 +8770,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058688",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5009.698790645778
+  "min_distance": 5009.698790645778,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28059279,
   "dat": "Oeste",
@@ -7356,7 +8793,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059279",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2644.37917787636
+  "min_distance": 2644.37917787636,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28059361,
   "dat": "Capital",
@@ -7375,7 +8815,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059361",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 221.36610906776636
+  "min_distance": 221.36610906776636,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28059371,
   "dat": "Oeste",
@@ -7394,7 +8839,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059371",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 9833.223321829928
+  "min_distance": 9833.223321829928,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28059383,
   "dat": "Oeste",
@@ -7413,7 +8863,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059383",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 3031.7424141850997
+  "min_distance": 3031.7424141850997,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28059395,
   "dat": "Oeste",
@@ -7432,7 +8887,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059395",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1048.4586486717117
+  "min_distance": 1048.4586486717117,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28059401,
   "dat": "Norte",
@@ -7451,7 +8911,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059401",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 33379.30837566091
+  "min_distance": 33379.30837566091,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28060270,
   "dat": "Sur",
@@ -7470,7 +8934,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060270",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 842.6215643590664
+  "min_distance": 842.6215643590664,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28060348,
   "dat": "Oeste",
@@ -7489,7 +8956,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060348",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 3442.327703957533
+  "min_distance": 3442.327703957533,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28060373,
   "dat": "Este",
@@ -7508,7 +8978,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060373",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1834.8802777859503
+  "min_distance": 1834.8802777859503,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28060385,
   "dat": "Este",
@@ -7527,7 +9001,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060385",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 9208.239452833654
+  "min_distance": 9208.239452833654,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28060397,
   "dat": "Este",
@@ -7546,7 +9024,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060397",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 4558.826287612402
+  "min_distance": 4558.826287612402,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28060816,
   "dat": "Oeste",
@@ -7565,7 +9047,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060816",
   "tipo": "016",
   "status_web": 991,
-  "min_distance": 1101.6161548302105
+  "min_distance": 1101.6161548302105,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28060968,
   "dat": "Norte",
@@ -7584,7 +9070,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060968",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 214.62762206256215
+  "min_distance": 214.62762206256215,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28060971,
   "dat": "Oeste",
@@ -7603,7 +9094,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060971",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 552.2511405522044
+  "min_distance": 552.2511405522044,
+  "etapas": [
+    "Desarrollo Personal",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para inmigrantes"
+  ]
 },{
   "id": 28062011,
   "dat": "Sur",
@@ -7622,7 +9118,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062011",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2940.715039003135
+  "min_distance": 2940.715039003135,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28062023,
   "dat": "Sur",
@@ -7641,7 +9141,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062023",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2843.213212012855
+  "min_distance": 2843.213212012855,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28062035,
   "dat": "Sur",
@@ -7660,7 +9164,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062035",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1495.725840675742
+  "min_distance": 1495.725840675742,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28062126,
   "dat": "Capital",
@@ -7679,7 +9187,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062126",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 331.2597252609027
+  "min_distance": 331.2597252609027,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28063799,
   "dat": "Capital",
@@ -7698,7 +9209,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28063799",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 128.36292989043292
+  "min_distance": 128.36292989043292,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28064007,
   "dat": "Este",
@@ -7717,7 +9231,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064007",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1574.832001196581
+  "min_distance": 1574.832001196581,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28064044,
   "dat": "Norte",
@@ -7736,7 +9254,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064044",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 16657.15944894314
+  "min_distance": 16657.15944894314,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28064160,
   "dat": "Oeste",
@@ -7755,7 +9276,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064160",
   "tipo": "070",
   "status_web": 999,
-  "min_distance": 897.1916687246154
+  "min_distance": 897.1916687246154,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28064721,
   "dat": "Sur",
@@ -7774,7 +9298,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064721",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 177.5422818671819
+  "min_distance": 177.5422818671819,
+  "etapas": null
 },{
   "id": 28065632,
   "dat": "Sur",
@@ -7793,7 +9318,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065632",
   "tipo": "047",
   "status_web": 999,
-  "min_distance": 2492.3463135542343
+  "min_distance": 2492.3463135542343,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28065644,
   "dat": "Oeste",
@@ -7812,7 +9340,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065644",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 588.0572269302692
+  "min_distance": 588.0572269302692,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28065711,
   "dat": "Capital",
@@ -7831,7 +9362,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065711",
   "tipo": "017",
   "status_web": 200,
-  "min_distance": 639.6672557163703
+  "min_distance": 639.6672557163703,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28065841,
   "dat": "Este",
@@ -7850,7 +9384,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065841",
   "tipo": "047",
   "status_web": 200,
-  "min_distance": 7198.330615877129
+  "min_distance": 7198.330615877129,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28067628,
   "dat": "Sur",
@@ -7869,7 +9406,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067628",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1580.7114552455064
+  "min_distance": 1580.7114552455064,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28067744,
   "dat": "Sur",
@@ -7888,26 +9429,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067744",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 16245.723894915694
-},{
-  "id": 28067768,
-  "dat": "Sur",
-  "nombre": "SAN MIGUEL",
-  "direccion": "Calle De Las Vi\u00f1as, 9 28609 Villamantilla",
-  "telefono": 918137521,
-  "mail": "cp.sanmiguel.villamantilla@educa.madrid.org",
-  "latlon": "40.34520627645323,-4.128178424041363",
-  "nocturno": null,
-  "dificultad": false,
-  "adaptado": false,
-  "excelencia": false,
-  "tecnico": false,
-  "bilingue": false,
-  "url": "http://www.educa.madrid.org/cp.sanmiguel.villamantilla",
-  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067768",
-  "tipo": "070",
-  "status_web": 200,
-  "min_distance": 20283.415620580625
+  "min_distance": 16245.723894915694,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28069391,
   "dat": "Sur",
@@ -7926,7 +9451,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069391",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 870.3064429915967
+  "min_distance": 870.3064429915967,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28069844,
   "dat": "Sur",
@@ -7945,7 +9474,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069844",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 147.42759611794526
+  "min_distance": 147.42759611794526,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28070691,
   "dat": "Sur",
@@ -7964,7 +9497,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070691",
   "tipo": "070",
   "status_web": 999,
-  "min_distance": 3874.0982462730094
+  "min_distance": 3874.0982462730094,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28070721,
   "dat": "Este",
@@ -7983,7 +9519,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070721",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 778.7243028656288
+  "min_distance": 778.7243028656288,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28070962,
   "dat": "Sur",
@@ -8002,7 +9541,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070962",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 637.3786147684015
+  "min_distance": 637.3786147684015,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28070974,
   "dat": "Sur",
@@ -8021,7 +9564,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070974",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 64.76929157354846
+  "min_distance": 64.76929157354846,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28071310,
   "dat": "Norte",
@@ -8040,7 +9587,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28071310",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 19318.793014945513
+  "min_distance": 19318.793014945513,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28072107,
   "dat": "Sur",
@@ -8059,7 +9611,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072107",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 140.99110945767188
+  "min_distance": 140.99110945767188,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28072223,
   "dat": "Sur",
@@ -8078,7 +9634,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072223",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 507.03314221621486
+  "min_distance": 507.03314221621486,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28073859,
   "dat": "Capital",
@@ -8097,7 +9657,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073859",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 245.58819253832507
+  "min_distance": 245.58819253832507,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28073872,
   "dat": "Norte",
@@ -8116,7 +9680,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073872",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 21249.811459348814
+  "min_distance": 21249.811459348814,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28074037,
   "dat": "Sur",
@@ -8135,7 +9702,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074037",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 788.26693297902
+  "min_distance": 788.26693297902,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28074049,
   "dat": "Sur",
@@ -8154,7 +9725,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074049",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5270.607998780928
+  "min_distance": 5270.607998780928,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28074050,
   "dat": "Sur",
@@ -8173,7 +9748,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074050",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 818.4808281988537
+  "min_distance": 818.4808281988537,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28074062,
   "dat": "Sur",
@@ -8192,7 +9772,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074062",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 789.0472503002725
+  "min_distance": 789.0472503002725,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28074244,
   "dat": "Capital",
@@ -8214,7 +9798,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074244",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 262.03360851558597
+  "min_distance": 262.03360851558597,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato",
+    "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+  ]
 },{
   "id": 28074669,
   "dat": "Sur",
@@ -8233,7 +9822,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074669",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 565.7462852473591
+  "min_distance": 565.7462852473591,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28074670,
   "dat": "Sur",
@@ -8255,7 +9848,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074670",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 903.9933209632318
+  "min_distance": 903.9933209632318,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28074852,
   "dat": "Sur",
@@ -8274,7 +9871,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074852",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1068.3831442774465
+  "min_distance": 1068.3831442774465,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28074918,
   "dat": "Capital",
@@ -8293,7 +9893,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074918",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 353.8600454553325
+  "min_distance": 353.8600454553325,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28075492,
   "dat": "Sur",
@@ -8312,7 +9916,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075492",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 502.4276258934881
+  "min_distance": 502.4276258934881,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28075509,
   "dat": "Sur",
@@ -8331,7 +9939,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075509",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 6669.068216688161
+  "min_distance": 6669.068216688161,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28075510,
   "dat": "Oeste",
@@ -8350,7 +9962,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075510",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 888.7712259573207
+  "min_distance": 888.7712259573207,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28075820,
   "dat": "Este",
@@ -8369,7 +9985,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075820",
   "tipo": "036",
   "status_web": 999,
-  "min_distance": 1266.1904133891126
+  "min_distance": 1266.1904133891126,
+  "etapas": null
 },{
   "id": 28076368,
   "dat": "Capital",
@@ -8388,7 +10005,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076368",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 334.58813497374257
+  "min_distance": 334.58813497374257,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28076371,
   "dat": "Capital",
@@ -8407,7 +10028,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076371",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 800.1644860117963
+  "min_distance": 800.1644860117963,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28076381,
   "dat": "Este",
@@ -8426,7 +10051,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076381",
   "tipo": "047",
   "status_web": 200,
-  "min_distance": 8949.163666851839
+  "min_distance": 8949.163666851839,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28077269,
   "dat": "Capital",
@@ -8445,7 +10073,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077269",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 438.518427583105
+  "min_distance": 438.518427583105,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28077491,
   "dat": "Norte",
@@ -8464,7 +10096,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077491",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 2043.8852310404232
+  "min_distance": 2043.8852310404232,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28077889,
   "dat": "Capital",
@@ -8483,7 +10118,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077889",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 572.2554239476623
+  "min_distance": 572.2554239476623,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28077890,
   "dat": "Este",
@@ -8502,7 +10140,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077890",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5586.713224196822
+  "min_distance": 5586.713224196822,
+  "etapas": [
+    "Bachillerato"
+  ]
 },{
   "id": 28077907,
   "dat": "Sur",
@@ -8521,7 +10162,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077907",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 264.17255199919026
+  "min_distance": 264.17255199919026,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28077971,
   "dat": "Sur",
@@ -8540,7 +10185,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077971",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 551.7174003326456
+  "min_distance": 551.7174003326456,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ]
 },{
   "id": 28078031,
   "dat": "Oeste",
@@ -8559,7 +10207,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078031",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 835.064385290594
+  "min_distance": 835.064385290594,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28078043,
   "dat": "Norte",
@@ -8578,7 +10230,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078043",
   "tipo": "047",
   "status_web": 999,
-  "min_distance": 839.9379003111387
+  "min_distance": 839.9379003111387,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28078547,
   "dat": "Sur",
@@ -8597,7 +10252,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078547",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1383.4192990635047
+  "min_distance": 1383.4192990635047,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28078559,
   "dat": "Capital",
@@ -8616,7 +10274,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078559",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 138.48608074768546
+  "min_distance": 138.48608074768546,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28078857,
   "dat": "Oeste",
@@ -8635,7 +10297,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078857",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 3636.841140671129
+  "min_distance": 3636.841140671129,
+  "etapas": null
 },{
   "id": 28079357,
   "dat": "Capital",
@@ -8654,7 +10317,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079357",
   "tipo": "042",
   "status_web": null,
-  "min_distance": 1140.552891111384
+  "min_distance": 1140.552891111384,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+    "Bachillerato"
+  ]
 },{
   "id": 28079370,
   "dat": "Capital",
@@ -8673,7 +10340,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079370",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 611.6013288097525
+  "min_distance": 611.6013288097525,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28079382,
   "dat": "Capital",
@@ -8692,7 +10362,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079382",
   "tipo": "042",
   "status_web": null,
-  "min_distance": 205.48301949013728
+  "min_distance": 205.48301949013728,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28079394,
   "dat": "Este",
@@ -8711,7 +10384,10 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079394",
   "tipo": "042",
   "status_web": null,
-  "min_distance": 588.0454769552887
+  "min_distance": 588.0454769552887,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 },{
   "id": 28079400,
   "dat": "Este",
@@ -8730,5 +10406,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079400",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1503.978852751892
+  "min_distance": 1503.978852751892,
+  "etapas": [
+    "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+  ]
 }]

@@ -22,6 +22,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 9291.950510646871,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -57,6 +62,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1635.5914025525217,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -89,6 +98,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 991,
         "min_distance": 1702.2675270505988,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -109,7 +124,7 @@ var geomap = {
         "direccion": "Calle Alalpardo, S/n 28806 Alcal\u00e1 de Henares",
         "telefono": 918892450,
         "mail": "ies.machado.alcala@educa.madrid.org",
-        "latlon": "40.491658570060444,-3.3696764563273067",
+        "latlon": "40.49165857006046,-3.3696764563273067",
         "nocturno": [
           "Artes (LOE-LOMCE)"
         ],
@@ -122,7 +137,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000522",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 410.98936381678175,
+        "min_distance": 410.9893638180325,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -130,7 +153,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.3696764563273067,
-          40.491658570060444
+          40.49165857006046
         ]
       }
     },
@@ -159,6 +182,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1455.5754761744386,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Curso preparatorio prueba de acceso Grado Superior (LOE)",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -194,6 +223,14 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 961.795377240997,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -226,6 +263,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1205.8462953830172,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -258,6 +300,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1556.5762399404352,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -278,7 +324,7 @@ var geomap = {
         "direccion": "Paseo De San Sebasti\u00e1n, 23 28490 Becerril de la Sierra",
         "telefono": 918538064,
         "mail": "cp.juanramonjimenez.becerril@educa.madrid.org",
-        "latlon": "40.71360141345146,-3.9910766855742534",
+        "latlon": "40.71360141345145,-3.9910766855742534",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -289,7 +335,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001812",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 4430.285366360287,
+        "min_distance": 4430.28536635918,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -297,7 +348,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.9910766855742534,
-          40.71360141345146
+          40.71360141345145
         ]
       }
     },
@@ -322,6 +373,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 124.1841192298214,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -354,6 +410,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 11562.055251327944,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -386,6 +447,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 29844.171500382316,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -418,6 +484,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 5688.8741786090695,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -450,6 +521,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 34445.160719479354,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -482,6 +558,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1059.3381325486403,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -514,6 +596,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 8926.63797534027,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -549,6 +636,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 2751.3816772102628,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Idiomas (LOE 1)"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -581,6 +674,14 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1390.059852333341,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Curso preparatorio prueba de acceso Grado Superior (LOE)",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -613,6 +714,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 967.8094288134089,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -645,6 +753,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 11175.001027771794,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -680,6 +793,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 365.8282128690611,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
@@ -712,6 +829,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 156.73628570218827,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -747,6 +869,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 424.1883701173416,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
@@ -779,6 +905,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 966.0958857865177,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -799,7 +930,7 @@ var geomap = {
         "direccion": "Calle Alpujarras, 52 28915 Legan\u00e9s",
         "telefono": 916880222,
         "mail": "ies.mariazambrano.leganes@educa.madrid.org",
-        "latlon": "40.33059038009869,-3.7475089043237886",
+        "latlon": "40.330590380098705,-3.7475089043237886",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -810,7 +941,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003900",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 594.8699844573669,
+        "min_distance": 594.8699844560906,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -818,7 +953,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7475089043237886,
-          40.33059038009869
+          40.330590380098705
         ]
       }
     },
@@ -846,6 +981,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 96.6526267172232,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -878,6 +1018,9 @@ var geomap = {
         "tipo": "036",
         "status_web": 200,
         "min_distance": 506.6947088591469,
+        "etapas": [
+          "Educaci\u00f3n Especial (Adaptac.LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -910,6 +1053,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 451.8213508379783,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -942,6 +1089,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 507.64897004686406,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -974,6 +1125,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 121.12731361170057,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1006,6 +1161,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 243.1166354194918,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -1038,6 +1197,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 143.98862307799908,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1070,6 +1234,9 @@ var geomap = {
         "tipo": "036",
         "status_web": 200,
         "min_distance": 381.7947612557047,
+        "etapas": [
+          "Educaci\u00f3n Especial (Adaptac.LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1102,6 +1269,14 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1403.6147506844854,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Curso preparatorio prueba de acceso Grado Superior (LOE)",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1122,7 +1297,7 @@ var geomap = {
         "direccion": "Avenida De Carabanchel Alto, 17 28044 Madrid",
         "telefono": null,
         "mail": "ies.numerounoejercito.madrid@educa.madrid.org",
-        "latlon": "40.369772931882444,-3.752712005119586",
+        "latlon": "40.36977293188244,-3.752712005119586",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -1134,6 +1309,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 240.6392544157933,
+        "etapas": [
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1141,7 +1319,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.752712005119586,
-          40.369772931882444
+          40.36977293188244
         ]
       }
     },
@@ -1168,6 +1346,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 104.2970085692635,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
@@ -1200,6 +1382,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 625.8716403075971,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -1232,6 +1420,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 289.0012128560645,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -1264,6 +1456,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 404,
         "min_distance": 515.7251554764266,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1296,6 +1494,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 154.8431823705998,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -1328,6 +1530,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 179.76617096521758,
+        "etapas": [
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1360,6 +1566,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1991.7597433681617,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1395,6 +1608,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 87.8169540257072,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -1427,6 +1644,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 191.0810544195658,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -1459,6 +1683,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 412.95704732880796,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1494,6 +1723,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 519.0919101720526,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -1526,6 +1761,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 72.1516954854248,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -1558,6 +1797,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 378.9077700842562,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1578,7 +1822,7 @@ var geomap = {
         "direccion": "Calle De N\u00e1poles, 56 28043 Madrid",
         "telefono": 913884579,
         "mail": "ies.condedeorgaz.madrid@educa.madrid.org",
-        "latlon": "40.45998318179353,-3.646389131938344",
+        "latlon": "40.459983181793525,-3.646389131938344",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -1589,7 +1833,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020545",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 64.18180116508786,
+        "min_distance": 64.18180116458264,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -1597,7 +1845,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.646389131938344,
-          40.45998318179353
+          40.459983181793525
         ]
       }
     },
@@ -1610,7 +1858,7 @@ var geomap = {
         "direccion": "Calle De Arcos De Jal\u00f3n, 116 28037 Madrid",
         "telefono": 913064069,
         "mail": "ies.carlostercero.madrid@educa.madrid.org",
-        "latlon": "40.42491452590933,-3.6144371343516086",
+        "latlon": "40.424914525909315,-3.6144371343516086",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -1621,7 +1869,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020557",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 321.57952222934694,
+        "min_distance": 321.57952223123254,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1629,7 +1881,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6144371343516086,
-          40.42491452590933
+          40.424914525909315
         ]
       }
     },
@@ -1654,6 +1906,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 261.22781088045997,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1686,6 +1944,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 461.443539901059,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -1722,6 +1984,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 200.91723051748798,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -1754,6 +2020,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 48.23774867287857,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -1786,6 +2056,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 54.56946082927515,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1818,6 +2095,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1164.746797279519,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1850,6 +2134,14 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 149.26952812868313,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1882,6 +2174,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 171.13168587508613,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -1914,6 +2210,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 217.93258155147635,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -1934,7 +2235,7 @@ var geomap = {
         "direccion": "Calle V\u00eda L\u00edmite, 14 28029 Madrid",
         "telefono": 913146706,
         "mail": "ies.tetuan.madrid@educa.madrid.org",
-        "latlon": "40.47314034686331,-3.696828178293769",
+        "latlon": "40.473140346863296,-3.696828178293769",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -1945,7 +2246,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020831",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 391.4664954293876,
+        "min_distance": 391.4664954280162,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -1953,7 +2259,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.696828178293769,
-          40.47314034686331
+          40.473140346863296
         ]
       }
     },
@@ -1978,6 +2284,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 991,
         "min_distance": 410.90785693318867,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2013,6 +2323,15 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 8.0029516672003,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Curso preparatorio prueba de acceso Grado Superior (LOE)",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -2033,7 +2352,7 @@ var geomap = {
         "direccion": "Calle De Alfonso Xii, 3 28014 Madrid",
         "telefono": 915277878,
         "mail": "ies.isabellacatolica.madrid@educa.madrid.org",
-        "latlon": "40.409517129583975,-3.688192672587283",
+        "latlon": "40.40951712958399,-3.688192672587283",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -2047,7 +2366,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020909",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 232.6786958946251,
+        "min_distance": 232.6786958955586,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -2055,7 +2379,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.688192672587283,
-          40.409517129583975
+          40.40951712958399
         ]
       }
     },
@@ -2080,6 +2404,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 175.29909456480587,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2114,6 +2445,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 72.57344879904582,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -2150,6 +2486,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 134.4105013952032,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -2182,6 +2524,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 270.40778815380725,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -2214,6 +2560,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 503,
         "min_distance": 185.10634550053243,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -2246,6 +2598,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 464.78074948015654,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -2266,7 +2625,7 @@ var geomap = {
         "direccion": "Calle De Luis Mitjans, 41 28007 Madrid",
         "telefono": 915523979,
         "mail": "ies.pacifico.madrid@educa.madrid.org",
-        "latlon": "40.404109465199426,-3.6686222494004217",
+        "latlon": "40.40410946519944,-3.6686222494004217",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -2277,7 +2636,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021252",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 348.6449551419684,
+        "min_distance": 348.64495514096876,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -2285,7 +2649,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6686222494004217,
-          40.404109465199426
+          40.40410946519944
         ]
       }
     },
@@ -2310,6 +2674,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 404,
         "min_distance": 639.9115582313981,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -2342,6 +2713,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1054.2393189696127,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2374,6 +2749,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 652.0259129580626,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2406,6 +2785,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 5428.413470888441,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2438,6 +2822,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 2136.045990837749,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -2470,6 +2859,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 17378.82083196123,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -2502,6 +2896,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 662.7937408537388,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -2534,6 +2933,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 12660.530246550506,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2566,6 +2971,12 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 14674.017974916638,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Educaci\u00f3n Especial (Adaptac.LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2598,6 +3009,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 17689.612674197364,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2630,6 +3046,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 324.5683467248511,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2662,6 +3083,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 376.83530831692656,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2697,6 +3122,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 314.7250415191238,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -2729,6 +3159,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 859.9848488154629,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2761,6 +3198,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 1307.7177969615243,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2796,6 +3240,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 1489.6836015653312,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Curso preparatorio prueba de acceso Grado Superior (LOE)"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -2828,6 +3277,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 28380.34721425196,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -2848,7 +3303,7 @@ var geomap = {
         "direccion": "Calle Miguel Cervantes, 4 28511 Valdilecha",
         "telefono": 918738437,
         "mail": "cp.cervantes.valdilecha@educa.madrid.org",
-        "latlon": "40.29384204220653,-3.2996501318009703",
+        "latlon": "40.29384204220651,-3.2996501318009703",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -2859,7 +3314,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025415",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 12616.2343506746,
+        "min_distance": 12616.23435067482,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2867,7 +3327,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.2996501318009703,
-          40.29384204220653
+          40.29384204220651
         ]
       }
     },
@@ -2892,6 +3352,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 21011.71776427269,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -2912,7 +3377,7 @@ var geomap = {
         "direccion": "Calle De Valdebernardo, 1 28030 Madrid",
         "telefono": 917731854,
         "mail": "ies.felipesegundo.madrid@educa.madrid.org",
-        "latlon": "40.397521590327486,-3.6338429115163104",
+        "latlon": "40.39752159032749,-3.6338429115163104",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -2923,7 +3388,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025828",
         "tipo": "042",
         "status_web": 404,
-        "min_distance": 349.10200678016423,
+        "min_distance": 349.10200677949246,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -2931,7 +3400,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6338429115163104,
-          40.397521590327486
+          40.39752159032749
         ]
       }
     },
@@ -2959,6 +3428,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1309.3756561297296,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
@@ -2991,6 +3466,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 503.0079452048164,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3023,6 +3504,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1250.7908445164562,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3055,6 +3540,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 298.76692626675396,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3090,6 +3580,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 198.51911763576464,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -3122,6 +3616,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 601.8287603156792,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -3142,7 +3640,7 @@ var geomap = {
         "direccion": "Avenida De Los Toreros, 57 28028 Madrid",
         "telefono": 913552326,
         "mail": "ies.avenidadelostor.madrid@educa.madrid.org",
-        "latlon": "40.433518704414745,-3.6647988443253077",
+        "latlon": "40.43351870441474,-3.6647988443253077",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3153,7 +3651,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028428",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 284.2327348867626,
+        "min_distance": 284.2327348864426,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3161,7 +3663,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6647988443253077,
-          40.433518704414745
+          40.43351870441474
         ]
       }
     },
@@ -3189,6 +3691,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 481.1922598811963,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -3221,6 +3727,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 286.9961184782489,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3253,6 +3763,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 300.60348103320183,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3285,6 +3799,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 331.71640110004256,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -3317,6 +3835,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 346.7301308873078,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3349,6 +3871,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 404,
         "min_distance": 547.1908861661842,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3381,6 +3908,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 704.8794994579827,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -3401,7 +3932,7 @@ var geomap = {
         "direccion": "Calle De Serrano, 127 28006 Madrid",
         "telefono": 915617838,
         "mail": "ies.ramirodemaeztu.madrid@educa.madrid.org",
-        "latlon": "40.4423401769383,-3.6860865092847903",
+        "latlon": "40.44234017693831,-3.6860865092847903",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)",
@@ -3416,7 +3947,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028672",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 214.44816106776105,
+        "min_distance": 214.44816106738782,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -3424,7 +3959,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6860865092847903,
-          40.4423401769383
+          40.44234017693831
         ]
       }
     },
@@ -3452,6 +3987,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1621.624577513837,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -3484,6 +4026,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 471.19730290247884,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -3516,6 +4065,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 991,
         "min_distance": 530.6435805574044,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -3536,7 +4092,7 @@ var geomap = {
         "direccion": "Calle De Oca\u00f1a, 35bis 28047 Madrid",
         "telefono": 917179100,
         "mail": "cepa.aluche.madrid@educa.madrid.org",
-        "latlon": "40.384780695686764,-3.7556594164657175",
+        "latlon": "40.38478069568678,-3.7556594164657175",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3547,7 +4103,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030125",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 380.2953628601151,
+        "min_distance": 380.2953628602764,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -3555,7 +4119,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7556594164657175,
-          40.384780695686764
+          40.38478069568678
         ]
       }
     },
@@ -3568,7 +4132,7 @@ var geomap = {
         "direccion": "Calle De Fortuny, 24 28010 Madrid",
         "telefono": 913101839,
         "mail": "ies.fortuny.madrid@educa.madrid.org",
-        "latlon": "40.433759425870306,-3.6898309692897224",
+        "latlon": "40.4337594258703,-3.6898309692897224",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3579,7 +4143,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030137",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 70.99337329340972,
+        "min_distance": 70.99337329208447,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3587,7 +4155,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6898309692897224,
-          40.433759425870306
+          40.4337594258703
         ]
       }
     },
@@ -3612,6 +4180,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 244.25423813034269,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3644,6 +4216,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 84.78695256049548,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3676,6 +4252,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 672.6100874740964,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -3708,6 +4288,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 704.1698424610089,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -3728,7 +4312,7 @@ var geomap = {
         "direccion": "Calle De Alfredo Marquerie, 21 28034 Madrid",
         "telefono": 917388675,
         "mail": "ies.damasoalonso.madrid@educa.madrid.org",
-        "latlon": "40.48718116313999,-3.7004659272215004",
+        "latlon": "40.48718116314,-3.7004659272215004",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -3739,7 +4323,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030186",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 507.3844498704271,
+        "min_distance": 507.384449870013,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3747,7 +4336,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7004659272215004,
-          40.48718116313999
+          40.48718116314
         ]
       }
     },
@@ -3772,6 +4361,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 783.2480013608719,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -3792,7 +4388,7 @@ var geomap = {
         "direccion": "Avenida Juan Carlos I, 19 28981 Parla",
         "telefono": 916982906,
         "mail": "ies.humanejos.parla@educa.madrid.org",
-        "latlon": "40.22868313701137,-3.7688847486100596",
+        "latlon": "40.228683137011366,-3.7688847486100605",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -3803,15 +4399,22 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030216",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 317.316336011678,
+        "min_distance": 317.3163360116577,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7688847486100596,
-          40.22868313701137
+          -3.7688847486100605,
+          40.228683137011366
         ]
       }
     },
@@ -3836,6 +4439,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 987.0750185646491,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -3868,6 +4478,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 211.53286108288287,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3888,7 +4505,7 @@ var geomap = {
         "direccion": "Calle De Somont\u00edn, 59 28033 Madrid",
         "telefono": 913028445,
         "mail": "ies.arturosoria.madrid@educa.madrid.org",
-        "latlon": "40.47774291017068,-3.660161958912997",
+        "latlon": "40.477742910170676,-3.660161958912997",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -3899,7 +4516,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030575",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 249.01290646469795,
+        "min_distance": 249.01290646398664,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -3907,7 +4528,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.660161958912997,
-          40.47774291017068
+          40.477742910170676
         ]
       }
     },
@@ -3932,6 +4553,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 912.4829254699561,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -3964,6 +4592,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 991,
         "min_distance": 350.4197929833338,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -3984,7 +4616,7 @@ var geomap = {
         "direccion": "Calle De Maqueda, 130 28024 Madrid",
         "telefono": 917191511,
         "mail": "ies.blasdeotero.madrid@educa.madrid.org",
-        "latlon": "40.38888268881214,-3.76207929306955",
+        "latlon": "40.38888268881213,-3.76207929306955",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3995,7 +4627,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030927",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 334.99887899039237,
+        "min_distance": 334.99887899059,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -4003,7 +4639,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.76207929306955,
-          40.38888268881214
+          40.38888268881213
         ]
       }
     },
@@ -4028,6 +4664,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 93.99396214662474,
+        "etapas": [
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -4060,6 +4699,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 991,
         "min_distance": 469.0587147862076,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -4092,6 +4735,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 453.0668337398902,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -4112,7 +4762,7 @@ var geomap = {
         "direccion": "Calle De Carlos Ii, S/n 28022 Madrid",
         "telefono": 913065946,
         "mail": "ies.lasmusas.madrid@educa.madrid.org",
-        "latlon": "40.42868839313902,-3.6077871485978754",
+        "latlon": "40.42868839313901,-3.6077871485978754",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4123,7 +4773,13 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030976",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 430.0211627237761,
+        "min_distance": 430.02116272483596,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4131,7 +4787,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6077871485978754,
-          40.42868839313902
+          40.42868839313901
         ]
       }
     },
@@ -4156,6 +4812,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 657.4271655582143,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4188,6 +4851,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 749.9410820361096,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4220,6 +4888,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 239.8372887103968,
+        "etapas": [
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4252,6 +4924,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 213.32254141716544,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4272,7 +4949,7 @@ var geomap = {
         "direccion": "Avenida Alemania, 19 28916 Legan\u00e9s",
         "telefono": 916867274,
         "mail": "ies.arquitectoperid.leganes@educa.madrid.org",
-        "latlon": "40.33420095800474,-3.740826690151356",
+        "latlon": "40.33420095800475,-3.740826690151356",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4283,7 +4960,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032471",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 258.59150390489856,
+        "min_distance": 258.5915039031997,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4291,7 +4972,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.740826690151356,
-          40.33420095800474
+          40.33420095800475
         ]
       }
     },
@@ -4316,6 +4997,14 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 503.3805458845696,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -4348,6 +5037,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 1964.726831396561,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -4368,7 +5061,7 @@ var geomap = {
         "direccion": "Avenida Juan Carlos I, 12 28981 Parla",
         "telefono": 916981111,
         "mail": "ies.tiernogalvan.parla@educa.madrid.org",
-        "latlon": "40.225967008491764,-3.768184077093533",
+        "latlon": "40.22596700849176,-3.768184077093533",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -4382,7 +5075,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032559",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 621.1574716907086,
+        "min_distance": 621.1574716912627,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
@@ -4390,7 +5090,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.768184077093533,
-          40.225967008491764
+          40.22596700849176
         ]
       }
     },
@@ -4415,6 +5115,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 404,
         "min_distance": 121.23455998620985,
+        "etapas": [
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4435,7 +5141,7 @@ var geomap = {
         "direccion": "Calle De Chantada, 34 28029 Madrid",
         "telefono": 913781949,
         "mail": "cepa.sampedro.madrid@educa.madrid.org",
-        "latlon": "40.47346444529824,-3.713111024424132",
+        "latlon": "40.47346444529825,-3.713111024424132",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4446,7 +5152,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033321",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 356.5423492345774,
+        "min_distance": 356.5423492340368,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4454,7 +5168,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.713111024424132,
-          40.47346444529824
+          40.47346444529825
         ]
       }
     },
@@ -4479,6 +5193,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 182.60965967247276,
+        "etapas": [
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4511,6 +5231,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 310.9715511234204,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -4543,6 +5267,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 413.1314169130112,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4575,6 +5303,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 124.89472273766155,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -4607,6 +5340,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 754.2138087954196,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4639,6 +5379,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 133.2499206701183,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4671,6 +5415,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1446.7046403070196,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4703,6 +5451,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1418.0838734366055,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -4735,6 +5490,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 613.2796452782275,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4755,7 +5514,7 @@ var geomap = {
         "direccion": "Camino De La Dehesilla Y Rodeo, S/n 28470 Cercedilla",
         "telefono": 918521763,
         "mail": "ies.ladehesilla.cercedilla@educa.madrid.org",
-        "latlon": "40.73740578938678,-4.043729029455895",
+        "latlon": "40.737405789386784,-4.043729029455896",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4766,15 +5525,20 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035342",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1864.9939746311986,
+        "min_distance": 1864.9939746311275,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.043729029455895,
-          40.73740578938678
+          -4.043729029455896,
+          40.737405789386784
         ]
       }
     },
@@ -4799,6 +5563,10 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 455.3529915296733,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4831,6 +5599,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 342.0029512153976,
+        "etapas": [
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4851,7 +5625,7 @@ var geomap = {
         "direccion": "Avenida Del Oeste, S/n 28922 Alcorc\u00f3n",
         "telefono": 916439991,
         "mail": "ies.laarboleda.alcorcon@educa.madrid.org",
-        "latlon": "40.34165824906583,-3.8325430117586587",
+        "latlon": "40.34165824906582,-3.8325430117586587",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4862,7 +5636,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036978",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 832.0083302113059,
+        "min_distance": 832.0083302113406,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4870,7 +5651,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.8325430117586587,
-          40.34165824906583
+          40.34165824906582
         ]
       }
     },
@@ -4895,6 +5676,14 @@ var geomap = {
         "tipo": "042",
         "status_web": 404,
         "min_distance": 573.9821785101033,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -4927,6 +5716,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 2320.7633578587156,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -4947,7 +5743,7 @@ var geomap = {
         "direccion": "Calle Agustinos, S/n 28914 Legan\u00e9s",
         "telefono": 916947859,
         "mail": "ies.tiernogalvan.leganes@educa.madrid.org",
-        "latlon": "40.31710999876118,-3.7726174570450484",
+        "latlon": "40.317109998761175,-3.7726174570450484",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4958,7 +5754,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037004",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 584.477289114196,
+        "min_distance": 584.4772891147746,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -4966,7 +5766,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7726174570450484,
-          40.31710999876118
+          40.317109998761175
         ]
       }
     },
@@ -4991,6 +5791,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 357.23452893204103,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5023,6 +5827,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 335.2811480524645,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5055,6 +5866,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 396.09555780666676,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -5087,6 +5902,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 630.9044545457197,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -5119,6 +5938,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 555.3905968269339,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -5151,6 +5974,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 300.4154572345364,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5183,6 +6013,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1155.3162096162396,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5215,6 +6049,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1899.3568508345984,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -5247,6 +6086,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 477.8504249250141,
+        "etapas": [
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5279,6 +6124,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 502.6353480358724,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5311,6 +6161,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 404,
         "min_distance": 47.99083258095908,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -5343,6 +6198,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 715.7258891050858,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -5363,7 +6222,7 @@ var geomap = {
         "direccion": "Calle Austria, 7 28916 Legan\u00e9s",
         "telefono": 916862999,
         "mail": "ies.salvadordali.leganes@educa.madrid.org",
-        "latlon": "40.33695559757417,-3.742563890444476",
+        "latlon": "40.336955597574175,-3.742563890444476",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -5375,6 +6234,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 181.61688773413158,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5382,7 +6246,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.742563890444476,
-          40.33695559757417
+          40.336955597574175
         ]
       }
     },
@@ -5395,7 +6259,7 @@ var geomap = {
         "direccion": "Calle De La Ingenier\u00eda, 1 28918 Legan\u00e9s",
         "telefono": 916806303,
         "mail": "ies.sigloveintiuno.leganes@educa.madrid.org",
-        "latlon": "40.33836760293232,-3.7636886267571183",
+        "latlon": "40.338367602932315,-3.7636886267571183",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -5406,7 +6270,13 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038306",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1019.6032539890311,
+        "min_distance": 1019.603253988892,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -5414,7 +6284,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7636886267571183,
-          40.33836760293232
+          40.338367602932315
         ]
       }
     },
@@ -5439,6 +6309,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 103.02618312980795,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -5471,6 +6347,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 500.18555210602443,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5503,6 +6384,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 228.77841356819965,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5535,6 +6422,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 762.0635101331991,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5567,6 +6459,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 664.6142754307377,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -5599,6 +6497,9 @@ var geomap = {
         "tipo": "036",
         "status_web": 200,
         "min_distance": 162.6280534265585,
+        "etapas": [
+          "Educaci\u00f3n Especial (Adaptac.LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5631,6 +6532,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 624.5126659807934,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -5663,6 +6570,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 96.2862306143933,
+        "etapas": [
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5695,6 +6608,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 1625.3174766304605,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5727,6 +6647,11 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 234.08922707793886,
+        "etapas": [
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5759,6 +6684,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 156.5787455451899,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5791,6 +6723,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 70.03554044062572,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -5811,7 +6747,7 @@ var geomap = {
         "direccion": "Calle De Joaqu\u00edn Lorenzo, 2 28035 Madrid",
         "telefono": 913732052,
         "mail": "ies.newton.madrid@educa.madrid.org",
-        "latlon": "40.47301862838391,-3.722520036764229",
+        "latlon": "40.473018628383926,-3.722520036764229",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -5822,7 +6758,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038823",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 498.6705425128326,
+        "min_distance": 498.6705425137011,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -5830,7 +6770,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.722520036764229,
-          40.47301862838391
+          40.473018628383926
         ]
       }
     },
@@ -5843,7 +6783,7 @@ var geomap = {
         "direccion": "Calle Gardenia, 29 28803 Alcal\u00e1 de Henares",
         "telefono": 918808462,
         "mail": "ies.isidradeguzman.alcala@educa.madrid.org",
-        "latlon": "40.473724518980724,-3.371642537326748",
+        "latlon": "40.47372451898073,-3.371642537326748",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -5854,7 +6794,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038835",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1760.9189667355383,
+        "min_distance": 1760.9189667345147,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -5862,7 +6806,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.371642537326748,
-          40.473724518980724
+          40.47372451898073
         ]
       }
     },
@@ -5887,6 +6831,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 578.8438521434078,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -5919,6 +6868,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 382.1999819351525,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -5951,6 +6904,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 161.19022145968762,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -5983,6 +6940,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 547.5041458870264,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -6015,6 +6976,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 872.6243099615575,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6047,6 +7012,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 465.79405479882615,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6079,6 +7048,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 203.75070777187804,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -6111,6 +7085,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1396.099072547334,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6143,6 +7121,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1709.1280411700357,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6163,7 +7147,7 @@ var geomap = {
         "direccion": "Calle De Las Moreras, 28 28300 Aranjuez",
         "telefono": 918920298,
         "mail": "ies.alpajes.aranjuez@educa.madrid.org",
-        "latlon": "40.035093778886825,-3.5935656943584227",
+        "latlon": "40.03509377888681,-3.5935656943584227",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -6174,7 +7158,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039037",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 2103.7884875154905,
+        "min_distance": 2103.788487515463,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6182,7 +7173,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.5935656943584227,
-          40.035093778886825
+          40.03509377888681
         ]
       }
     },
@@ -6207,6 +7198,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1078.6938209240323,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -6239,6 +7235,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 7966.466908586973,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6259,7 +7260,7 @@ var geomap = {
         "direccion": "Calle Cardenal Sandoval Y Rojas, 1 28802 Alcal\u00e1 de Henares",
         "telefono": 918817263,
         "mail": "ies.cardenalcisnero.alcala@educa.madrid.org",
-        "latlon": "40.48123192788995,-3.3707164846736113",
+        "latlon": "40.48123192788996,-3.3707164846736113",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -6270,7 +7271,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039670",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 945.9508774188198,
+        "min_distance": 945.9508774181721,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6278,7 +7284,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.3707164846736113,
-          40.48123192788995
+          40.48123192788996
         ]
       }
     },
@@ -6303,6 +7309,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 2046.2365289729069,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6335,6 +7345,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 78.87394965839789,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6370,6 +7387,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1425.4878288704303,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
@@ -6390,7 +7411,7 @@ var geomap = {
         "direccion": "Calle De La Habana, 2 28945 Fuenlabrada",
         "telefono": 916060313,
         "mail": "ies.carobaroja.fuenlabrada@educa.madrid.org",
-        "latlon": "40.28752298199444,-3.7861623259145554",
+        "latlon": "40.28752298199445,-3.7861623259145554",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -6401,7 +7422,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039797",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 91.90372291747224,
+        "min_distance": 91.9037229176955,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -6409,7 +7435,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7861623259145554,
-          40.28752298199444
+          40.28752298199445
         ]
       }
     },
@@ -6434,6 +7460,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 404,
         "min_distance": 725.3716088710431,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -6466,6 +7499,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 755.9086776962524,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6498,6 +7537,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 405.5324690435968,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6530,6 +7574,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 410.7540042914484,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6562,6 +7611,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 925.8615413006513,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -6594,6 +7650,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 385.090742113902,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6626,6 +7687,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 254.43691956791997,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6658,6 +7724,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 247.58981932451286,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6690,6 +7762,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 1319.5250961271622,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -6722,6 +7799,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 130.9138893970353,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6742,7 +7823,7 @@ var geomap = {
         "direccion": "Calle Tulip\u00e1n, 1 28933 M\u00f3stoles",
         "telefono": 916645070,
         "mail": "ies.benjaminrua.mostoles@educa.madrid.org",
-        "latlon": "40.33628212991153,-3.8713740570284276",
+        "latlon": "40.336282129911524,-3.8713740570284276",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -6753,7 +7834,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040003",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 146.0907509176668,
+        "min_distance": 146.09075091704256,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -6761,7 +7847,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.8713740570284276,
-          40.33628212991153
+          40.336282129911524
         ]
       }
     },
@@ -6786,6 +7872,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 779.2050944169549,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6818,6 +7908,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 9599.928046075744,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6850,6 +7945,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 717.2731048597583,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6882,6 +7981,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 9616.423614285564,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6902,7 +8006,7 @@ var geomap = {
         "direccion": "Calle \u00c1lvarez Laviada, 3 28370 Chinch\u00f3n",
         "telefono": 918940214,
         "mail": "ies.carpediem.chinchon@educa.madrid.org",
-        "latlon": "40.1393114448606,-3.4143865492545746",
+        "latlon": "40.13931144486059,-3.4143865492545746",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -6913,7 +8017,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040684",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 16805.941051488677,
+        "min_distance": 16805.94105148882,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -6921,7 +8029,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.4143865492545746,
-          40.1393114448606
+          40.13931144486059
         ]
       }
     },
@@ -6946,6 +8054,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 488.9844914499561,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -6978,6 +8090,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 338.10863886050436,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -7010,6 +8126,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 4556.441160178462,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7042,6 +8163,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1090.8353531484918,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -7074,6 +8199,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 104.84330406852072,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -7106,6 +8235,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 562.4151500339038,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -7138,6 +8271,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 790.3299588035569,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -7170,6 +8308,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 404,
         "min_distance": 1421.819476820526,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7190,7 +8335,7 @@ var geomap = {
         "direccion": "Avenida Del Moscatelar, 19 28703 San Sebasti\u00e1n de los Reyes",
         "telefono": 916524999,
         "mail": "ies.juliopalacios.sansebastian@educa.madrid.org",
-        "latlon": "40.54355087413265,-3.6180706937215583",
+        "latlon": "40.54355087413264,-3.6180706937215583",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -7201,7 +8346,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040799",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 871.2702682175577,
+        "min_distance": 871.270268217861,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7209,7 +8359,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6180706937215583,
-          40.54355087413265
+          40.54355087413264
         ]
       }
     },
@@ -7234,6 +8384,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 424.2767332373943,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7254,7 +8411,7 @@ var geomap = {
         "direccion": "Calle Del Parque Ferial, S/n 28923 Alcorc\u00f3n",
         "telefono": 916439644,
         "mail": "ies.elpinar.alcorcon@educa.madrid.org",
-        "latlon": "40.339815866309024,-3.8243731936041927",
+        "latlon": "40.33981586630903,-3.8243731936041927",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -7265,7 +8422,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041366",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1116.223761366263,
+        "min_distance": 1116.2237613657437,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7273,7 +8435,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.8243731936041927,
-          40.339815866309024
+          40.33981586630903
         ]
       }
     },
@@ -7286,7 +8448,7 @@ var geomap = {
         "direccion": "Calle De Santillana Del Mar, 22 28660 Boadilla del Monte",
         "telefono": 916321512,
         "mail": "ies.maximotrueba.boadilla@educa.madrid.org",
-        "latlon": "40.406222018689625,-3.8816208563948615",
+        "latlon": "40.40622201868963,-3.8816208563948615",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -7297,7 +8459,13 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041378",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 168.51704239628006,
+        "min_distance": 168.51704239542508,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7305,7 +8473,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.8816208563948615,
-          40.406222018689625
+          40.40622201868963
         ]
       }
     },
@@ -7330,6 +8498,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 28323.056257290893,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -7362,6 +8535,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 257.2808728581367,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -7382,7 +8559,7 @@ var geomap = {
         "direccion": "Carretera De Getafe-legan\u00e9s, S/n 28904 Getafe",
         "telefono": 916831621,
         "mail": "ies.altair.getafe@educa.madrid.org",
-        "latlon": "40.31529650329852,-3.7413614930969064",
+        "latlon": "40.315296503298526,-3.7413614930969064",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -7393,7 +8570,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041411",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 847.668541823278,
+        "min_distance": 847.6685418240136,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -7401,7 +8583,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7413614930969064,
-          40.31529650329852
+          40.315296503298526
         ]
       }
     },
@@ -7426,6 +8608,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 282.6938907153413,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7458,6 +8644,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 4742.168310531943,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7490,6 +8680,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 11686.822778378784,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -7510,7 +8704,7 @@ var geomap = {
         "direccion": "Camino Del Salmoral, S/n 28981 Parla",
         "telefono": 916051520,
         "mail": "ies.lalaguna.parla@educa.madrid.org",
-        "latlon": "40.24516544602051,-3.7722691126590764",
+        "latlon": "40.245165446020515,-3.7722691126590764",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -7521,7 +8715,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041482",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 511.89510467952107,
+        "min_distance": 511.8951046793312,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -7529,7 +8727,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7722691126590764,
-          40.24516544602051
+          40.245165446020515
         ]
       }
     },
@@ -7554,6 +8752,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 484.870820865018,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7586,6 +8788,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 1394.2118020071716,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7618,6 +8824,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 3135.623258379459,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7650,6 +8860,14 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1618.5564343443273,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7682,6 +8900,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 700.7119294678492,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7714,6 +8938,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1195.2986263068085,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -7746,6 +8974,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 394.5190346400367,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7778,6 +9011,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 848.7737632664004,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -7810,6 +9050,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 571.7453320737367,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -7842,6 +9086,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 933.2151220826036,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7874,6 +9122,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 679.7828462311526,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -7894,7 +9146,7 @@ var geomap = {
         "direccion": "Calle De Los Arquitectos, 39 28903 Getafe",
         "telefono": 916835621,
         "mail": "ies.antoniolopezgarcia.getafe@educa.madrid.org",
-        "latlon": "40.32410997887572,-3.7253203077880728",
+        "latlon": "40.324109978875704,-3.7253203077880728",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -7905,7 +9157,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042061",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 204.2266108073161,
+        "min_distance": 204.22661080609714,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -7913,7 +9169,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7253203077880728,
-          40.32410997887572
+          40.324109978875704
         ]
       }
     },
@@ -7938,6 +9194,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 2129.277893313142,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -7970,6 +9230,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 923.8243816286869,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -8002,6 +9266,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1295.5623745996036,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8034,6 +9302,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1193.0152814260832,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -8054,7 +9327,7 @@ var geomap = {
         "direccion": "Avenida De Los Castillos, S/n 28925 Alcorc\u00f3n",
         "telefono": 916101411,
         "mail": "ies.itaca.alcorcon@educa.madrid.org",
-        "latlon": "40.3561330830338,-3.8087917777342706",
+        "latlon": "40.35613308303381,-3.8087917777342697",
         "nocturno": [
           "Humanidades y Ciencias Sociales (LOE-LOMCE)",
           "Artes (LOE-LOMCE)"
@@ -8068,15 +9341,20 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042115",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 596.3822663366165,
+        "min_distance": 596.3822663366027,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Curso preparatorio prueba de acceso Grado Superior (LOE)"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.8087917777342706,
-          40.3561330830338
+          -3.8087917777342697,
+          40.35613308303381
         ]
       }
     },
@@ -8101,6 +9379,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 404,
         "min_distance": 638.4228609513035,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8133,6 +9416,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1738.3961803350096,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -8165,6 +9452,14 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 445.8438474340863,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8185,7 +9480,7 @@ var geomap = {
         "direccion": "Carretera De Guadarrama, 85 28260 Galapagar",
         "telefono": 918587730,
         "mail": "ies.infantaelena.galapagar@educa.madrid.org",
-        "latlon": "40.58290181183905,-4.0113466952039065",
+        "latlon": "40.582901811839065,-4.0113466952039065",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -8196,7 +9491,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042620",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 3150.760883529921,
+        "min_distance": 3150.7608835292785,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -8204,7 +9506,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -4.0113466952039065,
-          40.58290181183905
+          40.582901811839065
         ]
       }
     },
@@ -8229,6 +9531,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 943.8229013898343,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8261,6 +9569,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 419.0167213795515,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8293,6 +9605,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 362.5066822929997,
+        "etapas": [
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8325,6 +9641,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1117.4899429380912,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -8357,6 +9678,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1021.8099419473148,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -8389,6 +9716,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1457.4721978545026,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8409,7 +9743,7 @@ var geomap = {
         "direccion": "Calle Real, 94 28500 Arganda del Rey",
         "telefono": 918716668,
         "mail": "cepa.arganda@educa.madrid.org",
-        "latlon": "40.29845014340476,-3.432147753951383",
+        "latlon": "40.29845014340474,-3.432147753951383",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8420,7 +9754,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042875",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 1421.8846530018998,
+        "min_distance": 1421.8846530026008,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8428,7 +9769,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.432147753951383,
-          40.29845014340476
+          40.29845014340474
         ]
       }
     },
@@ -8453,6 +9794,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 747.2052638675019,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8485,6 +9833,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 111.66498212875072,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8517,6 +9872,14 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 235.3992712120255,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8537,7 +9900,7 @@ var geomap = {
         "direccion": "Calle De Braille, 10 28034 Madrid",
         "telefono": 917364684,
         "mail": "cepa.fuencarral.madrid@educa.madrid.org",
-        "latlon": "40.495953080812974,-3.6934413405040494",
+        "latlon": "40.49595308081296,-3.6934413405040494",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8548,7 +9911,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042942",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 97.06517327338786,
+        "min_distance": 97.0651732716433,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8556,7 +9926,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6934413405040494,
-          40.495953080812974
+          40.49595308081296
         ]
       }
     },
@@ -8581,6 +9951,14 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 578.9904713686798,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8601,7 +9979,7 @@ var geomap = {
         "direccion": "Calle De Las Huertas, 68 28770 Colmenar Viejo",
         "telefono": 918464801,
         "mail": "ies.rosachacel.colmenarviejo@educa.madrid.org",
-        "latlon": "40.65422240983053,-3.765457009852079",
+        "latlon": "40.65422240983051,-3.765457009852079",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -8612,7 +9990,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042981",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1340.3245896163537,
+        "min_distance": 1340.3245896139172,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -8620,7 +10002,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.765457009852079,
-          40.65422240983053
+          40.65422240983051
         ]
       }
     },
@@ -8645,6 +10027,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1650.4130118758262,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8677,6 +10065,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 974.0533191852869,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -8709,6 +10104,14 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 258.30431290523387,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)",
+          "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -8741,6 +10144,14 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 305.8781215900268,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes",
+          "Cursos a distancia Soporte Telem\u00e1tico"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8773,6 +10184,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 487.06547273829113,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8793,7 +10211,7 @@ var geomap = {
         "direccion": "Calle De Andorra, 19bis 28043 Madrid",
         "telefono": 913003725,
         "mail": "cepa.pabloguzman.madrid@educa.madrid.org",
-        "latlon": "40.46208807191737,-3.6453477793211304",
+        "latlon": "40.46208807191738,-3.6453477793211304",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8804,7 +10222,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043260",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 282.97051459489927,
+        "min_distance": 282.9705145952484,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8812,7 +10237,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6453477793211304,
-          40.46208807191737
+          40.46208807191738
         ]
       }
     },
@@ -8837,6 +10262,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 2577.29148965968,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -8857,7 +10286,7 @@ var geomap = {
         "direccion": "Calle De La Virgen Del Mar, S/n 28821 Coslada",
         "telefono": 916695610,
         "mail": "ies.garciaberlanga.coslada@educa.madrid.org",
-        "latlon": "40.42991735671508,-3.5625513912784825",
+        "latlon": "40.429917356715066,-3.5625513912784825",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8868,7 +10297,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044318",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 675.5405746309056,
+        "min_distance": 675.5405746302007,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -8876,7 +10309,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.5625513912784825,
-          40.42991735671508
+          40.429917356715066
         ]
       }
     },
@@ -8901,6 +10334,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 460.9881895598639,
+        "etapas": [
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8933,6 +10372,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 690.0163453792114,
+        "etapas": [
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8965,6 +10410,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 4916.145902513409,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -8997,6 +10448,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 9236.44738689847,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9017,7 +10475,7 @@ var geomap = {
         "direccion": "Calle Constitucion, 8 28590 Villarejo de Salvan\u00e9s",
         "telefono": 918742470,
         "mail": "cepa.villarejodesalvanes@educa.madrid.org",
-        "latlon": "40.167609322720324,-3.2755246323468707",
+        "latlon": "40.16760932272032,-3.2755246323468707",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9028,7 +10486,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044574",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 21023.045181887817,
+        "min_distance": 21023.045181888323,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9036,7 +10501,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.2755246323468707,
-          40.167609322720324
+          40.16760932272032
         ]
       }
     },
@@ -9061,6 +10526,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 21672.364270254668,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9093,6 +10564,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 449.5062843921501,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -9125,6 +10601,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 669.0046930858213,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9157,6 +10639,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1013.9665372857464,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -9177,7 +10663,7 @@ var geomap = {
         "direccion": "Paseo De La Chopera, 64 28523 Rivas-Vaciamadrid",
         "telefono": 916665259,
         "mail": "ies.duquederivas.rivas@educa.madrid.org",
-        "latlon": "40.367558694065934,-3.5336821972810446",
+        "latlon": "40.36755869406593,-3.5336821972810446",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -9188,7 +10674,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044756",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1158.2414885016974,
+        "min_distance": 1158.2414885016708,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -9196,7 +10689,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.5336821972810446,
-          40.367558694065934
+          40.36755869406593
         ]
       }
     },
@@ -9221,6 +10714,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 7218.771240190347,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -9253,6 +10752,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 28433.15799948551,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9288,6 +10794,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 340.14707072919964,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -9308,7 +10821,7 @@ var geomap = {
         "direccion": "Calle De Joan Mir\u00f3, 1 28840 Mejorada del Campo",
         "telefono": 916794920,
         "mail": "ies.losolivos.mejorada@educa.madrid.org",
-        "latlon": "40.39267766733379,-3.479833237461454",
+        "latlon": "40.392677667333786,-3.479833237461454",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9319,7 +10832,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045025",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 4885.47908536609,
+        "min_distance": 4885.47908536629,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9327,7 +10847,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.479833237461454,
-          40.39267766733379
+          40.392677667333786
         ]
       }
     },
@@ -9352,6 +10872,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 946.8007236892745,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -9372,7 +10896,7 @@ var geomap = {
         "direccion": "Avenida De Santa Elena, S/n 28590 Villarejo de Salvan\u00e9s",
         "telefono": 918744960,
         "mail": "ies.villarejo@educa.madrid.org",
-        "latlon": "40.17481709845734,-3.286558826563877",
+        "latlon": "40.17481709845735,-3.286558826563877",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -9383,7 +10907,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045049",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 19794.643070980736,
+        "min_distance": 19794.6430709792,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Idiomas (LOE 1)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -9391,7 +10920,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.286558826563877,
-          40.17481709845734
+          40.17481709845735
         ]
       }
     },
@@ -9416,6 +10945,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1057.0202057276808,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -9436,7 +10972,7 @@ var geomap = {
         "direccion": "Calle Del General Garc\u00eda Esc\u00e1mez, 12 28044 Madrid",
         "telefono": 917058402,
         "mail": "cepa.cidcampeador.madrid@educa.madrid.org",
-        "latlon": "40.38184364122627,-3.770694124615365",
+        "latlon": "40.381843641226276,-3.770694124615365",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9447,7 +10983,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045268",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 275.95505280916,
+        "min_distance": 275.9550528086434,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9455,7 +10998,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.770694124615365,
-          40.38184364122627
+          40.381843641226276
         ]
       }
     },
@@ -9468,7 +11011,7 @@ var geomap = {
         "direccion": "Calle Hnos Garc\u00eda Noblejas (acceso Por Luis Campos), 70 28017 Madrid",
         "telefono": 917545206,
         "mail": "cepa.ciudadlineal.madrid@educa.madrid.org",
-        "latlon": "40.42931437020917,-3.632172537891254",
+        "latlon": "40.42931437020915,-3.632172537891254",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9479,7 +11022,13 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045271",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 20.08226534595342,
+        "min_distance": 20.082265343978815,
+        "etapas": [
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9487,7 +11036,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.632172537891254,
-          40.42931437020917
+          40.42931437020915
         ]
       }
     },
@@ -9512,6 +11061,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 279.08353224612586,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9544,6 +11100,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 111.0581823117445,
+        "etapas": [
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9576,6 +11138,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 272.04485079164584,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9608,6 +11177,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 308.2717687769276,
+        "etapas": [
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9628,7 +11203,7 @@ var geomap = {
         "direccion": "Calle De La Abertura, 2 28033 Madrid",
         "telefono": 913811272,
         "mail": "cepa.dulcechacon.madrid@educa.madrid.org",
-        "latlon": "40.47719890931833,-3.6496451386690976",
+        "latlon": "40.477198909318325,-3.6496451386690976",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9640,6 +11215,14 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 320.56152708142884,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes",
+          "Cursos a distancia Soporte Telem\u00e1tico"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9647,7 +11230,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6496451386690976,
-          40.47719890931833
+          40.477198909318325
         ]
       }
     },
@@ -9672,6 +11255,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 208.4802338780616,
+        "etapas": [
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes",
+          "Cursos a distancia Soporte Telem\u00e1tico"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9704,6 +11294,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 402.37633602428593,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9736,6 +11333,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 806.3254742273995,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9768,6 +11372,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 547.3054379014696,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9800,6 +11411,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 12137.61077644397,
+        "etapas": [
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9832,6 +11449,14 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 401.999037718894,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9864,6 +11489,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 2326.9848084034184,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9896,6 +11528,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 160.4333435510137,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9928,6 +11567,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 19096.72059611932,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9948,7 +11594,7 @@ var geomap = {
         "direccion": "Calle De La Batalla Del Salado, 29 28045 Madrid",
         "telefono": 915395395,
         "mail": "cepa.arganzuela.madrid@educa.madrid.org",
-        "latlon": "40.40047068046266,-3.695960459840022",
+        "latlon": "40.40047068046267,-3.695960459840022",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9959,7 +11605,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045608",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 162.33106922785444,
+        "min_distance": 162.3310692284062,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -9967,7 +11618,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.695960459840022,
-          40.40047068046266
+          40.40047068046267
         ]
       }
     },
@@ -9992,6 +11643,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 827.1697294335768,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10012,7 +11670,7 @@ var geomap = {
         "direccion": "Calle De Santa Irene, 4 28017 Madrid",
         "telefono": 914051101,
         "mail": "ies.goya.madrid@educa.madrid.org",
-        "latlon": "40.418364438510345,-3.650764418326344",
+        "latlon": "40.41836443851034,-3.650764418326344",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -10024,6 +11682,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 900.0757754876399,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10031,7 +11696,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.650764418326344,
-          40.418364438510345
+          40.41836443851034
         ]
       }
     },
@@ -10056,6 +11721,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 22084.180156965816,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10088,6 +11760,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 233.00958931657215,
+        "etapas": [
+          "Desarrollo Personal",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10120,6 +11798,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 6551.490799907985,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10152,6 +11836,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 9658.885224614047,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10184,6 +11872,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 1181.2009119535203,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10204,7 +11896,7 @@ var geomap = {
         "direccion": "Calle Dal\u00ed, 50 28342 Valdemoro",
         "telefono": 918953211,
         "mail": "ies.avalon.valdemoro@educa.madrid.org",
-        "latlon": "40.19572184075123,-3.686649123756968",
+        "latlon": "40.195721840751226,-3.686649123756968",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -10216,6 +11908,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 404,
         "min_distance": 1867.7915311485722,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10223,7 +11919,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.686649123756968,
-          40.19572184075123
+          40.195721840751226
         ]
       }
     },
@@ -10248,6 +11944,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 991,
         "min_distance": 8849.887218294578,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10280,6 +11980,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 71.20079273002065,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -10312,6 +12016,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 2316.3383951339465,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10344,6 +12052,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1642.4126174579578,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10376,6 +12088,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 7385.312961796786,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10408,6 +12123,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 2933.70669716762,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10440,6 +12159,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 27971.727452387255,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Idiomas (LOE 1)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10472,6 +12196,9 @@ var geomap = {
         "tipo": "047",
         "status_web": 200,
         "min_distance": 19140.405332174516,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10492,7 +12219,7 @@ var geomap = {
         "direccion": "Calle Doctor S\u00e1nchez P\u00e9rez, 1 28530 Morata de Taju\u00f1a",
         "telefono": 918730777,
         "mail": "sies.anselmolorenzo.morata@educa.madrid.org",
-        "latlon": "40.229417416306084,-3.44271077476145",
+        "latlon": "40.22941741630608,-3.44271077476145",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -10504,6 +12231,9 @@ var geomap = {
         "tipo": "047",
         "status_web": 200,
         "min_distance": 8239.520198646105,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10511,7 +12241,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.44271077476145,
-          40.229417416306084
+          40.22941741630608
         ]
       }
     },
@@ -10536,6 +12266,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 9303.761933170712,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10556,7 +12292,7 @@ var geomap = {
         "direccion": "Plaza Alba, 3 28971 Gri\u00f1\u00f3n",
         "telefono": 918141768,
         "mail": "ies.grinon.grinon@educa.madrid.org",
-        "latlon": "40.21477673014126,-3.845830464169186",
+        "latlon": "40.21477673014127,-3.845830464169186",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -10567,7 +12303,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046315",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 4776.63514448985,
+        "min_distance": 4776.63514448918,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10575,7 +12315,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.845830464169186,
-          40.21477673014126
+          40.21477673014127
         ]
       }
     },
@@ -10600,6 +12340,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 12117.757322423095,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10632,6 +12377,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 2904.3677676256816,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10664,6 +12413,14 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1014.1941788308475,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10696,6 +12453,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 350.78343606937506,
+        "etapas": [
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10728,6 +12489,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 1261.702964328221,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10748,7 +12516,7 @@ var geomap = {
         "direccion": "Calle De Alonso Heredia, 16 28028 Madrid",
         "telefono": 917261664,
         "mail": "cepa.joaquinsorolla.madrid@educa.madrid.org",
-        "latlon": "40.43546421123427,-3.6726584261840696",
+        "latlon": "40.435464211234276,-3.6726584261840696",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -10759,7 +12527,14 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046479",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 166.15149588371204,
+        "min_distance": 166.15149588382167,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10767,7 +12542,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6726584261840696,
-          40.43546421123427
+          40.435464211234276
         ]
       }
     },
@@ -10792,6 +12567,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1723.3637827460655,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10812,7 +12593,7 @@ var geomap = {
         "direccion": "Carretera De Villanueva Del Pardillo, S/n 28270 Colmenarejo",
         "telefono": 918424540,
         "mail": "ies.colmenarejo@educa.madrid.org",
-        "latlon": "40.556836050966155,-4.012820488461693",
+        "latlon": "40.55683605096615,-4.012820488461693",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -10823,7 +12604,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046558",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 5161.673458860587,
+        "min_distance": 5161.6734588607205,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10831,7 +12617,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -4.012820488461693,
-          40.556836050966155
+          40.55683605096615
         ]
       }
     },
@@ -10856,6 +12642,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 299.30436416142146,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10888,6 +12681,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 588.14304160161,
+        "etapas": [
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10920,6 +12717,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 991,
         "min_distance": 1997.4336793598525,
+        "etapas": [
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -10952,6 +12753,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 210.4427021013843,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -10984,6 +12790,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 3136.541149962088,
+        "etapas": [
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11016,6 +12825,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 6628.106415017138,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -11048,6 +12861,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 8348.87421684742,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -11080,6 +12897,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 3801.5630851641167,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -11112,6 +12933,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 12753.179624615841,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -11144,6 +12969,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 7630.068370311576,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -11176,6 +13005,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 884.2230507138211,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -11196,7 +13030,7 @@ var geomap = {
         "direccion": "Avenida De Levante, 141 28521 Rivas-Vaciamadrid",
         "telefono": 916704112,
         "mail": "ies.profesorjulioperez.rivas@educa.madrid.org",
-        "latlon": "40.33211633093869,-3.5139199804422097",
+        "latlon": "40.332116330938675,-3.5139199804422097",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -11207,7 +13041,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050732",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 681.4148907625237,
+        "min_distance": 681.4148907610461,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11215,7 +13053,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.5139199804422097,
-          40.33211633093869
+          40.332116330938675
         ]
       }
     },
@@ -11228,7 +13066,7 @@ var geomap = {
         "direccion": "Carretera De Meco, K 4 28805 Alcal\u00e1 de Henares",
         "telefono": 918887061,
         "mail": "cepa.josehierro.alcala@educa.madrid.org",
-        "latlon": "40.523221482971174,-3.3261928333091655",
+        "latlon": "40.52322148297118,-3.326192833309165",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -11239,15 +13077,21 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056400",
         "tipo": "035",
         "status_web": 999,
-        "min_distance": 2130.2022373718746,
+        "min_distance": 2130.202237372875,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.3261928333091655,
-          40.523221482971174
+          -3.326192833309165,
+          40.52322148297118
         ]
       }
     },
@@ -11272,6 +13116,13 @@ var geomap = {
         "tipo": "035",
         "status_web": 999,
         "min_distance": 2064.1899191507205,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Cursos a distancia Soporte Telem\u00e1tico"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -11304,6 +13155,12 @@ var geomap = {
         "tipo": "035",
         "status_web": 999,
         "min_distance": 2704.0459401634384,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -11336,6 +13193,12 @@ var geomap = {
         "tipo": "035",
         "status_web": 999,
         "min_distance": 7768.41164163568,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -11368,6 +13231,12 @@ var geomap = {
         "tipo": "035",
         "status_web": 200,
         "min_distance": 8195.16878684636,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -11400,6 +13269,12 @@ var geomap = {
         "tipo": "035",
         "status_web": 999,
         "min_distance": 11523.056775845387,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -11420,7 +13295,7 @@ var geomap = {
         "direccion": "Calle Ribadesella, S/n 28250 Torrelodones",
         "telefono": 918593112,
         "mail": "cp.elencinar.torrelodones@educa.madrid.org",
-        "latlon": "40.56982549483603,-3.9271084126249205",
+        "latlon": "40.56982549483604,-3.9271084126249205",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -11431,7 +13306,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057076",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 2538.443361618829,
+        "min_distance": 2538.443361618611,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -11439,7 +13319,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.9271084126249205,
-          40.56982549483603
+          40.56982549483604
         ]
       }
     },
@@ -11464,6 +13344,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 8890.775349709735,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -11496,6 +13381,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 574.9252205497583,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11528,6 +13417,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 4805.8154649272465,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11548,7 +13441,7 @@ var geomap = {
         "direccion": "Calle Del Acueducto, 3 28880 Meco",
         "telefono": 918877200,
         "mail": "ies.gasparsanz.meco@educa.madrid.org",
-        "latlon": "40.546214458701925,-3.322123760708147",
+        "latlon": "40.54621445870192,-3.322123760708147",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -11559,7 +13452,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057210",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 2374.075527446809,
+        "min_distance": 2374.075527446043,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -11567,7 +13464,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.322123760708147,
-          40.546214458701925
+          40.54621445870192
         ]
       }
     },
@@ -11592,6 +13489,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 5308.873569287038,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -11624,6 +13524,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 281.1187331115401,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -11656,6 +13563,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 1889.273174592918,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11676,7 +13590,7 @@ var geomap = {
         "direccion": "Calle Carmen Laforet, 1 28220 Majadahonda",
         "telefono": 916349498,
         "mail": "cepa.mariovargasllosa.majadahonda@educa.madrid.org",
-        "latlon": "40.468247723023076,-3.8709542188618413",
+        "latlon": "40.46824772302307,-3.8709542188618413",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -11687,7 +13601,15 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057672",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 2280.0855705630483,
+        "min_distance": 2280.085570563152,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes",
+          "Cursos a distancia Soporte Telem\u00e1tico"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11695,7 +13617,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.8709542188618413,
-          40.468247723023076
+          40.46824772302307
         ]
       }
     },
@@ -11720,6 +13642,14 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 260.66477281241424,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11752,6 +13682,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 12190.75998986556,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -11784,6 +13718,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 297.51754853218057,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11816,6 +13757,7 @@ var geomap = {
         "tipo": "036",
         "status_web": 200,
         "min_distance": 223.2485433804886,
+        "etapas": null,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11848,6 +13790,7 @@ var geomap = {
         "tipo": "036",
         "status_web": 200,
         "min_distance": 661.0549506439556,
+        "etapas": null,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11880,6 +13823,7 @@ var geomap = {
         "tipo": "036",
         "status_web": 200,
         "min_distance": 273.27931927282253,
+        "etapas": null,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11912,6 +13856,7 @@ var geomap = {
         "tipo": "036",
         "status_web": 200,
         "min_distance": 103.81248081023108,
+        "etapas": null,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11932,7 +13877,7 @@ var geomap = {
         "direccion": "Paseo De La Castellana, 261 28046 Madrid",
         "telefono": 917277588,
         "mail": "ah.lapaz.madrid@educa.madrid.org",
-        "latlon": "40.48030087224512,-3.6865436265844735",
+        "latlon": "40.48030087224511,-3.6865436265844735",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -11943,7 +13888,8 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057994",
         "tipo": "036",
         "status_web": 200,
-        "min_distance": 55.97866556257026,
+        "min_distance": 55.97866556242121,
+        "etapas": null,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -11951,7 +13897,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6865436265844735,
-          40.48030087224512
+          40.48030087224511
         ]
       }
     },
@@ -11976,6 +13922,7 @@ var geomap = {
         "tipo": "036",
         "status_web": 200,
         "min_distance": 115.61249840728136,
+        "etapas": null,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12008,6 +13955,7 @@ var geomap = {
         "tipo": "036",
         "status_web": 999,
         "min_distance": 130.89837498349806,
+        "etapas": null,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12040,6 +13988,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 887.7697953294161,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
       },
@@ -12072,6 +14024,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 1669.0152076679683,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12104,6 +14061,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1079.9308948506657,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -12136,6 +14097,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 899.5935603596274,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -12168,6 +14134,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 456.6477133582433,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -12200,6 +14172,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 2757.855218550114,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -12232,6 +14208,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 296.59051389597,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -12252,7 +14232,7 @@ var geomap = {
         "direccion": "Paseo Del Olivar, 62 28607 \u00c1lamo, El",
         "telefono": 918104133,
         "mail": "ies.elalamo.elalamo@educa.madrid.org",
-        "latlon": "40.22837239525791,-3.9847084823456784",
+        "latlon": "40.228372395257914,-3.9847084823456784",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -12263,7 +14243,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058676",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 13531.343434335464,
+        "min_distance": 13531.343434334947,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -12271,7 +14256,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.9847084823456784,
-          40.22837239525791
+          40.228372395257914
         ]
       }
     },
@@ -12284,7 +14269,7 @@ var geomap = {
         "direccion": "Calle Miguel Hern\u00e1ndez, 2a 28991 Torrej\u00f3n de la Calzada",
         "telefono": 918106097,
         "mail": "ies.migueldelibes.torrejondelacalzada@educa.madrid.org",
-        "latlon": "40.193573020792854,-3.804836526306011",
+        "latlon": "40.19357302079286,-3.804836526306011",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -12296,6 +14281,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 5009.698790645778,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12303,7 +14292,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.804836526306011,
-          40.193573020792854
+          40.19357302079286
         ]
       }
     },
@@ -12328,6 +14317,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 2644.37917787636,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -12360,6 +14352,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 221.36610906776636,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12392,6 +14391,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 9833.223321829928,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12424,6 +14430,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 3031.7424141850997,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12456,6 +14469,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 1048.4586486717117,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12488,6 +14508,12 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 33379.30837566091,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12520,6 +14546,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 842.6215643590664,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12552,6 +14583,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 3442.327703957533,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -12572,7 +14608,7 @@ var geomap = {
         "direccion": "Calle Pio Baroja, 7 28806 Alcal\u00e1 de Henares",
         "telefono": 918770290,
         "mail": "ies.lazarocarreter.alcala@educa.madrid.org",
-        "latlon": "40.50464656376395,-3.373359258844887",
+        "latlon": "40.50464656376394,-3.373359258844887",
         "nocturno": null,
         "dificultad": true,
         "adaptado": true,
@@ -12583,7 +14619,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060373",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1834.8802777859503,
+        "min_distance": 1834.8802777839476,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
@@ -12591,7 +14631,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.373359258844887,
-          40.50464656376395
+          40.50464656376394
         ]
       }
     },
@@ -12616,6 +14656,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 9208.239452833654,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12648,6 +14692,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 4558.826287612402,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -12680,6 +14728,13 @@ var geomap = {
         "tipo": "016",
         "status_web": 991,
         "min_distance": 1101.6161548302105,
+        "etapas": [
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Art\u00edsticas (LOGSE)",
+          "Art\u00edsticas (LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12712,6 +14767,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 214.62762206256215,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12744,6 +14806,13 @@ var geomap = {
         "tipo": "031",
         "status_web": 200,
         "min_distance": 552.2511405522044,
+        "etapas": [
+          "Desarrollo Personal",
+          "T\u00e9cnico Profesional",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "Ense\u00f1anzas Iniciales B\u00e1sicas para personas adultas (LOE)",
+          "Espa\u00f1ol para inmigrantes"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12776,6 +14845,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 2940.715039003135,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -12796,7 +14869,7 @@ var geomap = {
         "direccion": "Avenida Del Mar Egeo, S/n 28341 Valdemoro",
         "telefono": 918018044,
         "mail": "ies.maestromatiasbravo.valdemoro@educa.madrid.org",
-        "latlon": "40.178580488263094,-3.6891190319937293",
+        "latlon": "40.1785804882631,-3.6891190319937293",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -12807,7 +14880,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062023",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 2843.213212012855,
+        "min_distance": 2843.213212012613,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12815,7 +14892,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6891190319937293,
-          40.178580488263094
+          40.1785804882631
         ]
       }
     },
@@ -12840,6 +14917,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1495.725840675742,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -12860,7 +14941,7 @@ var geomap = {
         "direccion": "Calle De La Alianza, 20-24 28041 Madrid",
         "telefono": 917239181,
         "mail": "ies.villaverde.madrid@educa.madrid.org",
-        "latlon": "40.35735148981147,-3.6902999023380567",
+        "latlon": "40.357351489811464,-3.6902999023380567",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -12872,6 +14953,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 331.2597252609027,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12879,7 +14965,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6902999023380567,
-          40.35735148981147
+          40.357351489811464
         ]
       }
     },
@@ -12904,6 +14990,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 128.36292989043292,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12936,6 +15027,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1574.832001196581,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -12956,7 +15051,7 @@ var geomap = {
         "direccion": "Camino De Chozas, S/n 28794 Guadalix de la Sierra",
         "telefono": 918470636,
         "mail": "ies.luisgarciaberlanga.guadalix@educa.madrid.org",
-        "latlon": "40.78218602978419,-3.695994920999966",
+        "latlon": "40.78218602978418,-3.695994920999966",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -12967,7 +15062,10 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064044",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 16657.15944894314,
+        "min_distance": 16657.159448941842,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -12975,7 +15073,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.695994920999966,
-          40.78218602978419
+          40.78218602978418
         ]
       }
     },
@@ -13000,6 +15098,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 999,
         "min_distance": 897.1916687246154,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13032,6 +15135,7 @@ var geomap = {
         "tipo": "036",
         "status_web": 200,
         "min_distance": 177.5422818671819,
+        "etapas": null,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13064,6 +15168,9 @@ var geomap = {
         "tipo": "047",
         "status_web": 999,
         "min_distance": 2492.3463135542343,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13096,6 +15203,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 588.0572269302692,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13128,6 +15238,10 @@ var geomap = {
         "tipo": "017",
         "status_web": 200,
         "min_distance": 639.6672557163703,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Art\u00edsticas (LOE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13160,6 +15274,9 @@ var geomap = {
         "tipo": "047",
         "status_web": 200,
         "min_distance": 7198.330615877129,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13192,6 +15309,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 1580.7114552455064,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13224,6 +15346,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 16245.723894915694,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13256,6 +15383,10 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 20283.415620580625,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13288,6 +15419,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 870.3064429915967,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13320,6 +15455,12 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 147.42759611794526,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13352,6 +15493,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 999,
         "min_distance": 3874.0982462730094,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13384,6 +15530,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 778.7243028656288,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13416,6 +15567,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 637.3786147684015,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13436,7 +15591,7 @@ var geomap = {
         "direccion": "Avenida Del Sistema Solar, 8 28983 Parla",
         "telefono": 918295357,
         "mail": "ies.nicolascopernico.parla@educa.madrid.org",
-        "latlon": "40.22377800825033,-3.761330694328965",
+        "latlon": "40.22377800825034,-3.761330694328965",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -13447,7 +15602,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070974",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 64.76929157354846,
+        "min_distance": 64.76929157418091,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13455,7 +15614,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.761330694328965,
-          40.22377800825033
+          40.22377800825034
         ]
       }
     },
@@ -13480,6 +15639,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 19318.793014945513,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13500,7 +15664,7 @@ var geomap = {
         "direccion": "Senda De Mafalda, 2 28905 Getafe",
         "telefono": 916810212,
         "mail": "ies.lasenda.getafe@educa.madrid.org",
-        "latlon": "40.29438399635923,-3.747333314858952",
+        "latlon": "40.29438399635924,-3.747333314858952",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -13511,7 +15675,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072107",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 140.99110945767188,
+        "min_distance": 140.99110945845166,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13519,7 +15687,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.747333314858952,
-          40.29438399635923
+          40.29438399635924
         ]
       }
     },
@@ -13544,6 +15712,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 507.03314221621486,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13564,7 +15737,7 @@ var geomap = {
         "direccion": "Avenida De Niceto Alcal\u00e1 Zamora, 54 28050 Madrid",
         "telefono": 912761503,
         "mail": "ies.manuelfragairibarne.madrid@educa.madrid.org",
-        "latlon": "40.49984978801341,-3.657145049425794",
+        "latlon": "40.4998497880134,-3.657145049425794",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -13575,7 +15748,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073859",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 245.58819253832507,
+        "min_distance": 245.58819253766688,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13583,7 +15760,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.657145049425794,
-          40.49984978801341
+          40.4998497880134
         ]
       }
     },
@@ -13608,6 +15785,11 @@ var geomap = {
         "tipo": "070",
         "status_web": 200,
         "min_distance": 21249.811459348814,
+        "etapas": [
+          "Segundo Ciclo de Educaci\u00f3n Infantil (LOE)",
+          "Educaci\u00f3n Primaria (LOE - LOMCE)",
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13640,6 +15822,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 788.26693297902,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13672,6 +15858,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 5270.607998780928,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13704,6 +15894,13 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 818.4808281988537,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Programas Profesionales (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13736,6 +15933,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 789.0472503002725,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13756,7 +15957,7 @@ var geomap = {
         "direccion": "Calle Del General Marv\u00e1, 24-26 28026 Madrid",
         "telefono": 915699236,
         "mail": "ies.pedrosalinas.madrid@educa.madrid.org",
-        "latlon": "40.38895120389474,-3.7088138168902693",
+        "latlon": "40.38895120389475,-3.7088138168902693",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -13770,7 +15971,12 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074244",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 262.03360851558597,
+        "min_distance": 262.03360851669487,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato",
+          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -13778,7 +15984,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7088138168902693,
-          40.38895120389474
+          40.38895120389475
         ]
       }
     },
@@ -13803,6 +16009,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 565.7462852473591,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13838,6 +16048,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 903.9933209632318,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
@@ -13870,6 +16084,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 1068.3831442774465,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -13902,6 +16121,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 353.8600454553325,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13934,6 +16157,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 502.4276258934881,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13966,6 +16193,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 6669.068216688161,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -13986,7 +16217,7 @@ var geomap = {
         "direccion": "Calle Camilo Jos\u00e9 Cela, 24 28232 Rozas de Madrid, Las",
         "telefono": 911733737,
         "mail": "ies.josegarcianieto.lasrozas@educa.madrid.org",
-        "latlon": "40.52427301092086,-3.8922325265504303",
+        "latlon": "40.52427301092085,-3.892232526550431",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -13997,15 +16228,19 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075510",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 888.7712259573207,
+        "min_distance": 888.7712259572122,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.8922325265504303,
-          40.52427301092086
+          -3.892232526550431,
+          40.52427301092085
         ]
       }
     },
@@ -14030,6 +16265,7 @@ var geomap = {
         "tipo": "036",
         "status_web": 999,
         "min_distance": 1266.1904133891126,
+        "etapas": null,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -14062,6 +16298,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 334.58813497374257,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14094,6 +16334,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 800.1644860117963,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -14126,6 +16370,9 @@ var geomap = {
         "tipo": "047",
         "status_web": 200,
         "min_distance": 8949.163666851839,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14158,6 +16405,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 438.518427583105,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14190,6 +16441,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 2043.8852310404232,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14222,6 +16476,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 572.2554239476623,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14254,6 +16511,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 5586.713224196822,
+        "etapas": [
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -14286,6 +16546,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 264.17255199919026,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14318,6 +16582,11 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 551.7174003326456,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional de grado medio",
+          "Formaci\u00f3n Profesional de grado superior"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -14350,6 +16619,10 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 835.064385290594,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14382,6 +16655,9 @@ var geomap = {
         "tipo": "047",
         "status_web": 999,
         "min_distance": 839.9379003111387,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14414,6 +16690,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 1383.4192990635047,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14434,7 +16713,7 @@ var geomap = {
         "direccion": "Calle De La Jacaranda, S/n 28045 Madrid",
         "telefono": 639101034,
         "mail": "ies.forges.madrid@educa.madrid.org",
-        "latlon": "40.39750745155225,-3.679173846707233",
+        "latlon": "40.397507451552244,-3.679173846707233",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -14445,7 +16724,11 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078559",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 138.48608074768546,
+        "min_distance": 138.4860807459607,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14453,7 +16736,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.679173846707233,
-          40.39750745155225
+          40.397507451552244
         ]
       }
     },
@@ -14478,6 +16761,7 @@ var geomap = {
         "tipo": "036",
         "status_web": 200,
         "min_distance": 3636.841140671129,
+        "etapas": null,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
       },
@@ -14510,6 +16794,10 @@ var geomap = {
         "tipo": "042",
         "status_web": null,
         "min_distance": 1140.552891111384,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "Bachillerato"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14542,6 +16830,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 200,
         "min_distance": 611.6013288097525,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14574,6 +16865,9 @@ var geomap = {
         "tipo": "042",
         "status_web": null,
         "min_distance": 205.48301949013728,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14606,6 +16900,9 @@ var geomap = {
         "tipo": "042",
         "status_web": null,
         "min_distance": 588.0454769552887,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
@@ -14638,6 +16935,9 @@ var geomap = {
         "tipo": "042",
         "status_web": 999,
         "min_distance": 1503.978852751892,
+        "etapas": [
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+        ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },

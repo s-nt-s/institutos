@@ -97,6 +97,24 @@ def get_data1(ctr):
                         for n in soup.findAll(text=re_nocturno)]
     if len(data["nocturno"]) == 0:
         data["nocturno"] = None
+    etapas=[]
+    estapa=None
+    for tr in soup.select("#capaEtapasContent tr"):
+        td = tr.find("td")
+        txt = get_text(td)
+        if txt and txt != "Etapa":
+            lv=0
+            cls = td.attrs["class"]
+            if isinstance(cls, str):
+                cls = cls.split()
+            for cl in cls:
+                if cl.startswith("p"):
+                    cl = cl[1:]
+                    if cl.isdigit():
+                        lv = int(cl)
+            if lv==0:
+                etapas.append(txt)
+    data["etapas"] = etapas if len(etapas) else None
     return data
 
 

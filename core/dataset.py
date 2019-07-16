@@ -21,7 +21,7 @@ class Dataset():
     def __init__(self, *args, **kargs):
         self.indice = mkBunch("fuentes/indice.yml")
         self.fuentes = mkBunch("fuentes/fuentes.yml") or Bunch()
-        self.arregos = read_yml("fuentes/arreglos.yml")
+        self.arreglos = read_yml("fuentes/arreglos.yml")
 
     def dwn_centros(self, file, data=None):
         if data is None:
@@ -75,7 +75,7 @@ class Dataset():
                 dir = None
             extra = get_data(id)
             latlon = extra.get("latlon")
-            arreglo = self.arregos.get(id, {})
+            arreglo = self.arreglos.get(id, {})
             latlon = arreglo.get("latlon") or extra.get("latlon")
             c = Bunch(
                 id=id,
@@ -95,7 +95,8 @@ class Dataset():
                 info=extra.get("info"),
                 tipo=self.centro_tipo.get(id) or i["TIPO DE CENTRO"],
                 status_web=extra.get("status_web"),
-                min_distance=self.min_distance(latlon)
+                min_distance=self.min_distance(latlon),
+                etapas=extra.get("etapas")
             )
             for k, v in arreglo.items():
                 c[k]=v
@@ -141,7 +142,12 @@ class Dataset():
             elif k == "itInTecno":
                 file = "tecnico"
             elif k == "cdTramoEdu":
-                file = "e"+v
+                edu=[v]
+                for p in ("cdNivelEdu", "cdEnsenanza", "cdEspecialidad", "cdEspecialidadII"):
+                    t = kargv.get(p)
+                    if t and not t.startsWith("-"):
+                        edu.append(t)
+                file = "e"+("_".join(edu))
                 txt = False
                 if "cdLegislacionSE" not in kargv and self.legislacion:
                     kargv["cdLegislacionSE"]=self.legislacion
@@ -265,6 +271,12 @@ class Dataset():
             if v and v not in ("0", "-1"):
                 tipos[v] = re_sp.sub(" ", o.get_text()).strip()
         return tipos
+
+
+    def dwn_ensenanzas(self):
+        for k in sorted(self.ensenanzas.keys()):
+            pass
+
 
     @property
     @lru_cache(maxsize=None)

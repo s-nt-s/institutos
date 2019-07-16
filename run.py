@@ -16,12 +16,19 @@ d.unzip()
 
 tipos = set()
 latlon={}
+etapas=set()
 for c in d.centros:
     tipos.add(c.tipo)
     if c.latlon:
         col = latlon.get(c.latlon,[])
         col.append(c)
         latlon[c.latlon]=col
+    if c.etapas:
+        etapas = etapas.union(set(c.etapas))
+
+print("Etapas educativas:")
+for e in sorted(etapas):
+    print(" ", e)
 
 latlon = [(ltln, col) for ltln, col in latlon.items() if len(col)>1]
 if len(latlon)>0:

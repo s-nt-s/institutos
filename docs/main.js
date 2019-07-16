@@ -57,7 +57,10 @@ function getPopUp(c) {
   }
   if (c.telefono) {
     var telefono = c.telefono.toString()
-    if (telefono.length==9) telefono = telefono.replace(/(...)(...)(...)/, "$1 $2 $3")
+    if (telefono.length==9) {
+      if (telefono.startsWith("91")) telefono = telefono.replace(/(..)(...)(..)(..)/, "$1 $2 $3 $4")
+      else telefono = telefono.replace(/(...)(...)(...)/, "$1 $2 $3")
+    }
     links.push(`<a href='tel:${c.telefono}' title="Teléfono: ${telefono}">${telefono}</a>`);
   }
   body.push(links.join(" - "))

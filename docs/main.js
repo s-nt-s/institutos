@@ -242,7 +242,7 @@ $("#messages").bind("activate", function(){
     if (mails.length==1) {
       lnk.attr("href",href+"to="+mails[0]);
     } else{
-      lnk.attr("href",href+"bcc="+ mails.join(";"));
+      lnk.attr("href",href+"bcc="+ mails.sort().join(";"));
     }
   }
 })
@@ -320,7 +320,7 @@ function list_centros(centros, none) {
     if (mails.length==1) {
       href = href+"to="+mails[0];
     } else{
-      href = href+"bcc="+ mails.join(";");
+      href = href+"bcc="+ mails.sort().join(";");
     }
     html = html + `
     <p><a href="${href}">Pincha aquí para mandar un email a todos los centros de esta lista que tienen correo electrónico</a></p>

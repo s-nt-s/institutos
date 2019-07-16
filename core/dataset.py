@@ -143,6 +143,8 @@ class Dataset():
             elif k == "cdTramoEdu":
                 file = "e"+v
                 txt = False
+                if "cdLegislacionSE" not in kargv and self.legislacion:
+                    kargv["cdLegislacionSE"]=self.legislacion
             elif k == "cdGenerico":
                 file = "t"+v
                 txt = False
@@ -159,6 +161,15 @@ class Dataset():
             with open(txt, "w") as f:
                 f.write("\n".join(sorted(str(i) for i in out)))
         return out
+
+    @property
+    @lru_cache(maxsize=None)
+    def legislacion(self):
+        soup = get_soup(self.indice.centros)
+        cdLegislacionSE = soup.find("input", attrs={"name": "cdLegislacionSE"})
+        if cdLegislacionSE:
+            cdLegislacionSE = cdLegislacionSE.attrs["value"].strip()
+        return cdLegislacionSE
 
     @property
     @lru_cache(maxsize=None)

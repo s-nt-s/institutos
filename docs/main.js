@@ -319,6 +319,19 @@ $("#lista").bind("active", function(){
   $("#cShw").html(list_centros(showen, "Tu filtro oculta todos los centros"));
   $("#cHdn").html(list_centros(hidden, "Tu filtro muestra todos los centros"));
   $("#cDsc").html(list_centros(descartados, "Aún no has descartados ningún centro"));
+  $("#cSel,#cShw,#cHdn,#cDsc").each(function() {
+    var t=$(this);
+    var count=t.find("li").length;
+    var h2=t.prev("h2");
+    if (count==0) {
+      h2.find("small").remove();
+    }
+    else {
+      var small = h2.find("small");
+      if (small.length) small.text("("+count+")")
+      else h2.append(" <small>("+count+")</small>")
+    }
+  })
 });
 
 $("#casa").bind("change", function() {

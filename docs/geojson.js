@@ -5982,7 +5982,7 @@ var geomap = {
       "properties": {
         "id": 28038306,
         "dat": "Sur",
-        "nombre": "<span title='Instituto de educaci\u00f3n secundaria'>IES</span> Siglo Xxi",
+        "nombre": "<span title='Instituto de educaci\u00f3n secundaria'>IES</span> Siglo XXI",
         "direccion": "Calle De La Ingenier\u00eda, 1 28918 Legan\u00e9s",
         "telefono": 916806303,
         "mail": "ies.sigloveintiuno.leganes@educa.madrid.org",

@@ -1,4 +1,7 @@
 from bunch import Bunch
+import re
+
+re_roman = re.compile(r'^(?=[MDCLXVI])M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$', re.IGNORECASE)
 
 etapas_ban=(
     "Formación Profesional de grado medio",
@@ -35,7 +38,7 @@ def parse_word(w, first=False):
     if first:
         return w.capitalize()
     l=w.lower()
-    if l in ("i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xii", "xiii", "xiv", "xv", "xvi", "xvii", "xviii", "xix", "xx"):
+    if re_roman.match(l):
         return l.upper()
     if len(l)<3 or l in ("del", "las", "los"):
         return l

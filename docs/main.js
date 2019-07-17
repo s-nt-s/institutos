@@ -395,7 +395,7 @@ $("#download").bind("click", function(){
     if (col && col.length) {
       txt=txt+"\n"+item[0]+":\n";
       col.forEach(function(c) {
-        txt=txt+`\n * ${c.id} ${c.nombre}`
+        txt=txt+`\n* ${c.id} ${c.nombre}`
         if (cursorMarker) {
           var dis;
           if (c.dis_to_mrk>1) {
@@ -414,6 +414,7 @@ $("#download").bind("click", function(){
   txt = txt.replace(/<.*?>/g , "");
   txt = txt+"\n---\n"+date+"\n"+window.location.href;
   txt = txt.trim()
+  txt = txt.replace(/\n/g, "\r\n");
   this.href='data:text/plain;charset=utf-8,' + encodeURIComponent(txt);
 })
 

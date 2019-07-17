@@ -192,15 +192,13 @@ function make_filter(f, layer) {
     if (c.nocturno.length != ok) return false;
   }
   if (c.etapas && c.etapas.length && $("#etapas input").not(":checked").length) {
-    var ok=false;
+    var ok=0;
     $("#etapas input:checked").each(function(){
       var lb = $("label[for='"+this.id+"']");
       var txt = lb.text().replace(/^\s*|\s*$/g, "");
-      if (c.etapas.indexOf(txt)>-1) ok=true;
-      //ok = ok + 1;
+      if (c.etapas.indexOf(txt)>-1)  ok = ok + 1;
     })
-    //return c.etapas.length == ok;
-    return ok;
+    if (c.etapas.length != ok) return false;
   }
   return true;
 }
@@ -270,6 +268,8 @@ $("div.filter input").bind("click keypress change", function() {
     mymap.removeLayer(main_layer)
     main_layer = get_layer();
     mymap.addLayer(main_layer);
+    var estadistica=get_estadistica();
+    $("#count").text(estadistica.seleccionados.length+estadistica.showen.length);
 }).change();
 $("#messages").bind("active", function(){
   if (!$(this).is(".active")) return;
@@ -299,8 +299,7 @@ $("#messages").bind("active", function(){
   }
 })
 
-$("#lista").bind("active", function(){
-  if (!$(this).is(".active")) return;
+function get_estadistica() {
   var seleccionados=[];
   var descartados=[];
   var hidden=[];
@@ -315,10 +314,22 @@ $("#lista").bind("active", function(){
       else showen.push(c)
     }
   })
-  $("#cSel").html(list_centros(seleccionados, "Aún no has seleccionado ningún centro"));
-  $("#cShw").html(list_centros(showen, "Tu filtro oculta todos los centros"));
-  $("#cHdn").html(list_centros(hidden, "Tu filtro muestra todos los centros"));
-  $("#cDsc").html(list_centros(descartados, "Aún no has descartados ningún centro"));
+  return {
+    "seleccionados":seleccionados,
+    "descartados":descartados,
+    "hidden":hidden,
+    "showen": showen
+  }
+}
+
+$("#lista").bind("active", function(){
+  if (!$(this).is(".active")) return;
+  var estadistica=get_estadistica();
+  $("#count").text(estadistica.seleccionados.length+estadistica.showen.length);
+  $("#cSel").html(list_centros(estadistica.seleccionados, "Aún no has seleccionado ningún centro"));
+  $("#cShw").html(list_centros(estadistica.showen, "Tu filtro oculta todos los centros"));
+  $("#cHdn").html(list_centros(estadistica.hidden, "Tu filtro muestra todos los centros"));
+  $("#cDsc").html(list_centros(estadistica.descartados, "Aún no has descartados ningún centro"));
   $("#cSel,#cShw,#cHdn,#cDsc").each(function() {
     var t=$(this);
     var count=t.find("li").length;

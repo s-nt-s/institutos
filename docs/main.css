@@ -92,3 +92,15 @@ a[disabled=disabled] {
   font-weight: normal;
   vertical-align: middle;
 }
+.tulista {
+  height: 54px !important;
+}
+#count {
+  font-size: 0.50em;
+  display: block;
+  padding: 0;
+  margin: 0;
+  line-height: 0.50em;
+  text-align: center;
+  vertical-align: middle;
+}

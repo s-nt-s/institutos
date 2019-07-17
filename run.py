@@ -109,11 +109,6 @@ create_script("docs/geojson.js", geomap=d.geojson, tipos=ok_tipos, nocturnos=sor
 lgd = [colors.dificultad, colors.nocturno, colors.default]
 lgd = lgd + [color_to_url(c, None) for c in lgd]
 mail = [c.mail for c in d.centros if c.mail]
-etapas = set()
-for c in d.centros:
-    if c.etapas:
-        for e in c.etapas:
-            etapas
 
 j2 = Jnj2("template/", "docs/")
 j2.save(
@@ -124,5 +119,6 @@ j2.save(
     nocturnos=sorted(nocturnos),
     lgd=lgd,
     indice=d.indice,
-    mails=";".join(mail)
+    mails=";".join(mail),
+    count=len(d.centros)
 )

@@ -52,9 +52,13 @@ def _readme(key):
     if key == "enlaces_mail":
         mail = [c.mail for c in d.centros if c.mail]
         return "mailto:?bcc="+";".join(mail)+"&subject=Consulta%20en%20relacción%20al%20concurso%20de%20traslados"
-    if key == "etapas_ban":
+    if key == "etapas":
+        etapas=set()
+        for c in d.centros:
+            for e in (c.etapas or []):
+                etapas.add(e)
         s=""
-        for e in etapas_ban:
+        for e in sorted(etapas):
             s=s +"\n* "+e
         return s.strip()
 

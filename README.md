@@ -11,7 +11,7 @@ Los datos que se han usado han sido:
 * [El anexo 29](http://www.madrid.org/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-disposition&blobheadername2=cadena&blobheadervalue1=filename%3DAnexo+29.pdf&blobheadervalue2=language%3Des%26site%3DPortalEducacionRRHH&blobkey=id&blobtable=MungoBlobs&blobwhere=1310723140345&ssbinary=true)
 * [El buscador de centros](http://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm)
 * Y para determinar la distancia a la estación de transporte más cercana,
-se han usado los datos de: 
+se han usado los datos de:
     * La red de [Metro](https://crtm.maps.arcgis.com/home/item.html?id=5c7f2951962540d69ffe8f640d94c246)
     * La red de [Cercanias](https://crtm.maps.arcgis.com/home/item.html?id=1a25440bf66f499bae2657ec7fb40144)
     * La red de [Metro ligero](https://crtm.maps.arcgis.com/home/item.html?id=aaed26cc0ff64b0c947ac0bc3e033196)
@@ -30,26 +30,26 @@ aquellos que son de alguno de los siguientes tipos:
 * 047 Sección de instituto de educación secundaria
 * 070 Colegio de educación infantil, primaria y secundaria
 
-a excepción de aquellos que solo ofertan alguna de estas etapas educativas:
+y que (en caso de que este la información disponible) ofrezcan al menos alguna de estas etapas educativas:
 
-* Formación Profesional de grado medio
-* Formación Profesional de grado superior
-* Segundo Ciclo de Educación Infantil (LOE)
-* Educación Primaria (LOE - LOMCE)
-* Idiomas (LOE 1)
-* Artísticas (LOE)
-* Artísticas (LOGSE)
-* Enseñanzas Iniciales Básicas para personas adultas (LOE)
-* Programas Profesionales (LOE-LOMCE)
-* Técnico Profesional
+* "Bachibac" Programa doble titulación Bachiller-Baccalaureat
+* Bachillerato
+* Curso preparatorio prueba de acceso Grado Superior (LOE)
+* Cursos a distancia Soporte Telemático
+* Desarrollo Personal
+* ESO (LOE-LOMCE)
+* ESO para personas adultas (LOE-LOMCE)
+* Educación Especial ESO (Adaptac. LOE)
+* Español para inmigrantes
+* Formación Profesional Básica (LOE-LOMCE)
 
 # Iconos
 
 Se han usado los siguientes iconos para dar información extra:
 
-* ![red](http://maps.google.com/mapfiles/ms/micons/red.png) Centro de especial dificultad
-* ![blue](http://maps.google.com/mapfiles/ms/micons/blue.png) Centro con turnos nocturnos
-* ![green](http://maps.google.com/mapfiles/ms/micons/green.png) Color por defecto
+* ![red](https://maps.google.com/mapfiles/ms/micons/red.png) Centro de especial dificultad
+* ![blue](https://maps.google.com/mapfiles/ms/micons/blue.png) Centro con turnos nocturnos
+* ![green](https://maps.google.com/mapfiles/ms/micons/green.png) Color por defecto
 * Y las mismas chinchetas pero con un punto negro en el centro
 cuando además se da alguna característica especial como
 bilingüismo, excelencia o innovación tecnológica

@@ -304,13 +304,19 @@ $("#messages").bind("active", function(){
   }
 })
 
-function get_estadistica() {
+function get_estadistica(mrk) {
   var seleccionados=[];
   var descartados=[];
   var hidden=[];
   var showen=[];
+  if (mrk && mrk._latlng) mrk = mrk._latlng;
+  if (mrk && !(mrk.lat && mrk.lng)) mrk = null;
   geomap["features"].forEach(function(f) {
     c=f.properties;
+    if (mrk) {
+      var latlon = c.latlon.split(/,/)
+      c.dis_to_mrk = get_distance(mrk.lat, mrk.lng, parseFloat(latlon[0]), parseFloat(latlon[1]));
+    }
     if (!make_filter(f)) {
       hidden.push(c)
     } else {
@@ -319,10 +325,17 @@ function get_estadistica() {
       else showen.push(c)
     }
   })
+  if (mrk) {
+    var fSort = function(a,b) { return a.dis_to_mrk - b.dis_to_mrk }
+    seleccionados.sort(fSort);
+    descartados.sort(fSort);
+    hidden.sort(fSort);
+    showen.sort(fSort);
+  }
   return {
     "seleccionados":seleccionados,
     "descartados":descartados,
-    "hidden":hidden,
+    "hidden": hidden,
     "showen": showen
   }
 }
@@ -360,6 +373,48 @@ $("#casa").bind("change", function() {
   var marker = L.marker([lat, lon],
     {icon: L.icon({iconUrl: "http://maps.google.com/mapfiles/ms/micons/homegardenbusiness.png"})}
   ).addTo(mymap);
+})
+
+$("#download").bind("click", function(){
+  var estadistica=get_estadistica(cursorMarker);
+  var ahora = new Date();
+  var date = ahora.getFullYear() + "." + ahora.getMonth().pad(2) + "." + ahora.getDate().pad(0);
+  this.download = date+"_centros.txt"
+  var txt='';
+  if (cursorMarker) {
+    txt=`Punto de refrencia: ${cursorMarker._latlng.lat},${cursorMarker._latlng.lng}\n`
+  }
+  var cols=[
+    ["Centros seleccionados por mi", estadistica.seleccionados],
+    ["Centros seleccionados por el filtro", estadistica.showen],
+    ["Centros descartados por el filtro", estadistica.hidden],
+    ["Centros descartados por mi", estadistica.descartados]
+  ];
+  cols.forEach(function(item) {
+    var col = item[1];
+    if (col && col.length) {
+      txt=txt+"\n"+item[0]+":\n";
+      col.forEach(function(c) {
+        txt=txt+`\n * ${c.id} ${c.nombre}`
+        if (cursorMarker) {
+          var dis;
+          if (c.dis_to_mrk>1) {
+            dis=(Math.round(c.dis_to_mrk*100)/100)+"km";
+            dis=dis.replace(".", ",");
+          }
+          else {
+            dis=Math.round(c.dis_to_mrk*1000)+"m";
+          }
+          txt = txt + ` (${dis})`
+        }
+      });
+      txt = txt + "\n"
+    }
+  })
+  txt = txt.replace(/<.*?>/g , "");
+  txt = txt+"\n---\n"+date+"\n"+window.location.href;
+  txt = txt.trim()
+  this.href='data:text/plain;charset=utf-8,' + encodeURIComponent(txt);
 })
 
 });

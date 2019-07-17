@@ -19,6 +19,7 @@
     <script src="sidebar/leaflet-sidebar.js"></script>
 
     <script src="geojson.js"></script>
+    <script src="extend.js"></script>
     <script src="main.js" defer="defer"></script>
 	</head>
 	<body>
@@ -31,6 +32,7 @@
 								<li title="Mandar mails" id="lkMessages"><a href="#messages" role="tab"><i class="fa fa-envelope"></i></a></li>
                 <li title="Tu lista" class="tulista"><a href="#lista" role="tab"><i class="fa fa-pencil-square-o"></i><span id="count">{{count}}</span></a></li>
                 <li title="Contacto, correciones y sugerencias"><a href="#contacto" role="tab"><i class="fa fa-question-circle"></i></a></li>
+								<li title="Descarga tu lista"><a id="download" data-href="data:text/plain;charset=utf-8," href="data:text/plain;charset=utf-8," download="centros.txt" role="tab"><i class="fa fa fa-cloud-download"></i></a></li>
             </ul>
 
             <ul role="tablist">
@@ -95,10 +97,9 @@
 									{% endfor %}
 									</ul>
 									<p>
-										a excepción de aquellos que solo ofertan alguna de estas etapas educativas:
-									</p>
+										y que (en caso de que este la información disponible) ofrezcan al menos alguna de estas etapas educativas:									</p>
 									<ul>
-					        {% for etapa in etapas_ban %}
+					        {% for etapa in etapas %}
 										<li>{{etapa}}</li>
 									{% endfor %}
 									</ul>

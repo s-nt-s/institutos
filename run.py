@@ -115,7 +115,6 @@ j2.save(
     "index.html",
     tipos=ok_tipos,
     etapas=sorted(ok_etapas),
-    etapas_ban=etapas_ban,
     nocturnos=sorted(nocturnos),
     lgd=lgd,
     indice=d.indice,

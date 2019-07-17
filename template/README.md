@@ -16,9 +16,9 @@ aquellos que son de alguno de los siguientes tipos:
 
 {{{tipos}}}
 
-a excepción de aquellos que solo ofertan alguna de estas etapas educativas:
+y que (en caso de que este la información disponible) ofrezcan al menos alguna de estas etapas educativas:
 
-{{{etapas_ban}}}
+{{{etapas}}}
 
 {{{excepcion}}}
 

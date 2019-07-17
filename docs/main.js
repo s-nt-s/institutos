@@ -193,11 +193,16 @@ function make_filter(f, layer) {
   }
   if (c.etapas && c.etapas.length && $("#etapas input").not(":checked").length) {
     var ok=0;
+    var or_ok=false;
     $("#etapas input:checked").each(function(){
       var lb = $("label[for='"+this.id+"']");
       var txt = lb.text().replace(/^\s*|\s*$/g, "");
-      if (c.etapas.indexOf(txt)>-1)  ok = ok + 1;
+      if (c.etapas.indexOf(txt)>-1) {
+        or_ok = true;
+        ok = ok + 1;
+      }
     })
+    //if (or_ok) return true;
     if (c.etapas.length != ok) return false;
   }
   return true;

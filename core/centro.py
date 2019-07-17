@@ -115,7 +115,10 @@ def get_data1(ctr):
     if len(data["nocturno"]) == 0:
         data["nocturno"] = None
     etapas=[]
-    estapa=None
+    txt_especial="Educación Especial (Adaptac.LOE)"
+    txt_especial_obli="Educación Básica Obligatoria (Adaptac. LOE)"
+    etapa_especial=[]
+    etapa_especial_obli=[]
     for tr in soup.select("#capaEtapasContent tr"):
         td = tr.find("td")
         txt = get_text(td)
@@ -131,6 +134,22 @@ def get_data1(ctr):
                         lv = int(cl)
             if lv==0:
                 etapas.append(txt)
+            elif len(etapas)>0 and etapas[-1]==txt_especial:
+                if lv==40:
+                    etapa_especial.append(txt)
+                elif lv==60 and len(etapa_especial)>0 and etapa_especial[-1]==txt_especial_obli:
+                    etapa_especial_obli.append(txt)
+    if len(etapa_especial)>0:
+        etapas.remove(txt_especial)
+        if len(etapa_especial_obli)>0:
+            etapa_especial.remove(txt_especial_obli)
+            for et in etapa_especial_obli:
+                if "-" in et:
+                    et = et.split("-", 1)[-1].strip()
+                etapa_especial.append(txt_especial_obli.replace("Básica Obligatoria", et))
+        for et in etapa_especial:
+            et = et.replace("Educación ", "Educación Especial ")
+            etapas.append(et)
     data["etapas"] = etapas if len(etapas) else None
     return data
 

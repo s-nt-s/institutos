@@ -10,7 +10,9 @@ etapas_ban=(
     "Artísticas (LOGSE)",
     "Enseñanzas Iniciales Básicas para personas adultas (LOE)",
     "Programas Profesionales (LOE-LOMCE)",
-    "Técnico Profesional"
+    "Técnico Profesional",
+    "Educación Especial Infantil (Adaptac. LOE)",
+    "Educación Especial Primaria (Adaptac. LOE)"
 )
 
 def index(literal, arr):

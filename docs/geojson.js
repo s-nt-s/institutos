@@ -120,7 +120,7 @@ var geomap = {
         "direccion": "Calle Alalpardo, S/n 28806 Alcal\u00e1 de Henares",
         "telefono": 918892450,
         "mail": "ies.machado.alcala@educa.madrid.org",
-        "latlon": "40.491658570060444,-3.3696764563273067",
+        "latlon": "40.49165857006046,-3.3696764563273067",
         "nocturno": [
           "Artes (LOE-LOMCE)"
         ],
@@ -133,7 +133,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000522",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 410.98936381678175,
+        "min_distance": 410.9893638180325,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -146,7 +146,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.3696764563273067,
-          40.491658570060444
+          40.49165857006046
         ]
       }
     },
@@ -313,7 +313,7 @@ var geomap = {
         "direccion": "Paseo De San Sebasti\u00e1n, 23 28490 Becerril de la Sierra",
         "telefono": 918538064,
         "mail": "cp.juanramonjimenez.becerril@educa.madrid.org",
-        "latlon": "40.71360141345146,-3.9910766855742534",
+        "latlon": "40.71360141345145,-3.9910766855742534",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -324,7 +324,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001812",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 4430.285366360287,
+        "min_distance": 4430.28536635918,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
         ],
@@ -335,7 +335,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.9910766855742534,
-          40.71360141345146
+          40.71360141345145
         ]
       }
     },
@@ -893,7 +893,7 @@ var geomap = {
         "direccion": "Calle Alpujarras, 52 28915 Legan\u00e9s",
         "telefono": 916880222,
         "mail": "ies.mariazambrano.leganes@educa.madrid.org",
-        "latlon": "40.33059038009869,-3.7475089043237886",
+        "latlon": "40.330590380098705,-3.7475089043237886",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -904,7 +904,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003900",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 594.8699844573669,
+        "min_distance": 594.8699844560906,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -916,7 +916,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7475089043237886,
-          40.33059038009869
+          40.330590380098705
         ]
       }
     },
@@ -982,7 +982,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 506.6947088591469,
         "etapas": [
-          "Educaci\u00f3n Especial (Adaptac.LOE)"
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -1196,7 +1196,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 381.7947612557047,
         "etapas": [
-          "Educaci\u00f3n Especial (Adaptac.LOE)"
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -1700,7 +1700,7 @@ var geomap = {
         "direccion": "Calle De N\u00e1poles, 56 28043 Madrid",
         "telefono": 913884579,
         "mail": "ies.condedeorgaz.madrid@educa.madrid.org",
-        "latlon": "40.45998318179353,-3.646389131938344",
+        "latlon": "40.459983181793525,-3.646389131938344",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -1711,7 +1711,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020545",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 64.18180116508786,
+        "min_distance": 64.18180116458264,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -1723,7 +1723,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.646389131938344,
-          40.45998318179353
+          40.459983181793525
         ]
       }
     },
@@ -1736,7 +1736,7 @@ var geomap = {
         "direccion": "Calle De Arcos De Jal\u00f3n, 116 28037 Madrid",
         "telefono": 913064069,
         "mail": "ies.carlostercero.madrid@educa.madrid.org",
-        "latlon": "40.42491452590933,-3.6144371343516086",
+        "latlon": "40.424914525909315,-3.6144371343516086",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -1747,7 +1747,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020557",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 321.57952222934694,
+        "min_distance": 321.57952223123254,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -1759,7 +1759,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6144371343516086,
-          40.42491452590933
+          40.424914525909315
         ]
       }
     },
@@ -2103,7 +2103,7 @@ var geomap = {
         "direccion": "Calle V\u00eda L\u00edmite, 14 28029 Madrid",
         "telefono": 913146706,
         "mail": "ies.tetuan.madrid@educa.madrid.org",
-        "latlon": "40.47314034686331,-3.696828178293769",
+        "latlon": "40.473140346863296,-3.696828178293769",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -2114,7 +2114,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020831",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 391.4664954293876,
+        "min_distance": 391.4664954280162,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -2125,7 +2125,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.696828178293769,
-          40.47314034686331
+          40.473140346863296
         ]
       }
     },
@@ -2216,7 +2216,7 @@ var geomap = {
         "direccion": "Calle De Alfonso Xii, 3 28014 Madrid",
         "telefono": 915277878,
         "mail": "ies.isabellacatolica.madrid@educa.madrid.org",
-        "latlon": "40.409517129583975,-3.688192672587283",
+        "latlon": "40.40951712958399,-3.688192672587283",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -2230,7 +2230,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020909",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 232.6786958946251,
+        "min_distance": 232.6786958955586,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -2243,7 +2243,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.688192672587283,
-          40.409517129583975
+          40.40951712958399
         ]
       }
     },
@@ -2483,7 +2483,7 @@ var geomap = {
         "direccion": "Calle De Luis Mitjans, 41 28007 Madrid",
         "telefono": 915523979,
         "mail": "ies.pacifico.madrid@educa.madrid.org",
-        "latlon": "40.404109465199426,-3.6686222494004217",
+        "latlon": "40.40410946519944,-3.6686222494004217",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -2494,7 +2494,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021252",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 348.6449551419684,
+        "min_distance": 348.64495514096876,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -2505,7 +2505,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6686222494004217,
-          40.404109465199426
+          40.40410946519944
         ]
       }
     },
@@ -2819,8 +2819,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 14674.017974916638,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
-          "Educaci\u00f3n Especial (Adaptac.LOE)"
+          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -3139,7 +3138,7 @@ var geomap = {
         "direccion": "Calle Miguel Cervantes, 4 28511 Valdilecha",
         "telefono": 918738437,
         "mail": "cp.cervantes.valdilecha@educa.madrid.org",
-        "latlon": "40.29384204220653,-3.2996501318009703",
+        "latlon": "40.29384204220651,-3.2996501318009703",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3150,7 +3149,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025415",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 12616.2343506746,
+        "min_distance": 12616.23435067482,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
         ],
@@ -3161,7 +3160,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.2996501318009703,
-          40.29384204220653
+          40.29384204220651
         ]
       }
     },
@@ -3209,7 +3208,7 @@ var geomap = {
         "direccion": "Calle De Valdebernardo, 1 28030 Madrid",
         "telefono": 917731854,
         "mail": "ies.felipesegundo.madrid@educa.madrid.org",
-        "latlon": "40.397521590327486,-3.6338429115163104",
+        "latlon": "40.39752159032749,-3.6338429115163104",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3220,7 +3219,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025828",
         "tipo": "042",
         "status_web": 404,
-        "min_distance": 349.10200678016423,
+        "min_distance": 349.10200677949246,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -3232,7 +3231,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6338429115163104,
-          40.397521590327486
+          40.39752159032749
         ]
       }
     },
@@ -3467,7 +3466,7 @@ var geomap = {
         "direccion": "Avenida De Los Toreros, 57 28028 Madrid",
         "telefono": 913552326,
         "mail": "ies.avenidadelostor.madrid@educa.madrid.org",
-        "latlon": "40.433518704414745,-3.6647988443253077",
+        "latlon": "40.43351870441474,-3.6647988443253077",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3478,7 +3477,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028428",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 284.2327348867626,
+        "min_distance": 284.2327348864426,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -3490,7 +3489,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6647988443253077,
-          40.433518704414745
+          40.43351870441474
         ]
       }
     },
@@ -3759,7 +3758,7 @@ var geomap = {
         "direccion": "Calle De Serrano, 127 28006 Madrid",
         "telefono": 915617838,
         "mail": "ies.ramirodemaeztu.madrid@educa.madrid.org",
-        "latlon": "40.4423401769383,-3.6860865092847903",
+        "latlon": "40.44234017693831,-3.6860865092847903",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)",
@@ -3774,7 +3773,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028672",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 214.44816106776105,
+        "min_distance": 214.44816106738782,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -3786,7 +3785,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6860865092847903,
-          40.4423401769383
+          40.44234017693831
         ]
       }
     },
@@ -3914,7 +3913,7 @@ var geomap = {
         "direccion": "Calle De Oca\u00f1a, 35bis 28047 Madrid",
         "telefono": 917179100,
         "mail": "cepa.aluche.madrid@educa.madrid.org",
-        "latlon": "40.384780695686764,-3.7556594164657175",
+        "latlon": "40.38478069568678,-3.7556594164657175",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3925,7 +3924,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030125",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 380.2953628601151,
+        "min_distance": 380.2953628602764,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
@@ -3939,7 +3938,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7556594164657175,
-          40.384780695686764
+          40.38478069568678
         ]
       }
     },
@@ -3952,7 +3951,7 @@ var geomap = {
         "direccion": "Calle De Fortuny, 24 28010 Madrid",
         "telefono": 913101839,
         "mail": "ies.fortuny.madrid@educa.madrid.org",
-        "latlon": "40.433759425870306,-3.6898309692897224",
+        "latlon": "40.4337594258703,-3.6898309692897224",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -3963,7 +3962,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030137",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 70.99337329340972,
+        "min_distance": 70.99337329208447,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -3975,7 +3974,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6898309692897224,
-          40.433759425870306
+          40.4337594258703
         ]
       }
     },
@@ -4132,7 +4131,7 @@ var geomap = {
         "direccion": "Calle De Alfredo Marquerie, 21 28034 Madrid",
         "telefono": 917388675,
         "mail": "ies.damasoalonso.madrid@educa.madrid.org",
-        "latlon": "40.48718116313999,-3.7004659272215004",
+        "latlon": "40.48718116314,-3.7004659272215004",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -4143,7 +4142,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030186",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 507.3844498704271,
+        "min_distance": 507.384449870013,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -4155,7 +4154,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7004659272215004,
-          40.48718116313999
+          40.48718116314
         ]
       }
     },
@@ -4205,7 +4204,7 @@ var geomap = {
         "direccion": "Avenida Juan Carlos I, 19 28981 Parla",
         "telefono": 916982906,
         "mail": "ies.humanejos.parla@educa.madrid.org",
-        "latlon": "40.22868313701137,-3.7688847486100596",
+        "latlon": "40.228683137011366,-3.7688847486100605",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -4216,7 +4215,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030216",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 317.316336011678,
+        "min_distance": 317.3163360116577,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -4228,8 +4227,8 @@ var geomap = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7688847486100596,
-          40.22868313701137
+          -3.7688847486100605,
+          40.228683137011366
         ]
       }
     },
@@ -4316,7 +4315,7 @@ var geomap = {
         "direccion": "Calle De Somont\u00edn, 59 28033 Madrid",
         "telefono": 913028445,
         "mail": "ies.arturosoria.madrid@educa.madrid.org",
-        "latlon": "40.47774291017068,-3.660161958912997",
+        "latlon": "40.477742910170676,-3.660161958912997",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -4327,7 +4326,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030575",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 249.01290646469795,
+        "min_distance": 249.01290646398664,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -4339,7 +4338,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.660161958912997,
-          40.47774291017068
+          40.477742910170676
         ]
       }
     },
@@ -4425,7 +4424,7 @@ var geomap = {
         "direccion": "Calle De Maqueda, 130 28024 Madrid",
         "telefono": 917191511,
         "mail": "ies.blasdeotero.madrid@educa.madrid.org",
-        "latlon": "40.38888268881214,-3.76207929306955",
+        "latlon": "40.38888268881213,-3.76207929306955",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4436,7 +4435,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030927",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 334.99887899039237,
+        "min_distance": 334.99887899059,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -4448,7 +4447,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.76207929306955,
-          40.38888268881214
+          40.38888268881213
         ]
       }
     },
@@ -4569,7 +4568,7 @@ var geomap = {
         "direccion": "Calle De Carlos Ii, S/n 28022 Madrid",
         "telefono": 913065946,
         "mail": "ies.lasmusas.madrid@educa.madrid.org",
-        "latlon": "40.42868839313902,-3.6077871485978754",
+        "latlon": "40.42868839313901,-3.6077871485978754",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4580,7 +4579,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030976",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 430.0211627237761,
+        "min_distance": 430.02116272483596,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -4592,7 +4591,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6077871485978754,
-          40.42868839313902
+          40.42868839313901
         ]
       }
     },
@@ -4712,7 +4711,7 @@ var geomap = {
         "direccion": "Avenida Alemania, 19 28916 Legan\u00e9s",
         "telefono": 916867274,
         "mail": "ies.arquitectoperid.leganes@educa.madrid.org",
-        "latlon": "40.33420095800474,-3.740826690151356",
+        "latlon": "40.33420095800475,-3.740826690151356",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4723,7 +4722,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032471",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 258.59150390489856,
+        "min_distance": 258.5915039031997,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -4735,7 +4734,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.740826690151356,
-          40.33420095800474
+          40.33420095800475
         ]
       }
     },
@@ -4821,7 +4820,7 @@ var geomap = {
         "direccion": "Avenida Juan Carlos I, 12 28981 Parla",
         "telefono": 916981111,
         "mail": "ies.tiernogalvan.parla@educa.madrid.org",
-        "latlon": "40.225967008491764,-3.768184077093533",
+        "latlon": "40.22596700849176,-3.768184077093533",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -4835,7 +4834,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032559",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 621.1574716907086,
+        "min_distance": 621.1574716912627,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -4848,7 +4847,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.768184077093533,
-          40.225967008491764
+          40.22596700849176
         ]
       }
     },
@@ -4898,7 +4897,7 @@ var geomap = {
         "direccion": "Calle De Chantada, 34 28029 Madrid",
         "telefono": 913781949,
         "mail": "cepa.sampedro.madrid@educa.madrid.org",
-        "latlon": "40.47346444529824,-3.713111024424132",
+        "latlon": "40.47346444529825,-3.713111024424132",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -4909,7 +4908,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033321",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 356.5423492345774,
+        "min_distance": 356.5423492340368,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
@@ -4923,7 +4922,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.713111024424132,
-          40.47346444529824
+          40.47346444529825
         ]
       }
     },
@@ -5262,7 +5261,7 @@ var geomap = {
         "direccion": "Camino De La Dehesilla Y Rodeo, S/n 28470 Cercedilla",
         "telefono": 918521763,
         "mail": "ies.ladehesilla.cercedilla@educa.madrid.org",
-        "latlon": "40.73740578938678,-4.043729029455895",
+        "latlon": "40.737405789386784,-4.043729029455896",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -5273,7 +5272,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035342",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1864.9939746311986,
+        "min_distance": 1864.9939746311275,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -5284,8 +5283,8 @@ var geomap = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.043729029455895,
-          40.73740578938678
+          -4.043729029455896,
+          40.737405789386784
         ]
       }
     },
@@ -5370,7 +5369,7 @@ var geomap = {
         "direccion": "Avenida Del Oeste, S/n 28922 Alcorc\u00f3n",
         "telefono": 916439991,
         "mail": "ies.laarboleda.alcorcon@educa.madrid.org",
-        "latlon": "40.34165824906583,-3.8325430117586587",
+        "latlon": "40.34165824906582,-3.8325430117586587",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -5381,7 +5380,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036978",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 832.0083302113059,
+        "min_distance": 832.0083302113406,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -5394,7 +5393,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.8325430117586587,
-          40.34165824906583
+          40.34165824906582
         ]
       }
     },
@@ -5481,7 +5480,7 @@ var geomap = {
         "direccion": "Calle Agustinos, S/n 28914 Legan\u00e9s",
         "telefono": 916947859,
         "mail": "ies.tiernogalvan.leganes@educa.madrid.org",
-        "latlon": "40.31710999876118,-3.7726174570450484",
+        "latlon": "40.317109998761175,-3.7726174570450484",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -5492,7 +5491,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037004",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 584.477289114196,
+        "min_distance": 584.4772891147746,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -5504,7 +5503,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7726174570450484,
-          40.31710999876118
+          40.317109998761175
         ]
       }
     },
@@ -5951,7 +5950,7 @@ var geomap = {
         "direccion": "Calle Austria, 7 28916 Legan\u00e9s",
         "telefono": 916862999,
         "mail": "ies.salvadordali.leganes@educa.madrid.org",
-        "latlon": "40.33695559757417,-3.742563890444476",
+        "latlon": "40.336955597574175,-3.742563890444476",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -5974,7 +5973,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.742563890444476,
-          40.33695559757417
+          40.336955597574175
         ]
       }
     },
@@ -5987,7 +5986,7 @@ var geomap = {
         "direccion": "Calle De La Ingenier\u00eda, 1 28918 Legan\u00e9s",
         "telefono": 916806303,
         "mail": "ies.sigloveintiuno.leganes@educa.madrid.org",
-        "latlon": "40.33836760293232,-3.7636886267571183",
+        "latlon": "40.338367602932315,-3.7636886267571183",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -5998,7 +5997,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038306",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1019.6032539890311,
+        "min_distance": 1019.603253988892,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -6010,7 +6009,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7636886267571183,
-          40.33836760293232
+          40.338367602932315
         ]
       }
     },
@@ -6214,7 +6213,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 162.6280534265585,
         "etapas": [
-          "Educaci\u00f3n Especial (Adaptac.LOE)"
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -6455,7 +6454,7 @@ var geomap = {
         "direccion": "Calle De Joaqu\u00edn Lorenzo, 2 28035 Madrid",
         "telefono": 913732052,
         "mail": "ies.newton.madrid@educa.madrid.org",
-        "latlon": "40.47301862838391,-3.722520036764229",
+        "latlon": "40.473018628383926,-3.722520036764229",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -6466,7 +6465,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038823",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 498.6705425128326,
+        "min_distance": 498.6705425137011,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -6478,7 +6477,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.722520036764229,
-          40.47301862838391
+          40.473018628383926
         ]
       }
     },
@@ -6491,7 +6490,7 @@ var geomap = {
         "direccion": "Calle Gardenia, 29 28803 Alcal\u00e1 de Henares",
         "telefono": 918808462,
         "mail": "ies.isidradeguzman.alcala@educa.madrid.org",
-        "latlon": "40.473724518980724,-3.371642537326748",
+        "latlon": "40.47372451898073,-3.371642537326748",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -6502,7 +6501,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038835",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1760.9189667355383,
+        "min_distance": 1760.9189667345147,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -6514,7 +6513,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.371642537326748,
-          40.473724518980724
+          40.47372451898073
         ]
       }
     },
@@ -6853,7 +6852,7 @@ var geomap = {
         "direccion": "Calle De Las Moreras, 28 28300 Aranjuez",
         "telefono": 918920298,
         "mail": "ies.alpajes.aranjuez@educa.madrid.org",
-        "latlon": "40.035093778886825,-3.5935656943584227",
+        "latlon": "40.03509377888681,-3.5935656943584227",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -6864,7 +6863,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039037",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 2103.7884875154905,
+        "min_distance": 2103.788487515463,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -6877,7 +6876,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.5935656943584227,
-          40.035093778886825
+          40.03509377888681
         ]
       }
     },
@@ -6960,7 +6959,7 @@ var geomap = {
         "direccion": "Calle Cardenal Sandoval Y Rojas, 1 28802 Alcal\u00e1 de Henares",
         "telefono": 918817263,
         "mail": "ies.cardenalcisnero.alcala@educa.madrid.org",
-        "latlon": "40.48123192788995,-3.3707164846736113",
+        "latlon": "40.48123192788996,-3.3707164846736113",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -6971,7 +6970,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039670",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 945.9508774188198,
+        "min_distance": 945.9508774181721,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -6984,7 +6983,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.3707164846736113,
-          40.48123192788995
+          40.48123192788996
         ]
       }
     },
@@ -7109,7 +7108,7 @@ var geomap = {
         "direccion": "Calle De La Habana, 2 28945 Fuenlabrada",
         "telefono": 916060313,
         "mail": "ies.carobaroja.fuenlabrada@educa.madrid.org",
-        "latlon": "40.28752298199444,-3.7861623259145554",
+        "latlon": "40.28752298199445,-3.7861623259145554",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -7120,7 +7119,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039797",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 91.90372291747224,
+        "min_distance": 91.9037229176955,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -7133,7 +7132,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7861623259145554,
-          40.28752298199444
+          40.28752298199445
         ]
       }
     },
@@ -7511,7 +7510,7 @@ var geomap = {
         "direccion": "Calle Tulip\u00e1n, 1 28933 M\u00f3stoles",
         "telefono": 916645070,
         "mail": "ies.benjaminrua.mostoles@educa.madrid.org",
-        "latlon": "40.33628212991153,-3.8713740570284276",
+        "latlon": "40.336282129911524,-3.8713740570284276",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -7522,7 +7521,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040003",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 146.0907509176668,
+        "min_distance": 146.09075091704256,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -7533,7 +7532,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.8713740570284276,
-          40.33628212991153
+          40.336282129911524
         ]
       }
     },
@@ -7691,7 +7690,7 @@ var geomap = {
         "direccion": "Calle \u00c1lvarez Laviada, 3 28370 Chinch\u00f3n",
         "telefono": 918940214,
         "mail": "ies.carpediem.chinchon@educa.madrid.org",
-        "latlon": "40.1393114448606,-3.4143865492545746",
+        "latlon": "40.13931144486059,-3.4143865492545746",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -7702,7 +7701,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040684",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 16805.941051488677,
+        "min_distance": 16805.94105148882,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -7714,7 +7713,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.4143865492545746,
-          40.1393114448606
+          40.13931144486059
         ]
       }
     },
@@ -8016,7 +8015,7 @@ var geomap = {
         "direccion": "Avenida Del Moscatelar, 19 28703 San Sebasti\u00e1n de los Reyes",
         "telefono": 916524999,
         "mail": "ies.juliopalacios.sansebastian@educa.madrid.org",
-        "latlon": "40.54355087413265,-3.6180706937215583",
+        "latlon": "40.54355087413264,-3.6180706937215583",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8027,7 +8026,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040799",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 871.2702682175577,
+        "min_distance": 871.270268217861,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -8040,7 +8039,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6180706937215583,
-          40.54355087413265
+          40.54355087413264
         ]
       }
     },
@@ -8090,7 +8089,7 @@ var geomap = {
         "direccion": "Calle Del Parque Ferial, S/n 28923 Alcorc\u00f3n",
         "telefono": 916439644,
         "mail": "ies.elpinar.alcorcon@educa.madrid.org",
-        "latlon": "40.339815866309024,-3.8243731936041927",
+        "latlon": "40.33981586630903,-3.8243731936041927",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8101,7 +8100,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041366",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1116.223761366263,
+        "min_distance": 1116.2237613657437,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -8114,7 +8113,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.8243731936041927,
-          40.339815866309024
+          40.33981586630903
         ]
       }
     },
@@ -8127,7 +8126,7 @@ var geomap = {
         "direccion": "Calle De Santillana Del Mar, 22 28660 Boadilla del Monte",
         "telefono": 916321512,
         "mail": "ies.maximotrueba.boadilla@educa.madrid.org",
-        "latlon": "40.406222018689625,-3.8816208563948615",
+        "latlon": "40.40622201868963,-3.8816208563948615",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8138,7 +8137,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041378",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 168.51704239628006,
+        "min_distance": 168.51704239542508,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -8150,7 +8149,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.8816208563948615,
-          40.406222018689625
+          40.40622201868963
         ]
       }
     },
@@ -8236,7 +8235,7 @@ var geomap = {
         "direccion": "Carretera De Getafe-legan\u00e9s, S/n 28904 Getafe",
         "telefono": 916831621,
         "mail": "ies.altair.getafe@educa.madrid.org",
-        "latlon": "40.31529650329852,-3.7413614930969064",
+        "latlon": "40.315296503298526,-3.7413614930969064",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8247,7 +8246,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041411",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 847.668541823278,
+        "min_distance": 847.6685418240136,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -8260,7 +8259,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7413614930969064,
-          40.31529650329852
+          40.315296503298526
         ]
       }
     },
@@ -8381,7 +8380,7 @@ var geomap = {
         "direccion": "Camino Del Salmoral, S/n 28981 Parla",
         "telefono": 916051520,
         "mail": "ies.lalaguna.parla@educa.madrid.org",
-        "latlon": "40.24516544602051,-3.7722691126590764",
+        "latlon": "40.245165446020515,-3.7722691126590764",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -8392,7 +8391,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041482",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 511.89510467952107,
+        "min_distance": 511.8951046793312,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -8404,7 +8403,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7722691126590764,
-          40.24516544602051
+          40.245165446020515
         ]
       }
     },
@@ -8816,7 +8815,7 @@ var geomap = {
         "direccion": "Calle De Los Arquitectos, 39 28903 Getafe",
         "telefono": 916835621,
         "mail": "ies.antoniolopezgarcia.getafe@educa.madrid.org",
-        "latlon": "40.32410997887572,-3.7253203077880728",
+        "latlon": "40.324109978875704,-3.7253203077880728",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -8827,7 +8826,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042061",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 204.2266108073161,
+        "min_distance": 204.22661080609714,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -8839,7 +8838,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7253203077880728,
-          40.32410997887572
+          40.324109978875704
         ]
       }
     },
@@ -8996,7 +8995,7 @@ var geomap = {
         "direccion": "Avenida De Los Castillos, S/n 28925 Alcorc\u00f3n",
         "telefono": 916101411,
         "mail": "ies.itaca.alcorcon@educa.madrid.org",
-        "latlon": "40.3561330830338,-3.8087917777342706",
+        "latlon": "40.35613308303381,-3.8087917777342697",
         "nocturno": [
           "Humanidades y Ciencias Sociales (LOE-LOMCE)",
           "Artes (LOE-LOMCE)"
@@ -9010,7 +9009,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042115",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 596.3822663366165,
+        "min_distance": 596.3822663366027,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -9022,8 +9021,8 @@ var geomap = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.8087917777342706,
-          40.3561330830338
+          -3.8087917777342697,
+          40.35613308303381
         ]
       }
     },
@@ -9144,7 +9143,7 @@ var geomap = {
         "direccion": "Carretera De Guadarrama, 85 28260 Galapagar",
         "telefono": 918587730,
         "mail": "ies.infantaelena.galapagar@educa.madrid.org",
-        "latlon": "40.58290181183905,-4.0113466952039065",
+        "latlon": "40.582901811839065,-4.0113466952039065",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -9155,7 +9154,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042620",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 3150.760883529921,
+        "min_distance": 3150.7608835292785,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -9168,7 +9167,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -4.0113466952039065,
-          40.58290181183905
+          40.582901811839065
         ]
       }
     },
@@ -9361,7 +9360,7 @@ var geomap = {
         "direccion": "Calle Real, 94 28500 Arganda del Rey",
         "telefono": 918716668,
         "mail": "cepa.arganda@educa.madrid.org",
-        "latlon": "40.29845014340476,-3.432147753951383",
+        "latlon": "40.29845014340474,-3.432147753951383",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9372,7 +9371,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042875",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 1421.8846530018998,
+        "min_distance": 1421.8846530026008,
         "etapas": [
           "Desarrollo Personal",
           "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
@@ -9385,7 +9384,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.432147753951383,
-          40.29845014340476
+          40.29845014340474
         ]
       }
     },
@@ -9511,7 +9510,7 @@ var geomap = {
         "direccion": "Calle De Braille, 10 28034 Madrid",
         "telefono": 917364684,
         "mail": "cepa.fuencarral.madrid@educa.madrid.org",
-        "latlon": "40.495953080812974,-3.6934413405040494",
+        "latlon": "40.49595308081296,-3.6934413405040494",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9522,7 +9521,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042942",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 97.06517327338786,
+        "min_distance": 97.0651732716433,
         "etapas": [
           "Desarrollo Personal",
           "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
@@ -9535,7 +9534,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6934413405040494,
-          40.495953080812974
+          40.49595308081296
         ]
       }
     },
@@ -9586,7 +9585,7 @@ var geomap = {
         "direccion": "Calle De Las Huertas, 68 28770 Colmenar Viejo",
         "telefono": 918464801,
         "mail": "ies.rosachacel.colmenarviejo@educa.madrid.org",
-        "latlon": "40.65422240983053,-3.765457009852079",
+        "latlon": "40.65422240983051,-3.765457009852079",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -9597,7 +9596,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042981",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1340.3245896163537,
+        "min_distance": 1340.3245896139172,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -9609,7 +9608,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.765457009852079,
-          40.65422240983053
+          40.65422240983051
         ]
       }
     },
@@ -9807,7 +9806,7 @@ var geomap = {
         "direccion": "Calle De Andorra, 19bis 28043 Madrid",
         "telefono": 913003725,
         "mail": "cepa.pabloguzman.madrid@educa.madrid.org",
-        "latlon": "40.46208807191737,-3.6453477793211304",
+        "latlon": "40.46208807191738,-3.6453477793211304",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9818,7 +9817,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043260",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 282.97051459489927,
+        "min_distance": 282.9705145952484,
         "etapas": [
           "Desarrollo Personal",
           "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
@@ -9831,7 +9830,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6453477793211304,
-          40.46208807191737
+          40.46208807191738
         ]
       }
     },
@@ -9880,7 +9879,7 @@ var geomap = {
         "direccion": "Calle De La Virgen Del Mar, S/n 28821 Coslada",
         "telefono": 916695610,
         "mail": "ies.garciaberlanga.coslada@educa.madrid.org",
-        "latlon": "40.42991735671508,-3.5625513912784825",
+        "latlon": "40.429917356715066,-3.5625513912784825",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -9891,7 +9890,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044318",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 675.5405746309056,
+        "min_distance": 675.5405746302007,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -9903,7 +9902,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.5625513912784825,
-          40.42991735671508
+          40.429917356715066
         ]
       }
     },
@@ -10062,7 +10061,7 @@ var geomap = {
         "direccion": "Calle Constitucion, 8 28590 Villarejo de Salvan\u00e9s",
         "telefono": 918742470,
         "mail": "cepa.villarejodesalvanes@educa.madrid.org",
-        "latlon": "40.167609322720324,-3.2755246323468707",
+        "latlon": "40.16760932272032,-3.2755246323468707",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -10073,7 +10072,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044574",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 21023.045181887817,
+        "min_distance": 21023.045181888323,
         "etapas": [
           "Desarrollo Personal",
           "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
@@ -10086,7 +10085,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.2755246323468707,
-          40.167609322720324
+          40.16760932272032
         ]
       }
     },
@@ -10243,7 +10242,7 @@ var geomap = {
         "direccion": "Paseo De La Chopera, 64 28523 Rivas-Vaciamadrid",
         "telefono": 916665259,
         "mail": "ies.duquederivas.rivas@educa.madrid.org",
-        "latlon": "40.367558694065934,-3.5336821972810446",
+        "latlon": "40.36755869406593,-3.5336821972810446",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -10254,7 +10253,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044756",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1158.2414885016974,
+        "min_distance": 1158.2414885016708,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -10267,7 +10266,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.5336821972810446,
-          40.367558694065934
+          40.36755869406593
         ]
       }
     },
@@ -10394,7 +10393,7 @@ var geomap = {
         "direccion": "Calle De Joan Mir\u00f3, 1 28840 Mejorada del Campo",
         "telefono": 916794920,
         "mail": "ies.losolivos.mejorada@educa.madrid.org",
-        "latlon": "40.39267766733379,-3.479833237461454",
+        "latlon": "40.392677667333786,-3.479833237461454",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -10405,7 +10404,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045025",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 4885.47908536609,
+        "min_distance": 4885.47908536629,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -10418,7 +10417,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.479833237461454,
-          40.39267766733379
+          40.392677667333786
         ]
       }
     },
@@ -10467,7 +10466,7 @@ var geomap = {
         "direccion": "Avenida De Santa Elena, S/n 28590 Villarejo de Salvan\u00e9s",
         "telefono": 918744960,
         "mail": "ies.villarejo@educa.madrid.org",
-        "latlon": "40.17481709845734,-3.286558826563877",
+        "latlon": "40.17481709845735,-3.286558826563877",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -10478,7 +10477,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045049",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 19794.643070980736,
+        "min_distance": 19794.6430709792,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -10490,7 +10489,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.286558826563877,
-          40.17481709845734
+          40.17481709845735
         ]
       }
     },
@@ -10540,7 +10539,7 @@ var geomap = {
         "direccion": "Calle Del General Garc\u00eda Esc\u00e1mez, 12 28044 Madrid",
         "telefono": 917058402,
         "mail": "cepa.cidcampeador.madrid@educa.madrid.org",
-        "latlon": "40.38184364122627,-3.770694124615365",
+        "latlon": "40.381843641226276,-3.770694124615365",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -10551,7 +10550,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045268",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 275.95505280916,
+        "min_distance": 275.9550528086434,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
@@ -10565,7 +10564,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.770694124615365,
-          40.38184364122627
+          40.381843641226276
         ]
       }
     },
@@ -10578,7 +10577,7 @@ var geomap = {
         "direccion": "Calle Hnos Garc\u00eda Noblejas (acceso Por Luis Campos), 70 28017 Madrid",
         "telefono": 917545206,
         "mail": "cepa.ciudadlineal.madrid@educa.madrid.org",
-        "latlon": "40.42931437020917,-3.632172537891254",
+        "latlon": "40.42931437020915,-3.632172537891254",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -10589,7 +10588,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045271",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 20.08226534595342,
+        "min_distance": 20.082265343978815,
         "etapas": [
           "Desarrollo Personal",
           "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
@@ -10602,7 +10601,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.632172537891254,
-          40.42931437020917
+          40.42931437020915
         ]
       }
     },
@@ -10763,7 +10762,7 @@ var geomap = {
         "direccion": "Calle De La Abertura, 2 28033 Madrid",
         "telefono": 913811272,
         "mail": "cepa.dulcechacon.madrid@educa.madrid.org",
-        "latlon": "40.47719890931833,-3.6496451386690976",
+        "latlon": "40.477198909318325,-3.6496451386690976",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -10788,7 +10787,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6496451386690976,
-          40.47719890931833
+          40.477198909318325
         ]
       }
     },
@@ -11136,7 +11135,7 @@ var geomap = {
         "direccion": "Calle De La Batalla Del Salado, 29 28045 Madrid",
         "telefono": 915395395,
         "mail": "cepa.arganzuela.madrid@educa.madrid.org",
-        "latlon": "40.40047068046266,-3.695960459840022",
+        "latlon": "40.40047068046267,-3.695960459840022",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -11147,7 +11146,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045608",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 162.33106922785444,
+        "min_distance": 162.3310692284062,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
@@ -11159,7 +11158,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.695960459840022,
-          40.40047068046266
+          40.40047068046267
         ]
       }
     },
@@ -11209,7 +11208,7 @@ var geomap = {
         "direccion": "Calle De Santa Irene, 4 28017 Madrid",
         "telefono": 914051101,
         "mail": "ies.goya.madrid@educa.madrid.org",
-        "latlon": "40.418364438510345,-3.650764418326344",
+        "latlon": "40.41836443851034,-3.650764418326344",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -11233,7 +11232,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.650764418326344,
-          40.418364438510345
+          40.41836443851034
         ]
       }
     },
@@ -11428,7 +11427,7 @@ var geomap = {
         "direccion": "Calle Dal\u00ed, 50 28342 Valdemoro",
         "telefono": 918953211,
         "mail": "ies.avalon.valdemoro@educa.madrid.org",
-        "latlon": "40.19572184075123,-3.686649123756968",
+        "latlon": "40.195721840751226,-3.686649123756968",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -11451,7 +11450,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.686649123756968,
-          40.19572184075123
+          40.195721840751226
         ]
       }
     },
@@ -11750,7 +11749,7 @@ var geomap = {
         "direccion": "Calle Doctor S\u00e1nchez P\u00e9rez, 1 28530 Morata de Taju\u00f1a",
         "telefono": 918730777,
         "mail": "sies.anselmolorenzo.morata@educa.madrid.org",
-        "latlon": "40.229417416306084,-3.44271077476145",
+        "latlon": "40.22941741630608,-3.44271077476145",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -11772,7 +11771,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.44271077476145,
-          40.229417416306084
+          40.22941741630608
         ]
       }
     },
@@ -11822,7 +11821,7 @@ var geomap = {
         "direccion": "Plaza Alba, 3 28971 Gri\u00f1\u00f3n",
         "telefono": 918141768,
         "mail": "ies.grinon.grinon@educa.madrid.org",
-        "latlon": "40.21477673014126,-3.845830464169186",
+        "latlon": "40.21477673014127,-3.845830464169186",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -11833,7 +11832,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046315",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 4776.63514448985,
+        "min_distance": 4776.63514448918,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -11845,7 +11844,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.845830464169186,
-          40.21477673014126
+          40.21477673014127
         ]
       }
     },
@@ -12005,7 +12004,7 @@ var geomap = {
         "direccion": "Calle De Alonso Heredia, 16 28028 Madrid",
         "telefono": 917261664,
         "mail": "cepa.joaquinsorolla.madrid@educa.madrid.org",
-        "latlon": "40.43546421123427,-3.6726584261840696",
+        "latlon": "40.435464211234276,-3.6726584261840696",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -12016,7 +12015,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046479",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 166.15149588371204,
+        "min_distance": 166.15149588382167,
         "etapas": [
           "Desarrollo Personal",
           "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
@@ -12029,7 +12028,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6726584261840696,
-          40.43546421123427
+          40.435464211234276
         ]
       }
     },
@@ -12079,7 +12078,7 @@ var geomap = {
         "direccion": "Carretera De Villanueva Del Pardillo, S/n 28270 Colmenarejo",
         "telefono": 918424540,
         "mail": "ies.colmenarejo@educa.madrid.org",
-        "latlon": "40.556836050966155,-4.012820488461693",
+        "latlon": "40.55683605096615,-4.012820488461693",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -12090,7 +12089,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046558",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 5161.673458860587,
+        "min_distance": 5161.6734588607205,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -12102,7 +12101,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -4.012820488461693,
-          40.556836050966155
+          40.55683605096615
         ]
       }
     },
@@ -12404,7 +12403,7 @@ var geomap = {
         "direccion": "Avenida De Levante, 141 28521 Rivas-Vaciamadrid",
         "telefono": 916704112,
         "mail": "ies.profesorjulioperez.rivas@educa.madrid.org",
-        "latlon": "40.33211633093869,-3.5139199804422097",
+        "latlon": "40.332116330938675,-3.5139199804422097",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -12415,7 +12414,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050732",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 681.4148907625237,
+        "min_distance": 681.4148907610461,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -12427,7 +12426,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.5139199804422097,
-          40.33211633093869
+          40.332116330938675
         ]
       }
     },
@@ -12440,7 +12439,7 @@ var geomap = {
         "direccion": "Carretera De Meco, K 4 28805 Alcal\u00e1 de Henares",
         "telefono": 918887061,
         "mail": "cepa.josehierro.alcala@educa.madrid.org",
-        "latlon": "40.523221482971174,-3.3261928333091655",
+        "latlon": "40.52322148297118,-3.326192833309165",
         "nocturno": null,
         "dificultad": true,
         "adaptado": false,
@@ -12451,7 +12450,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056400",
         "tipo": "035",
         "status_web": 999,
-        "min_distance": 2130.2022373718746,
+        "min_distance": 2130.202237372875,
         "etapas": [
           "Desarrollo Personal",
           "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
@@ -12462,8 +12461,8 @@ var geomap = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.3261928333091655,
-          40.523221482971174
+          -3.326192833309165,
+          40.52322148297118
         ]
       }
     },
@@ -12657,7 +12656,7 @@ var geomap = {
         "direccion": "Calle Ribadesella, S/n 28250 Torrelodones",
         "telefono": 918593112,
         "mail": "cp.elencinar.torrelodones@educa.madrid.org",
-        "latlon": "40.56982549483603,-3.9271084126249205",
+        "latlon": "40.56982549483604,-3.9271084126249205",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -12668,7 +12667,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057076",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 2538.443361618829,
+        "min_distance": 2538.443361618611,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
         ],
@@ -12679,7 +12678,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.9271084126249205,
-          40.56982549483603
+          40.56982549483604
         ]
       }
     },
@@ -12799,7 +12798,7 @@ var geomap = {
         "direccion": "Calle Del Acueducto, 3 28880 Meco",
         "telefono": 918877200,
         "mail": "ies.gasparsanz.meco@educa.madrid.org",
-        "latlon": "40.546214458701925,-3.322123760708147",
+        "latlon": "40.54621445870192,-3.322123760708147",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -12810,7 +12809,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057210",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 2374.075527446809,
+        "min_distance": 2374.075527446043,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -12822,7 +12821,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.322123760708147,
-          40.546214458701925
+          40.54621445870192
         ]
       }
     },
@@ -12944,7 +12943,7 @@ var geomap = {
         "direccion": "Calle Carmen Laforet, 1 28220 Majadahonda",
         "telefono": 916349498,
         "mail": "cepa.mariovargasllosa.majadahonda@educa.madrid.org",
-        "latlon": "40.468247723023076,-3.8709542188618413",
+        "latlon": "40.46824772302307,-3.8709542188618413",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -12955,7 +12954,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057672",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 2280.0855705630483,
+        "min_distance": 2280.085570563152,
         "etapas": [
           "Desarrollo Personal",
           "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
@@ -12969,7 +12968,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.8709542188618413,
-          40.468247723023076
+          40.46824772302307
         ]
       }
     },
@@ -13225,7 +13224,7 @@ var geomap = {
         "direccion": "Paseo De La Castellana, 261 28046 Madrid",
         "telefono": 917277588,
         "mail": "ah.lapaz.madrid@educa.madrid.org",
-        "latlon": "40.48030087224512,-3.6865436265844735",
+        "latlon": "40.48030087224511,-3.6865436265844735",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -13236,7 +13235,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057994",
         "tipo": "036",
         "status_web": 200,
-        "min_distance": 55.97866556257026,
+        "min_distance": 55.97866556242121,
         "etapas": null,
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -13245,7 +13244,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6865436265844735,
-          40.48030087224512
+          40.48030087224511
         ]
       }
     },
@@ -13577,7 +13576,7 @@ var geomap = {
         "direccion": "Paseo Del Olivar, 62 28607 \u00c1lamo, El",
         "telefono": 918104133,
         "mail": "ies.elalamo.elalamo@educa.madrid.org",
-        "latlon": "40.22837239525791,-3.9847084823456784",
+        "latlon": "40.228372395257914,-3.9847084823456784",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -13588,7 +13587,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058676",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 13531.343434335464,
+        "min_distance": 13531.343434334947,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -13600,7 +13599,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.9847084823456784,
-          40.22837239525791
+          40.228372395257914
         ]
       }
     },
@@ -13613,7 +13612,7 @@ var geomap = {
         "direccion": "Calle Miguel Hern\u00e1ndez, 2a 28991 Torrej\u00f3n de la Calzada",
         "telefono": 918106097,
         "mail": "ies.migueldelibes.torrejondelacalzada@educa.madrid.org",
-        "latlon": "40.193573020792854,-3.804836526306011",
+        "latlon": "40.19357302079286,-3.804836526306011",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -13636,7 +13635,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.804836526306011,
-          40.193573020792854
+          40.19357302079286
         ]
       }
     },
@@ -13938,7 +13937,7 @@ var geomap = {
         "direccion": "Calle Pio Baroja, 7 28806 Alcal\u00e1 de Henares",
         "telefono": 918770290,
         "mail": "ies.lazarocarreter.alcala@educa.madrid.org",
-        "latlon": "40.50464656376395,-3.373359258844887",
+        "latlon": "40.50464656376394,-3.373359258844887",
         "nocturno": null,
         "dificultad": true,
         "adaptado": true,
@@ -13949,7 +13948,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060373",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1834.8802777859503,
+        "min_distance": 1834.8802777839476,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -13961,7 +13960,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.373359258844887,
-          40.50464656376395
+          40.50464656376394
         ]
       }
     },
@@ -14192,7 +14191,7 @@ var geomap = {
         "direccion": "Avenida Del Mar Egeo, S/n 28341 Valdemoro",
         "telefono": 918018044,
         "mail": "ies.maestromatiasbravo.valdemoro@educa.madrid.org",
-        "latlon": "40.178580488263094,-3.6891190319937293",
+        "latlon": "40.1785804882631,-3.6891190319937293",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -14203,7 +14202,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062023",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 2843.213212012855,
+        "min_distance": 2843.213212012613,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -14215,7 +14214,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6891190319937293,
-          40.178580488263094
+          40.1785804882631
         ]
       }
     },
@@ -14264,7 +14263,7 @@ var geomap = {
         "direccion": "Calle De La Alianza, 20-24 28041 Madrid",
         "telefono": 917239181,
         "mail": "ies.villaverde.madrid@educa.madrid.org",
-        "latlon": "40.35735148981147,-3.6902999023380567",
+        "latlon": "40.357351489811464,-3.6902999023380567",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -14286,7 +14285,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.6902999023380567,
-          40.35735148981147
+          40.357351489811464
         ]
       }
     },
@@ -14370,7 +14369,7 @@ var geomap = {
         "direccion": "Camino De Chozas, S/n 28794 Guadalix de la Sierra",
         "telefono": 918470636,
         "mail": "ies.luisgarciaberlanga.guadalix@educa.madrid.org",
-        "latlon": "40.78218602978419,-3.695994920999966",
+        "latlon": "40.78218602978418,-3.695994920999966",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -14381,7 +14380,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064044",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 16657.15944894314,
+        "min_distance": 16657.159448941842,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
         ],
@@ -14392,7 +14391,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.695994920999966,
-          40.78218602978419
+          40.78218602978418
         ]
       }
     },
@@ -14862,7 +14861,7 @@ var geomap = {
         "direccion": "Avenida Del Sistema Solar, 8 28983 Parla",
         "telefono": 918295357,
         "mail": "ies.nicolascopernico.parla@educa.madrid.org",
-        "latlon": "40.22377800825033,-3.761330694328965",
+        "latlon": "40.22377800825034,-3.761330694328965",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -14873,7 +14872,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070974",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 64.76929157354846,
+        "min_distance": 64.76929157418091,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -14885,7 +14884,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.761330694328965,
-          40.22377800825033
+          40.22377800825034
         ]
       }
     },
@@ -14935,7 +14934,7 @@ var geomap = {
         "direccion": "Senda De Mafalda, 2 28905 Getafe",
         "telefono": 916810212,
         "mail": "ies.lasenda.getafe@educa.madrid.org",
-        "latlon": "40.29438399635923,-3.747333314858952",
+        "latlon": "40.29438399635924,-3.747333314858952",
         "nocturno": null,
         "dificultad": false,
         "adaptado": true,
@@ -14946,7 +14945,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072107",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 140.99110945767188,
+        "min_distance": 140.99110945845166,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -14958,7 +14957,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.747333314858952,
-          40.29438399635923
+          40.29438399635924
         ]
       }
     },
@@ -15007,7 +15006,7 @@ var geomap = {
         "direccion": "Avenida De Niceto Alcal\u00e1 Zamora, 54 28050 Madrid",
         "telefono": 912761503,
         "mail": "ies.manuelfragairibarne.madrid@educa.madrid.org",
-        "latlon": "40.49984978801341,-3.657145049425794",
+        "latlon": "40.4998497880134,-3.657145049425794",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -15018,7 +15017,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073859",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 245.58819253832507,
+        "min_distance": 245.58819253766688,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -15030,7 +15029,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.657145049425794,
-          40.49984978801341
+          40.4998497880134
         ]
       }
     },
@@ -15223,7 +15222,7 @@ var geomap = {
         "direccion": "Calle Del General Marv\u00e1, 24-26 28026 Madrid",
         "telefono": 915699236,
         "mail": "ies.pedrosalinas.madrid@educa.madrid.org",
-        "latlon": "40.38895120389474,-3.7088138168902693",
+        "latlon": "40.38895120389475,-3.7088138168902693",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -15237,7 +15236,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074244",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 262.03360851558597,
+        "min_distance": 262.03360851669487,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato",
@@ -15250,7 +15249,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.7088138168902693,
-          40.38895120389474
+          40.38895120389475
         ]
       }
     },
@@ -15481,7 +15480,7 @@ var geomap = {
         "direccion": "Calle Camilo Jos\u00e9 Cela, 24 28232 Rozas de Madrid, Las",
         "telefono": 911733737,
         "mail": "ies.josegarcianieto.lasrozas@educa.madrid.org",
-        "latlon": "40.52427301092086,-3.8922325265504303",
+        "latlon": "40.52427301092085,-3.892232526550431",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -15492,7 +15491,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075510",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 888.7712259573207,
+        "min_distance": 888.7712259572122,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -15503,8 +15502,8 @@ var geomap = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.8922325265504303,
-          40.52427301092086
+          -3.892232526550431,
+          40.52427301092085
         ]
       }
     },
@@ -15975,7 +15974,7 @@ var geomap = {
         "direccion": "Calle De La Jacaranda, S/n 28045 Madrid",
         "telefono": 639101034,
         "mail": "ies.forges.madrid@educa.madrid.org",
-        "latlon": "40.39750745155225,-3.679173846707233",
+        "latlon": "40.397507451552244,-3.679173846707233",
         "nocturno": null,
         "dificultad": false,
         "adaptado": false,
@@ -15986,7 +15985,7 @@ var geomap = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078559",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 138.48608074768546,
+        "min_distance": 138.4860807459607,
         "etapas": [
           "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
           "Bachillerato"
@@ -15998,7 +15997,7 @@ var geomap = {
         "type": "Point",
         "coordinates": [
           -3.679173846707233,
-          40.39750745155225
+          40.397507451552244
         ]
       }
     },

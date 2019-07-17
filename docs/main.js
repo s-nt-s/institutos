@@ -2,6 +2,9 @@ var main_layer;
 var mymap;
 var cursorMarker;
 
+var myweb = window.location.href;
+if (myweb.endsWith("/")) myweb = myweb.substr(0, myweb.length-1);
+
 function get_msg() {
   var hora = (new Date()).getHours();
   var msg='Buenos días';
@@ -412,7 +415,7 @@ $("#download").bind("click", function(){
     }
   })
   txt = txt.replace(/<.*?>/g , "");
-  txt = txt+"\n---\n"+date+"\n"+window.location.href;
+  txt = txt+"\n---\n"+date+"\n"+myweb;
   txt = txt.trim()
   txt = txt.replace(/\n/g, "\r\n");
   this.href='data:text/plain;charset=utf-8,' + encodeURIComponent(txt);

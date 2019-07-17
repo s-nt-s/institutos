@@ -122,19 +122,19 @@
                 <fieldset id="tipos">
                   <legend>Tipos</legend>
 					        {% for key, text in tipos.items() %}
-										<input id="t{{key}}" type="checkbox" checked="checked"/> <label for="t{{key}}">{{text}}</label><br/>
+										<input title="{{text}}" id="t{{key}}" type="checkbox" checked="checked"/> <label for="t{{key}}">{{text}}</label><br/>
 									{% endfor %}
                 </fieldset>
                 <fieldset id="nocturnos">
                   <legend>Nocturnos en</legend>
 					        {% for text in nocturnos %}
-										  <input id="n{{loop.index}}" type="checkbox" checked="checked"/> <label for="n{{loop.index}}">{{text}}</label><br/>
+										  <input title="{{text}}" id="n{{loop.index}}" type="checkbox" checked="checked"/> <label for="n{{loop.index}}">{{text}}</label><br/>
 									{% endfor %}
                 </fieldset>
                 <fieldset id="etapas">
                   <legend>Etapas eductativas</legend>
 					        {% for text in etapas %}
-										  <input id="et{{loop.index}}" type="checkbox" checked="checked"/> <label for="et{{loop.index}}">{{text}}</label><br/>
+										  <input title="{{text}}" id="et{{loop.index}}" type="checkbox" checked="checked"/> <label for="et{{loop.index}}">{{text}}</label><br/>
 									{% endfor %}
                 </fieldset>
                 <fieldset id="comunicacion">
@@ -144,10 +144,10 @@
                 </fieldset>
                 <fieldset id="otros">
                   <legend>Otras condiciones especiales</legend>
-										  <input id="dificultad" type="checkbox" checked="checked"/> <label for="dificultad">Centro de especial dificultad</label><br/>
-										  <input id="excelencia" type="checkbox" checked="checked"/> <label for="excelencia">Centro o aula de excelencia</label><br/>
-											<input id="bilingue" type="checkbox" checked="checked"/> <label for="bilingue">Bilingüismo o sección de idioma</label><br/>
-											<input id="tecnico" type="checkbox" checked="checked"/> <label for="tecnico">Instituto de innovación tecnológica</label>
+										  <input id="dificultad" type="checkbox" checked="checked" title="Centro de especial dificultad"/> <label for="dificultad">Centro de especial dificultad</label><br/>
+										  <input id="excelencia" type="checkbox" checked="checked" title="Centro o aula de excelencia"/> <label for="excelencia">Centro o aula de excelencia</label><br/>
+											<input id="bilingue" type="checkbox" checked="checked" title="Bilingüismo o sección de idioma"/> <label for="bilingue">Bilingüismo o sección de idioma</label><br/>
+											<input id="tecnico" type="checkbox" checked="checked" title="Instituto de innovación tecnológica"/> <label for="tecnico">Instituto de innovación tecnológica</label>
                 </fieldset>
                 </div>
             </div>

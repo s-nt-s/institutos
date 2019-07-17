@@ -189,9 +189,7 @@ function make_filter(f, layer) {
   if (c.nocturno && c.nocturno.length) {
     var ok=0;
     $("#nocturnos input:checked").each(function(){
-      var lb = $("label[for='"+this.id+"']");
-      var txt = lb.text().replace(/^\s*|\s*$/g, "");
-      if (c.nocturno.indexOf(txt)>-1) ok = ok + 1;
+      if (c.nocturno.indexOf(this.title)>-1) ok = ok + 1;
     })
     if (c.nocturno.length != ok) return false;
   }
@@ -199,9 +197,7 @@ function make_filter(f, layer) {
     var ok=0;
     var or_ok=false;
     $("#etapas input:checked").each(function(){
-      var lb = $("label[for='"+this.id+"']");
-      var txt = lb.text().replace(/^\s*|\s*$/g, "");
-      if (c.etapas.indexOf(txt)>-1) {
+      if (c.etapas.indexOf(this.title)>-1) {
         or_ok = true;
         ok = ok + 1;
       }
@@ -384,9 +380,30 @@ $("#download").bind("click", function(){
   var ahora = new Date();
   var date = ahora.getFullYear() + "." + ahora.getMonth().pad(2) + "." + ahora.getDate().pad(0);
   this.download = date+"_centros.txt"
-  var txt='';
+  var txt='Fecha: '+date+"\n";
   if (cursorMarker) {
-    txt=`Punto de refrencia: ${cursorMarker._latlng.lat},${cursorMarker._latlng.lng}\n`
+    txt=txt+`Punto de refrencia: ${cursorMarker._latlng.lat},${cursorMarker._latlng.lng}\n`
+  }
+  var filtros=$("#settings");
+  var fltDis=filtros.find("#kms");
+  var inputs=filtros.find("input").not(fltDis)
+  if (inputs.length==inputs.filter(":checked").length && fltDis.val().length==0) {
+    txt=txt+"Filtro: Ver todos\n";
+  } else if (inputs.length==inputs.not(":checked").length) {
+    txt=txt+"Filtro: Ocultar todos\n";
+  } else {
+    txt=txt+"Filtro => Ver todos menos:";
+    inputs.not(":checked").closest("fieldset").each(function(){
+      var t=$(this);
+      txt=txt+"\n* "+t.find("legend").text().trim()+":";
+      t.find("input").not(":checked").each(function(){
+        txt=txt+"\n    * "+this.title;
+      })
+    })
+    if (fltDis.val().length) {
+      txt=txt+"\n* Centros a más de "+fltDis.val()+" metros de una estación";
+    }
+    txt = txt+"\n";
   }
   var cols=[
     ["Centros seleccionados por mi", estadistica.seleccionados],
@@ -416,7 +433,7 @@ $("#download").bind("click", function(){
     }
   })
   txt = txt.replace(/<.*?>/g , "");
-  txt = txt+"\n---\n"+date+"\n"+myweb;
+  txt = txt+"\n---\n"+myweb;
   txt = txt.trim()
   txt = txt.replace(/\n/g, "\r\n");
   this.href='data:text/plain;charset=utf-8,' + encodeURIComponent(txt);

@@ -1,6 +1,7 @@
 *.txt
 *.pdf
 fuentes/*/*.html
+!data/centros/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -332,8 +332,14 @@ class Dataset():
             abr = get_abr(c.tipo)
             if abr:
                 nombre=c.nombre
-                if abr == "AH":
+                if c.id == 28078043 and "alcobendas v" in nombre:
+                    nombre = "Alcobendas V"
+                elif abr == "AH":
                     for s in ("Aula Hospitalaria Hosp. ", "Aula Hospitalaria ", "Hospital "):
+                        if nombre.startswith(s):
+                            nombre=nombre[len(s):]
+                elif abr == "SIES":
+                    for s in ("Seccion del Ies ",):
                         if nombre.startswith(s):
                             nombre=nombre[len(s):]
                 t = parse_tipo(self.tipos[c.tipo])

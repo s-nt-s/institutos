@@ -11711,7 +11711,7 @@ var geomap = {
       "properties": {
         "id": 28046285,
         "dat": "Este",
-        "nombre": "<span title='Secci\u00f3n de instituto de educaci\u00f3n secundaria'>SIES</span> Seccion del Ies Carpe Diem en Colmenar Oreja",
+        "nombre": "<span title='Secci\u00f3n de instituto de educaci\u00f3n secundaria'>SIES</span> Carpe Diem en Colmenar Oreja",
         "direccion": "Calle Madrid, 25 28380 Colmenar de Oreja",
         "telefono": 918089298,
         "mail": "sies.carpediem.colmenardeoreja@educa.madrid.org",
@@ -11746,7 +11746,7 @@ var geomap = {
       "properties": {
         "id": 28046297,
         "dat": "Este",
-        "nombre": "<span title='Secci\u00f3n de instituto de educaci\u00f3n secundaria'>SIES</span> Seccion del Ies Anselmo Lorenzo en Morata Taju\u00f1a",
+        "nombre": "<span title='Secci\u00f3n de instituto de educaci\u00f3n secundaria'>SIES</span> Anselmo Lorenzo en Morata Taju\u00f1a",
         "direccion": "Calle Doctor S\u00e1nchez P\u00e9rez, 1 28530 Morata de Taju\u00f1a",
         "telefono": 918730777,
         "mail": "sies.anselmolorenzo.morata@educa.madrid.org",
@@ -14469,7 +14469,7 @@ var geomap = {
       "properties": {
         "id": 28065632,
         "dat": "Sur",
-        "nombre": "<span title='Secci\u00f3n de instituto de educaci\u00f3n secundaria'>SIES</span> Seccion del Ies Africa en Moraleja de Enmedio",
+        "nombre": "<span title='Secci\u00f3n de instituto de educaci\u00f3n secundaria'>SIES</span> Africa en Moraleja de Enmedio",
         "direccion": "Calle Madrid, 53 28950 Moraleja de Enmedio",
         "telefono": 916093692,
         "mail": "sies.africa.moraleja@educa.madrid.org",
@@ -14574,7 +14574,7 @@ var geomap = {
       "properties": {
         "id": 28065841,
         "dat": "Este",
-        "nombre": "<span title='Secci\u00f3n de instituto de educaci\u00f3n secundaria'>SIES</span> Seccion del Ies la Poveda en Campo Real",
+        "nombre": "<span title='Secci\u00f3n de instituto de educaci\u00f3n secundaria'>SIES</span> la Poveda en Campo Real",
         "direccion": "Avenida De La Circunvalaci\u00f3n, 3 28510 Campo Real",
         "telefono": 918765070,
         "mail": "sies.lapoveda.camporeal@educa.madrid.org",
@@ -15618,7 +15618,7 @@ var geomap = {
       "properties": {
         "id": 28076381,
         "dat": "Este",
-        "nombre": "<span title='Secci\u00f3n de instituto de educaci\u00f3n secundaria'>SIES</span> Seccion del Ies Luis de Gongora en Loeches",
+        "nombre": "<span title='Secci\u00f3n de instituto de educaci\u00f3n secundaria'>SIES</span> Luis de Gongora en Loeches",
         "direccion": "Avenida Clara Campoamor, S/n 28890 Loeches",
         "telefono": 916741413,
         "mail": "sies.luisdegongora.loeches@educa.madrid.org",
@@ -15901,7 +15901,7 @@ var geomap = {
       "properties": {
         "id": 28078043,
         "dat": "Norte",
-        "nombre": "<span title='Secci\u00f3n de instituto de educaci\u00f3n secundaria'>SIES</span> Seccion de Educaci\u00f3n Secundaria Obligatoria \"alcobendas v\"",
+        "nombre": "<span title='Secci\u00f3n de instituto de educaci\u00f3n secundaria'>SIES</span> Alcobendas V",
         "direccion": "Avenida Pablo Iglesias Esquina Con C/ Gloria Fuertes 28100 Alcobendas",
         "telefono": null,
         "mail": "sies.alcobendasv.alcobendas@educa.madrid.org",

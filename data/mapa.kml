@@ -8,7 +8,7 @@
                 <scale>1</scale>
                 <heading>0</heading>
                 <Icon id="4">
-                    <href>http://maps.google.com/mapfiles/ms/micons/green.png</href>
+                    <href>https://maps.google.com/mapfiles/ms/micons/green.png</href>
                 </Icon>
             </IconStyle>
         </Style>
@@ -19,7 +19,7 @@
                 <scale>1</scale>
                 <heading>0</heading>
                 <Icon id="143">
-                    <href>http://maps.google.com/mapfiles/ms/micons/red.png</href>
+                    <href>https://maps.google.com/mapfiles/ms/micons/red.png</href>
                 </Icon>
             </IconStyle>
         </Style>
@@ -30,7 +30,7 @@
                 <scale>1</scale>
                 <heading>0</heading>
                 <Icon id="186">
-                    <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+                    <href>https://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
                 </Icon>
             </IconStyle>
         </Style>
@@ -41,7 +41,7 @@
                 <scale>1</scale>
                 <heading>0</heading>
                 <Icon id="199">
-                    <href>http://maps.google.com/mapfiles/ms/micons/green-dot.png</href>
+                    <href>https://maps.google.com/mapfiles/ms/micons/green-dot.png</href>
                 </Icon>
             </IconStyle>
         </Style>
@@ -52,7 +52,7 @@
                 <scale>1</scale>
                 <heading>0</heading>
                 <Icon id="214">
-                    <href>http://maps.google.com/mapfiles/ms/micons/blue.png</href>
+                    <href>https://maps.google.com/mapfiles/ms/micons/blue.png</href>
                 </Icon>
             </IconStyle>
         </Style>
@@ -63,7 +63,7 @@
                 <scale>1</scale>
                 <heading>0</heading>
                 <Icon id="245">
-                    <href>http://maps.google.com/mapfiles/ms/micons/red-dot.png</href>
+                    <href>https://maps.google.com/mapfiles/ms/micons/red-dot.png</href>
                 </Icon>
             </IconStyle>
         </Style>

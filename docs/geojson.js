@@ -26,7 +26,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -65,7 +65,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -101,7 +101,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -140,7 +140,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -182,7 +182,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -222,7 +222,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -258,7 +258,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -294,7 +294,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -329,7 +329,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -364,7 +364,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -399,7 +399,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -434,7 +434,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -469,7 +469,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -504,7 +504,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -541,7 +541,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +576,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -616,7 +616,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -654,7 +654,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -691,7 +691,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -726,7 +726,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -765,7 +765,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
         "type": "Point",
@@ -800,7 +800,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -839,7 +839,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
         "type": "Point",
@@ -874,7 +874,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -910,7 +910,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -950,7 +950,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -985,7 +985,7 @@ var geomap = {
           "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1021,7 +1021,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1057,7 +1057,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -1093,7 +1093,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1129,7 +1129,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -1164,7 +1164,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1199,7 +1199,7 @@ var geomap = {
           "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1237,7 +1237,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1275,7 +1275,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
         "type": "Point",
@@ -1313,7 +1313,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -1349,7 +1349,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -1385,7 +1385,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1421,7 +1421,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -1458,7 +1458,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1497,7 +1497,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -1534,7 +1534,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -1569,7 +1569,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1610,7 +1610,7 @@ var geomap = {
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -1646,7 +1646,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -1681,7 +1681,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1717,7 +1717,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -1753,7 +1753,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1789,7 +1789,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1825,7 +1825,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -1865,7 +1865,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -1901,7 +1901,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -1938,7 +1938,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -1974,7 +1974,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -2011,7 +2011,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -2047,7 +2047,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -2084,7 +2084,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2119,7 +2119,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -2155,7 +2155,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2197,7 +2197,7 @@ var geomap = {
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2237,7 +2237,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2274,7 +2274,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2313,7 +2313,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2355,7 +2355,7 @@ var geomap = {
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2391,7 +2391,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -2427,7 +2427,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -2464,7 +2464,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -2499,7 +2499,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -2536,7 +2536,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -2572,7 +2572,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2608,7 +2608,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2645,7 +2645,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2680,7 +2680,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -2715,7 +2715,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -2750,7 +2750,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -2787,7 +2787,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2822,7 +2822,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2857,7 +2857,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2892,7 +2892,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2928,7 +2928,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -2968,7 +2968,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3005,7 +3005,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3042,7 +3042,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3082,7 +3082,7 @@ var geomap = {
           "Curso preparatorio prueba de acceso Grado Superior (LOE)"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3119,7 +3119,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -3154,7 +3154,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3189,7 +3189,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -3225,7 +3225,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3264,7 +3264,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
         "type": "Point",
@@ -3300,7 +3300,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3336,7 +3336,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3372,7 +3372,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3411,7 +3411,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3447,7 +3447,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -3483,7 +3483,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3522,7 +3522,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3558,7 +3558,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3594,7 +3594,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3630,7 +3630,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -3666,7 +3666,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3703,7 +3703,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3739,7 +3739,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -3779,7 +3779,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -3820,7 +3820,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -3857,7 +3857,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -3894,7 +3894,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -3932,7 +3932,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -3968,7 +3968,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4004,7 +4004,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4040,7 +4040,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4076,7 +4076,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -4112,7 +4112,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -4148,7 +4148,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4185,7 +4185,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -4222,7 +4222,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4259,7 +4259,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4296,7 +4296,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4332,7 +4332,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -4369,7 +4369,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -4405,7 +4405,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4441,7 +4441,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4476,7 +4476,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4512,7 +4512,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4549,7 +4549,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -4585,7 +4585,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -4622,7 +4622,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -4657,7 +4657,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -4692,7 +4692,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -4728,7 +4728,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -4765,7 +4765,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4801,7 +4801,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -4841,7 +4841,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
         "type": "Point",
@@ -4878,7 +4878,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -4916,7 +4916,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -4953,7 +4953,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -4989,7 +4989,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -5025,7 +5025,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5060,7 +5060,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -5097,7 +5097,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5133,7 +5133,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5169,7 +5169,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5206,7 +5206,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -5242,7 +5242,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5278,7 +5278,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -5313,7 +5313,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5350,7 +5350,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5387,7 +5387,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5424,7 +5424,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5461,7 +5461,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -5497,7 +5497,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -5533,7 +5533,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5570,7 +5570,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5606,7 +5606,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -5642,7 +5642,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -5678,7 +5678,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -5715,7 +5715,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5751,7 +5751,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5788,7 +5788,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -5825,7 +5825,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5860,7 +5860,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -5895,7 +5895,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -5931,7 +5931,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -5967,7 +5967,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6003,7 +6003,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6039,7 +6039,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6074,7 +6074,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6109,7 +6109,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6144,7 +6144,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6181,7 +6181,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6216,7 +6216,7 @@ var geomap = {
           "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6252,7 +6252,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6289,7 +6289,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6326,7 +6326,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6362,7 +6362,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6399,7 +6399,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6435,7 +6435,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -6471,7 +6471,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6507,7 +6507,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6544,7 +6544,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6580,7 +6580,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6616,7 +6616,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6652,7 +6652,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6688,7 +6688,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6724,7 +6724,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6761,7 +6761,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6797,7 +6797,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6833,7 +6833,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6870,7 +6870,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6905,7 +6905,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -6940,7 +6940,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -6977,7 +6977,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7013,7 +7013,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7050,7 +7050,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7089,7 +7089,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
         "type": "Point",
@@ -7126,7 +7126,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -7163,7 +7163,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -7199,7 +7199,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7236,7 +7236,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7273,7 +7273,7 @@ var geomap = {
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7310,7 +7310,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -7346,7 +7346,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7383,7 +7383,7 @@ var geomap = {
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7419,7 +7419,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7455,7 +7455,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -7491,7 +7491,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7526,7 +7526,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -7562,7 +7562,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7598,7 +7598,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7634,7 +7634,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7671,7 +7671,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7707,7 +7707,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -7743,7 +7743,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7779,7 +7779,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7816,7 +7816,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7852,7 +7852,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -7888,7 +7888,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -7924,7 +7924,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -7959,7 +7959,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -7996,7 +7996,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8033,7 +8033,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8070,7 +8070,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8107,7 +8107,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8143,7 +8143,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8180,7 +8180,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -8216,7 +8216,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -8253,7 +8253,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -8289,7 +8289,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8325,7 +8325,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8361,7 +8361,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -8397,7 +8397,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -8433,7 +8433,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8469,7 +8469,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8505,7 +8505,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8543,7 +8543,7 @@ var geomap = {
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8579,7 +8579,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8615,7 +8615,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -8652,7 +8652,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8688,7 +8688,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -8724,7 +8724,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -8760,7 +8760,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8796,7 +8796,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -8832,7 +8832,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -8868,7 +8868,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8904,7 +8904,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -8940,7 +8940,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -8976,7 +8976,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -9016,7 +9016,7 @@ var geomap = {
           "Curso preparatorio prueba de acceso Grado Superior (LOE)"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue.png"
       },
       "geometry": {
         "type": "Point",
@@ -9051,7 +9051,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9087,7 +9087,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -9124,7 +9124,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9161,7 +9161,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -9196,7 +9196,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9232,7 +9232,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9268,7 +9268,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -9304,7 +9304,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -9341,7 +9341,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9378,7 +9378,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9415,7 +9415,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9453,7 +9453,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9491,7 +9491,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9528,7 +9528,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9566,7 +9566,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9602,7 +9602,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -9638,7 +9638,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9675,7 +9675,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -9712,7 +9712,7 @@ var geomap = {
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -9750,7 +9750,7 @@ var geomap = {
           "Cursos a distancia Soporte Telem\u00e1tico"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9787,7 +9787,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9824,7 +9824,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9860,7 +9860,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -9896,7 +9896,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -9932,7 +9932,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -9969,7 +9969,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10005,7 +10005,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10042,7 +10042,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10079,7 +10079,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10115,7 +10115,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10151,7 +10151,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -10187,7 +10187,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10223,7 +10223,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -10260,7 +10260,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -10297,7 +10297,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -10334,7 +10334,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10374,7 +10374,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -10411,7 +10411,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10447,7 +10447,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -10483,7 +10483,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -10520,7 +10520,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -10558,7 +10558,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10595,7 +10595,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10632,7 +10632,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10669,7 +10669,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10706,7 +10706,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10743,7 +10743,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10781,7 +10781,7 @@ var geomap = {
           "Cursos a distancia Soporte Telem\u00e1tico"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10819,7 +10819,7 @@ var geomap = {
           "Cursos a distancia Soporte Telem\u00e1tico"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10857,7 +10857,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10894,7 +10894,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10931,7 +10931,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -10967,7 +10967,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11005,7 +11005,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11042,7 +11042,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11079,7 +11079,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11116,7 +11116,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11152,7 +11152,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11189,7 +11189,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11226,7 +11226,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -11263,7 +11263,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -11300,7 +11300,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11336,7 +11336,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11372,7 +11372,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11408,7 +11408,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -11444,7 +11444,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11480,7 +11480,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11516,7 +11516,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -11552,7 +11552,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -11588,7 +11588,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -11623,7 +11623,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11659,7 +11659,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -11695,7 +11695,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11730,7 +11730,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11765,7 +11765,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11802,7 +11802,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -11838,7 +11838,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -11875,7 +11875,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -11911,7 +11911,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -11948,7 +11948,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -11985,7 +11985,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -12022,7 +12022,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -12059,7 +12059,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -12095,7 +12095,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12132,7 +12132,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12168,7 +12168,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12204,7 +12204,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12240,7 +12240,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12276,7 +12276,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12312,7 +12312,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12348,7 +12348,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12384,7 +12384,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12420,7 +12420,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -12456,7 +12456,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -12493,7 +12493,7 @@ var geomap = {
           "Cursos a distancia Soporte Telem\u00e1tico"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -12529,7 +12529,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -12565,7 +12565,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -12601,7 +12601,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -12637,7 +12637,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -12672,7 +12672,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12707,7 +12707,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12743,7 +12743,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -12779,7 +12779,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -12815,7 +12815,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12850,7 +12850,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -12887,7 +12887,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -12924,7 +12924,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -12962,7 +12962,7 @@ var geomap = {
           "Cursos a distancia Soporte Telem\u00e1tico"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13000,7 +13000,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13036,7 +13036,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -13073,7 +13073,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13106,7 +13106,7 @@ var geomap = {
         "min_distance": 223.2485433804886,
         "etapas": null,
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13139,7 +13139,7 @@ var geomap = {
         "min_distance": 661.0549506439556,
         "etapas": null,
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13172,7 +13172,7 @@ var geomap = {
         "min_distance": 273.27931927282253,
         "etapas": null,
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13205,7 +13205,7 @@ var geomap = {
         "min_distance": 103.81248081023108,
         "etapas": null,
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13238,7 +13238,7 @@ var geomap = {
         "min_distance": 55.97866556242121,
         "etapas": null,
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13271,7 +13271,7 @@ var geomap = {
         "min_distance": 115.61249840728136,
         "etapas": null,
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13304,7 +13304,7 @@ var geomap = {
         "min_distance": 130.89837498349806,
         "etapas": null,
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13340,7 +13340,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
       },
       "geometry": {
         "type": "Point",
@@ -13375,7 +13375,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13411,7 +13411,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -13448,7 +13448,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -13485,7 +13485,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -13521,7 +13521,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -13557,7 +13557,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -13593,7 +13593,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -13629,7 +13629,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13664,7 +13664,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -13701,7 +13701,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13738,7 +13738,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13775,7 +13775,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13812,7 +13812,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13848,7 +13848,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13883,7 +13883,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -13918,7 +13918,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -13954,7 +13954,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "red",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/red-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -13990,7 +13990,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14026,7 +14026,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -14062,7 +14062,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14099,7 +14099,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14136,7 +14136,7 @@ var geomap = {
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14172,7 +14172,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -14208,7 +14208,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14244,7 +14244,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -14279,7 +14279,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14314,7 +14314,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14350,7 +14350,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -14385,7 +14385,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14420,7 +14420,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -14453,7 +14453,7 @@ var geomap = {
         "min_distance": 177.5422818671819,
         "etapas": null,
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14488,7 +14488,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14523,7 +14523,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14558,7 +14558,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14593,7 +14593,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14629,7 +14629,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -14664,7 +14664,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14700,7 +14700,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14736,7 +14736,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14771,7 +14771,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -14806,7 +14806,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -14842,7 +14842,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -14878,7 +14878,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -14915,7 +14915,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -14951,7 +14951,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -14987,7 +14987,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15023,7 +15023,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15058,7 +15058,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15094,7 +15094,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -15130,7 +15130,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -15167,7 +15167,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -15203,7 +15203,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15243,7 +15243,7 @@ var geomap = {
           "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15279,7 +15279,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15318,7 +15318,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "blue",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/blue-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15353,7 +15353,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -15389,7 +15389,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15425,7 +15425,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15461,7 +15461,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15497,7 +15497,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15530,7 +15530,7 @@ var geomap = {
         "min_distance": 1266.1904133891126,
         "etapas": null,
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -15566,7 +15566,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15602,7 +15602,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -15637,7 +15637,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15673,7 +15673,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15708,7 +15708,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15743,7 +15743,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15778,7 +15778,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -15814,7 +15814,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15849,7 +15849,7 @@ var geomap = {
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -15885,7 +15885,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15920,7 +15920,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15955,7 +15955,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -15991,7 +15991,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -16024,7 +16024,7 @@ var geomap = {
         "min_distance": 3636.841140671129,
         "etapas": null,
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
       },
       "geometry": {
         "type": "Point",
@@ -16060,7 +16060,7 @@ var geomap = {
           "Bachillerato"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -16095,7 +16095,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -16130,7 +16130,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -16165,7 +16165,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",
@@ -16200,7 +16200,7 @@ var geomap = {
           "ESO (LOE-LOMCE)"
         ],
         "color": "green",
-        "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green-dot.png"
       },
       "geometry": {
         "type": "Point",

@@ -1,7 +1,8 @@
 # Objetivo
 
-Crear un mapa de centros educativos para ayudar a elegir destino
-a los profesores de secundaría en el concurso de traslados.
+El objetivo es crear un mapa para ayudar a elegir destino
+a los funcionarios de carrera o interinos del cuerpo 0590,
+profesores de enseñanza secundaria, en la Comunidad de Madrid.
 
 # Fuente de datos
 

@@ -1,7 +1,8 @@
 # Objetivo
 
-Crear un mapa de centros educativos para ayudar a elegir destino
-a los profesores de secundaría en el concurso de traslados.
+El objetivo es crear un mapa para ayudar a elegir destino
+a los funcionarios de carrera o interinos del cuerpo 0590,
+profesores de enseñanza secundaria, en la Comunidad de Madrid.
 
 # Fuente de datos
 
@@ -11,7 +12,7 @@ Los datos que se han usado han sido:
 * [El anexo 29](http://www.madrid.org/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-disposition&blobheadername2=cadena&blobheadervalue1=filename%3DAnexo+29.pdf&blobheadervalue2=language%3Des%26site%3DPortalEducacionRRHH&blobkey=id&blobtable=MungoBlobs&blobwhere=1310723140345&ssbinary=true)
 * [El buscador de centros](http://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm)
 * Y para determinar la distancia a la estación de transporte más cercana,
-se han usado los datos de:
+se han usado los datos de: 
     * La red de [Metro](https://crtm.maps.arcgis.com/home/item.html?id=5c7f2951962540d69ffe8f640d94c246)
     * La red de [Cercanias](https://crtm.maps.arcgis.com/home/item.html?id=1a25440bf66f499bae2657ec7fb40144)
     * La red de [Metro ligero](https://crtm.maps.arcgis.com/home/item.html?id=aaed26cc0ff64b0c947ac0bc3e033196)

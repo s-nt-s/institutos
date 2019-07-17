@@ -123,6 +123,7 @@ def get_data1(ctr):
         td = tr.find("td")
         txt = get_text(td)
         if txt and txt != "Etapa":
+            txt = txt.replace("Educación Secundaria Obligatoria", "ESO")
             lv=0
             cls = td.attrs["class"]
             if isinstance(cls, str):

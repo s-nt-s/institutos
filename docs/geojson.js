@@ -23,7 +23,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 9291.950510646871,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -61,7 +61,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1635.5914025525217,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "blue",
@@ -97,7 +97,7 @@ var geomap = {
         "status_web": 991,
         "min_distance": 1702.2675270505988,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
@@ -135,7 +135,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 410.9893638180325,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -176,10 +176,10 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1455.5754761744386,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Curso preparatorio prueba de acceso Grado Superior (LOE)",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
@@ -217,7 +217,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 961.795377240997,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -254,7 +254,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1205.8462953830172,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -290,7 +290,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1556.5762399404352,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -326,7 +326,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 4430.28536635918,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -361,7 +361,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 124.1841192298214,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -396,7 +396,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 11562.055251327944,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -431,7 +431,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 29844.171500382316,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -466,7 +466,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 5688.8741786090695,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -501,7 +501,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 34445.160719479354,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -536,7 +536,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1059.3381325486403,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -573,7 +573,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 8926.63797534027,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -611,9 +611,9 @@ var geomap = {
         "status_web": 999,
         "min_distance": 2751.3816772102628,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
@@ -648,10 +648,10 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1390.059852333341,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Curso preparatorio prueba de acceso Grado Superior (LOE)",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -686,7 +686,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 967.8094288134089,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -723,7 +723,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 11175.001027771794,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -761,7 +761,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 365.8282128690611,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "blue",
@@ -835,7 +835,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 424.1883701173416,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "blue",
@@ -906,7 +906,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 594.8699844560906,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -945,9 +945,9 @@ var geomap = {
         "status_web": 200,
         "min_distance": 96.6526267172232,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
@@ -1017,7 +1017,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 451.8213508379783,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -1053,7 +1053,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 507.64897004686406,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -1089,7 +1089,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 121.12731361170057,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -1125,7 +1125,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 243.1166354194918,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -1231,10 +1231,10 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1403.6147506844854,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Curso preparatorio prueba de acceso Grado Superior (LOE)",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -1271,7 +1271,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 104.2970085692635,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "blue",
@@ -1307,10 +1307,10 @@ var geomap = {
         "status_web": 200,
         "min_distance": 625.8716403075971,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
@@ -1345,7 +1345,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 289.0012128560645,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -1381,7 +1381,7 @@ var geomap = {
         "status_web": 404,
         "min_distance": 515.7251554764266,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -1417,7 +1417,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 154.8431823705998,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -1453,7 +1453,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1991.7597433681617,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -1493,7 +1493,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 87.8169540257072,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -1529,9 +1529,9 @@ var geomap = {
         "status_web": 200,
         "min_distance": 191.0810544195658,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -1604,9 +1604,9 @@ var geomap = {
         "status_web": 200,
         "min_distance": 519.0919101720526,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
         "color": "blue",
@@ -1642,7 +1642,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 72.1516954854248,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -1713,7 +1713,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 64.18180116458264,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -1749,7 +1749,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 321.57952223123254,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -1785,7 +1785,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 261.22781088045997,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
@@ -1821,7 +1821,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 461.443539901059,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -1861,7 +1861,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 200.91723051748798,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "blue",
@@ -1897,7 +1897,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 48.23774867287857,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -1933,7 +1933,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 54.56946082927515,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -1970,7 +1970,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1164.746797279519,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
         "color": "green",
@@ -2006,7 +2006,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 149.26952812868313,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -2043,7 +2043,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 171.13168587508613,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -2079,9 +2079,9 @@ var geomap = {
         "status_web": 200,
         "min_distance": 217.93258155147635,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red-dot.png"
@@ -2151,7 +2151,7 @@ var geomap = {
         "status_web": 991,
         "min_distance": 410.90785693318867,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -2190,10 +2190,10 @@ var geomap = {
         "status_web": 200,
         "min_distance": 8.0029516672003,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Curso preparatorio prueba de acceso Grado Superior (LOE)",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
         "color": "blue",
@@ -2232,9 +2232,9 @@ var geomap = {
         "status_web": 999,
         "min_distance": 232.6786958955586,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
@@ -2269,7 +2269,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 175.29909456480587,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -2308,9 +2308,9 @@ var geomap = {
         "status_web": 200,
         "min_distance": 72.57344879904582,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
@@ -2349,9 +2349,9 @@ var geomap = {
         "status_web": 200,
         "min_distance": 134.4105013952032,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
         "color": "blue",
@@ -2387,7 +2387,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 270.40778815380725,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -2423,7 +2423,7 @@ var geomap = {
         "status_web": 503,
         "min_distance": 185.10634550053243,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -2459,7 +2459,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 464.78074948015654,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -2531,7 +2531,7 @@ var geomap = {
         "status_web": 404,
         "min_distance": 639.9115582313981,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -2568,7 +2568,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1054.2393189696127,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -2604,7 +2604,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 652.0259129580626,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -2640,7 +2640,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 5428.413470888441,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -2712,7 +2712,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 17378.82083196123,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -2782,7 +2782,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 12660.530246550506,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -2819,7 +2819,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 14674.017974916638,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -2854,7 +2854,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 17689.612674197364,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -2889,7 +2889,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 324.5683467248511,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -2924,7 +2924,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 376.83530831692656,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -2963,7 +2963,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 314.7250415191238,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -3000,7 +3000,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 859.9848488154629,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -3037,7 +3037,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 1307.7177969615243,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -3077,7 +3077,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 1489.6836015653312,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Curso preparatorio prueba de acceso Grado Superior (LOE)"
         ],
@@ -3114,7 +3114,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 28380.34721425196,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -3151,7 +3151,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 12616.23435067482,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -3221,7 +3221,7 @@ var geomap = {
         "status_web": 404,
         "min_distance": 349.10200677949246,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -3260,7 +3260,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1309.3756561297296,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "blue",
@@ -3296,7 +3296,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 503.0079452048164,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -3332,7 +3332,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1250.7908445164562,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -3368,7 +3368,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 298.76692626675396,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -3407,7 +3407,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 198.51911763576464,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "blue",
@@ -3443,7 +3443,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 601.8287603156792,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -3479,7 +3479,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 284.2327348864426,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -3518,7 +3518,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 481.1922598811963,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -3554,7 +3554,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 286.9961184782489,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -3590,7 +3590,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 300.60348103320183,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -3626,7 +3626,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 331.71640110004256,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -3662,7 +3662,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 346.7301308873078,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -3698,7 +3698,7 @@ var geomap = {
         "status_web": 404,
         "min_distance": 547.1908861661842,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -3735,7 +3735,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 704.8794994579827,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -3775,7 +3775,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 214.44816106738782,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "blue",
@@ -3814,10 +3814,10 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1621.624577513837,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
@@ -3853,7 +3853,7 @@ var geomap = {
         "min_distance": 471.19730290247884,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -3890,7 +3890,7 @@ var geomap = {
         "min_distance": 530.6435805574044,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -3928,7 +3928,7 @@ var geomap = {
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -3964,7 +3964,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 70.99337329208447,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -4000,7 +4000,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 244.25423813034269,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -4036,7 +4036,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 84.78695256049548,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -4072,7 +4072,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 672.6100874740964,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -4108,7 +4108,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 704.1698424610089,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -4144,7 +4144,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 507.384449870013,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -4182,7 +4182,7 @@ var geomap = {
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -4217,7 +4217,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 317.3163360116577,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -4254,7 +4254,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 987.0750185646491,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -4291,7 +4291,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 211.53286108288287,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -4328,7 +4328,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 249.01290646398664,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -4364,7 +4364,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 912.4829254699561,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -4401,7 +4401,7 @@ var geomap = {
         "status_web": 991,
         "min_distance": 350.4197929833338,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -4437,7 +4437,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 334.99887899059,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -4508,7 +4508,7 @@ var geomap = {
         "status_web": 991,
         "min_distance": 469.0587147862076,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -4544,7 +4544,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 453.0668337398902,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -4581,7 +4581,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 430.02116272483596,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -4617,7 +4617,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 657.4271655582143,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -4724,7 +4724,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 258.5915039031997,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -4760,7 +4760,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 503.3805458845696,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -4797,7 +4797,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 1964.726831396561,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -4836,7 +4836,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 621.1574716912627,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -4874,7 +4874,7 @@ var geomap = {
         "min_distance": 121.23455998620985,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -4912,7 +4912,7 @@ var geomap = {
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -4949,7 +4949,7 @@ var geomap = {
         "min_distance": 182.60965967247276,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -4985,7 +4985,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 310.9715511234204,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -5021,7 +5021,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 413.1314169130112,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -5057,7 +5057,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 124.89472273766155,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
@@ -5092,7 +5092,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 754.2138087954196,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -5129,7 +5129,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 133.2499206701183,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -5165,7 +5165,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1446.7046403070196,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -5201,7 +5201,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1418.0838734366055,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -5238,7 +5238,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 613.2796452782275,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -5274,7 +5274,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1864.9939746311275,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -5310,7 +5310,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 455.3529915296733,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -5346,7 +5346,7 @@ var geomap = {
         "min_distance": 342.0029512153976,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -5382,7 +5382,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 832.0083302113406,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -5419,7 +5419,7 @@ var geomap = {
         "status_web": 404,
         "min_distance": 573.9821785101033,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -5456,7 +5456,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2320.7633578587156,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -5493,7 +5493,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 584.4772891147746,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -5529,7 +5529,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 357.23452893204103,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -5565,7 +5565,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 335.2811480524645,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -5602,7 +5602,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 396.09555780666676,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -5638,7 +5638,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 630.9044545457197,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -5674,7 +5674,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 555.3905968269339,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -5710,7 +5710,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 300.4154572345364,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -5747,7 +5747,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1155.3162096162396,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -5783,7 +5783,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1899.3568508345984,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -5821,7 +5821,7 @@ var geomap = {
         "min_distance": 477.8504249250141,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -5927,7 +5927,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 715.7258891050858,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -5963,7 +5963,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 181.61688773413158,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -5999,7 +5999,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1019.603253988892,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -6035,7 +6035,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 103.02618312980795,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -6176,7 +6176,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 664.6142754307377,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -6248,7 +6248,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 624.5126659807934,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -6285,7 +6285,7 @@ var geomap = {
         "min_distance": 96.2862306143933,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -6322,7 +6322,7 @@ var geomap = {
         "min_distance": 1625.3174766304605,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -6359,7 +6359,7 @@ var geomap = {
         "min_distance": 234.08922707793886,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -6396,7 +6396,7 @@ var geomap = {
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -6431,7 +6431,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 70.03554044062572,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -6467,7 +6467,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 498.6705425137011,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -6503,7 +6503,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1760.9189667345147,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -6539,7 +6539,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 578.8438521434078,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -6576,7 +6576,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 382.1999819351525,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -6612,7 +6612,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 161.19022145968762,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -6648,7 +6648,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 547.5041458870264,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -6684,7 +6684,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 872.6243099615575,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -6720,7 +6720,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 465.79405479882615,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -6756,7 +6756,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 203.75070777187804,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -6793,7 +6793,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1396.099072547334,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -6829,7 +6829,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1709.1280411700357,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -6865,7 +6865,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2103.788487515463,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -6937,7 +6937,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 7966.466908586973,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -6972,9 +6972,9 @@ var geomap = {
         "status_web": 200,
         "min_distance": 945.9508774181721,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -7009,7 +7009,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2046.2365289729069,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -7045,7 +7045,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 78.87394965839789,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -7085,7 +7085,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1425.4878288704303,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "blue",
@@ -7121,7 +7121,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 91.9037229176955,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -7158,7 +7158,7 @@ var geomap = {
         "status_web": 404,
         "min_distance": 725.3716088710431,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -7195,7 +7195,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 755.9086776962524,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -7231,9 +7231,9 @@ var geomap = {
         "status_web": 200,
         "min_distance": 405.5324690435968,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -7268,7 +7268,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 410.7540042914484,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
@@ -7305,7 +7305,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 925.8615413006513,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -7342,7 +7342,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 385.090742113902,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -7378,7 +7378,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 254.43691956791997,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
@@ -7415,7 +7415,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 247.58981932451286,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -7451,7 +7451,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 1319.5250961271622,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -7487,7 +7487,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 130.9138893970353,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -7558,7 +7558,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 779.2050944169549,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -7594,7 +7594,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 9599.928046075744,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -7630,7 +7630,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 717.2731048597583,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -7666,7 +7666,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 9616.423614285564,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -7703,7 +7703,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 16805.94105148882,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -7739,7 +7739,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 488.9844914499561,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -7775,7 +7775,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 338.10863886050436,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -7811,7 +7811,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 4556.441160178462,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -7848,7 +7848,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1090.8353531484918,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -7884,7 +7884,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 104.84330406852072,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -7920,7 +7920,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 562.4151500339038,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -7991,7 +7991,7 @@ var geomap = {
         "status_web": 404,
         "min_distance": 1421.819476820526,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -8028,7 +8028,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 871.270268217861,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -8065,7 +8065,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 424.2767332373943,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -8102,9 +8102,9 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1116.2237613657437,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -8139,7 +8139,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 168.51704239542508,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8175,7 +8175,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 28323.056257290893,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -8212,7 +8212,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 257.2808728581367,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8248,9 +8248,9 @@ var geomap = {
         "status_web": 200,
         "min_distance": 847.6685418240136,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -8285,7 +8285,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 282.6938907153413,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8321,7 +8321,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 4742.168310531943,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8357,7 +8357,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 11686.822778378784,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8393,7 +8393,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 511.8951046793312,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8429,7 +8429,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 484.870820865018,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8465,7 +8465,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 1394.2118020071716,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8501,7 +8501,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 3135.623258379459,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8537,7 +8537,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1618.5564343443273,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
@@ -8575,7 +8575,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 700.7119294678492,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8611,7 +8611,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1195.2986263068085,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8647,7 +8647,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 394.5190346400367,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -8684,7 +8684,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 848.7737632664004,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8720,7 +8720,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 571.7453320737367,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8756,7 +8756,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 933.2151220826036,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8792,7 +8792,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 679.7828462311526,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8828,7 +8828,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 204.22661080609714,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8864,7 +8864,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2129.277893313142,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8900,7 +8900,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 923.8243816286869,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8936,7 +8936,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1295.5623745996036,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -8972,7 +8972,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1193.0152814260832,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -9011,7 +9011,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 596.3822663366027,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Curso preparatorio prueba de acceso Grado Superior (LOE)"
         ],
@@ -9048,7 +9048,7 @@ var geomap = {
         "status_web": 404,
         "min_distance": 638.4228609513035,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -9083,7 +9083,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1738.3961803350096,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -9119,7 +9119,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 445.8438474340863,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -9156,7 +9156,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 3150.7608835292785,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -9228,7 +9228,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 419.0167213795515,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -9264,7 +9264,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1117.4899429380912,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -9300,7 +9300,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1021.8099419473148,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -9336,7 +9336,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1457.4721978545026,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -9374,7 +9374,7 @@ var geomap = {
         "min_distance": 1421.8846530026008,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -9411,7 +9411,7 @@ var geomap = {
         "min_distance": 747.2052638675019,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -9449,7 +9449,7 @@ var geomap = {
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -9487,7 +9487,7 @@ var geomap = {
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -9524,7 +9524,7 @@ var geomap = {
         "min_distance": 97.0651732716433,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -9562,7 +9562,7 @@ var geomap = {
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -9598,7 +9598,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1340.3245896139172,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -9634,7 +9634,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1650.4130118758262,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -9670,7 +9670,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 974.0533191852869,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -9707,7 +9707,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 258.30431290523387,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
         ],
@@ -9745,7 +9745,7 @@ var geomap = {
         "min_distance": 305.8781215900268,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes",
           "Cursos a distancia Soporte Telem\u00e1tico"
         ],
@@ -9784,7 +9784,7 @@ var geomap = {
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -9820,7 +9820,7 @@ var geomap = {
         "min_distance": 282.9705145952484,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -9856,7 +9856,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2577.29148965968,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -9892,7 +9892,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 675.5405746302007,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -9928,7 +9928,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 460.9881895598639,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -9965,7 +9965,7 @@ var geomap = {
         "min_distance": 690.0163453792114,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10002,7 +10002,7 @@ var geomap = {
         "min_distance": 4916.145902513409,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -10038,7 +10038,7 @@ var geomap = {
         "min_distance": 9236.44738689847,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10075,7 +10075,7 @@ var geomap = {
         "min_distance": 21023.045181888323,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10112,7 +10112,7 @@ var geomap = {
         "min_distance": 21672.364270254668,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -10147,7 +10147,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 449.5062843921501,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -10183,7 +10183,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 669.0046930858213,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -10219,7 +10219,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1013.9665372857464,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -10255,7 +10255,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1158.2414885016708,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -10292,7 +10292,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 7218.771240190347,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -10330,7 +10330,7 @@ var geomap = {
         "min_distance": 28433.15799948551,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10369,7 +10369,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 340.14707072919964,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -10406,7 +10406,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 4885.47908536629,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -10443,7 +10443,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 946.8007236892745,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -10479,7 +10479,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 19794.6430709792,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -10515,7 +10515,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1057.0202057276808,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -10554,7 +10554,7 @@ var geomap = {
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10591,7 +10591,7 @@ var geomap = {
         "min_distance": 20.082265343978815,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10628,7 +10628,7 @@ var geomap = {
         "min_distance": 279.08353224612586,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10665,7 +10665,7 @@ var geomap = {
         "min_distance": 111.0581823117445,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10702,7 +10702,7 @@ var geomap = {
         "min_distance": 272.04485079164584,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10739,7 +10739,7 @@ var geomap = {
         "min_distance": 308.2717687769276,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10776,7 +10776,7 @@ var geomap = {
         "min_distance": 320.56152708142884,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes",
           "Cursos a distancia Soporte Telem\u00e1tico"
         ],
@@ -10814,7 +10814,7 @@ var geomap = {
         "min_distance": 208.4802338780616,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes",
           "Cursos a distancia Soporte Telem\u00e1tico"
         ],
@@ -10853,7 +10853,7 @@ var geomap = {
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10890,7 +10890,7 @@ var geomap = {
         "min_distance": 806.3254742273995,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10927,7 +10927,7 @@ var geomap = {
         "min_distance": 547.3054379014696,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -10963,7 +10963,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 12137.61077644397,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -11001,7 +11001,7 @@ var geomap = {
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -11038,7 +11038,7 @@ var geomap = {
         "min_distance": 2326.9848084034184,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -11075,7 +11075,7 @@ var geomap = {
         "min_distance": 160.4333435510137,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -11112,7 +11112,7 @@ var geomap = {
         "min_distance": 19096.72059611932,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -11148,7 +11148,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 162.3310692284062,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -11185,7 +11185,7 @@ var geomap = {
         "min_distance": 827.1697294335768,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -11221,7 +11221,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 900.0757754876399,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -11258,7 +11258,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 22084.180156965816,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -11296,7 +11296,7 @@ var geomap = {
         "min_distance": 233.00958931657215,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -11333,7 +11333,7 @@ var geomap = {
         "min_distance": 6551.490799907985,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -11368,7 +11368,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 9658.885224614047,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -11404,7 +11404,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 1181.2009119535203,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -11440,7 +11440,7 @@ var geomap = {
         "status_web": 404,
         "min_distance": 1867.7915311485722,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -11476,7 +11476,7 @@ var geomap = {
         "status_web": 991,
         "min_distance": 8849.887218294578,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -11512,7 +11512,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 71.20079273002065,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -11548,7 +11548,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2316.3383951339465,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -11584,7 +11584,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1642.4126174579578,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -11620,7 +11620,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 7385.312961796786,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -11655,7 +11655,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2933.70669716762,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -11691,7 +11691,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 27971.727452387255,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -11727,7 +11727,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 19140.405332174516,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -11762,7 +11762,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 8239.520198646105,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -11797,7 +11797,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 9303.761933170712,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -11834,7 +11834,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 4776.63514448918,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -11870,7 +11870,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 12117.757322423095,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -11907,7 +11907,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2904.3677676256816,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -11943,7 +11943,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1014.1941788308475,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -11981,7 +11981,7 @@ var geomap = {
         "min_distance": 1261.702964328221,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -12018,7 +12018,7 @@ var geomap = {
         "min_distance": 166.15149588382167,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -12054,7 +12054,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1723.3637827460655,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -12091,7 +12091,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 5161.6734588607205,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -12127,7 +12127,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 299.30436416142146,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -12164,7 +12164,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 210.4427021013843,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -12200,7 +12200,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 6628.106415017138,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -12236,7 +12236,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 8348.87421684742,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -12272,7 +12272,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 3801.5630851641167,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -12308,7 +12308,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 12753.179624615841,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -12344,7 +12344,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 7630.068370311576,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -12380,7 +12380,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 884.2230507138211,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -12416,7 +12416,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 681.4148907610461,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -12453,7 +12453,7 @@ var geomap = {
         "min_distance": 2130.202237372875,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
@@ -12489,7 +12489,7 @@ var geomap = {
         "min_distance": 2064.1899191507205,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Cursos a distancia Soporte Telem\u00e1tico"
         ],
         "color": "red",
@@ -12526,7 +12526,7 @@ var geomap = {
         "min_distance": 2704.0459401634384,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
@@ -12562,7 +12562,7 @@ var geomap = {
         "min_distance": 7768.41164163568,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
@@ -12598,7 +12598,7 @@ var geomap = {
         "min_distance": 8195.16878684636,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
@@ -12634,7 +12634,7 @@ var geomap = {
         "min_distance": 11523.056775845387,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
         "icon": "http://maps.google.com/mapfiles/ms/micons/red.png"
@@ -12669,7 +12669,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2538.443361618611,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -12704,7 +12704,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 8890.775349709735,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -12739,7 +12739,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 574.9252205497583,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -12775,7 +12775,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 4805.8154649272465,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -12811,7 +12811,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2374.075527446043,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -12847,7 +12847,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 5308.873569287038,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -12882,7 +12882,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 281.1187331115401,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -12920,7 +12920,7 @@ var geomap = {
         "min_distance": 1889.273174592918,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -12957,7 +12957,7 @@ var geomap = {
         "min_distance": 2280.085570563152,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes",
           "Cursos a distancia Soporte Telem\u00e1tico"
         ],
@@ -12996,7 +12996,7 @@ var geomap = {
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -13032,7 +13032,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 12190.75998986556,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -13069,7 +13069,7 @@ var geomap = {
         "min_distance": 297.51754853218057,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -13336,7 +13336,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 887.7697953294161,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -13407,7 +13407,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1079.9308948506657,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -13443,7 +13443,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 899.5935603596274,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -13480,7 +13480,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 456.6477133582433,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -13517,7 +13517,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2757.855218550114,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -13553,7 +13553,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 296.59051389597,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -13589,7 +13589,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 13531.343434334947,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -13625,7 +13625,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 5009.698790645778,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -13661,7 +13661,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2644.37917787636,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -13697,7 +13697,7 @@ var geomap = {
         "min_distance": 221.36610906776636,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -13734,7 +13734,7 @@ var geomap = {
         "min_distance": 9833.223321829928,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -13771,7 +13771,7 @@ var geomap = {
         "min_distance": 3031.7424141850997,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -13808,7 +13808,7 @@ var geomap = {
         "min_distance": 1048.4586486717117,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -13845,7 +13845,7 @@ var geomap = {
         "min_distance": 33379.30837566091,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -13880,7 +13880,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 842.6215643590664,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -13915,7 +13915,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 3442.327703957533,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -13950,7 +13950,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1834.8802777839476,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "red",
@@ -13986,7 +13986,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 9208.239452833654,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14022,7 +14022,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 4558.826287612402,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14058,7 +14058,7 @@ var geomap = {
         "status_web": 991,
         "min_distance": 1101.6161548302105,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14095,7 +14095,7 @@ var geomap = {
         "min_distance": 214.62762206256215,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -14132,7 +14132,7 @@ var geomap = {
         "min_distance": 552.2511405522044,
         "etapas": [
           "Desarrollo Personal",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)",
           "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
@@ -14168,7 +14168,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2940.715039003135,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14204,7 +14204,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 2843.213212012613,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14240,7 +14240,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1495.725840675742,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14311,7 +14311,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 128.36292989043292,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -14346,7 +14346,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 1574.832001196581,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14382,7 +14382,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 16657.159448941842,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -14417,7 +14417,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 897.1916687246154,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -14485,7 +14485,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 2492.3463135542343,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -14520,7 +14520,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 588.0572269302692,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -14555,7 +14555,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 639.6672557163703,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -14590,7 +14590,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 7198.330615877129,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -14625,7 +14625,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 1580.7114552455064,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14661,7 +14661,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 16245.723894915694,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green.png"
@@ -14696,7 +14696,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 870.3064429915967,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14732,7 +14732,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 147.42759611794526,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14768,7 +14768,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 3874.0982462730094,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -14803,7 +14803,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 778.7243028656288,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -14838,7 +14838,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 637.3786147684015,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14874,7 +14874,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 64.76929157418091,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14910,7 +14910,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 19318.793014945513,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -14947,7 +14947,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 140.99110945845166,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -14983,7 +14983,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 507.03314221621486,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15019,7 +15019,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 245.58819253766688,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15055,7 +15055,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 21249.811459348814,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -15090,7 +15090,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 788.26693297902,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15126,7 +15126,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 5270.607998780928,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15162,7 +15162,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 818.4808281988537,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -15199,7 +15199,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 789.0472503002725,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15238,9 +15238,9 @@ var geomap = {
         "status_web": 200,
         "min_distance": 262.03360851669487,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato",
-          "Educaci\u00f3n Secundaria Obligatoria para personas adultas (LOE-LOMCE)"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "blue",
         "icon": "http://maps.google.com/mapfiles/ms/micons/blue-dot.png"
@@ -15275,7 +15275,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 565.7462852473591,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15314,7 +15314,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 903.9933209632318,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "blue",
@@ -15385,7 +15385,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 353.8600454553325,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15421,7 +15421,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 502.4276258934881,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15457,7 +15457,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 6669.068216688161,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15493,7 +15493,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 888.7712259572122,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15562,7 +15562,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 334.58813497374257,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15598,7 +15598,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 800.1644860117963,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15634,7 +15634,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 8949.163666851839,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -15669,7 +15669,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 438.518427583105,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15705,7 +15705,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 2043.8852310404232,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -15740,7 +15740,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 572.2554239476623,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -15810,7 +15810,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 264.17255199919026,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15881,7 +15881,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 835.064385290594,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -15917,7 +15917,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 839.9379003111387,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -15952,7 +15952,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 1383.4192990635047,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -15987,7 +15987,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 138.4860807459607,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -16056,7 +16056,7 @@ var geomap = {
         "status_web": null,
         "min_distance": 1140.552891111384,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)",
+          "ESO (LOE-LOMCE)",
           "Bachillerato"
         ],
         "color": "green",
@@ -16092,7 +16092,7 @@ var geomap = {
         "status_web": 200,
         "min_distance": 611.6013288097525,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -16127,7 +16127,7 @@ var geomap = {
         "status_web": null,
         "min_distance": 205.48301949013728,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -16162,7 +16162,7 @@ var geomap = {
         "status_web": null,
         "min_distance": 588.0454769552887,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"
@@ -16197,7 +16197,7 @@ var geomap = {
         "status_web": 999,
         "min_distance": 1503.978852751892,
         "etapas": [
-          "Educaci\u00f3n Secundaria Obligatoria (LOE-LOMCE)"
+          "ESO (LOE-LOMCE)"
         ],
         "color": "green",
         "icon": "http://maps.google.com/mapfiles/ms/micons/green-dot.png"

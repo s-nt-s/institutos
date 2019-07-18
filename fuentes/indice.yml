@@ -12,13 +12,19 @@ transporte:
     txt: "Metro"
     doc: "https://crtm.maps.arcgis.com/home/item.html?id=5c7f2951962540d69ffe8f640d94c246"
     data: "https://crtm.maps.arcgis.com/sharing/rest/content/items/5c7f2951962540d69ffe8f640d94c246/data"
+    opendata: "https://data-crtm.opendata.arcgis.com/datasets/m4-tramos"
+    tramos: "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/Red_Metro/FeatureServer/4/query?where=1%3D1&outFields=CODIGOGESTIONLINEA,NUMEROLINEAUSUARIO,IDTRAMO,SENTIDO,NUMEROORDEN,FECHAFIN&outSR=4326&f=json"
   cercanias:
     txt: "Cercanias"
     doc: "https://crtm.maps.arcgis.com/home/item.html?id=1a25440bf66f499bae2657ec7fb40144"
     data: "https://crtm.maps.arcgis.com/sharing/rest/content/items/1a25440bf66f499bae2657ec7fb40144/data"
+    opendata: "https://data-crtm.opendata.arcgis.com/datasets/m5-tramos/geoservice"
+    tramos: "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/M5_Red/FeatureServer/4/query?where=1%3D1&outFields=CODIGOGESTIONLINEA,NUMEROLINEAUSUARIO,IDTRAMO,SENTIDO,NUMEROORDEN,FECHAFIN&outSR=4326&f=json"
   metro_ligero:
     txt: "Metro ligero"
     doc: "https://crtm.maps.arcgis.com/home/item.html?id=aaed26cc0ff64b0c947ac0bc3e033196"
     data: "https://crtm.maps.arcgis.com/sharing/rest/content/items/aaed26cc0ff64b0c947ac0bc3e033196/data"
+    opendata: "https://data-crtm.opendata.arcgis.com/datasets/m10-tramos"
+    tramos: "https://services5.arcgis.com/UxADft6QPcvFyDU1/arcgis/rest/services/Red_MetroLigero/FeatureServer/4/query?where=1%3D1&outFields=CODIGOGESTIONLINEA,NUMEROLINEAUSUARIO,IDTRAMO,SENTIDO,NUMEROORDEN,FECHAFIN&outSR=4326&f=json"
 overpass:
   transporte: "http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0Aarea%5B%22ISO3166-2%22%3D%22ES-MD%22%5D-%3E.a%3B%0Arelation%5B%22type%22%3D%22route%22%5D%5B%22route%22%3D%22subway%22%5D%5B%22network%22%3D%22Metro%20de%20Madrid%22%5D%28area.a%29%3B%0A%20%20way%28r%29%3B%0A%20%20way._%5B%22railway%22%3D%22subway%22%5D%3B%0A%20%20out%20body%20geom%3B%0Arelation%5B%22type%22%3D%22route%22%5D%5B%22route%22%3D%22subway%22%5D%5B%22network%22%3D%22Metro%20de%20Madrid%22%5D%28area.a%29%3B%0A%20%20node%28r%29%3B%0A%20%20node._%5B%22public_transport%22%3D%22stop_position%22%5D%3B%0A%20%20out%20body%20geom%3B%0Arelation%5B%22type%22%3D%22route%22%5D%5B%22route%22%3D%22train%22%5D%5B%22network%22%3D%22Cercan%C3%ADas%20de%20Madrid%22%5D%28area.a%29%3B%0A%20%20way%28r%29%3B%0A%20%20way._%5B%22railway%22%3D%22rail%22%5D%3B%0A%20%20out%20body%20geom%3B%0Arelation%5B%22type%22%3D%22route%22%5D%5B%22route%22%3D%22train%22%5D%5B%22network%22%3D%22Cercan%C3%ADas%20de%20Madrid%22%5D%28area.a%29%3B%0A%20%20way%28r%29%3B%0A%20%20node._%5B%22public_transport%22%3D%22stop_position%22%5D%3B%0A%20%20out%20body%20geom%3B%0Arelation%5B%22type%22%3D%22route%22%5D%5B%22route%22%3D%22light_rail%22%5D%5B%22network%22%3D%22Metro%20Ligero%20de%20Madrid%22%5D%28area.a%29%3B%0A%20%20way%28r%29%3B%20%09%0A%20%20way._%5B%22railway%22%3D%22light_rail%22%5D%3B%0A%20%20out%20body%20geom%3B%0Arelation%5B%22type%22%3D%22route%22%5D%5B%22route%22%3D%22light_rail%22%5D%5B%22network%22%3D%22Metro%20Ligero%20de%20Madrid%22%5D%28area.a%29%3B%0A%20%20way%28r%29%3B%0A%20%20node._%5B%22public_transport%22%3D%22stop_position%22%5D%3B%0A%20%20out%20body%20geom%3B"

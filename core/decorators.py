@@ -93,3 +93,15 @@ class ListCache(Cache):
                 if i > 0:
                     f.write("\n")
                 f.write(str(l))
+
+class ParamJsonCache(JsonCache):
+    def __init__(self, *args, **kargv):
+        JsonCache.__init__(self, *args, **kargv)
+
+    def read(self, *args, **kargs):
+        f = self.file.format(*args, **kargs)
+        return read_js(f)
+
+    def save(self, data, *args, **kargs):
+        f = self.file.format(*args, *kargs)
+        save_js(f, data)

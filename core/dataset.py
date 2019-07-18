@@ -6,11 +6,14 @@ from bunch import Bunch
 import json
 import geopy.distance
 import copy
+from arcgis.gis import GIS
 
 from .centro import get_data, get_abr
 from .common import get_pdf, get_soup, mkBunch, read_yml, get_km, unzip, mkBunchParse, to_num, read_csv
+from .db import DBshp
 from .confmap import parse_nombre, parse_tipo, etapas_ban
 from .decorators import *
+from shapely.geometry import MultiPolygon, Point, Polygon, shape
 
 re_bocm = re.compile(r".*(BOCM-[\d\-]+).PDF", re.IGNORECASE)
 re_location = re.compile(r"document.location.href=\s*[\"'](.*.csv)[\"']")
@@ -380,7 +383,9 @@ class Dataset():
     @property
     @lru_cache(maxsize=None)
     @JsonCache(file="data/transporte.json", reload=True)
-    def transporte(self, reload=True):
+    def _transporte(self, reload=True):
+        db = DBshp("data/transporte.db", reload=True)
+        db.execute("sql/base.sql")
         data={}
         for k in self.indice.transporte.keys():
             trips={}
@@ -401,13 +406,31 @@ class Dataset():
                 obj["linea"] = o["route_short_name"]
                 obj["nombre"] = o["route_long_name"]
                 obj["color"] = "#"+o["route_color"]
-                obj["trips"]=[]
+                obj["url"] = o["route_url"]
+                obj["trips"]={}
                 for shape_id in sorted(trips[route_id]):
                     points=[]
-                    for _, lat, lon in sorted(shapes[shape_id]):
-                        points.append((lat, lon))
-                    obj["trips"].append(points)
+                    for sec, lat, lon in sorted(shapes[shape_id]):
+                        db.insert("linea", orden=sec, tipo=k, nombre=obj["nombre"], shape_id=shape_id, route_id=route_id, point=Point(lon, lat))
+                        if len(points)>5:
+                            dis1 = geopy.distance.vincenty((lat, lon), points[-1]).m
+                            flag=False
+                            if dis1>1700:
+                                for i in reversed(points):
+                                    dis2 = geopy.distance.vincenty((lat, lon), i).m
+                                    if dis2<500:
+                                        flag=True
+                                        break
+                            if flag:
+                                print(obj["linea"], shape_id, sec)
+                                print(dis1, dis2)
+                                continue
+                        point = (lat, lon)
+                        points.append(point)
+                    obj["trips"][shape_id]=points
                 data[k].append(obj)
+        db.commit()
+        db.close()
         return data
 
 
@@ -421,12 +444,47 @@ class Dataset():
                                'coordinates':[]}}
         for red in self.transporte.values():
             for l in red:
-                pr = copy.deepcopy(l)
-                del pr["trips"]
-                for tp in l["trips"]:
+                for key, tp in l["trips"].items():
+                    pr = copy.deepcopy(l)
+                    del pr["trips"]
+                    pr["shape_id"]=key
                     ln = copy.deepcopy(item)
                     ln['properties']=pr
                     for lat, lon in tp:
                         ln['geometry']['coordinates'].append((lon, lat))
                     geojson['features'].append(ln)
         return geojson
+
+    def gis(self):
+        gis = GIS()
+
+        for k, v in self.indice.transporte.items():
+            print(k)
+            id = v.capas.split("=")[-1]
+            data_item = gis.content.get(id)
+            for lyr in data_item.layers:
+                if "TRAMO" in lyr.properties.name:
+                    print(lyr.url)
+                    for f in lyr.properties.fields:
+                        print(f['name'])
+
+    @lru_cache(maxsize=None)
+    @ParamJsonCache(file="fuentes/transporte/{0}.json")
+    def get_tramos(self, tipo):
+        r = requests.get(self.indice.transporte[tipo].tramos)
+        return r.json()
+
+    @property
+    @lru_cache(maxsize=None)
+    #@JsonCache(file="data/transporte.json", reload=True)
+    def transporte(self):
+        for k in self.indice.transporte.keys():
+            colors={}
+            for o in read_csv("fuentes/transporte/"+k+"/routes.txt", separator=",", parse=to_num, encoding='utf-8-sig'):
+                color = "#"+o["route_color"]
+                line = o["route_short_name"]
+                print(line, color)
+                colors[line] = color
+            tramo = self.get_tramos(k)
+            lineas = set(f["attributes"]["NUMEROLINEAUSUARIO"] for f in tramo["features"])
+            print("\n".join(sorted(lineas)))

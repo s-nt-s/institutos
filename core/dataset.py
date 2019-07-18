@@ -8,7 +8,7 @@ import geopy.distance
 import copy
 
 from .centro import get_data, get_abr
-from .common import get_pdf, get_soup, mkBunch, read_yml, get_km, unzip
+from .common import get_pdf, get_soup, mkBunch, read_yml, get_km, unzip, mkBunchParse, to_num, read_csv
 from .confmap import parse_nombre, parse_tipo, etapas_ban
 from .decorators import *
 
@@ -368,3 +368,65 @@ class Dataset():
         lat, lon = tuple(map(float, latlon.split(",")))
         distances = [geopy.distance.vincenty((lat, lon), latlon).m for latlon in self.estaciones]
         return min(distances)
+
+    @property
+    @lru_cache(maxsize=None)
+    @JsonCache(file="data/overpass.json")
+    def overpass(self):
+        r = requests.get(self.indice.overpass.transporte)
+        return r.json()
+
+
+    @property
+    @lru_cache(maxsize=None)
+    @JsonCache(file="data/transporte.json", reload=True)
+    def transporte(self, reload=True):
+        data={}
+        for k in self.indice.transporte.keys():
+            trips={}
+            shapes={}
+            for o in read_csv("fuentes/transporte/"+k+"/trips.txt", separator=",", parse=to_num, encoding='utf-8-sig'):
+                t = trips.get(o["route_id"], set())
+                t.add(o["shape_id"])
+                trips[o["route_id"]]=t
+            for o in read_csv("fuentes/transporte/"+k+"/shapes.txt", separator=",", parse=to_num, encoding='utf-8-sig'):
+                obj = shapes.get(o["shape_id"], [])
+                obj.append((o["shape_pt_sequence"], o["shape_pt_lat"], o["shape_pt_lon"]))
+                shapes[o["shape_id"]]=obj
+
+            data[k]=[]
+            for o in read_csv("fuentes/transporte/"+k+"/routes.txt", separator=",", parse=to_num, encoding='utf-8-sig'):
+                obj={}
+                route_id = o["route_id"]
+                obj["linea"] = o["route_short_name"]
+                obj["nombre"] = o["route_long_name"]
+                obj["color"] = "#"+o["route_color"]
+                obj["trips"]=[]
+                for shape_id in sorted(trips[route_id]):
+                    points=[]
+                    for _, lat, lon in sorted(shapes[shape_id]):
+                        points.append((lat, lon))
+                    obj["trips"].append(points)
+                data[k].append(obj)
+        return data
+
+
+    @property
+    @lru_cache(maxsize=None)
+    def geojson_transporte(self, reload=True):
+        geojson = {'type':'FeatureCollection', 'features':[]}
+        item = {'type':'Feature',
+                   'properties':{},
+                   'geometry':{'type':'LineString',
+                               'coordinates':[]}}
+        for red in self.transporte.values():
+            for l in red:
+                pr = copy.deepcopy(l)
+                del pr["trips"]
+                for tp in l["trips"]:
+                    ln = copy.deepcopy(item)
+                    ln['properties']=pr
+                    for lat, lon in tp:
+                        ln['geometry']['coordinates'].append((lon, lat))
+                    geojson['features'].append(ln)
+        return geojson

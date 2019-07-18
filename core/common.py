@@ -156,10 +156,27 @@ def save_js(file, data):
     with open(file, "w") as f:
         f.write(txt)
 
+def to_num(st, coma=False):
+    s = st.strip() if st else None
+    if s is None:
+        return None
+    try:
+        if coma:
+            s = s.replace(".", "")
+            s = s.replace(",", ".")
+        s = float(s)
+        if int(s) == s:
+            s = int(s)
+        return s
+    except:
+        pass
+    return st
 
-def read_csv(file, start=0, where=None, null=None, separator=";"):
+def read_csv(file, start=0, where=None, null=None, separator=";", parse=None, encoding=None):
+    if parse is None:
+        parse = lambda x: x
     head = None
-    with open(file, "r") as f:
+    with open(file, "r", encoding=encoding) as f:
         for i, l in enumerate(f.readlines()):
             l = l.rstrip()
             l = l.rstrip(separator)
@@ -169,8 +186,7 @@ def read_csv(file, start=0, where=None, null=None, separator=";"):
                     c = c.strip()
                     if c == "":
                         c = None
-                    elif c.isdigit():
-                        c = int(c)
+                    c = parse(c)
                     campos.append(c)
                 if i == start:
                     head = campos

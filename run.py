@@ -104,7 +104,7 @@ for t in sorted(tipos):
 
 mapa.save("data/mapa.kml")
 create_script("docs/geojson.js", geomap=d.geojson, tipos=ok_tipos, nocturnos=sorted(nocturnos))
-
+create_script("docs/geojson_transporte.js", geojson_transporte=d.geojson_transporte)
 
 lgd = [colors.dificultad, colors.nocturno, colors.default]
 lgd = lgd + [color_to_url(c, None) for c in lgd]

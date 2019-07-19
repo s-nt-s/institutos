@@ -55,7 +55,7 @@ class Dataset():
         if not os.path.isfile(file):
             if not self.dwn_centros(file, data=data):
                 return []
-        out = read_csv(file, start=1, null=("-", 0), **kargv)
+        out = read_csv(file, start=1, null=("-", 0), parse=to_num, **kargv)
         return list(out)
 
     @property

@@ -9746,8 +9746,7 @@ var geomap = {
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
-          "Espa\u00f1ol para inmigrantes",
-          "Cursos a distancia Soporte Telem\u00e1tico"
+          "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -10777,8 +10776,7 @@ var geomap = {
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
-          "Espa\u00f1ol para inmigrantes",
-          "Cursos a distancia Soporte Telem\u00e1tico"
+          "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -10815,8 +10813,7 @@ var geomap = {
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
-          "Espa\u00f1ol para inmigrantes",
-          "Cursos a distancia Soporte Telem\u00e1tico"
+          "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -12489,8 +12486,7 @@ var geomap = {
         "min_distance": 2064.1899191507205,
         "etapas": [
           "Desarrollo Personal",
-          "ESO para personas adultas (LOE-LOMCE)",
-          "Cursos a distancia Soporte Telem\u00e1tico"
+          "ESO para personas adultas (LOE-LOMCE)"
         ],
         "color": "red",
         "icon": "https://maps.google.com/mapfiles/ms/micons/red.png"
@@ -12958,8 +12954,7 @@ var geomap = {
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
-          "Espa\u00f1ol para inmigrantes",
-          "Cursos a distancia Soporte Telem\u00e1tico"
+          "Espa\u00f1ol para inmigrantes"
         ],
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"

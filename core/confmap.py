@@ -15,7 +15,8 @@ etapas_ban=(
     "Programas Profesionales (LOE-LOMCE)",
     "Técnico Profesional",
     "Educación Especial Infantil (Adaptac. LOE)",
-    "Educación Especial Primaria (Adaptac. LOE)"
+    "Educación Especial Primaria (Adaptac. LOE)",
+    "Cursos a distancia Soporte Telemático"
 )
 
 def index(literal, arr):

@@ -21,7 +21,8 @@ L.geoJSON(geojson_transporte, {
   },
   filter: function (f, layer) {
     c=f.properties;
-    return c.linea=="C8"
+    return true;
+    return c.linea!="C3"
     return c.shape_id=="5__2____1__IT_1";
   }
 }).addTo(mymap);

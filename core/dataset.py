@@ -443,14 +443,14 @@ class Dataset():
                    'geometry':{'type':'LineString',
                                'coordinates':[]}}
         for red in self.transporte.values():
-            for l in red:
+            for l in red.values():
                 for key, tp in l["trips"].items():
                     pr = copy.deepcopy(l)
                     del pr["trips"]
                     pr["shape_id"]=key
                     ln = copy.deepcopy(item)
                     ln['properties']=pr
-                    for lat, lon in tp:
+                    for lon, lat in tp:
                         ln['geometry']['coordinates'].append((lon, lat))
                     geojson['features'].append(ln)
         return geojson
@@ -476,15 +476,62 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    #@JsonCache(file="data/transporte.json", reload=True)
+    @JsonCache(file="data/transporte.json", reload=True)
     def transporte(self):
+        datas={}
         for k in self.indice.transporte.keys():
             colors={}
             for o in read_csv("fuentes/transporte/"+k+"/routes.txt", separator=",", parse=to_num, encoding='utf-8-sig'):
                 color = "#"+o["route_color"]
                 line = o["route_short_name"]
-                print(line, color)
                 colors[line] = color
-            tramo = self.get_tramos(k)
-            lineas = set(f["attributes"]["NUMEROLINEAUSUARIO"] for f in tramo["features"])
-            print("\n".join(sorted(lineas)))
+            data={}
+            tramos = self.get_tramos(k)
+            lineas = set((f["attributes"]["CODIGOGESTIONLINEA"], f["attributes"]["NUMEROLINEAUSUARIO"]) for f in tramos["features"])
+            for l1, l2  in sorted(lineas):
+                cod = None
+                if k == "metro":
+                    cod = l2.split("-")[0]
+                elif k=="cercanias":
+                    cod = l1
+                elif k == "metro_ligero":
+                    cod = "ML"+l2.split("-")[0]
+                if cod[-1].lower() in ("a", "b"):
+                    cod=cod[:-1]
+                if cod.isdigit():
+                    cod=int(cod)
+                linea = data.get(cod, {"tipo":k, "linea":cod, "color": colors[cod], "trips":{}})
+                data[cod]=linea
+                rutas={}
+                for f in tramos["features"]:
+                    if f["attributes"]["CODIGOGESTIONLINEA"]==l1:
+                        id_tramo = f["attributes"]["IDTRAMO"]
+                        sentido = f["attributes"]["SENTIDO"]
+                        orden = f["attributes"]["NUMEROORDEN"]
+                        paths=f["geometry"]["paths"]
+                        if id_tramo not in rutas:
+                            rutas[id_tramo]=[]
+                        rutas[id_tramo].append((orden, paths))
+                for ruta, geo in sorted(rutas.items()):
+                    points=[]
+                    for _, paths in sorted(geo):
+                        for pts in paths.pop():
+                            lon, lat = pts
+                            if len(points)>5:
+                                ln, lt = points[-1]
+                                dis1 = geopy.distance.vincenty((lat, lon), (lt, ln)).m
+                                flag=False
+                                if dis1>1700:
+                                    for ln, lt in reversed(points):
+                                        dis2 = geopy.distance.vincenty((lat, lon), (lt, ln)).m
+                                        if dis2<500:
+                                            flag=True
+                                            break
+                                if flag:
+                                    print(cod, ruta)
+                                    print(dis1, dis2)
+                                    continue
+                            points.append(pts)
+                    linea["trips"][ruta]=points
+            datas[k]=data
+        return datas

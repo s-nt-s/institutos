@@ -11,11 +11,7 @@ Los datos que se han usado han sido:
 * [La última convocatoría](http://www.madrid.org/cs/Satellite?c=EDRH_Generico_FA&cid=1354540246227&pagename=PortalEducacionRRHH%2FEDRH_Generico_FA%2FEDRH_generico)
 * [El anexo 29](http://www.madrid.org/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-disposition&blobheadername2=cadena&blobheadervalue1=filename%3DAnexo+29.pdf&blobheadervalue2=language%3Des%26site%3DPortalEducacionRRHH&blobkey=id&blobtable=MungoBlobs&blobwhere=1310723140345&ssbinary=true)
 * [El buscador de centros](http://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm)
-* Y para determinar la distancia a la estación de transporte más cercana,
-se han usado los datos de: 
-    * La red de [Metro](https://crtm.maps.arcgis.com/home/item.html?id=5c7f2951962540d69ffe8f640d94c246)
-    * La red de [Cercanias](https://crtm.maps.arcgis.com/home/item.html?id=1a25440bf66f499bae2657ec7fb40144)
-    * La red de [Metro ligero](https://crtm.maps.arcgis.com/home/item.html?id=aaed26cc0ff64b0c947ac0bc3e033196)
+* [El portal de datos abiertos de CRTM](https://data-crtm.opendata.arcgis.com/)
 
 # Centros mostrados en el mapa
 
@@ -36,7 +32,6 @@ y que (en caso de que este la información disponible) ofrezcan al menos alguna 
 * "Bachibac" Programa doble titulación Bachiller-Baccalaureat
 * Bachillerato
 * Curso preparatorio prueba de acceso Grado Superior (LOE)
-* Cursos a distancia Soporte Telemático
 * Desarrollo Personal
 * ESO (LOE-LOMCE)
 * ESO para personas adultas (LOE-LOMCE)

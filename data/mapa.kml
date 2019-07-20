@@ -142,7 +142,7 @@ URL: www.educa.madrid.org/cepa.aluche.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="16">
-                    <coordinates>-3.7556594164657175,40.38478069568678,0.0</coordinates>
+                    <coordinates>-3.7556594164657175,40.384780695686764,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="19">
@@ -183,7 +183,7 @@ URL: www.educa.madrid.org/cepa.sampedro.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="22">
-                    <coordinates>-3.713111024424132,40.47346444529825,0.0</coordinates>
+                    <coordinates>-3.713111024424132,40.47346444529824,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="25">
@@ -309,7 +309,7 @@ URL: www.educa.madrid.org/cepa.arganda</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="40">
-                    <coordinates>-3.432147753951383,40.29845014340474,0.0</coordinates>
+                    <coordinates>-3.432147753951383,40.29845014340476,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="43">
@@ -365,7 +365,7 @@ URL: www.educa.madrid.org/cepa.fuencarral.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="48">
-                    <coordinates>-3.6934413405040494,40.49595308081296,0.0</coordinates>
+                    <coordinates>-3.6934413405040494,40.495953080812974,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="51">
@@ -421,7 +421,7 @@ URL: www.educa.madrid.org/cepa.pabloguzman.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="56">
-                    <coordinates>-3.6453477793211304,40.46208807191738,0.0</coordinates>
+                    <coordinates>-3.6453477793211304,40.46208807191737,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="59">
@@ -491,7 +491,7 @@ URL: www.educa.madrid.org/cepa.villarejodesalvanes</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="66">
-                    <coordinates>-3.2755246323468707,40.16760932272032,0.0</coordinates>
+                    <coordinates>-3.2755246323468707,40.167609322720324,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="69">
@@ -533,7 +533,7 @@ URL: www.educa.madrid.org/cepa.cidcampeador.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="72">
-                    <coordinates>-3.770694124615365,40.381843641226276,0.0</coordinates>
+                    <coordinates>-3.770694124615365,40.38184364122627,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="75">
@@ -547,7 +547,7 @@ URL: www.educa.madrid.org/cepa.ciudadlineal.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="74">
-                    <coordinates>-3.632172537891254,40.42931437020915,0.0</coordinates>
+                    <coordinates>-3.632172537891254,40.42931437020917,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="77">
@@ -617,7 +617,7 @@ URL: www.educa.madrid.org/cepa.dulcechacon.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="84">
-                    <coordinates>-3.6496451386690976,40.477198909318325,0.0</coordinates>
+                    <coordinates>-3.6496451386690976,40.47719890931833,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="87">
@@ -757,7 +757,7 @@ URL: www.educa.madrid.org/cepa.arganzuela.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="104">
-                    <coordinates>-3.695960459840022,40.40047068046267,0.0</coordinates>
+                    <coordinates>-3.695960459840022,40.40047068046266,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="107">
@@ -827,7 +827,7 @@ URL: www.educa.madrid.org/cepa.joaquinsorolla.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="114">
-                    <coordinates>-3.6726584261840696,40.435464211234276,0.0</coordinates>
+                    <coordinates>-3.6726584261840696,40.43546421123427,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="117">
@@ -855,7 +855,7 @@ URL: www.educa.madrid.org/cepa.mariovargasllosa.majadahonda</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="118">
-                    <coordinates>-3.8709542188618413,40.46824772302307,0.0</coordinates>
+                    <coordinates>-3.8709542188618413,40.468247723023076,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="121">
@@ -998,7 +998,7 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
                 <Point id="139">
-                    <coordinates>-3.326192833309165,40.52322148297118,0.0</coordinates>
+                    <coordinates>-3.3261928333091655,40.523221482971174,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="145">
@@ -1184,7 +1184,7 @@ URL: www.educa.madrid.org/ah.lapaz.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="169">
-                    <coordinates>-3.6865436265844735,40.48030087224511,0.0</coordinates>
+                    <coordinates>-3.6865436265844735,40.48030087224512,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="172">
@@ -1303,7 +1303,7 @@ Nocturno en:<br />
 ]]>                </description>
                 <styleUrl>#184</styleUrl>
                 <Point id="189">
-                    <coordinates>-3.3696764563273067,40.49165857006046,0.0</coordinates>
+                    <coordinates>-3.3696764563273067,40.491658570060444,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="192">
@@ -1507,7 +1507,7 @@ URL: www.educa.madrid.org/ies.mariazambrano.leganes<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="221">
-                    <coordinates>-3.7475089043237886,40.330590380098705,0.0</coordinates>
+                    <coordinates>-3.7475089043237886,40.33059038009869,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="224">
@@ -1806,7 +1806,7 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="264">
-                    <coordinates>-3.646389131938344,40.459983181793525,0.0</coordinates>
+                    <coordinates>-3.646389131938344,40.45998318179353,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="267">
@@ -1820,7 +1820,7 @@ URL: www.educa.madrid.org/ies.carlostercero.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="266">
-                    <coordinates>-3.6144371343516086,40.424914525909315,0.0</coordinates>
+                    <coordinates>-3.6144371343516086,40.42491452590933,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="269">
@@ -1969,7 +1969,7 @@ URL: www.educa.madrid.org/ies.tetuan.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="286">
-                    <coordinates>-3.696828178293769,40.473140346863296,0.0</coordinates>
+                    <coordinates>-3.696828178293769,40.47314034686331,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="289">
@@ -2018,7 +2018,7 @@ Nocturno en:<br />
 ]]>                </description>
                 <styleUrl>#184</styleUrl>
                 <Point id="292">
-                    <coordinates>-3.688192672587283,40.40951712958399,0.0</coordinates>
+                    <coordinates>-3.688192672587283,40.409517129583975,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="295">
@@ -2125,7 +2125,7 @@ URL: www.educa.madrid.org/ies.pacifico.madrid</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="306">
-                    <coordinates>-3.6686222494004217,40.40410946519944,0.0</coordinates>
+                    <coordinates>-3.6686222494004217,40.404109465199426,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="309">
@@ -2347,7 +2347,7 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="336">
-                    <coordinates>-3.6338429115163104,40.39752159032749,0.0</coordinates>
+                    <coordinates>-3.6338429115163104,40.397521590327486,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="339">
@@ -2456,7 +2456,7 @@ URL: www.educa.madrid.org/ies.avenidadelostor.madrid<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="350">
-                    <coordinates>-3.6647988443253077,40.43351870441474,0.0</coordinates>
+                    <coordinates>-3.6647988443253077,40.433518704414745,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="353">
@@ -2579,7 +2579,7 @@ Nocturno en:<br />
 ]]>                </description>
                 <styleUrl>#184</styleUrl>
                 <Point id="366">
-                    <coordinates>-3.6860865092847903,40.44234017693831,0.0</coordinates>
+                    <coordinates>-3.6860865092847903,40.4423401769383,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="369">
@@ -2612,7 +2612,7 @@ URL: www.educa.madrid.org/ies.fortuny.madrid<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="370">
-                    <coordinates>-3.6898309692897224,40.4337594258703,0.0</coordinates>
+                    <coordinates>-3.6898309692897224,40.433759425870306,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="373">
@@ -2686,7 +2686,7 @@ URL: www.educa.madrid.org/ies.damasoalonso.madrid<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="380">
-                    <coordinates>-3.7004659272215004,40.48718116314,0.0</coordinates>
+                    <coordinates>-3.7004659272215004,40.48718116313999,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="383">
@@ -2700,7 +2700,7 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="382">
-                    <coordinates>-3.7688847486100605,40.228683137011366,0.0</coordinates>
+                    <coordinates>-3.7688847486100596,40.22868313701137,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="385">
@@ -2745,7 +2745,7 @@ URL: www.educa.madrid.org/ies.arturosoria.madrid<br />
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
                 <Point id="388">
-                    <coordinates>-3.660161958912997,40.477742910170676,0.0</coordinates>
+                    <coordinates>-3.660161958912997,40.47774291017068,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="391">
@@ -2788,7 +2788,7 @@ URL: www.educa.madrid.org/ies.blasdeotero.madrid<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="394">
-                    <coordinates>-3.76207929306955,40.38888268881213,0.0</coordinates>
+                    <coordinates>-3.76207929306955,40.38888268881214,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="397">
@@ -2846,7 +2846,7 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="402">
-                    <coordinates>-3.6077871485978754,40.42868839313901,0.0</coordinates>
+                    <coordinates>-3.6077871485978754,40.42868839313902,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="405">
@@ -2902,7 +2902,7 @@ URL: www.educa.madrid.org/ies.arquitectoperid.leganes</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="410">
-                    <coordinates>-3.740826690151356,40.33420095800475,0.0</coordinates>
+                    <coordinates>-3.740826690151356,40.33420095800474,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="413">
@@ -2948,7 +2948,7 @@ Nocturno en:<br />
 ]]>                </description>
                 <styleUrl>#212</styleUrl>
                 <Point id="416">
-                    <coordinates>-3.768184077093533,40.22596700849176,0.0</coordinates>
+                    <coordinates>-3.768184077093533,40.225967008491764,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="419">
@@ -3061,7 +3061,7 @@ URL: www.educa.madrid.org/ies.ladehesilla.cercedilla<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="432">
-                    <coordinates>-4.043729029455896,40.737405789386784,0.0</coordinates>
+                    <coordinates>-4.043729029455895,40.73740578938678,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="435">
@@ -3075,7 +3075,7 @@ URL: www.educa.madrid.org/ies.laarboleda.alcorcon</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="434">
-                    <coordinates>-3.8325430117586587,40.34165824906582,0.0</coordinates>
+                    <coordinates>-3.8325430117586587,40.34165824906583,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="437">
@@ -3118,7 +3118,7 @@ URL: www.educa.madrid.org/ies.tiernogalvan.leganes<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="440">
-                    <coordinates>-3.7726174570450484,40.317109998761175,0.0</coordinates>
+                    <coordinates>-3.7726174570450484,40.31710999876118,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="443">
@@ -3290,7 +3290,7 @@ URL: www.educa.madrid.org/ies.salvadordali.leganes</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="464">
-                    <coordinates>-3.742563890444476,40.336955597574175,0.0</coordinates>
+                    <coordinates>-3.742563890444476,40.33695559757417,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="467">
@@ -3305,7 +3305,7 @@ URL: www.educa.madrid.org/ies.sigloveintiuno.leganes<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="466">
-                    <coordinates>-3.7636886267571183,40.338367602932315,0.0</coordinates>
+                    <coordinates>-3.7636886267571183,40.33836760293232,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="469">
@@ -3422,7 +3422,7 @@ URL: www.educa.madrid.org/ies.newton.madrid<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="482">
-                    <coordinates>-3.722520036764229,40.473018628383926,0.0</coordinates>
+                    <coordinates>-3.722520036764229,40.47301862838391,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="485">
@@ -3437,7 +3437,7 @@ URL: www.educa.madrid.org/ies.isidradeguzman.alcala<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="484">
-                    <coordinates>-3.371642537326748,40.47372451898073,0.0</coordinates>
+                    <coordinates>-3.371642537326748,40.473724518980724,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="487">
@@ -3583,7 +3583,7 @@ URL: www.educa.madrid.org/ies.alpajes.aranjuez<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="504">
-                    <coordinates>-3.5935656943584227,40.03509377888681,0.0</coordinates>
+                    <coordinates>-3.5935656943584227,40.035093778886825,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="507">
@@ -3612,7 +3612,7 @@ URL: www.educa.madrid.org/ies.cardenalcisnero.alcala<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="508">
-                    <coordinates>-3.3707164846736113,40.48123192788996,0.0</coordinates>
+                    <coordinates>-3.3707164846736113,40.48123192788995,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="511">
@@ -3672,7 +3672,7 @@ URL: www.educa.madrid.org/ies.carobaroja.fuenlabrada</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="516">
-                    <coordinates>-3.7861623259145554,40.28752298199445,0.0</coordinates>
+                    <coordinates>-3.7861623259145554,40.28752298199444,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="519">
@@ -3830,7 +3830,7 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="538">
-                    <coordinates>-3.8713740570284276,40.336282129911524,0.0</coordinates>
+                    <coordinates>-3.8713740570284276,40.33628212991153,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="541">
@@ -3904,7 +3904,7 @@ URL: www.educa.madrid.org/ies.carpediem.chinchon</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="548">
-                    <coordinates>-3.4143865492545746,40.13931144486059,0.0</coordinates>
+                    <coordinates>-3.4143865492545746,40.1393114448606,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="551">
@@ -4038,7 +4038,7 @@ URL: www.educa.madrid.org/ies.juliopalacios.sansebastian<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="566">
-                    <coordinates>-3.6180706937215583,40.54355087413264,0.0</coordinates>
+                    <coordinates>-3.6180706937215583,40.54355087413265,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="569">
@@ -4068,7 +4068,7 @@ URL: www.educa.madrid.org/ies.elpinar.alcorcon<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="570">
-                    <coordinates>-3.8243731936041927,40.33981586630903,0.0</coordinates>
+                    <coordinates>-3.8243731936041927,40.339815866309024,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="573">
@@ -4083,7 +4083,7 @@ URL: www.educa.madrid.org/ies.maximotrueba.boadilla<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="572">
-                    <coordinates>-3.8816208563948615,40.40622201868963,0.0</coordinates>
+                    <coordinates>-3.8816208563948615,40.406222018689625,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="575">
@@ -4125,7 +4125,7 @@ URL: www.educa.madrid.org/ies.altair.getafe</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="578">
-                    <coordinates>-3.7413614930969064,40.315296503298526,0.0</coordinates>
+                    <coordinates>-3.7413614930969064,40.31529650329852,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="581">
@@ -4183,7 +4183,7 @@ URL: www.educa.madrid.org/ies.lalaguna.parla</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="586">
-                    <coordinates>-3.7722691126590764,40.245165446020515,0.0</coordinates>
+                    <coordinates>-3.7722691126590764,40.24516544602051,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="589">
@@ -4356,7 +4356,7 @@ URL: www.educa.madrid.org/ies.antoniolopezgarcia.getafe</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="610">
-                    <coordinates>-3.7253203077880728,40.324109978875704,0.0</coordinates>
+                    <coordinates>-3.7253203077880728,40.32410997887572,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="613">
@@ -4431,7 +4431,7 @@ Nocturno en:<br />
 ]]>                </description>
                 <styleUrl>#212</styleUrl>
                 <Point id="620">
-                    <coordinates>-3.8087917777342697,40.35613308303381,0.0</coordinates>
+                    <coordinates>-3.8087917777342706,40.3561330830338,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="623">
@@ -4475,7 +4475,7 @@ URL: www.educa.madrid.org/ies.infantaelena.galapagar<br />
 ]]>                </description>
                 <styleUrl>#141</styleUrl>
                 <Point id="626">
-                    <coordinates>-4.0113466952039065,40.582901811839065,0.0</coordinates>
+                    <coordinates>-4.0113466952039065,40.58290181183905,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="629">
@@ -4561,7 +4561,7 @@ URL: www.educa.madrid.org/ies.rosachacel.colmenarviejo<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="638">
-                    <coordinates>-3.765457009852079,40.65422240983051,0.0</coordinates>
+                    <coordinates>-3.765457009852079,40.65422240983053,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="641">
@@ -4634,7 +4634,7 @@ URL: www.educa.madrid.org/ies.garciaberlanga.coslada<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="648">
-                    <coordinates>-3.5625513912784825,40.429917356715066,0.0</coordinates>
+                    <coordinates>-3.5625513912784825,40.42991735671508,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="651">
@@ -4692,7 +4692,7 @@ URL: www.educa.madrid.org/ies.duquederivas.rivas<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="656">
-                    <coordinates>-3.5336821972810446,40.36755869406593,0.0</coordinates>
+                    <coordinates>-3.5336821972810446,40.367558694065934,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="659">
@@ -4739,7 +4739,7 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="662">
-                    <coordinates>-3.479833237461454,40.392677667333786,0.0</coordinates>
+                    <coordinates>-3.479833237461454,40.39267766733379,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="665">
@@ -4769,7 +4769,7 @@ URL: www.educa.madrid.org/ies.villarejo<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="666">
-                    <coordinates>-3.286558826563877,40.17481709845735,0.0</coordinates>
+                    <coordinates>-3.286558826563877,40.17481709845734,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="669">
@@ -4799,7 +4799,7 @@ URL: www.educa.madrid.org/ies.goya.madrid<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="670">
-                    <coordinates>-3.650764418326344,40.41836443851034,0.0</coordinates>
+                    <coordinates>-3.650764418326344,40.418364438510345,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="673">
@@ -4853,7 +4853,7 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="678">
-                    <coordinates>-3.686649123756968,40.195721840751226,0.0</coordinates>
+                    <coordinates>-3.686649123756968,40.19572184075123,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="681">
@@ -4983,7 +4983,7 @@ URL: www.educa.madrid.org/ies.grinon.grinon</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="696">
-                    <coordinates>-3.845830464169186,40.21477673014127,0.0</coordinates>
+                    <coordinates>-3.845830464169186,40.21477673014126,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="699">
@@ -5057,7 +5057,7 @@ URL: www.educa.madrid.org/ies.colmenarejo<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="706">
-                    <coordinates>-4.012820488461693,40.55683605096615,0.0</coordinates>
+                    <coordinates>-4.012820488461693,40.556836050966155,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="709">
@@ -5188,7 +5188,7 @@ URL: www.educa.madrid.org/ies.profesorjulioperez.rivas</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="724">
-                    <coordinates>-3.5139199804422097,40.332116330938675,0.0</coordinates>
+                    <coordinates>-3.5139199804422097,40.33211633093869,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="727">
@@ -5230,7 +5230,7 @@ URL: www.educa.madrid.org/ies.gasparsanz.meco<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="730">
-                    <coordinates>-3.322123760708147,40.54621445870192,0.0</coordinates>
+                    <coordinates>-3.322123760708147,40.546214458701925,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="733">
@@ -5391,7 +5391,7 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="752">
-                    <coordinates>-3.9847084823456784,40.228372395257914,0.0</coordinates>
+                    <coordinates>-3.9847084823456784,40.22837239525791,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="755">
@@ -5405,7 +5405,7 @@ URL: www.educa.madrid.org/ies.migueldelibes.torrejondelacalzada</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="754">
-                    <coordinates>-3.804836526306011,40.19357302079286,0.0</coordinates>
+                    <coordinates>-3.804836526306011,40.193573020792854,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="757">
@@ -5436,7 +5436,7 @@ URL: www.educa.madrid.org/ies.lazarocarreter.alcala<br />
 ]]>                </description>
                 <styleUrl>#243</styleUrl>
                 <Point id="758">
-                    <coordinates>-3.373359258844887,40.50464656376394,0.0</coordinates>
+                    <coordinates>-3.373359258844887,40.50464656376395,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="761">
@@ -5494,7 +5494,7 @@ URL: www.educa.madrid.org/ies.maestromatiasbravo.valdemoro</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="766">
-                    <coordinates>-3.6891190319937293,40.1785804882631,0.0</coordinates>
+                    <coordinates>-3.6891190319937293,40.178580488263094,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="769">
@@ -5522,7 +5522,7 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="770">
-                    <coordinates>-3.6902999023380567,40.357351489811464,0.0</coordinates>
+                    <coordinates>-3.6902999023380567,40.35735148981147,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="773">
@@ -5551,7 +5551,7 @@ URL: www.educa.madrid.org/ies.luisgarciaberlanga.guadalix</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="774">
-                    <coordinates>-3.695994920999966,40.78218602978418,0.0</coordinates>
+                    <coordinates>-3.695994920999966,40.78218602978419,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="777">
@@ -5636,7 +5636,7 @@ URL: www.educa.madrid.org/ies.nicolascopernico.parla<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="786">
-                    <coordinates>-3.761330694328965,40.22377800825034,0.0</coordinates>
+                    <coordinates>-3.761330694328965,40.22377800825033,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="789">
@@ -5666,7 +5666,7 @@ URL: www.educa.madrid.org/ies.lasenda.getafe<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="790">
-                    <coordinates>-3.747333314858952,40.29438399635924,0.0</coordinates>
+                    <coordinates>-3.747333314858952,40.29438399635923,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="793">
@@ -5696,7 +5696,7 @@ URL: www.educa.madrid.org/ies.manuelfragairibarne.madrid<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="794">
-                    <coordinates>-3.657145049425794,40.4998497880134,0.0</coordinates>
+                    <coordinates>-3.657145049425794,40.49984978801341,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="797">
@@ -5770,7 +5770,7 @@ Nocturno en:<br />
 ]]>                </description>
                 <styleUrl>#184</styleUrl>
                 <Point id="804">
-                    <coordinates>-3.7088138168902693,40.38895120389475,0.0</coordinates>
+                    <coordinates>-3.7088138168902693,40.38895120389474,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="807">
@@ -5875,7 +5875,7 @@ URL: www.educa.madrid.org/ies.josegarcianieto.lasrozas<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="818">
-                    <coordinates>-3.892232526550431,40.52427301092085,0.0</coordinates>
+                    <coordinates>-3.8922325265504303,40.52427301092086,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="821">
@@ -6031,7 +6031,7 @@ FICHA: http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="840">
-                    <coordinates>-3.679173846707233,40.397507451552244,0.0</coordinates>
+                    <coordinates>-3.679173846707233,40.39750745155225,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="843">
@@ -6133,7 +6133,7 @@ URL: www.educa.madrid.org/sies.anselmolorenzo.morata</p>
 ]]>                </description>
                 <styleUrl>#2</styleUrl>
                 <Point id="855">
-                    <coordinates>-3.44271077476145,40.22941741630608,0.0</coordinates>
+                    <coordinates>-3.44271077476145,40.229417416306084,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="858">
@@ -6222,7 +6222,7 @@ URL: www.educa.madrid.org/cp.juanramonjimenez.becerril<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="868">
-                    <coordinates>-3.9910766855742534,40.71360141345145,0.0</coordinates>
+                    <coordinates>-3.9910766855742534,40.71360141345146,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="871">
@@ -6399,7 +6399,7 @@ URL: www.educa.madrid.org/cp.cervantes.valdilecha<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="892">
-                    <coordinates>-3.2996501318009703,40.29384204220651,0.0</coordinates>
+                    <coordinates>-3.2996501318009703,40.29384204220653,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="895">
@@ -6457,7 +6457,7 @@ URL: www.educa.madrid.org/cp.elencinar.torrelodones<br />
 ]]>                </description>
                 <styleUrl>#197</styleUrl>
                 <Point id="900">
-                    <coordinates>-3.9271084126249205,40.56982549483604,0.0</coordinates>
+                    <coordinates>-3.9271084126249205,40.56982549483603,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="903">

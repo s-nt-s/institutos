@@ -103,9 +103,8 @@ for t in sorted(tipos):
         c.icon = pnt.style.iconstyle.icon.href
 
 mapa.save("data/mapa.kml")
-create_script("docs/geojson.js", geomap=d.geojson, tipos=ok_tipos, nocturnos=sorted(nocturnos))
-#d.transporte
-create_script("docs/geojson_transporte.js", geojson_transporte=d.geojson_transporte)
+create_script("docs/geocentros.js", geocentros=d.geocentros)
+create_script("docs/geotransporte.js", geotransporte=d.geotransporte)
 
 lgd = [colors.dificultad, colors.nocturno, colors.default]
 lgd = lgd + [color_to_url(c, None) for c in lgd]
@@ -120,5 +119,6 @@ j2.save(
     lgd=lgd,
     indice=d.indice,
     mails=";".join(mail),
-    count=len(d.centros)
+    count=len(d.centros),
+    transporte=d.transporte
 )

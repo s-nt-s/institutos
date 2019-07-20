@@ -104,3 +104,20 @@ a[disabled=disabled] {
   text-align: center;
   vertical-align: middle;
 }
+#transporte div.content fieldset {
+  float:left;
+  margin-top: 0px;
+  margin-bottom: 16px;
+  margin-right: 16px;
+}
+#transporte div.content fieldset:last-of-type {
+  margin-right: 0px;
+}
+#transporte div.content fieldset.metro label {
+  width: 1.5em;
+  text-align: right;
+  display: inline-block
+}
+#transporte div.content fieldset + p {
+  clear: both;
+}

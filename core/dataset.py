@@ -10,10 +10,9 @@ from arcgis.gis import GIS
 
 from .centro import get_data, get_abr
 from .common import get_pdf, get_soup, mkBunch, read_yml, get_km, unzip, mkBunchParse, to_num, read_csv
-from .db import DBshp
 from .confmap import parse_nombre, parse_tipo, etapas_ban
 from .decorators import *
-from shapely.geometry import MultiPolygon, Point, Polygon, shape
+from shapely.geometry import LineString, MultiPolygon, Point, Polygon, shape
 
 re_bocm = re.compile(r".*(BOCM-[\d\-]+).PDF", re.IGNORECASE)
 re_location = re.compile(r"document.location.href=\s*[\"'](.*.csv)[\"']")
@@ -21,6 +20,44 @@ re_sp = re.compile(r"\s+", re.MULTILINE | re.UNICODE)
 re_centro = re.compile(r"\b(28\d\d\d\d\d\d)\b")
 re_pdfs = re.compile(r".*\bapplication%2Fpdf\b.*")
 
+def add_point(points, lat, lon):
+    if len(points)>5:
+        lt, ln = points[-1]
+        dis1 = geopy.distance.vincenty((lat, lon), (lt, ln)).m
+        if dis1>1700:
+            for lt, ln in reversed(points):
+                dis2 = geopy.distance.vincenty((lat, lon), (lt, ln)).m
+                if dis2<1600:
+                    return
+    points.append((lat, lon))
+
+def sort_line(cod):
+    if isinstance(cod, dict):
+        cod = cod["linea"]
+    if isinstance(cod, int):
+        nums=[cod]
+        cod=str(cod)
+    else:
+        nums = [int(n) for n in re.findall(r'\d+', cod)]
+    while len(nums)<3:
+        nums.append(999)
+    nums.append(cod)
+    return tuple(nums)
+
+
+def get_num_linea(tipo, codigolinea, numerolinea):
+    cod = None
+    if tipo == "metro":
+        cod = numerolinea.split("-")[0]
+    elif tipo=="cercanias":
+        cod = codigolinea
+    elif tipo == "metro_ligero":
+        cod = "ML"+numerolinea.split("-")[0]
+    if cod[-1].lower() in ("a", "b"):
+        cod=cod[:-1]
+    if cod.isdigit():
+        cod=int(cod)
+    return cod
 
 class Dataset():
     def __init__(self, *args, **kargs):
@@ -318,7 +355,7 @@ class Dataset():
         return tipos
 
     @property
-    def geojson(self):
+    def geocentros(self):
         geojson = {'type':'FeatureCollection', 'features':[]}
         for c in self.centros:
             if not c.latlon:
@@ -350,44 +387,23 @@ class Dataset():
             geojson['features'].append(feature)
         return geojson
 
-    @property
-    @lru_cache(maxsize=None)
-    @JsonCache(file="data/estaciones.json", reload=True)
-    def estaciones(self):
-        estaciones=set()
-        for k in self.indice.transporte.keys():
-            for o in read_csv("fuentes/transporte/"+k+"/stops.txt", separator=","):
-                lat, lon = float(o["stop_lat"]), float(o["stop_lon"])
-                estaciones.add((lat, lon))
-        return estaciones
-
     def unzip(self):
-        for k, d in self.indice.transporte.items():
-            unzip("fuentes/transporte/"+k, d.data)
+        for k, d in self.indice.transporte.redes.items():
+            unzip("fuentes/transporte/"+k, d.gtfs.data)
 
     def min_distance(self, latlon):
         if not latlon:
             return None
         lat, lon = tuple(map(float, latlon.split(",")))
-        distances = [geopy.distance.vincenty((lat, lon), latlon).m for latlon in self.estaciones]
+        distances = [geopy.distance.vincenty((lat, lon), (e["lat"], e["lon"])).m for e in self.accesos]
         return min(distances)
 
     @property
     @lru_cache(maxsize=None)
-    @JsonCache(file="data/overpass.json")
-    def overpass(self):
-        r = requests.get(self.indice.overpass.transporte)
-        return r.json()
-
-
-    @property
-    @lru_cache(maxsize=None)
-    @JsonCache(file="data/transporte.json", reload=True)
-    def _transporte(self, reload=True):
-        db = DBshp("data/transporte.db", reload=True)
-        db.execute("sql/base.sql")
+    #@JsonCache(file="data/transporte.json", reload=True)
+    def old_transporte(self, reload=True):
         data={}
-        for k in self.indice.transporte.keys():
+        for k in self.indice.transporte.redes.keys():
             trips={}
             shapes={}
             for o in read_csv("fuentes/transporte/"+k+"/trips.txt", separator=",", parse=to_num, encoding='utf-8-sig'):
@@ -411,101 +427,163 @@ class Dataset():
                 for shape_id in sorted(trips[route_id]):
                     points=[]
                     for sec, lat, lon in sorted(shapes[shape_id]):
-                        db.insert("linea", orden=sec, tipo=k, nombre=obj["nombre"], shape_id=shape_id, route_id=route_id, point=Point(lon, lat))
-                        if len(points)>5:
-                            dis1 = geopy.distance.vincenty((lat, lon), points[-1]).m
-                            flag=False
-                            if dis1>1700:
-                                for i in reversed(points):
-                                    dis2 = geopy.distance.vincenty((lat, lon), i).m
-                                    if dis2<500:
-                                        flag=True
-                                        break
-                            if flag:
-                                print(obj["linea"], shape_id, sec)
-                                print(dis1, dis2)
-                                continue
-                        point = (lat, lon)
-                        points.append(point)
+                        add_point(points, lat, lon)
                     obj["trips"][shape_id]=points
                 data[k].append(obj)
-        db.commit()
-        db.close()
+        return data
+
+    @lru_cache(maxsize=None)
+    @ParamJsonCache(file="fuentes/transporte/{0}/{1}.json", reload=True)
+    def get_transporte_info(self, tipo, field):
+        prm = self.indice.transporte.api.default.copy()
+        for k, v in self.indice.transporte.api[field].items():
+            prm[k]=v
+        url = self.indice.transporte.redes[tipo][field].data + prm["path"]
+        del prm["path"]
+        for k, v in prm.items():
+            url = url + "&"+k+"="+v
+        r = requests.get(url)
+        return r.json()
+
+    @property
+    @lru_cache(maxsize=None)
+    @JsonCache(file="data/accesos.json", reload=True)
+    def accesos(self):
+        data={}
+        for k in self.indice.transporte.redes.keys():
+            itinerario = self.get_transporte_info(k, "itinerario")
+            accesos = self.get_transporte_info(k, "accesos")
+            meta={}
+            cod_demo={}
+            for f in itinerario["features"]:
+                a = f["attributes"]
+                codigo = a["CODIGOESTACION"]
+                if k in ("metro", "metro_ligero"):
+                    cod_demo[codigo]=a["DENOMINACION"]
+                    codigo=a["DENOMINACION"]
+                dt = meta.get(codigo, {"nombres":set(), "lineas":set()})
+                cod = get_num_linea(k, a["CODIGOGESTIONLINEA"], a["NUMEROLINEAUSUARIO"])
+                meta[codigo]=dt
+                dt["nombres"].add(a["DENOMINACION"])
+                dt["lineas"].add((k,cod))
+            for f in accesos["features"]:
+                xy = f["geometry"]
+                lat = xy["y"]
+                lon = xy["x"]
+                cod = f["attributes"]["CODIGOESTACION"]
+                if k in ("metro", "metro_ligero"):
+                    cod = cod_demo[cod]
+                if cod not in meta:
+                    #print(lat,lon, f["attributes"]["DENOMINACION"])
+                    continue
+                key=(lat, lon)
+                acceso=data.get(key, {"lat":lat, "lon":lon, "nombre": set(), "lineas":set()})
+                data[key]=acceso
+                m = meta[cod]
+                acceso["nombre"] = acceso["nombre"].union(m["nombres"])
+                acceso["lineas"] = acceso["lineas"].union(m["lineas"])
+        data = list(data.values())
+        for e in data:
+            e["nombre"] = parse_nombre(e["nombre"].pop())
+            e["lineas"] = list(sorted(e["lineas"], key=lambda x: sort_line(x[1])))
+            for k, v in list(e.items()):
+                if isinstance(v, set):
+                    e[k]=list(sorted(v))
         return data
 
 
     @property
     @lru_cache(maxsize=None)
-    def geojson_transporte(self, reload=True):
-        geojson = {'type':'FeatureCollection', 'features':[]}
-        item = {'type':'Feature',
-                   'properties':{},
-                   'geometry':{'type':'LineString',
-                               'coordinates':[]}}
-        for red in self.transporte.values():
-            for l in red.values():
-                for key, tp in l["trips"].items():
-                    pr = copy.deepcopy(l)
-                    del pr["trips"]
-                    pr["shape_id"]=key
-                    ln = copy.deepcopy(item)
-                    ln['properties']=pr
-                    for lon, lat in tp:
-                        ln['geometry']['coordinates'].append((lon, lat))
-                    geojson['features'].append(ln)
-        return geojson
-
-    def gis(self):
-        gis = GIS()
-
-        for k, v in self.indice.transporte.items():
-            print(k)
-            id = v.capas.split("=")[-1]
-            data_item = gis.content.get(id)
-            for lyr in data_item.layers:
-                if "TRAMO" in lyr.properties.name:
-                    print(lyr.url)
-                    for f in lyr.properties.fields:
-                        print(f['name'])
-
-    @lru_cache(maxsize=None)
-    @ParamJsonCache(file="fuentes/transporte/{0}.json")
-    def get_tramos(self, tipo):
-        r = requests.get(self.indice.transporte[tipo].tramos)
-        return r.json()
+    @JsonCache(file="data/estaciones.json", reload=True)
+    def estaciones(self):
+        data={}
+        for k in self.indice.transporte.redes.keys():
+            meta={}
+            itinerario = self.get_transporte_info(k, "itinerario")
+            for f in itinerario["features"]:
+                a = f["attributes"]
+                codigo = a["CODIGOESTACION"]
+                nombre=a["DENOMINACION"]
+                if k=="cercanias" and nombre=="ATOCHA":
+                    nombre="ATOCHA RENFE"
+                elif k=="metro_ligero" and nombre=="ESTACION DE ARAVACA":
+                    nombre="ARAVACA"
+                dt = meta.get(codigo, {"nombres":set(), "lineas":set()})
+                cod = get_num_linea(k, a["CODIGOGESTIONLINEA"], a["NUMEROLINEAUSUARIO"])
+                meta[codigo]=dt
+                dt["nombres"].add(nombre)
+                dt["lineas"].add((k,cod))
+            estaciones = self.get_transporte_info(k, "estaciones")
+            for f in estaciones["features"]:
+                a = f["attributes"]
+                xy = f["geometry"]
+                lat = xy["y"]
+                lon = xy["x"]
+                cod = a["CODIGOESTACION"]
+                if cod not in meta:
+                    #print(lat,lon, f["attributes"]["DENOMINACION"])
+                    continue
+                m = meta[cod]
+                key=(lat, lon)
+                estacion=data.get(key, {"lat":lat, "lon":lon, "nombre": set(), "lineas":set()})
+                data[key]=estacion
+                estacion["nombre"] = estacion["nombre"].union(m["nombres"])
+                estacion["lineas"] = estacion["lineas"].union(m["lineas"])
+        data = list(data.values())
+        for e in data:
+            if len(e["nombre"])>1:
+                print(e["nombre"])
+            e["nombre"] = parse_nombre(e["nombre"].pop())
+        nombres=set(e["nombre"] for e in data)
+        for n in sorted(nombres):
+            es=[e for e in data if e["nombre"]==n]
+            if len(es)>1:
+                max_dis=0
+                for e1 in es:
+                    for e2 in es:
+                        if e1!=e2:
+                            m = geopy.distance.vincenty((e1["lat"], e1["lon"]), (e2["lat"], e2["lon"])).m
+                            max_dis=max(max_dis, m)
+                if max_dis>1000:
+                    continue
+                coords=[(e["lat"], e["lon"], 0) for e in es]
+                pol = Polygon(coords) if len(coords)>2 else LineString(coords)
+                ct = pol.centroid
+                lat, lon = ct.x, ct.y
+                es[0]["lat"]=lat
+                es[0]["lon"]=lon
+                for e in es[1:]:
+                    es[0]["lineas"] = es[0]["lineas"].union(e["lineas"])
+                    data.remove(e)
+        for e in data:
+            e["lineas"] = list(sorted(e["lineas"], key=lambda x: (x[0],sort_line(x[1]))))
+        return data
 
     @property
     @lru_cache(maxsize=None)
     @JsonCache(file="data/transporte.json", reload=True)
     def transporte(self):
         datas={}
-        for k in self.indice.transporte.keys():
+        for k in self.indice.transporte.redes.keys():
             colors={}
             for o in read_csv("fuentes/transporte/"+k+"/routes.txt", separator=",", parse=to_num, encoding='utf-8-sig'):
                 color = "#"+o["route_color"]
                 line = o["route_short_name"]
                 colors[line] = color
             data={}
-            tramos = self.get_tramos(k)
+            tramos = self.get_transporte_info(k, "tramos")
             lineas = set((f["attributes"]["CODIGOGESTIONLINEA"], f["attributes"]["NUMEROLINEAUSUARIO"]) for f in tramos["features"])
+
             for l1, l2  in sorted(lineas):
-                cod = None
-                if k == "metro":
-                    cod = l2.split("-")[0]
-                elif k=="cercanias":
-                    cod = l1
-                elif k == "metro_ligero":
-                    cod = "ML"+l2.split("-")[0]
-                if cod[-1].lower() in ("a", "b"):
-                    cod=cod[:-1]
-                if cod.isdigit():
-                    cod=int(cod)
-                linea = data.get(cod, {"tipo":k, "linea":cod, "color": colors[cod], "trips":{}})
+                cod = get_num_linea(k, l1, l2)
+                linea = data.get(cod, {"tipo":k, "linea":cod, "color": colors[cod], "codigos":[], "trips":{}})
+                if l1 not in linea["codigos"]:
+                    linea["codigos"].append(l1)
                 data[cod]=linea
                 rutas={}
                 for f in tramos["features"]:
                     if f["attributes"]["CODIGOGESTIONLINEA"]==l1:
-                        id_tramo = f["attributes"]["IDTRAMO"]
+                        id_tramo = f["attributes"]["OBJECTID"]
                         sentido = f["attributes"]["SENTIDO"]
                         orden = f["attributes"]["NUMEROORDEN"]
                         paths=f["geometry"]["paths"]
@@ -517,21 +595,40 @@ class Dataset():
                     for _, paths in sorted(geo):
                         for pts in paths.pop():
                             lon, lat = pts
-                            if len(points)>5:
-                                ln, lt = points[-1]
-                                dis1 = geopy.distance.vincenty((lat, lon), (lt, ln)).m
-                                flag=False
-                                if dis1>1700:
-                                    for ln, lt in reversed(points):
-                                        dis2 = geopy.distance.vincenty((lat, lon), (lt, ln)).m
-                                        if dis2<500:
-                                            flag=True
-                                            break
-                                if flag:
-                                    print(cod, ruta)
-                                    print(dis1, dis2)
-                                    continue
-                            points.append(pts)
+                            points.append((lat, lon))
+                            #add_point(points, lat, lon, k, cod, ruta)
                     linea["trips"][ruta]=points
-            datas[k]=data
+            datas[k]=sorted(data.values(), key=sort_line)
+        datas={k:v for k,v in sorted(datas.items(), key=lambda x: (-len(x[1]), x[0]))}
         return datas
+
+    @property
+    @lru_cache(maxsize=None)
+    def geotransporte(self, reload=True):
+        geojson = {'type':'FeatureCollection', 'features':[]}
+        item = {'type':'Feature',
+                   'properties':{},
+                   'geometry':{'type':'LineString',
+                               'coordinates':[]}}
+        for red in self.transporte.values():
+            for l in red:
+                for key, tp in l["trips"].items():
+                    pr = copy.deepcopy(l)
+                    del pr["trips"]
+                    pr["shape_id"]=key
+                    ln = copy.deepcopy(item)
+                    ln['properties']=pr
+                    for lat, lon in tp:
+                        ln['geometry']['coordinates'].append((lon, lat))
+                    geojson['features'].append(ln)
+
+        item["geometry"]["type"]="Point"
+        for e in self.estaciones:
+            f = copy.deepcopy(item)
+            f['geometry']['coordinates'] = [e["lon"],e["lat"]]
+            p = f['properties']
+            for k, v in e.items():
+                if k not in ("lat", "lon"):
+                    p[k]=v
+            geojson['features'].append(f)
+        return geojson

@@ -1,0 +1,7496 @@
+[{
+  "lat": 40.420128288916565,
+  "lon": -3.7018126116286827,
+  "nombre": "Gran Via",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.41950646696066,
+  "lon": -3.701670139208187,
+  "nombre": "Gran Via",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.416646425531965,
+  "lon": -3.703532235982696,
+  "nombre": "Sol",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.417135693619784,
+  "lon": -3.703292415685935,
+  "nombre": "Sol",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.416706393620395,
+  "lon": -3.7045834584598545,
+  "nombre": "Sol",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.41239365194414,
+  "lon": -3.7050458517775016,
+  "nombre": "Tirso de Molina",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.41244689786502,
+  "lon": -3.703730245521236,
+  "nombre": "Tirso de Molina",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.412295344809166,
+  "lon": -3.6986458235697732,
+  "nombre": "Anton Martin",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.412416916799216,
+  "lon": -3.699580553993573,
+  "nombre": "Anton Martin",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.41152340561187,
+  "lon": -3.697333695228129,
+  "nombre": "Anton Martin",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.41141650766015,
+  "lon": -3.697424829228874,
+  "nombre": "Anton Martin",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.40899520013648,
+  "lon": -3.6924668005039574,
+  "nombre": "Atocha",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.408409559096256,
+  "lon": -3.690519666276235,
+  "nombre": "Atocha",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.40754149519132,
+  "lon": -3.689156516844515,
+  "nombre": "Atocha Renfe",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.407006987387,
+  "lon": -3.6881782209729876,
+  "nombre": "Atocha Renfe",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.40708014596558,
+  "lon": -3.6890149746472285,
+  "nombre": "Atocha Renfe",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.40648391908065,
+  "lon": -3.6894561170326763,
+  "nombre": "Atocha Renfe",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.40442751113014,
+  "lon": -3.6806679352314497,
+  "nombre": "Menendez Pelayo",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.404517190620446,
+  "lon": -3.680912814067059,
+  "nombre": "Menendez Pelayo",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.40488528381787,
+  "lon": -3.6817127756865324,
+  "nombre": "Menendez Pelayo",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.40155205386473,
+  "lon": -3.6747907605022876,
+  "nombre": "Pacifico",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.401468121621214,
+  "lon": -3.674380795027418,
+  "nombre": "Pacifico",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.40230381016944,
+  "lon": -3.6761534927078974,
+  "nombre": "Pacifico",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.3976646815673,
+  "lon": -3.6681513372736343,
+  "nombre": "Puente de Vallecas",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.39780057505339,
+  "lon": -3.6680818702762057,
+  "nombre": "Puente de Vallecas",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.398514853336124,
+  "lon": -3.6689744955301236,
+  "nombre": "Puente de Vallecas",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.396150811495616,
+  "lon": -3.665268216812985,
+  "nombre": "Nueva Numancia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.396262576478456,
+  "lon": -3.6651686088721296,
+  "nombre": "Nueva Numancia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.395355602900395,
+  "lon": -3.6634113075834596,
+  "nombre": "Nueva Numancia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.39523370864802,
+  "lon": -3.663519087152695,
+  "nombre": "Nueva Numancia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.39330170424906,
+  "lon": -3.659849968512959,
+  "nombre": "Portazgo",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.39341986775289,
+  "lon": -3.6597457179773545,
+  "nombre": "Portazgo",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.392360249472596,
+  "lon": -3.6577426040429137,
+  "nombre": "Portazgo",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.39224272715154,
+  "lon": -3.6578483225940985,
+  "nombre": "Portazgo",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.391717089806626,
+  "lon": -3.6540104132096833,
+  "nombre": "Buenos Aires",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.391400463837876,
+  "lon": -3.6539442132580997,
+  "nombre": "Buenos Aires",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.3901482332364,
+  "lon": -3.6452748144744973,
+  "nombre": "Alto del Arenal",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.38969366636904,
+  "lon": -3.6456215129849334,
+  "nombre": "Alto del Arenal",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.4241987823034,
+  "lon": -3.7074564826156577,
+  "nombre": "Noviciado",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.42549863721954,
+  "lon": -3.7074176477569867,
+  "nombre": "Noviciado",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.42988134671933,
+  "lon": -3.7060439800777596,
+  "nombre": "San Bernardo",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.429674044550396,
+  "lon": -3.7052970274160177,
+  "nombre": "San Bernardo",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.43338789341182,
+  "lon": -3.70471903537676,
+  "nombre": "Quevedo",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.433110507641054,
+  "lon": -3.7043395504808347,
+  "nombre": "Quevedo",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.438319857941345,
+  "lon": -3.704121388367147,
+  "nombre": "Canal",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43824818836801,
+  "lon": -3.7043414771115106,
+  "nombre": "Canal",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.438462207054236,
+  "lon": -3.7044086423075324,
+  "nombre": "Canal",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.39158551827613,
+  "lon": -3.6948397016256496,
+  "nombre": "Legazpi",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.39327739129149,
+  "lon": -3.694928348901384,
+  "nombre": "Legazpi",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.39860981754594,
+  "lon": -3.6943347457936646,
+  "nombre": "Delicias",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.39978353616777,
+  "lon": -3.6942020342951216,
+  "nombre": "Delicias",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.402928205444134,
+  "lon": -3.69396256920733,
+  "nombre": "Palos de la Frontera",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.40496816150028,
+  "lon": -3.7025654119359186,
+  "nombre": "Embajadores",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.40543766979445,
+  "lon": -3.702329449936047,
+  "nombre": "Embajadores",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.4045914727144,
+  "lon": -3.702513387268177,
+  "nombre": "Embajadores",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.4050796885313,
+  "lon": -3.7018070263417715,
+  "nombre": "Embajadores",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.41971053803878,
+  "lon": -3.7054884986736876,
+  "nombre": "Callao",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.42002357817244,
+  "lon": -3.7058124225487683,
+  "nombre": "Callao",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.42013809213958,
+  "lon": -3.7052449161919108,
+  "nombre": "Callao",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.42048849680168,
+  "lon": -3.7060737056574045,
+  "nombre": "Callao",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.42319278295746,
+  "lon": -3.7109685921705187,
+  "nombre": "Plaza de Espa\u00f1a",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.42330858427026,
+  "lon": -3.7105051929519375,
+  "nombre": "Plaza de Espa\u00f1a",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.424152056623754,
+  "lon": -3.711960660278736,
+  "nombre": "Plaza de Espa\u00f1a",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.423636076917326,
+  "lon": -3.7106662818412475,
+  "nombre": "Plaza de Espa\u00f1a",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.42366562982778,
+  "lon": -3.7109401996146723,
+  "nombre": "Plaza de Espa\u00f1a",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.42435246966471,
+  "lon": -3.7092501108443456,
+  "nombre": "Plaza de Espa\u00f1a",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.42435443135972,
+  "lon": -3.709243873050795,
+  "nombre": "Plaza de Espa\u00f1a",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.426967696358616,
+  "lon": -3.71375483377483,
+  "nombre": "Ventura Rodriguez",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.43027413493362,
+  "lon": -3.7157825899390615,
+  "nombre": "Arg\u00fcelles",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 4],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.43068272280207,
+  "lon": -3.715589607920114,
+  "nombre": "Arg\u00fcelles",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 4],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.43137649045669,
+  "lon": -3.71692411128145,
+  "nombre": "Arg\u00fcelles",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 4],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.43055531652877,
+  "lon": -3.71434641789009,
+  "nombre": "Arg\u00fcelles",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 4],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.434726544312575,
+  "lon": -3.7196131176125258,
+  "nombre": "Moncloa",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.43469115729081,
+  "lon": -3.7189662665319383,
+  "nombre": "Moncloa",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.38989473255421,
+  "lon": -3.645445741943319,
+  "nombre": "Alto del Arenal",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.38756821189994,
+  "lon": -3.6399777592914813,
+  "nombre": "Miguel Hernandez",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.386864928746384,
+  "lon": -3.6395901838226896,
+  "nombre": "Miguel Hernandez",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.38706304923823,
+  "lon": -3.639795815986976,
+  "nombre": "Miguel Hernandez",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.38736963950692,
+  "lon": -3.639710407394688,
+  "nombre": "Miguel Hernandez",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.38223544977789,
+  "lon": -3.6249774941433968,
+  "nombre": "Sierra de Guadalupe",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.382079808737124,
+  "lon": -3.6246656020372034,
+  "nombre": "Sierra de Guadalupe",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.38207658569593,
+  "lon": -3.6247328991625847,
+  "nombre": "Sierra de Guadalupe",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.38309874419202,
+  "lon": -3.625078974703981,
+  "nombre": "Sierra de Guadalupe",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.37932762241677,
+  "lon": -3.621053450196049,
+  "nombre": "Villa de Vallecas",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.37978054389481,
+  "lon": -3.621870800089431,
+  "nombre": "Villa de Vallecas",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.37949242953347,
+  "lon": -3.6210310456584214,
+  "nombre": "Villa de Vallecas",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.37200275263637,
+  "lon": -3.6186569244189415,
+  "nombre": "Congosto",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.37233216310436,
+  "lon": -3.6186669526114232,
+  "nombre": "Congosto",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.37212989094153,
+  "lon": -3.618906368111947,
+  "nombre": "Congosto",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.431040689805855,
+  "lon": -3.663285640709232,
+  "nombre": "Ventas",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.43120097492166,
+  "lon": -3.6633767060854243,
+  "nombre": "Ventas",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.42820154745547,
+  "lon": -3.6695062576536497,
+  "nombre": "Manuel Becerra",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.42762011646463,
+  "lon": -3.669265160276593,
+  "nombre": "Manuel Becerra",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.42498885976041,
+  "lon": -3.6755624173299752,
+  "nombre": "Goya",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.4250761383293,
+  "lon": -3.6758130754080685,
+  "nombre": "Goya",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42390484666871,
+  "lon": -3.6761411762122655,
+  "nombre": "Goya",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.424210682750136,
+  "lon": -3.6761046830939423,
+  "nombre": "Goya",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42478321024307,
+  "lon": -3.67757529277209,
+  "nombre": "Goya",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42445863450198,
+  "lon": -3.6751361553581905,
+  "nombre": "Goya",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.423076751081766,
+  "lon": -3.6797573921770814,
+  "nombre": "Principe de Vergara",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.420816454499516,
+  "lon": -3.6858158155326355,
+  "nombre": "Retiro",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.42095874924554,
+  "lon": -3.685809346333614,
+  "nombre": "Retiro",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.42005186143487,
+  "lon": -3.6861248340132606,
+  "nombre": "Retiro",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.42044419167811,
+  "lon": -3.687100104757863,
+  "nombre": "Retiro",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.419365137764046,
+  "lon": -3.6941918073381474,
+  "nombre": "Banco de Espa\u00f1a",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.41895412589401,
+  "lon": -3.694514400917984,
+  "nombre": "Banco de Espa\u00f1a",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.418736373949756,
+  "lon": -3.6956274719052677,
+  "nombre": "Banco de Espa\u00f1a",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.419073341651966,
+  "lon": -3.695840539706316,
+  "nombre": "Banco de Espa\u00f1a",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.417726575736594,
+  "lon": -3.699481243567332,
+  "nombre": "Sevilla",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.41789798301476,
+  "lon": -3.6996291866101227,
+  "nombre": "Sevilla",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.418071429558665,
+  "lon": -3.69911046225158,
+  "nombre": "Sevilla",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.42044424579056,
+  "lon": -3.708597537435598,
+  "nombre": "Santo Domingo",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.42129741317015,
+  "lon": -3.707784645417683,
+  "nombre": "Santo Domingo",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.43470186319017,
+  "lon": -3.71948719930045,
+  "nombre": "Moncloa",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.427438227607894,
+  "lon": -3.6959336806085226,
+  "nombre": "Alonso Martinez",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.42737903952439,
+  "lon": -3.6954382255706735,
+  "nombre": "Alonso Martinez",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.42803249694226,
+  "lon": -3.695600674080757,
+  "nombre": "Alonso Martinez",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.42783837669031,
+  "lon": -3.697067840389576,
+  "nombre": "Alonso Martinez",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.42572767680042,
+  "lon": -3.691666788802681,
+  "nombre": "Colon",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42539798525821,
+  "lon": -3.6916674891663654,
+  "nombre": "Colon",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42561078310706,
+  "lon": -3.692223675839883,
+  "nombre": "Colon",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42547500277314,
+  "lon": -3.687607682529628,
+  "nombre": "Serrano",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.425282035688554,
+  "lon": -3.6875985736388666,
+  "nombre": "Serrano",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42539592542311,
+  "lon": -3.6860774007412074,
+  "nombre": "Serrano",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.425205484725865,
+  "lon": -3.6860849259246105,
+  "nombre": "Serrano",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42525253327336,
+  "lon": -3.6833118650254635,
+  "nombre": "Velazquez",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.425065928273206,
+  "lon": -3.683450548761204,
+  "nombre": "Velazquez",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.425186777303665,
+  "lon": -3.6818191877216715,
+  "nombre": "Velazquez",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.424989400380774,
+  "lon": -3.681815172956996,
+  "nombre": "Velazquez",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42970745454603,
+  "lon": -3.6754206841791333,
+  "nombre": "Lista",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.428557691977424,
+  "lon": -3.675538514335276,
+  "nombre": "Lista",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.43463251797296,
+  "lon": -3.675085025310634,
+  "nombre": "Diego de Leon",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.434812929281414,
+  "lon": -3.675008002102087,
+  "nombre": "Diego de Leon",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.434996379025975,
+  "lon": -3.674516725261025,
+  "nombre": "Diego de Leon",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.43404803383062,
+  "lon": -3.674804849134874,
+  "nombre": "Diego de Leon",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.437813121216564,
+  "lon": -3.6771968330642455,
+  "nombre": "Avenida de America",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 6],
+    ["metro", 7],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.43766426880086,
+  "lon": -3.6766420340552743,
+  "nombre": "Avenida de America",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 6],
+    ["metro", 7],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.43767428668946,
+  "lon": -3.67703920369552,
+  "nombre": "Avenida de America",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 6],
+    ["metro", 7],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.43777882760113,
+  "lon": -3.6770522340371783,
+  "nombre": "Avenida de America",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 6],
+    ["metro", 7],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.43876339747216,
+  "lon": -3.6794032662008505,
+  "nombre": "Avenida de America",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 6],
+    ["metro", 7],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.44428295638022,
+  "lon": -3.674739375808782,
+  "nombre": "Prosperidad",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.448220395887326,
+  "lon": -3.667855388787326,
+  "nombre": "Alfonso XIII",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.45324674960834,
+  "lon": -3.6619695274228286,
+  "nombre": "Avenida de la Paz",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.452637313338826,
+  "lon": -3.663715482383465,
+  "nombre": "Avenida de la Paz",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.45347859254122,
+  "lon": -3.6623861338695844,
+  "nombre": "Avenida de la Paz",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.456037943402436,
+  "lon": -3.6561678046730504,
+  "nombre": "Arturo Soria",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.45565135435559,
+  "lon": -3.6560345481847683,
+  "nombre": "Arturo Soria",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.45560218521001,
+  "lon": -3.6567375089162866,
+  "nombre": "Arturo Soria",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.45687176862372,
+  "lon": -3.6545671675965044,
+  "nombre": "Arturo Soria",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.466824951070876,
+  "lon": -3.689177907724436,
+  "nombre": "Plaza de Castilla",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 9],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.46721735126817,
+  "lon": -3.689518669503495,
+  "nombre": "Plaza de Castilla",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 9],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.46628822686404,
+  "lon": -3.690357004774604,
+  "nombre": "Plaza de Castilla",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 9],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.46545571515594,
+  "lon": -3.688905626625829,
+  "nombre": "Plaza de Castilla",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 9],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.464089543019384,
+  "lon": -3.6957686633565583,
+  "nombre": "Valdeacederas",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.46478987072919,
+  "lon": -3.69398958603669,
+  "nombre": "Valdeacederas",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.45982051803345,
+  "lon": -3.6992874943915526,
+  "nombre": "Tetuan",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.461146338746225,
+  "lon": -3.6978834269135192,
+  "nombre": "Tetuan",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.45363077123583,
+  "lon": -3.703092799903139,
+  "nombre": "Estrecho",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.45366615127325,
+  "lon": -3.702829265282293,
+  "nombre": "Estrecho",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.45525053808349,
+  "lon": -3.702484527994049,
+  "nombre": "Estrecho",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.455329076720375,
+  "lon": -3.702744918159125,
+  "nombre": "Estrecho",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.450259750655626,
+  "lon": -3.70360855249922,
+  "nombre": "Alvarado",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.45017013599689,
+  "lon": -3.703368364451861,
+  "nombre": "Alvarado",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.446711965399935,
+  "lon": -3.7042843899437234,
+  "nombre": "Cuatro Caminos",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.44652385119657,
+  "lon": -3.7036194146773416,
+  "nombre": "Cuatro Caminos",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.44688968305218,
+  "lon": -3.7045648586647797,
+  "nombre": "Cuatro Caminos",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.447370664336255,
+  "lon": -3.7040627156679236,
+  "nombre": "Cuatro Caminos",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.4453377048252,
+  "lon": -3.7025751930730983,
+  "nombre": "Cuatro Caminos",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.441894121871286,
+  "lon": -3.7011298134607826,
+  "nombre": "Rios Rosas",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.44203253564444,
+  "lon": -3.70110317042031,
+  "nombre": "Rios Rosas",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.44051690448511,
+  "lon": -3.701265396870048,
+  "nombre": "Rios Rosas",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.43506017498157,
+  "lon": -3.6981950304734372,
+  "nombre": "Iglesia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.4347466143279,
+  "lon": -3.698530734768555,
+  "nombre": "Iglesia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.43388882659995,
+  "lon": -3.698400788071416,
+  "nombre": "Iglesia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.43472182402959,
+  "lon": -3.699243681194779,
+  "nombre": "Iglesia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.434895008301254,
+  "lon": -3.699317793555073,
+  "nombre": "Iglesia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.42926177980306,
+  "lon": -3.7019329155448757,
+  "nombre": "Bilbao",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42909997576894,
+  "lon": -3.701639090768064,
+  "nombre": "Bilbao",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.428759708974056,
+  "lon": -3.70205586373001,
+  "nombre": "Bilbao",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.43029022711027,
+  "lon": -3.7002340498701107,
+  "nombre": "Bilbao",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.43049638575188,
+  "lon": -3.7003014623745556,
+  "nombre": "Bilbao",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.43089077997419,
+  "lon": -3.6998334307258687,
+  "nombre": "Bilbao",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42628128037195,
+  "lon": -3.7008190381510566,
+  "nombre": "Tribunal",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.4262036011642,
+  "lon": -3.7010286655988516,
+  "nombre": "Tribunal",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.42569015273981,
+  "lon": -3.7011064355141956,
+  "nombre": "Tribunal",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.41990540771745,
+  "lon": -3.7012998586401413,
+  "nombre": "Gran Via",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.41992104021217,
+  "lon": -3.701833436480353,
+  "nombre": "Gran Via",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.42265634622789,
+  "lon": -3.6691003254669154,
+  "nombre": "O'donnell",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.42320832780612,
+  "lon": -3.6690542148415504,
+  "nombre": "O'donnell",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.42281697338078,
+  "lon": -3.668586203731292,
+  "nombre": "O'donnell",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.444953744969006,
+  "lon": -3.684876977841606,
+  "nombre": "Republica Argentina",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.443688703501536,
+  "lon": -3.6837015229416967,
+  "nombre": "Republica Argentina",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.44336313621815,
+  "lon": -3.683942113685041,
+  "nombre": "Republica Argentina",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.4432046589189,
+  "lon": -3.6834360586990975,
+  "nombre": "Republica Argentina",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.447074453245655,
+  "lon": -3.6953814331744255,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.446099720184286,
+  "lon": -3.695240924286263,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.446953926770036,
+  "lon": -3.69314226516514,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.446580573110026,
+  "lon": -3.692427326297246,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44658470492469,
+  "lon": -3.693010739235149,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.446556104012075,
+  "lon": -3.6930104454665558,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.445704518015205,
+  "lon": -3.714008293784629,
+  "nombre": "Guzman el Bueno",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.44598449449889,
+  "lon": -3.713208501584204,
+  "nombre": "Guzman el Bueno",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.44589034554632,
+  "lon": -3.713656566218322,
+  "nombre": "Guzman el Bueno",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.4470719874766,
+  "lon": -3.7102318105662317,
+  "nombre": "Guzman el Bueno",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.44717108506343,
+  "lon": -3.7097915635151097,
+  "nombre": "Guzman el Bueno",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.44618518163631,
+  "lon": -3.7200288178093066,
+  "nombre": "Metropolitano",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.44663588372053,
+  "lon": -3.717867436599648,
+  "nombre": "Metropolitano",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.44359481804984,
+  "lon": -3.7265813516987096,
+  "nombre": "Ciudad Universitaria",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.443557311262644,
+  "lon": -3.72697177193722,
+  "nombre": "Ciudad Universitaria",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.44363098809795,
+  "lon": -3.726874863695002,
+  "nombre": "Ciudad Universitaria",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.421409588432326,
+  "lon": -3.71859196071588,
+  "nombre": "Principe Pio",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 10],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.42092561177992,
+  "lon": -3.720453801097482,
+  "nombre": "Principe Pio",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 10],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.42153323218494,
+  "lon": -3.7187325090143335,
+  "nombre": "Principe Pio",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 10],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.42113456723173,
+  "lon": -3.718259059536787,
+  "nombre": "Principe Pio",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 10],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.41422756626983,
+  "lon": -3.727280474343814,
+  "nombre": "Puerta del Angel",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.4136771565644,
+  "lon": -3.727057979991339,
+  "nombre": "Puerta del Angel",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.40991714318252,
+  "lon": -3.7390506184227434,
+  "nombre": "Alto de Extremadura",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.4097012531514,
+  "lon": -3.73884383707249,
+  "nombre": "Alto de Extremadura",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.40476864168831,
+  "lon": -3.7456181503621604,
+  "nombre": "Lucero",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.404859253535264,
+  "lon": -3.7450527343195144,
+  "nombre": "Lucero",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.404767229870615,
+  "lon": -3.7455265146615413,
+  "nombre": "Lucero",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.43255667608751,
+  "lon": -3.607900178849352,
+  "nombre": "Las Musas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42748908483126,
+  "lon": -3.6161744746455975,
+  "nombre": "San Blas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.427889387960185,
+  "lon": -3.6156775874566387,
+  "nombre": "San Blas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42765073603447,
+  "lon": -3.622741265028087,
+  "nombre": "Simancas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.427863830525546,
+  "lon": -3.625813807497406,
+  "nombre": "Simancas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.428422834990805,
+  "lon": -3.6256383198971047,
+  "nombre": "Simancas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42917196868495,
+  "lon": -3.6320325985168056,
+  "nombre": "Garcia Noblejas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42821139980839,
+  "lon": -3.6341933051621838,
+  "nombre": "Garcia Noblejas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.430169071264864,
+  "lon": -3.6411507903884752,
+  "nombre": "Ascao",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.439206400607745,
+  "lon": -3.651732478975515,
+  "nombre": "Barrio de la Concepcion",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.438545570584346,
+  "lon": -3.6516410835899036,
+  "nombre": "Barrio de la Concepcion",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.439447025086956,
+  "lon": -3.663071543342323,
+  "nombre": "Parque de las Avenidas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43945130382131,
+  "lon": -3.662877947541757,
+  "nombre": "Parque de las Avenidas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43906343568983,
+  "lon": -3.672029930300606,
+  "nombre": "Cartagena",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.439447155838266,
+  "lon": -3.6721941869748687,
+  "nombre": "Cartagena",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.437923429192715,
+  "lon": -3.6913827318437615,
+  "nombre": "Gregorio Mara\u00f1on",
+  "lineas": [
+    ["metro", 7],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.43822544557054,
+  "lon": -3.6914093918271633,
+  "nombre": "Gregorio Mara\u00f1on",
+  "lineas": [
+    ["metro", 7],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.43796825209006,
+  "lon": -3.691668068843017,
+  "nombre": "Gregorio Mara\u00f1on",
+  "lineas": [
+    ["metro", 7],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.43828398873081,
+  "lon": -3.6981907853571494,
+  "nombre": "Alonso Cano",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.438306177068476,
+  "lon": -3.6988773516904208,
+  "nombre": "Alonso Cano",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43830250225544,
+  "lon": -3.699202592536317,
+  "nombre": "Alonso Cano",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43922408308591,
+  "lon": -3.7149723949441937,
+  "nombre": "Islas Filipinas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.4390037711677,
+  "lon": -3.714975213552109,
+  "nombre": "Islas Filipinas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43898035881568,
+  "lon": -3.714257565195246,
+  "nombre": "Islas Filipinas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.439148356691724,
+  "lon": -3.7130589165293086,
+  "nombre": "Islas Filipinas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43896568068942,
+  "lon": -3.7130183773601155,
+  "nombre": "Islas Filipinas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.45663348742357,
+  "lon": -3.7123969709783062,
+  "nombre": "Francos Rodriguez",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.456309767300894,
+  "lon": -3.71193264279911,
+  "nombre": "Francos Rodriguez",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.45717205846,
+  "lon": -3.7118733360190896,
+  "nombre": "Francos Rodriguez",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.45713761914065,
+  "lon": -3.7116162369846397,
+  "nombre": "Francos Rodriguez",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.45655029127728,
+  "lon": -3.711950120988484,
+  "nombre": "Francos Rodriguez",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.46512933174756,
+  "lon": -3.716754966556583,
+  "nombre": "Valdezarza",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.46499227015872,
+  "lon": -3.7165772842072204,
+  "nombre": "Valdezarza",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.464927234358996,
+  "lon": -3.7149809601739388,
+  "nombre": "Valdezarza",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.46446457140769,
+  "lon": -3.714488431041152,
+  "nombre": "Valdezarza",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.470115469366114,
+  "lon": -3.7177507556628844,
+  "nombre": "Antonio Machado",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.46995129247832,
+  "lon": -3.71808702093648,
+  "nombre": "Antonio Machado",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.47026274969292,
+  "lon": -3.7178807123513904,
+  "nombre": "Antonio Machado",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.47602288076581,
+  "lon": -3.7161074697625747,
+  "nombre": "Pe\u00f1agrande",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.47607454269883,
+  "lon": -3.7158433493006697,
+  "nombre": "Pe\u00f1agrande",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.47585264699395,
+  "lon": -3.7161292473845178,
+  "nombre": "Pe\u00f1agrande",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.48008733826973,
+  "lon": -3.7183455610652683,
+  "nombre": "Avda. de la Ilustracion",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.48003922390292,
+  "lon": -3.7183427133637963,
+  "nombre": "Avda. de la Ilustracion",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.48462457097259,
+  "lon": -3.7232882689127615,
+  "nombre": "Lacoma",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.485168172260344,
+  "lon": -3.7228851458310843,
+  "nombre": "Lacoma",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.48497819705172,
+  "lon": -3.722881156100017,
+  "nombre": "Lacoma",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.495191106453056,
+  "lon": -3.725593973793704,
+  "nombre": "Pitis",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.495420743446736,
+  "lon": -3.725716682677296,
+  "nombre": "Pitis",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.49499610311238,
+  "lon": -3.725558526841391,
+  "nombre": "Pitis",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.44591719165913,
+  "lon": -3.691699917636114,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44582821900299,
+  "lon": -3.6907321537387507,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.446615199967724,
+  "lon": -3.6915309797209983,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.4443731623511,
+  "lon": -3.6909379252594876,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44656636181692,
+  "lon": -3.692183566035839,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44476822336453,
+  "lon": -3.691759804168907,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.444787849781186,
+  "lon": -3.691666407506646,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.445599651334746,
+  "lon": -3.692236313800159,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44483022983454,
+  "lon": -3.691754199611531,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44652180700423,
+  "lon": -3.6915549676408355,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44457131009501,
+  "lon": -3.6909097200308603,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44656821256256,
+  "lon": -3.692102717863881,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44528778805476,
+  "lon": -3.69177136409317,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.445150514156204,
+  "lon": -3.6916077234446942,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.45670358970984,
+  "lon": -3.6771747481046955,
+  "nombre": "Colombia",
+  "lineas": [
+    ["metro", 8],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.45647958387751,
+  "lon": -3.6769198888800045,
+  "nombre": "Colombia",
+  "lineas": [
+    ["metro", 8],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.45810759884989,
+  "lon": -3.6770139089213223,
+  "nombre": "Colombia",
+  "lineas": [
+    ["metro", 8],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.457870860657245,
+  "lon": -3.6766866684829975,
+  "nombre": "Colombia",
+  "lineas": [
+    ["metro", 8],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.45720953287757,
+  "lon": -3.6772319233644075,
+  "nombre": "Colombia",
+  "lineas": [
+    ["metro", 8],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.46342719045141,
+  "lon": -3.616187668856619,
+  "nombre": "Campo de las Naciones",
+  "lineas": [
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.46405435532242,
+  "lon": -3.6168097563723554,
+  "nombre": "Campo de las Naciones",
+  "lineas": [
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.4640780862585,
+  "lon": -3.615804195192966,
+  "nombre": "Campo de las Naciones",
+  "lineas": [
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.46419213396514,
+  "lon": -3.6159394351827907,
+  "nombre": "Campo de las Naciones",
+  "lineas": [
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.468238308518266,
+  "lon": -3.570993561845379,
+  "nombre": "Aeropuerto t1 t2 t3",
+  "lineas": [
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.468231204943606,
+  "lon": -3.571136880905649,
+  "nombre": "Aeropuerto t1 t2 t3",
+  "lineas": [
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.46790876954194,
+  "lon": -3.571908066095432,
+  "nombre": "Aeropuerto t1 t2 t3",
+  "lineas": [
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.47575552066555,
+  "lon": -3.582545063589444,
+  "nombre": "Barajas",
+  "lineas": [
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.475798127304536,
+  "lon": -3.58252817353106,
+  "nombre": "Barajas",
+  "lineas": [
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.48377115999582,
+  "lon": -3.706899696723362,
+  "nombre": "Herrera Oria",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.48531073083138,
+  "lon": -3.708470228591159,
+  "nombre": "Herrera Oria",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.47796993971626,
+  "lon": -3.7039971468177733,
+  "nombre": "Barrio del Pilar",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.47807126933828,
+  "lon": -3.703542399733005,
+  "nombre": "Barrio del Pilar",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.47624635452316,
+  "lon": -3.703324334697746,
+  "nombre": "Barrio del Pilar",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.476322062853946,
+  "lon": -3.702938749076581,
+  "nombre": "Barrio del Pilar",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.469446046859645,
+  "lon": -3.6961030161502006,
+  "nombre": "Ventilla",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.46972366457385,
+  "lon": -3.695705116840629,
+  "nombre": "Ventilla",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.46746447008197,
+  "lon": -3.6792896901166707,
+  "nombre": "Duque de Pastrana",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.46261722535065,
+  "lon": -3.6759644659832755,
+  "nombre": "Pio XII",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.46501322209488,
+  "lon": -3.6755165894465476,
+  "nombre": "Pio XII",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.44943091950554,
+  "lon": -3.677672801673315,
+  "nombre": "Concha Espina",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.452333152763174,
+  "lon": -3.677247014580084,
+  "nombre": "Concha Espina",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.44625922534258,
+  "lon": -3.6780335444276355,
+  "nombre": "Cruz del Rayo",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.44628283286162,
+  "lon": -3.678341530180003,
+  "nombre": "Cruz del Rayo",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.44312835051468,
+  "lon": -3.6786914997135125,
+  "nombre": "Cruz del Rayo",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.4431080301954,
+  "lon": -3.678389837957173,
+  "nombre": "Cruz del Rayo",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.418356910140815,
+  "lon": -3.67802864360315,
+  "nombre": "Ibiza",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.411214570186644,
+  "lon": -3.66011217453795,
+  "nombre": "Estrella",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.41060761342625,
+  "lon": -3.660167060243577,
+  "nombre": "Estrella",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.411774837552265,
+  "lon": -3.6634227935555526,
+  "nombre": "Estrella",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40993421985973,
+  "lon": -3.650132567423589,
+  "nombre": "Vinateros",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40950879917888,
+  "lon": -3.649898569629479,
+  "nombre": "Vinateros",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.410281143211364,
+  "lon": -3.652695937134708,
+  "nombre": "Vinateros",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.41004926330302,
+  "lon": -3.652456668985727,
+  "nombre": "Vinateros",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40698032408977,
+  "lon": -3.6440946697818015,
+  "nombre": "Artilleros",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40668934528782,
+  "lon": -3.6441601783567306,
+  "nombre": "Artilleros",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.405378093794354,
+  "lon": -3.641490670200405,
+  "nombre": "Artilleros",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40504735236906,
+  "lon": -3.6416095456092643,
+  "nombre": "Artilleros",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.400835936219465,
+  "lon": -3.635498199086957,
+  "nombre": "Pavones",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.400655539704886,
+  "lon": -3.635500885261163,
+  "nombre": "Pavones",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.400982249724926,
+  "lon": -3.6211613655931876,
+  "nombre": "Valdebernardo",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.400804931372654,
+  "lon": -3.6213343388382726,
+  "nombre": "Valdebernardo",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.39900950291215,
+  "lon": -3.6219851909105456,
+  "nombre": "Valdebernardo",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40451764270876,
+  "lon": -3.6088909526415733,
+  "nombre": "Vicalvaro",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40481891373089,
+  "lon": -3.6091680578441894,
+  "nombre": "Vicalvaro",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40433228888941,
+  "lon": -3.6092353921555036,
+  "nombre": "Vicalvaro",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40389948876735,
+  "lon": -3.604826359555199,
+  "nombre": "San Cipriano",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.403993616797294,
+  "lon": -3.6014020285356247,
+  "nombre": "San Cipriano",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40384622236631,
+  "lon": -3.6036730768644443,
+  "nombre": "San Cipriano",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40139633198736,
+  "lon": -3.595878736113798,
+  "nombre": "Puerta de Arganda",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40142231329291,
+  "lon": -3.5958266439870172,
+  "nombre": "Puerta de Arganda",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.40132512202729,
+  "lon": -3.5958370022100854,
+  "nombre": "Puerta de Arganda",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.401194002222304,
+  "lon": -3.596332886003774,
+  "nombre": "Puerta de Arganda",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.367403649722355,
+  "lon": -3.548406580214919,
+  "nombre": "Rivas Urbanizaciones",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.32844914563892,
+  "lon": -3.5203509892451192,
+  "nombre": "Rivas Vaciamadrid",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.318844223883126,
+  "lon": -3.477821897010062,
+  "nombre": "La Poveda",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.30352634480681,
+  "lon": -3.447496224451313,
+  "nombre": "Arganda del Rey",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.49508604860518,
+  "lon": -3.693260172870118,
+  "nombre": "Fuencarral",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.48023023584737,
+  "lon": -3.685891317973601,
+  "nombre": "Bego\u00f1a",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.483445124642444,
+  "lon": -3.6871083283100687,
+  "nombre": "Bego\u00f1a",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.473143516824635,
+  "lon": -3.6830772878286595,
+  "nombre": "Chamartin",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.4584590860209,
+  "lon": -3.6903118776613786,
+  "nombre": "Cuzco",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.45846305244656,
+  "lon": -3.689646338074975,
+  "nombre": "Cuzco",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.45151060231638,
+  "lon": -3.6913075930494927,
+  "nombre": "Santiago Bernabeu",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.451446413795296,
+  "lon": -3.6903937130741538,
+  "nombre": "Santiago Bernabeu",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.453825385420096,
+  "lon": -3.690763969047426,
+  "nombre": "Santiago Bernabeu",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.4538078472854,
+  "lon": -3.6902606142624967,
+  "nombre": "Santiago Bernabeu",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.4165234241045,
+  "lon": -3.7347658205940872,
+  "nombre": "Lago",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.40765806803941,
+  "lon": -3.75287920140187,
+  "nombre": "Batan",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.40805499085438,
+  "lon": -3.7532277999513264,
+  "nombre": "Batan",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.39710572751466,
+  "lon": -3.774113875349605,
+  "nombre": "Colonia Jardin",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.3970861793877,
+  "lon": -3.7747902220654734,
+  "nombre": "Colonia Jardin",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.39718242829445,
+  "lon": -3.774211230164557,
+  "nombre": "Colonia Jardin",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.37756714827836,
+  "lon": -3.792499099448435,
+  "nombre": "Cuatro Vientos",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.37841296096403,
+  "lon": -3.7924932542454406,
+  "nombre": "Cuatro Vientos",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.37758459291716,
+  "lon": -3.792458160715623,
+  "nombre": "Cuatro Vientos",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.37822337620392,
+  "lon": -3.7927424104645335,
+  "nombre": "Cuatro Vientos",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.34962008809068,
+  "lon": -3.8073540869618197,
+  "nombre": "Joaquin Vilumbrales",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.34981642722906,
+  "lon": -3.8076808022684148,
+  "nombre": "Joaquin Vilumbrales",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.350006763740346,
+  "lon": -3.807450599524176,
+  "nombre": "Joaquin Vilumbrales",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.345428205715486,
+  "lon": -3.811613075726951,
+  "nombre": "Puerta del Sur",
+  "lineas": [
+    ["metro", 10],
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.34598758271164,
+  "lon": -3.811530756602115,
+  "nombre": "Puerta del Sur",
+  "lineas": [
+    ["metro", 10],
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.345565468681556,
+  "lon": -3.811524857972199,
+  "nombre": "Puerta del Sur",
+  "lineas": [
+    ["metro", 10],
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.34474230594521,
+  "lon": -3.812918575480936,
+  "nombre": "Puerta del Sur",
+  "lineas": [
+    ["metro", 10],
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.38052290897157,
+  "lon": -3.7282465681225805,
+  "nombre": "Abrantes",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.381042266536234,
+  "lon": -3.728091806373242,
+  "nombre": "Abrantes",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.38067089849468,
+  "lon": -3.7283531532805005,
+  "nombre": "Abrantes",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.37603480245532,
+  "lon": -3.7343710070062643,
+  "nombre": "Pan Bendito",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.45957419584858,
+  "lon": -3.6458583371862274,
+  "nombre": "Esperanza",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.46376973362288,
+  "lon": -3.635597564616443,
+  "nombre": "Canillas",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.46371818865255,
+  "lon": -3.6351601459938894,
+  "nombre": "Canillas",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.46460794395021,
+  "lon": -3.635749013963096,
+  "nombre": "Canillas",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.46511770019183,
+  "lon": -3.6354076207499046,
+  "nombre": "Canillas",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.46371267635479,
+  "lon": -3.635591453566292,
+  "nombre": "Canillas",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.468898916545655,
+  "lon": -3.6383279038500165,
+  "nombre": "Mar de Cristal",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.46943929505348,
+  "lon": -3.6388840911625513,
+  "nombre": "Mar de Cristal",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.47016747467793,
+  "lon": -3.6385539606252926,
+  "nombre": "Mar de Cristal",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.469389568030586,
+  "lon": -3.6388841188939707,
+  "nombre": "Mar de Cristal",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.474509056931744,
+  "lon": -3.639573462800614,
+  "nombre": "San Lorenzo",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.474541585264696,
+  "lon": -3.6393942540674864,
+  "nombre": "San Lorenzo",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.47430028633661,
+  "lon": -3.6394242005380684,
+  "nombre": "San Lorenzo",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.47713113519241,
+  "lon": -3.645519516332295,
+  "nombre": "Parque de Santa Maria",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.477286028240854,
+  "lon": -3.6451655039676876,
+  "nombre": "Parque de Santa Maria",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.47696824790744,
+  "lon": -3.644974681139469,
+  "nombre": "Parque de Santa Maria",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.449490513943125,
+  "lon": -3.6080755294740805,
+  "nombre": "Canillejas",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.44909277866152,
+  "lon": -3.60813763080294,
+  "nombre": "Canillejas",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.4437283226475,
+  "lon": -3.617120925356682,
+  "nombre": "Torre Arias",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.443568816133634,
+  "lon": -3.6169949995871997,
+  "nombre": "Torre Arias",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.440752409704594,
+  "lon": -3.6271983179361023,
+  "nombre": "Suanzes",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.441010707406576,
+  "lon": -3.6268359169745765,
+  "nombre": "Suanzes",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.43757690434167,
+  "lon": -3.638059062233795,
+  "nombre": "Ciudad Lineal",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.43784286679937,
+  "lon": -3.638461834304404,
+  "nombre": "Ciudad Lineal",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.43818981396639,
+  "lon": -3.6380249237951694,
+  "nombre": "Ciudad Lineal",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.43832932522781,
+  "lon": -3.6360429275912742,
+  "nombre": "Ciudad Lineal",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.43525271976436,
+  "lon": -3.6438653512378285,
+  "nombre": "Pueblo Nuevo",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43510432580821,
+  "lon": -3.6438904023177,
+  "nombre": "Pueblo Nuevo",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43608204787037,
+  "lon": -3.6421491114976265,
+  "nombre": "Pueblo Nuevo",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43607396574385,
+  "lon": -3.6418087732227225,
+  "nombre": "Pueblo Nuevo",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43592780950771,
+  "lon": -3.642112968742778,
+  "nombre": "Pueblo Nuevo",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43289914904649,
+  "lon": -3.6491561442463443,
+  "nombre": "Quintana",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.433069965674484,
+  "lon": -3.6491131553586107,
+  "nombre": "Quintana",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.43357573426,
+  "lon": -3.646958164061087,
+  "nombre": "Quintana",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.433681578670246,
+  "lon": -3.6475400261479964,
+  "nombre": "Quintana",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.432008172842686,
+  "lon": -3.6555966617509164,
+  "nombre": "El Carmen",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.43243769042136,
+  "lon": -3.6553770372509735,
+  "nombre": "El Carmen",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.431757128708014,
+  "lon": -3.657386408395385,
+  "nombre": "El Carmen",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.431900560955484,
+  "lon": -3.657439264496439,
+  "nombre": "El Carmen",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.432406069254654,
+  "lon": -3.6749039682680964,
+  "nombre": "Diego de Leon",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.43234812340682,
+  "lon": -3.673633461128951,
+  "nombre": "Diego de Leon",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.432614233753604,
+  "lon": -3.67236835547999,
+  "nombre": "Diego de Leon",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.43319038059867,
+  "lon": -3.6728422286478457,
+  "nombre": "Diego de Leon",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.433201924931936,
+  "lon": -3.6733238927050493,
+  "nombre": "Diego de Leon",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.43280798673223,
+  "lon": -3.683128643108022,
+  "nombre": "Nu\u00f1ez de Balboa",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.43277130103797,
+  "lon": -3.682303646371642,
+  "nombre": "Nu\u00f1ez de Balboa",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.43049090886377,
+  "lon": -3.679336071265032,
+  "nombre": "Nu\u00f1ez de Balboa",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.429737830706586,
+  "lon": -3.6793492352605623,
+  "nombre": "Nu\u00f1ez de Balboa",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.43276040810152,
+  "lon": -3.6909742093717486,
+  "nombre": "Ruben Dario",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.433178595924616,
+  "lon": -3.6910045290483073,
+  "nombre": "Ruben Dario",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.43330428756893,
+  "lon": -3.6887253870967815,
+  "nombre": "Ruben Dario",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.42263081063355,
+  "lon": -3.697671965435253,
+  "nombre": "Chueca",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.411077789005425,
+  "lon": -3.7086807881579036,
+  "nombre": "La Latina",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.411130991880846,
+  "lon": -3.708129259439785,
+  "nombre": "La Latina",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.41165939418259,
+  "lon": -3.708211491451689,
+  "nombre": "La Latina",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.406807646764534,
+  "lon": -3.7108683255257433,
+  "nombre": "Puerta de Toledo",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.40376074922146,
+  "lon": -3.70656357104429,
+  "nombre": "Acacias",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.40157400480408,
+  "lon": -3.712847468525457,
+  "nombre": "Piramides",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.40142666723572,
+  "lon": -3.712690028362371,
+  "nombre": "Piramides",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.402488367250506,
+  "lon": -3.7113780445586726,
+  "nombre": "Piramides",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.40258131089875,
+  "lon": -3.7113609349865,
+  "nombre": "Piramides",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.402541697450864,
+  "lon": -3.7113786047924853,
+  "nombre": "Piramides",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.39729753268252,
+  "lon": -3.7160681079265765,
+  "nombre": "Marques de Vadillo",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.39766353476726,
+  "lon": -3.7163775195743374,
+  "nombre": "Marques de Vadillo",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.39264777778301,
+  "lon": -3.725329779527995,
+  "nombre": "Urgel",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.39365425059308,
+  "lon": -3.7230995055622564,
+  "nombre": "Urgel",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.393301079651394,
+  "lon": -3.7236296113020657,
+  "nombre": "Urgel",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.393531212823866,
+  "lon": -3.723699711062762,
+  "nombre": "Urgel",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.38844131070173,
+  "lon": -3.731271310978464,
+  "nombre": "Oporto",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.388652748455996,
+  "lon": -3.7317058021864833,
+  "nombre": "Oporto",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.38987087562454,
+  "lon": -3.7298480295103484,
+  "nombre": "Oporto",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.38974716969005,
+  "lon": -3.7297332004710464,
+  "nombre": "Oporto",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.3886938536165,
+  "lon": -3.7399309741709135,
+  "nombre": "Vista Alegre",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.389288090529,
+  "lon": -3.737537580695493,
+  "nombre": "Vista Alegre",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.38789853727999,
+  "lon": -3.744851130079347,
+  "nombre": "Carabanchel",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.384760419776796,
+  "lon": -3.750580350362616,
+  "nombre": "Eugenia de Montijo",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.38581886578398,
+  "lon": -3.7610531409523924,
+  "nombre": "Aluche",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.385971637118075,
+  "lon": -3.760875305921984,
+  "nombre": "Aluche",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.38575886330767,
+  "lon": -3.7612016856968213,
+  "nombre": "Aluche",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.38594807256648,
+  "lon": -3.7608518204725847,
+  "nombre": "Aluche",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.385380905593564,
+  "lon": -3.7606666747669197,
+  "nombre": "Aluche",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.385299507795324,
+  "lon": -3.760430106560211,
+  "nombre": "Aluche",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.38545970188281,
+  "lon": -3.760428162809203,
+  "nombre": "Aluche",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.39085178068091,
+  "lon": -3.765911510739088,
+  "nombre": "Empalme",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.39445102378368,
+  "lon": -3.7682656773671193,
+  "nombre": "Campamento",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.39469494218747,
+  "lon": -3.7681025380270485,
+  "nombre": "Campamento",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.403179830341465,
+  "lon": -3.760902606692923,
+  "nombre": "Casa de Campo",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.40330522218647,
+  "lon": -3.7610343738490197,
+  "nombre": "Casa de Campo",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.399203005551705,
+  "lon": -3.7446100069323327,
+  "nombre": "Laguna",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.39916560631878,
+  "lon": -3.7445415842683327,
+  "nombre": "Laguna",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.39903331117233,
+  "lon": -3.7442192785635076,
+  "nombre": "Laguna",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.39277422147302,
+  "lon": -3.741341696766208,
+  "nombre": "Carpetana",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.38635232059456,
+  "lon": -3.7234821486207896,
+  "nombre": "Opa\u00f1el",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.38583659265931,
+  "lon": -3.7233734651523096,
+  "nombre": "Opa\u00f1el",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.38529229589497,
+  "lon": -3.718528857478925,
+  "nombre": "Plaza Eliptica",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.38560695075466,
+  "lon": -3.7177632202374435,
+  "nombre": "Plaza Eliptica",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.38536620131732,
+  "lon": -3.718152325714279,
+  "nombre": "Plaza Eliptica",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.38529104205278,
+  "lon": -3.7161774818346203,
+  "nombre": "Plaza Eliptica",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.385117177963906,
+  "lon": -3.71672268532211,
+  "nombre": "Plaza Eliptica",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.38703379692522,
+  "lon": -3.7066349426386886,
+  "nombre": "Usera",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.388217564891875,
+  "lon": -3.703743736655004,
+  "nombre": "Usera",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.39611373735456,
+  "lon": -3.680600028462084,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.395937754197384,
+  "lon": -3.680866564158642,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.39605754752406,
+  "lon": -3.678245460315422,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.39629385116517,
+  "lon": -3.6788228801804026,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.39542276942057,
+  "lon": -3.678598310099116,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.40706650001873,
+  "lon": -3.6699931955792744,
+  "nombre": "Conde de Casal",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.407022170000914,
+  "lon": -3.6706775474856026,
+  "nombre": "Conde de Casal",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.40867981553015,
+  "lon": -3.6697999486409056,
+  "nombre": "Conde de Casal",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.40869800855482,
+  "lon": -3.6702217104402224,
+  "nombre": "Conde de Casal",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.4154824305738,
+  "lon": -3.6696641854526524,
+  "nombre": "Sainz de Baranda",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.41539596786721,
+  "lon": -3.669281617224906,
+  "nombre": "Sainz de Baranda",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.4146935367535,
+  "lon": -3.6692922782140798,
+  "nombre": "Sainz de Baranda",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.414789166524514,
+  "lon": -3.6697251762060534,
+  "nombre": "Sainz de Baranda",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.42149703327456,
+  "lon": -3.6691666771444225,
+  "nombre": "O'donnell",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.31165126456837,
+  "lon": -3.7224029940172034,
+  "nombre": "Juan de la Cierva",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.31178970599284,
+  "lon": -3.7226381527980523,
+  "nombre": "Juan de la Cierva",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.31208504152194,
+  "lon": -3.7223753911954622,
+  "nombre": "Juan de la Cierva",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.318696418876385,
+  "lon": -3.710010669895714,
+  "nombre": "El Casar",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.31841052036162,
+  "lon": -3.710049114169174,
+  "nombre": "El Casar",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.32432682245499,
+  "lon": -3.7183767223060493,
+  "nombre": "Los Espartales",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.32416255307051,
+  "lon": -3.718013166791555,
+  "nombre": "Los Espartales",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.329459511993505,
+  "lon": -3.7299739156685203,
+  "nombre": "El Bercial",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.42363741910409,
+  "lon": -3.7114379651378386,
+  "nombre": "Noviciado",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.33643844490009,
+  "lon": -3.7399935576615717,
+  "nombre": "El Carrascal",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.336858466883484,
+  "lon": -3.740255170401304,
+  "nombre": "El Carrascal",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.336556979103875,
+  "lon": -3.7404865696774925,
+  "nombre": "El Carrascal",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.33446420079594,
+  "lon": -3.7523545373603553,
+  "nombre": "Julian Besteiro",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.33478785728515,
+  "lon": -3.7523532959327417,
+  "nombre": "Julian Besteiro",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.334649312813966,
+  "lon": -3.7524689290165827,
+  "nombre": "Julian Besteiro",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.32673612024108,
+  "lon": -3.759330409440327,
+  "nombre": "Casa del Reloj",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.32686154864177,
+  "lon": -3.7595450047048207,
+  "nombre": "Casa del Reloj",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.32649922169148,
+  "lon": -3.7595588695047204,
+  "nombre": "Casa del Reloj",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.32213206734201,
+  "lon": -3.7685193332151385,
+  "nombre": "Hospital Severo Ochoa",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.32142136555761,
+  "lon": -3.7686731122287123,
+  "nombre": "Hospital Severo Ochoa",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.32183127951121,
+  "lon": -3.768652708373851,
+  "nombre": "Hospital Severo Ochoa",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.329059429793624,
+  "lon": -3.7716946883567517,
+  "nombre": "Leganes Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.3286043360569,
+  "lon": -3.7711293132141495,
+  "nombre": "Leganes Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.3358968386438,
+  "lon": -3.7760410738523773,
+  "nombre": "San Nicasio",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.336462002264824,
+  "lon": -3.7757272909065085,
+  "nombre": "San Nicasio",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.336331627349274,
+  "lon": -3.776095815864967,
+  "nombre": "San Nicasio",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.40745918493419,
+  "lon": -3.688993235208226,
+  "nombre": "Atocha Renfe",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.39474177593623,
+  "lon": -3.677738023852351,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.39570736954558,
+  "lon": -3.6797358621715137,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.39417625275671,
+  "lon": -3.6774911940089896,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.43780615518343,
+  "lon": -3.677002149158084,
+  "nombre": "Avenida de America",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 6],
+    ["metro", 7],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.43787197340319,
+  "lon": -3.677238838252139,
+  "nombre": "Avenida de America",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 6],
+    ["metro", 7],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.43782853647005,
+  "lon": -3.6769022710619166,
+  "nombre": "Avenida de America",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 6],
+    ["metro", 7],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.43779134237576,
+  "lon": -3.6769811040187044,
+  "nombre": "Avenida de America",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 6],
+    ["metro", 7],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.43797605840474,
+  "lon": -3.6767123549788,
+  "nombre": "Avenida de America",
+  "lineas": [
+    ["metro", 4],
+    ["metro", 6],
+    ["metro", 7],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.473561985340716,
+  "lon": -3.6828703239495137,
+  "nombre": "Chamartin",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.318748208506356,
+  "lon": -3.711032233973727,
+  "nombre": "El Casar",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.34905965055532,
+  "lon": -3.832800058683403,
+  "nombre": "Alcorcon Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.34990088792957,
+  "lon": -3.832500740088918,
+  "nombre": "Alcorcon Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.35054631950259,
+  "lon": -3.8318469239154433,
+  "nombre": "Alcorcon Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.35020289818672,
+  "lon": -3.8322689136551866,
+  "nombre": "Alcorcon Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.328832409740905,
+  "lon": -3.863925252973805,
+  "nombre": "Mostoles Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.32896678159668,
+  "lon": -3.8638492691809425,
+  "nombre": "Mostoles Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.32891478873925,
+  "lon": -3.863675945341292,
+  "nombre": "Mostoles Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.28299582540278,
+  "lon": -3.7990589387408242,
+  "nombre": "Fuenlabrada Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.28313258410535,
+  "lon": -3.7996689955011616,
+  "nombre": "Fuenlabrada Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.282665330784106,
+  "lon": -3.79985267748875,
+  "nombre": "Fuenlabrada Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.328788952249745,
+  "lon": -3.771737658157241,
+  "nombre": "Leganes Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.32869573311628,
+  "lon": -3.7710356439299666,
+  "nombre": "Leganes Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.328566476226065,
+  "lon": -3.7711754930204457,
+  "nombre": "Leganes Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.44658894977161,
+  "lon": -3.692620849885639,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44658492924009,
+  "lon": -3.6924960096983512,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44625781830828,
+  "lon": -3.693089103421962,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44623937569527,
+  "lon": -3.693678062001193,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.446301308246866,
+  "lon": -3.6936849379470766,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44618675122644,
+  "lon": -3.6937087205090875,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44516727176053,
+  "lon": -3.6919947646684386,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.44505282529115,
+  "lon": -3.6919998323943033,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.420553662125656,
+  "lon": -3.7196837088818473,
+  "nombre": "Principe Pio",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 10],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.421335896299496,
+  "lon": -3.7182753414602954,
+  "nombre": "Principe Pio",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 10],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.42083872725504,
+  "lon": -3.7189195137041455,
+  "nombre": "Principe Pio",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 10],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.42080554447118,
+  "lon": -3.7201167841198024,
+  "nombre": "Principe Pio",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 10],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.42137190041141,
+  "lon": -3.7210360103126843,
+  "nombre": "Principe Pio",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 10],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.424842233578424,
+  "lon": -3.7074190426136306,
+  "nombre": "Plaza de Espa\u00f1a",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.40405769137097,
+  "lon": -3.706035013299553,
+  "nombre": "Embajadores",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.40506240876067,
+  "lon": -3.7022979114249503,
+  "nombre": "Acacias",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.39303877070925,
+  "lon": -3.6885027325635398,
+  "nombre": "Arganzuela-planetario",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.47683132523056,
+  "lon": -3.676417593452556,
+  "nombre": "Bambu",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.47705073987548,
+  "lon": -3.6768383770038935,
+  "nombre": "Bambu",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.480203664284645,
+  "lon": -3.6668161888017523,
+  "nombre": "Pinar de Chamartin",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.48015320738584,
+  "lon": -3.6669302439304534,
+  "nombre": "Pinar de Chamartin",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.47487981521795,
+  "lon": -3.652336343068445,
+  "nombre": "Hortaleza",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.47420496968723,
+  "lon": -3.6520392030066113,
+  "nombre": "Hortaleza",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.47684260639704,
+  "lon": -3.662853647211412,
+  "nombre": "Manoteras",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.476838689840136,
+  "lon": -3.6628464841970527,
+  "nombre": "Manoteras",
+  "lineas": [
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.38588095604828,
+  "lon": -3.7611810192742388,
+  "nombre": "Aluche",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.38382061592546,
+  "lon": -3.7839120969752083,
+  "nombre": "Aviacion Espa\u00f1ola",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.38379519381711,
+  "lon": -3.783955599953649,
+  "nombre": "Aviacion Espa\u00f1ola",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.46815020772083,
+  "lon": -3.6483070373451847,
+  "nombre": "Pinar del Rey",
+  "lineas": [
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.46800774542065,
+  "lon": -3.6481548599287184,
+  "nombre": "Pinar del Rey",
+  "lineas": [
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.49217751950335,
+  "lon": -3.5931594269326332,
+  "nombre": "Aeropuerto t4",
+  "lineas": [
+    ["metro", 8]
+  ]
+},{
+  "lat": 40.41779284134936,
+  "lon": -3.5270947587374355,
+  "nombre": "Henares",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.41772998036825,
+  "lon": -3.5272479012263513,
+  "nombre": "Henares",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42285567647856,
+  "lon": -3.525432521806836,
+  "nombre": "Jarama",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.422992271520314,
+  "lon": -3.5254447574089194,
+  "nombre": "Jarama",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42442164067539,
+  "lon": -3.5353536394257623,
+  "nombre": "San Fernando",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42446618197497,
+  "lon": -3.5358710172226324,
+  "nombre": "San Fernando",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.425115624029786,
+  "lon": -3.5478222193218993,
+  "nombre": "La Rambla",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42518959854741,
+  "lon": -3.5479820689654358,
+  "nombre": "La Rambla",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42384951569898,
+  "lon": -3.5619655994162267,
+  "nombre": "Coslada Central",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42381644502641,
+  "lon": -3.561165302187493,
+  "nombre": "Coslada Central",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42374209229569,
+  "lon": -3.560815683158382,
+  "nombre": "Coslada Central",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.423725652916914,
+  "lon": -3.5608280492200386,
+  "nombre": "Coslada Central",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42355074681957,
+  "lon": -3.561996394633449,
+  "nombre": "Coslada Central",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.42270388238124,
+  "lon": -3.568823272143238,
+  "nombre": "Barrio del Puerto",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.44623785125258,
+  "lon": -3.7037497041709524,
+  "nombre": "Cuatro Caminos",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.42718218633904,
+  "lon": -3.713576421795896,
+  "nombre": "Ventura Rodriguez",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.560195464399996,
+  "lon": -3.611433041648202,
+  "nombre": "Hospital Infanta Sofia",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.55976076407327,
+  "lon": -3.610661460915221,
+  "nombre": "Hospital Infanta Sofia",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.559700135458506,
+  "lon": -3.610767795861762,
+  "nombre": "Hospital Infanta Sofia",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.55028493513413,
+  "lon": -3.6233620142168426,
+  "nombre": "Reyes Catolicos",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.55038838585223,
+  "lon": -3.6232729795272984,
+  "nombre": "Reyes Catolicos",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.55438813697699,
+  "lon": -3.635066628612191,
+  "nombre": "Baunatal",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.55434981721347,
+  "lon": -3.6354037705648854,
+  "nombre": "Baunatal",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.550435929830385,
+  "lon": -3.647084326787991,
+  "nombre": "Manuel de Falla",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.55062617955409,
+  "lon": -3.64682179362295,
+  "nombre": "Manuel de Falla",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.541118974893585,
+  "lon": -3.6373942829030335,
+  "nombre": "Marques de la Valdavia",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.541066655962645,
+  "lon": -3.6375456309457084,
+  "nombre": "Marques de la Valdavia",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.540735001814525,
+  "lon": -3.6401971930911543,
+  "nombre": "Marques de la Valdavia",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.531869078548205,
+  "lon": -3.635502473318401,
+  "nombre": "La Moraleja",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.53199363477645,
+  "lon": -3.6354783426012616,
+  "nombre": "La Moraleja",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.38420347555715,
+  "lon": -3.697880569630033,
+  "nombre": "Almendrales",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.3838547083321,
+  "lon": -3.6983000574084164,
+  "nombre": "Almendrales",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.38389117517537,
+  "lon": -3.698370946998379,
+  "nombre": "Almendrales",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.37549332890985,
+  "lon": -3.695879190151728,
+  "nombre": "Hospital 12 de Octubre",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.37520702218771,
+  "lon": -3.6957547569433737,
+  "nombre": "Hospital 12 de Octubre",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.36991566716491,
+  "lon": -3.694155754933951,
+  "nombre": "San Fermin-orcasur",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.36987927229231,
+  "lon": -3.694621757956753,
+  "nombre": "San Fermin-orcasur",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.369612248664374,
+  "lon": -3.6940999884458234,
+  "nombre": "San Fermin-orcasur",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.35954498868484,
+  "lon": -3.6929461098934606,
+  "nombre": "Ciudad de los Angeles",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.36004866531857,
+  "lon": -3.6936729827918358,
+  "nombre": "Ciudad de los Angeles",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.35973094957878,
+  "lon": -3.6936576030879316,
+  "nombre": "Ciudad de los Angeles",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.350566897906525,
+  "lon": -3.6933509273254774,
+  "nombre": "Villaverde Bajo Cruce",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.35109044454147,
+  "lon": -3.6925594103903494,
+  "nombre": "Villaverde Bajo Cruce",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.35080821193033,
+  "lon": -3.6925624780543633,
+  "nombre": "Villaverde Bajo Cruce",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.34112367152235,
+  "lon": -3.6924909567472697,
+  "nombre": "San Cristobal",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.34166635580632,
+  "lon": -3.6931230765311316,
+  "nombre": "San Cristobal",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.3414501243152,
+  "lon": -3.6924829154242844,
+  "nombre": "San Cristobal",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.34099583342264,
+  "lon": -3.712712879305138,
+  "nombre": "Villaverde Alto",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.34161263302247,
+  "lon": -3.7115083686114736,
+  "nombre": "Villaverde Alto",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.341042028847355,
+  "lon": -3.712778950034324,
+  "nombre": "Villaverde Alto",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.52762502820456,
+  "lon": -3.6586513760028985,
+  "nombre": "La Granja",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.527717861519335,
+  "lon": -3.6585482610618167,
+  "nombre": "La Granja",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.51571079254014,
+  "lon": -3.6628408603460527,
+  "nombre": "Ronda de la Comunicacion",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.515855900467024,
+  "lon": -3.6628922606039804,
+  "nombre": "Ronda de la Comunicacion",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.50843224945888,
+  "lon": -3.669359108165909,
+  "nombre": "Las Tablas",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.37750668215282,
+  "lon": -3.7921393366190985,
+  "nombre": "Cuatro Vientos",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.33474902640009,
+  "lon": -3.8721533370446672,
+  "nombre": "Universidad Rey Juan Carlos",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.45330576518473,
+  "lon": -3.5943840480728717,
+  "nombre": "El Capricho",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.45361041044742,
+  "lon": -3.593544231769277,
+  "nombre": "El Capricho",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.457394718207716,
+  "lon": -3.5881004717990215,
+  "nombre": "Alameda de Osuna",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.45753433413157,
+  "lon": -3.587749475351657,
+  "nombre": "Alameda de Osuna",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.45294061420433,
+  "lon": -3.594936251095071,
+  "nombre": "El Capricho",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.50844162024398,
+  "lon": -3.669387307843054,
+  "nombre": "Las Tablas",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.505292265041646,
+  "lon": -3.6958198103551028,
+  "nombre": "Montecarmelo",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.505275429368815,
+  "lon": -3.695844617422424,
+  "nombre": "Montecarmelo",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.501080667858474,
+  "lon": -3.6947409949330137,
+  "nombre": "Tres Olivos",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.422727074860596,
+  "lon": -3.568954461023301,
+  "nombre": "Barrio del Puerto",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43383500865226,
+  "lon": -3.6010161861096606,
+  "nombre": "Estadio Olimpico",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.432983933772114,
+  "lon": -3.601654981246237,
+  "nombre": "Estadio Olimpico",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43290721111916,
+  "lon": -3.6015240600454708,
+  "nombre": "Estadio Olimpico",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.37028917092028,
+  "lon": -3.6134609372264523,
+  "nombre": "La Gavia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.37024674361418,
+  "lon": -3.613370173134623,
+  "nombre": "La Gavia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.36317123978083,
+  "lon": -3.5995751468259756,
+  "nombre": "Las Suertes",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.363249417200606,
+  "lon": -3.5994843364066105,
+  "nombre": "Las Suertes",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.36003888245417,
+  "lon": -3.5931871883540705,
+  "nombre": "Valdecarros",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.36009241946153,
+  "lon": -3.5931214784008247,
+  "nombre": "Valdecarros",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.381963241850535,
+  "lon": -3.6245336086399003,
+  "nombre": "Sierra de Guadalupe",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.43478395877935,
+  "lon": -3.7192210793390337,
+  "nombre": "Moncloa",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.43509516917127,
+  "lon": -3.719235920298332,
+  "nombre": "Moncloa",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.42647447971438,
+  "lon": -3.650714496617453,
+  "nombre": "La Elipa",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.426507147709316,
+  "lon": -3.650415378969479,
+  "nombre": "La Elipa",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.37384989620733,
+  "lon": -3.740054012009516,
+  "nombre": "San Francisco",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.37345753263304,
+  "lon": -3.7399063630600415,
+  "nombre": "San Francisco",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.37344744065583,
+  "lon": -3.7399935155834036,
+  "nombre": "San Francisco",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.37198881867393,
+  "lon": -3.751804799479495,
+  "nombre": "Carabanchel Alto",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.37180224179105,
+  "lon": -3.7517057557321363,
+  "nombre": "Carabanchel Alto",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.364228054649864,
+  "lon": -3.757025142241707,
+  "nombre": "La Peseta",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.364151894464136,
+  "lon": -3.7570738475080527,
+  "nombre": "La Peseta",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.47323437729361,
+  "lon": -3.6831287108345974,
+  "nombre": "Chamartin",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.37586536056751,
+  "lon": -3.7340552411724452,
+  "nombre": "Pan Bendito",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.375867563880895,
+  "lon": -3.7346027861898734,
+  "nombre": "Pan Bendito",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.34985337232053,
+  "lon": -3.8215065636444483,
+  "nombre": "Parque Lisboa",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.3495704978898,
+  "lon": -3.821053031295102,
+  "nombre": "Parque Lisboa",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.349908538430185,
+  "lon": -3.8315013602093426,
+  "nombre": "Alcorcon Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.34954333863256,
+  "lon": -3.8319773590808,
+  "nombre": "Alcorcon Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.349925099709615,
+  "lon": -3.8319178118090593,
+  "nombre": "Alcorcon Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.350022345269494,
+  "lon": -3.8319190056020447,
+  "nombre": "Alcorcon Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.346163090348924,
+  "lon": -3.849293591314876,
+  "nombre": "Parque Oeste",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.34602926297706,
+  "lon": -3.8492467077783976,
+  "nombre": "Parque Oeste",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.3347554080532,
+  "lon": -3.8721716702689215,
+  "nombre": "Universidad Rey Juan Carlos",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.33479556667089,
+  "lon": -3.8721336073479646,
+  "nombre": "Universidad Rey Juan Carlos",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.328536788507435,
+  "lon": -3.8634901160490123,
+  "nombre": "Mostoles Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.3286582187314,
+  "lon": -3.8634033570965496,
+  "nombre": "Mostoles Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.32150369099486,
+  "lon": -3.8645788662845404,
+  "nombre": "Pradillo",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.321634161682105,
+  "lon": -3.8647028303190565,
+  "nombre": "Pradillo",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.3163563217105,
+  "lon": -3.8746410967187592,
+  "nombre": "Hospital de Mostoles",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.3164495809706,
+  "lon": -3.8745556219232866,
+  "nombre": "Hospital de Mostoles",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.30913250467036,
+  "lon": -3.8648691905763504,
+  "nombre": "Manuela Malasa\u00f1a",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.309139733586335,
+  "lon": -3.8647057749327396,
+  "nombre": "Manuela Malasa\u00f1a",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.296402693653526,
+  "lon": -3.837576256140192,
+  "nombre": "Loranca",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.29709599764328,
+  "lon": -3.8375853656849275,
+  "nombre": "Loranca",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.29688050259155,
+  "lon": -3.8375283667064197,
+  "nombre": "Loranca",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.28577327290103,
+  "lon": -3.8165573451217507,
+  "nombre": "Hospital de Fuenlabrada",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.28519135217842,
+  "lon": -3.8172755778263086,
+  "nombre": "Hospital de Fuenlabrada",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.28573704866634,
+  "lon": -3.816676184382692,
+  "nombre": "Hospital de Fuenlabrada",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.28516919544276,
+  "lon": -3.8059593938563814,
+  "nombre": "Parque Europa",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.285287578834925,
+  "lon": -3.8064384729467977,
+  "nombre": "Parque Europa",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.2826660243092,
+  "lon": -3.7988470328361172,
+  "nombre": "Fuenlabrada Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.28260231416398,
+  "lon": -3.798884694490426,
+  "nombre": "Fuenlabrada Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.28655133353175,
+  "lon": -3.7873919720713993,
+  "nombre": "Parque de los Estados",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.2870047363445,
+  "lon": -3.7870043101912763,
+  "nombre": "Parque de los Estados",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.286594993805416,
+  "lon": -3.7869968743212916,
+  "nombre": "Parque de los Estados",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.28901477731263,
+  "lon": -3.756841549035993,
+  "nombre": "Arroyo Culebro",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.28856133660443,
+  "lon": -3.7567472433230766,
+  "nombre": "Arroyo Culebro",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.29345388724919,
+  "lon": -3.7462062023479725,
+  "nombre": "Conservatorio",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.2933616240837,
+  "lon": -3.74583828837013,
+  "nombre": "Conservatorio",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.30077157950135,
+  "lon": -3.736283643920457,
+  "nombre": "Alonso de Mendoza",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.300881480393336,
+  "lon": -3.7367859723601615,
+  "nombre": "Alonso de Mendoza",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.310043028899166,
+  "lon": -3.733972722152521,
+  "nombre": "Getafe Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.31000484669559,
+  "lon": -3.734175802613017,
+  "nombre": "Getafe Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.309971987281855,
+  "lon": -3.733862175477382,
+  "nombre": "Getafe Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.309893591347624,
+  "lon": -3.733941655259372,
+  "nombre": "Getafe Central",
+  "lineas": [
+    ["metro", 12]
+  ]
+},{
+  "lat": 40.41755604016888,
+  "lon": -3.5344165035930373,
+  "nombre": "Hospital del Henares",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.41784437849416,
+  "lon": -3.5349520819699785,
+  "nombre": "Hospital del Henares",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.43478581025729,
+  "lon": -3.6989633622086795,
+  "nombre": "Iglesia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.416669859072826,
+  "lon": -3.704413609401984,
+  "nombre": "Sol",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.41724262137403,
+  "lon": -3.7041475734041134,
+  "nombre": "Sol",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.424944570865804,
+  "lon": -3.676620696128923,
+  "nombre": "Goya",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42494911913323,
+  "lon": -3.676658168691938,
+  "nombre": "Goya",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42422962655119,
+  "lon": -3.6761862413285775,
+  "nombre": "Goya",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.42422267714788,
+  "lon": -3.6761518619722553,
+  "nombre": "Goya",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.391386639006214,
+  "lon": -3.694538607295446,
+  "nombre": "Legazpi",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.391467572397005,
+  "lon": -3.694631698516575,
+  "nombre": "Legazpi",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.40316167141332,
+  "lon": -3.694401853346936,
+  "nombre": "Palos de la Frontera",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.40314020916657,
+  "lon": -3.694139877119346,
+  "nombre": "Palos de la Frontera",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.408403007925536,
+  "lon": -3.7003717554959357,
+  "nombre": "Lavapies",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.40845437023364,
+  "lon": -3.70073888683402,
+  "nombre": "Lavapies",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.42008824315147,
+  "lon": -3.706133919801758,
+  "nombre": "Callao",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.42010248695942,
+  "lon": -3.7061434221484495,
+  "nombre": "Callao",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.420127044758715,
+  "lon": -3.705800977279036,
+  "nombre": "Callao",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.42413504265758,
+  "lon": -3.7118201265391195,
+  "nombre": "Plaza de Espa\u00f1a",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.4269586308845,
+  "lon": -3.7134152872241137,
+  "nombre": "Ventura Rodriguez",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.433805375355526,
+  "lon": -3.7189285666190917,
+  "nombre": "Moncloa",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.43260144916806,
+  "lon": -3.6074686311577873,
+  "nombre": "Las Musas",
+  "lineas": [
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.40024268637667,
+  "lon": -3.693900774691623,
+  "nombre": "Delicias",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.42440709696784,
+  "lon": -3.6773390450075003,
+  "nombre": "Goya",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 4]
+  ]
+},{
+  "lat": 40.40001739032334,
+  "lon": -3.6941403112197855,
+  "nombre": "Delicias",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.404674204667316,
+  "lon": -3.702896143711303,
+  "nombre": "Embajadores",
+  "lineas": [
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.407011253614236,
+  "lon": -3.6707101797850403,
+  "nombre": "Conde de Casal",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.4005572950325,
+  "lon": -3.63516011219424,
+  "nombre": "Pavones",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.39684576561752,
+  "lon": -3.774646090608844,
+  "nombre": "Colonia Jardin",
+  "lineas": [
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.46621097175943,
+  "lon": -3.6902819651354415,
+  "nombre": "Plaza de Castilla",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 9],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.38701327376473,
+  "lon": -3.7067965790196475,
+  "nombre": "Usera",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.435069181749526,
+  "lon": -3.698456099950221,
+  "nombre": "Iglesia",
+  "lineas": [
+    ["metro", 1]
+  ]
+},{
+  "lat": 40.430678411402404,
+  "lon": -3.715555061767909,
+  "nombre": "Arg\u00fcelles",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 4],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.433642523697436,
+  "lon": -3.7178156034301506,
+  "nombre": "Moncloa",
+  "lineas": [
+    ["metro", 3],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.3845275016656,
+  "lon": -3.7183179067464365,
+  "nombre": "Plaza Eliptica",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.38448275626765,
+  "lon": -3.7182301518398884,
+  "nombre": "Plaza Eliptica",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.34126004730168,
+  "lon": -3.5248919566605683,
+  "nombre": "Rivas Futura",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.34021467156622,
+  "lon": -3.526174555981956,
+  "nombre": "Rivas Futura",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.340043814548345,
+  "lon": -3.526005012446123,
+  "nombre": "Rivas Futura",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.44536949831306,
+  "lon": -3.691659883408882,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 8],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.39331808205949,
+  "lon": -3.7405832981120897,
+  "nombre": "Carpetana",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.39322011719181,
+  "lon": -3.7406944563530278,
+  "nombre": "Carpetana",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.4655460058702,
+  "lon": -3.6887659304080467,
+  "nombre": "Plaza de Castilla",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 9],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.43528683404018,
+  "lon": -3.643479486932914,
+  "nombre": "Pueblo Nuevo",
+  "lineas": [
+    ["metro", 5],
+    ["metro", 7]
+  ]
+},{
+  "lat": 40.46727863218073,
+  "lon": -3.689145990068257,
+  "nombre": "Plaza de Castilla",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 9],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.39917500305033,
+  "lon": -3.7446370923809846,
+  "nombre": "Laguna",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.399154060881195,
+  "lon": -3.744631872349672,
+  "nombre": "Laguna",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.399133118688944,
+  "lon": -3.744626655856596,
+  "nombre": "Laguna",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.46701741603107,
+  "lon": -3.6891807727345274,
+  "nombre": "Plaza de Castilla",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 9],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.42086476414999,
+  "lon": -3.7203681675839912,
+  "nombre": "Principe Pio",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 10],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.46652316106018,
+  "lon": -3.6902424988075992,
+  "nombre": "Plaza de Castilla",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 9],
+    ["metro", 10]
+  ]
+},{
+  "lat": 40.41806147451348,
+  "lon": -3.7093641080685833,
+  "nombre": "Opera",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 5],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.49103476783341,
+  "lon": -3.716348198218014,
+  "nombre": "Mirasierra",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.4912406315489,
+  "lon": -3.7168677691601952,
+  "nombre": "Mirasierra",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.418640084014896,
+  "lon": -3.6231863657779773,
+  "nombre": "Alsacia",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.39278357172126,
+  "lon": -3.740970252355603,
+  "nombre": "Carpetana",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.35789476701963,
+  "lon": -3.7778251803602547,
+  "nombre": "La Fortuna",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.3577135184448,
+  "lon": -3.7774464923792808,
+  "nombre": "La Fortuna",
+  "lineas": [
+    ["metro", 11]
+  ]
+},{
+  "lat": 40.418111916173906,
+  "lon": -3.7092519098750314,
+  "nombre": "Opera",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 5],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.41766941594993,
+  "lon": -3.62300665848258,
+  "nombre": "Alsacia",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.41806121320489,
+  "lon": -3.6232636965058576,
+  "nombre": "Alsacia",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.41860991833176,
+  "lon": -3.623402391679541,
+  "nombre": "Alsacia",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.422325406926284,
+  "lon": -3.6119619728080585,
+  "nombre": "Avenida de Guadalajara",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.422464664380556,
+  "lon": -3.6116174046616916,
+  "nombre": "Avenida de Guadalajara",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.44374812694882,
+  "lon": -3.7268753873771185,
+  "nombre": "Ciudad Universitaria",
+  "lineas": [
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.41684753985604,
+  "lon": -3.7029584393507076,
+  "nombre": "Sol",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.416793385433046,
+  "lon": -3.7040792403295324,
+  "nombre": "Sol",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.40157105670803,
+  "lon": -3.6742816036680375,
+  "nombre": "Pacifico",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.40137545825709,
+  "lon": -3.674714602959306,
+  "nombre": "Pacifico",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 6]
+  ]
+},{
+  "lat": 40.41822781925913,
+  "lon": -3.70934838773859,
+  "nombre": "Opera",
+  "lineas": [
+    ["metro", 2],
+    ["metro", 5],
+    ["metro", "R"]
+  ]
+},{
+  "lat": 40.44922640016932,
+  "lon": -3.608965442149812,
+  "nombre": "Canillejas",
+  "lineas": [
+    ["metro", 5]
+  ]
+},{
+  "lat": 40.417073366345704,
+  "lon": -3.702958072809349,
+  "nombre": "Sol",
+  "lineas": [
+    ["metro", 1],
+    ["metro", 2],
+    ["metro", 3]
+  ]
+},{
+  "lat": 40.414608163316046,
+  "lon": -3.669735987338048,
+  "nombre": "Sainz de Baranda",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.41457095888225,
+  "lon": -3.6697393630536097,
+  "nombre": "Sainz de Baranda",
+  "lineas": [
+    ["metro", 6],
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.423579488818504,
+  "lon": -3.639091466271905,
+  "nombre": "La Almudena",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.423742206159346,
+  "lon": -3.6392520739342182,
+  "nombre": "La Almudena",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.42389585353119,
+  "lon": -3.603661304973935,
+  "nombre": "Las Rosas",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.423757845054894,
+  "lon": -3.6030425171464753,
+  "nombre": "Las Rosas",
+  "lineas": [
+    ["metro", 2]
+  ]
+},{
+  "lat": 40.499629483823114,
+  "lon": -3.7091565969360003,
+  "nombre": "Paco de Lucia",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.499622607849645,
+  "lon": -3.709238865595478,
+  "nombre": "Paco de Lucia",
+  "lineas": [
+    ["metro", 9]
+  ]
+},{
+  "lat": 40.38344831096305,
+  "lon": -3.7685774297166788,
+  "nombre": "Fanjul",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.38569014255166,
+  "lon": -3.761090344893043,
+  "nombre": "Aluche",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.3858588793493,
+  "lon": -3.7611670546714,
+  "nombre": "Aluche",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.40651571216891,
+  "lon": -3.689516832231541,
+  "nombre": "Atocha",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C2"],
+    ["cercanias", "C3"],
+    ["cercanias", "C4"],
+    ["cercanias", "C5"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.407532637806696,
+  "lon": -3.689167042745568,
+  "nombre": "Atocha",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C2"],
+    ["cercanias", "C3"],
+    ["cercanias", "C4"],
+    ["cercanias", "C5"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.40706658107084,
+  "lon": -3.688975204800764,
+  "nombre": "Atocha",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C2"],
+    ["cercanias", "C3"],
+    ["cercanias", "C4"],
+    ["cercanias", "C5"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.3955897295156,
+  "lon": -3.6777620528369566,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C5"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.32828615868221,
+  "lon": -3.8638016181212023,
+  "nombre": "Mostoles",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.328090017830746,
+  "lon": -3.86409431462932,
+  "nombre": "Mostoles",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.33084388021555,
+  "lon": -3.882142072719313,
+  "nombre": "Mostoles el Soto",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.32864179628289,
+  "lon": -3.8634033196789663,
+  "nombre": "Mostoles",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.3288239140155,
+  "lon": -3.863913931043551,
+  "nombre": "Mostoles",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.39570313453162,
+  "lon": -3.678255322825432,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C5"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.288250263203906,
+  "lon": -3.73761993151243,
+  "nombre": "Getafe Sector 3",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.30546632884981,
+  "lon": -3.707845667407838,
+  "nombre": "Getafe Industrial",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.37605110925223,
+  "lon": -3.656577605659043,
+  "nombre": "Pozo, el",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.37625727083232,
+  "lon": -3.6556967422917035,
+  "nombre": "Pozo, el",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.381919678412,
+  "lon": -3.6245964651188687,
+  "nombre": "Vallecas",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.38675588733115,
+  "lon": -3.6089650967426707,
+  "nombre": "Santa Eugenia",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.40119095193173,
+  "lon": -3.5963702305824694,
+  "nombre": "Vicalvaro",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.401310894733406,
+  "lon": -3.595825662827874,
+  "nombre": "Vicalvaro",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.47218147897123,
+  "lon": -3.680984538034929,
+  "nombre": "Chamartin",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C2"],
+    ["cercanias", "C3"],
+    ["cercanias", "C4"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.58563901823225,
+  "lon": -4.132381379781406,
+  "nombre": "Escorial, el",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.58534524940774,
+  "lon": -4.132442085363155,
+  "nombre": "Escorial, el",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.585199508418874,
+  "lon": -4.132477144764794,
+  "nombre": "Escorial, el",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.585534820424485,
+  "lon": -4.131582384523384,
+  "nombre": "Escorial, el",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.58438425879672,
+  "lon": -4.132485285633968,
+  "nombre": "Escorial, el",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.538852132266776,
+  "lon": -4.15810632106849,
+  "nombre": "Zarzalejo",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.38137220744128,
+  "lon": -3.780401561909433,
+  "nombre": "Aguilas, las",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.38098713410645,
+  "lon": -3.780241275042327,
+  "nombre": "Aguilas, las",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.328518529170246,
+  "lon": -3.863509378145308,
+  "nombre": "Mostoles",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.39920829951695,
+  "lon": -3.7446299741225006,
+  "nombre": "Laguna",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.39927230909145,
+  "lon": -3.7435718720971534,
+  "nombre": "Laguna",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.40542248586306,
+  "lon": -3.7023178913204,
+  "nombre": "Embajadores",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.40496797879858,
+  "lon": -3.7025954792112246,
+  "nombre": "Embajadores",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.35056053952181,
+  "lon": -3.8318583146776115,
+  "nombre": "Alcorcon",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.35019968652419,
+  "lon": -3.832317476733187,
+  "nombre": "Alcorcon",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.3499178325757,
+  "lon": -3.832530857596165,
+  "nombre": "Alcorcon",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.35018560105962,
+  "lon": -3.8322873943024365,
+  "nombre": "Alcorcon",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.35678352617371,
+  "lon": -3.815891037734659,
+  "nombre": "San Jose de Valderas",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.37759329970256,
+  "lon": -3.792439563015593,
+  "nombre": "Cuatro Vientos",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.37755557952269,
+  "lon": -3.792517664776264,
+  "nombre": "Cuatro Vientos",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.37839680346801,
+  "lon": -3.7924788850560316,
+  "nombre": "Cuatro Vientos",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.37821201251571,
+  "lon": -3.7927310566304606,
+  "nombre": "Cuatro Vientos",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.34126447587083,
+  "lon": -3.7483267647016163,
+  "nombre": "Zarzaquemada",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.30995553891908,
+  "lon": -3.733870029337893,
+  "nombre": "Getafe Centro",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.34243430087934,
+  "lon": -3.6839830970401057,
+  "nombre": "San Cristobal de los Angeles",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.34229382797285,
+  "lon": -3.6839764329399336,
+  "nombre": "San Cristobal de los Angeles",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.34237637697581,
+  "lon": -3.6835942582066017,
+  "nombre": "San Cristobal de los Angeles",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.38182779643231,
+  "lon": -3.6681658045370598,
+  "nombre": "Asamblea de Madrid-entrevias",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.375983488169176,
+  "lon": -3.6558603834713583,
+  "nombre": "Pozo, el",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.37634155608118,
+  "lon": -3.655921299095963,
+  "nombre": "Pozo, el",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.376348082054,
+  "lon": -3.655993924399019,
+  "nombre": "Pozo, el",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.48056330177944,
+  "lon": -3.3930972554960093,
+  "nombre": "Garena, la",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.50151875942853,
+  "lon": -3.682584616151407,
+  "nombre": "Fuencarral",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.48799636568021,
+  "lon": -3.6949158828816144,
+  "nombre": "Ramon y Cajal",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"]
+  ]
+},{
+  "lat": 40.4879353729553,
+  "lon": -3.6946612007401467,
+  "nombre": "Ramon y Cajal",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"]
+  ]
+},{
+  "lat": 40.48818279860275,
+  "lon": -3.6937672202760377,
+  "nombre": "Ramon y Cajal",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"]
+  ]
+},{
+  "lat": 40.42112196494705,
+  "lon": -3.7182892941857317,
+  "nombre": "Principe Pio",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.38364095999009,
+  "lon": -3.76864195816728,
+  "nombre": "Fanjul",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.40701401382688,
+  "lon": -3.688195127789151,
+  "nombre": "Atocha",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C2"],
+    ["cercanias", "C3"],
+    ["cercanias", "C4"],
+    ["cercanias", "C5"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.39569715404108,
+  "lon": -3.6776519569744877,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C5"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.32905173436387,
+  "lon": -3.771674133330644,
+  "nombre": "Leganes",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.312537509383056,
+  "lon": -3.7836153744722054,
+  "nombre": "Parque Polvoranca",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.3186985465846,
+  "lon": -3.709982236140234,
+  "nombre": "Casar, el",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.28315226735732,
+  "lon": -3.7996538864369254,
+  "nombre": "Fuenlabrada",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.32897334022631,
+  "lon": -3.863827073883562,
+  "nombre": "Mostoles",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.34197991658683,
+  "lon": -3.842806436896846,
+  "nombre": "Retamas, las",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.19599565010579,
+  "lon": -3.6649792065922764,
+  "nombre": "Valdemoro",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.38683030211534,
+  "lon": -3.6088851265982704,
+  "nombre": "Santa Eugenia",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.47352333800217,
+  "lon": -3.6828837076515386,
+  "nombre": "Chamartin",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C2"],
+    ["cercanias", "C3"],
+    ["cercanias", "C4"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.5690160197793,
+  "lon": -4.269161105350505,
+  "nombre": "Santa Maria de la Alameda",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.568746668768256,
+  "lon": -4.269162271230043,
+  "nombre": "Santa Maria de la Alameda",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.692754143310104,
+  "lon": -4.035713915442018,
+  "nombre": "Collado Mediano",
+  "lineas": [
+    ["cercanias", "C8"]
+  ]
+},{
+  "lat": 40.65816736534676,
+  "lon": -4.0348696362031795,
+  "nombre": "Alpedrete",
+  "lineas": [
+    ["cercanias", "C8"]
+  ]
+},{
+  "lat": 40.52237784335556,
+  "lon": -3.8823162846561377,
+  "nombre": "Pinar de las Rozas",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.494298143725004,
+  "lon": -3.868255966203681,
+  "nombre": "Rozas, las",
+  "lineas": [
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.47423280859349,
+  "lon": -3.8452175608226296,
+  "nombre": "Majadahonda",
+  "lineas": [
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.465059109332664,
+  "lon": -3.8079156299227512,
+  "nombre": "Barrial-c.com.pozuelo, el",
+  "lineas": [
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.44726505872689,
+  "lon": -3.8002296628953305,
+  "nombre": "Pozuelo",
+  "lineas": [
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.448312064713875,
+  "lon": -3.7856724896477134,
+  "nombre": "Aravaca",
+  "lineas": [
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.34161726275709,
+  "lon": -3.711630220235632,
+  "nombre": "Villaverde Alto",
+  "lineas": [
+    ["cercanias", "C4"],
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.32871039104811,
+  "lon": -3.7710102287096054,
+  "nombre": "Leganes",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.29655192095169,
+  "lon": -3.7923910262458143,
+  "nombre": "Serna, la",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.296815118104675,
+  "lon": -3.7922462240981507,
+  "nombre": "Serna, la",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.282632987087354,
+  "lon": -3.7988654927312795,
+  "nombre": "Fuenlabrada",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.3288976149429,
+  "lon": -3.863692436175063,
+  "nombre": "Mostoles",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.33098961433673,
+  "lon": -3.8825364126076307,
+  "nombre": "Mostoles el Soto",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.25580132328765,
+  "lon": -3.8287209376515303,
+  "nombre": "Humanes",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.255813352169284,
+  "lon": -3.8286389483263754,
+  "nombre": "Humanes",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.255481191416656,
+  "lon": -3.8282876923380114,
+  "nombre": "Humanes",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.25548891866036,
+  "lon": -3.8284072554756325,
+  "nombre": "Humanes",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.310025410077586,
+  "lon": -3.7341653149017744,
+  "nombre": "Getafe Centro",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.40140505601229,
+  "lon": -3.5958489162177303,
+  "nombre": "Vicalvaro",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.4426035513609,
+  "lon": -3.5339882980009723,
+  "nombre": "San Fernando",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.45480631079957,
+  "lon": -3.4798618252602886,
+  "nombre": "Torrejon de Ardoz",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.48893396956794,
+  "lon": -3.366058970390102,
+  "nombre": "Alcal\u00e1 de Henares",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.489076092850425,
+  "lon": -3.3657619451684027,
+  "nombre": "Alcal\u00e1 de Henares",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.54734712812358,
+  "lon": -3.654037433335898,
+  "nombre": "Valdelasfuentes",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.5537568106638,
+  "lon": -3.683189744910147,
+  "nombre": "Universidad p. Comillas",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.784035197643384,
+  "lon": -4.005080953572243,
+  "nombre": "Puerto Navacerrada",
+  "lineas": [
+    ["cercanias", "C9"]
+  ]
+},{
+  "lat": 40.49528035950675,
+  "lon": -3.7260644666893494,
+  "nombre": "Pitis",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"]
+  ]
+},{
+  "lat": 40.52071531485415,
+  "lon": -4.246809620301239,
+  "nombre": "Robledo de Chavela",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.78454566659054,
+  "lon": -4.004094618597187,
+  "nombre": "Puerto Navacerrada",
+  "lineas": [
+    ["cercanias", "C9"]
+  ]
+},{
+  "lat": 40.784358360222775,
+  "lon": -4.00493151710474,
+  "nombre": "Puerto Navacerrada",
+  "lineas": [
+    ["cercanias", "C9"]
+  ]
+},{
+  "lat": 40.70742396114268,
+  "lon": -4.066692640270928,
+  "nombre": "Molinos, los",
+  "lineas": [
+    ["cercanias", "C8"]
+  ]
+},{
+  "lat": 40.73759751117767,
+  "lon": -4.066316032301664,
+  "nombre": "Cercedilla",
+  "lineas": [
+    ["cercanias", "C8"],
+    ["cercanias", "C9"]
+  ]
+},{
+  "lat": 40.638514429006335,
+  "lon": -4.021847091794305,
+  "nombre": "Negrales, los",
+  "lineas": [
+    ["cercanias", "C8"]
+  ]
+},{
+  "lat": 40.62638091906827,
+  "lon": -4.007906389399959,
+  "nombre": "Villalba",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.60010904261076,
+  "lon": -3.982066876307063,
+  "nombre": "Galapagar-la Navata",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.57451316819918,
+  "lon": -3.956797881732982,
+  "nombre": "Torrelodones",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.552518373272875,
+  "lon": -3.896650373630842,
+  "nombre": "Matas, las",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.340604187597236,
+  "lon": -3.747910983494283,
+  "nombre": "Zarzaquemada",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.3405727775984,
+  "lon": -3.7484805527498817,
+  "nombre": "Zarzaquemada",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.39896775750891,
+  "lon": -3.7442270021783073,
+  "nombre": "Laguna",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.39626099126881,
+  "lon": -3.6788144691159768,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C5"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.39603613656695,
+  "lon": -3.6782337826224896,
+  "nombre": "Mendez Alvaro",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C5"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.364715023188126,
+  "lon": -3.7048258588205845,
+  "nombre": "Orcasitas",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.36474736794324,
+  "lon": -3.7049944723518466,
+  "nombre": "Orcasitas",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.31230046083196,
+  "lon": -3.783234107024326,
+  "nombre": "Parque Polvoranca",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.29663992807591,
+  "lon": -3.792717454131695,
+  "nombre": "Serna, la",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.296921355878915,
+  "lon": -3.7925421213649178,
+  "nombre": "Serna, la",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.24091801292662,
+  "lon": -3.7694614365648023,
+  "nombre": "Parla",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.2408699762439,
+  "lon": -3.769287031353603,
+  "nombre": "Parla",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.40048873882693,
+  "lon": -3.6930377407096366,
+  "nombre": "Delicias",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.402478362282224,
+  "lon": -3.71139861036238,
+  "nombre": "Piramides",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.402537857594474,
+  "lon": -3.7113604787383427,
+  "nombre": "Piramides",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.40257728120907,
+  "lon": -3.711373810713935,
+  "nombre": "Piramides",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.03483281456033,
+  "lon": -3.6182235027593093,
+  "nombre": "Aranjuez",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.45434928026808,
+  "lon": -3.4797088011162374,
+  "nombre": "Torrejon de Ardoz",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.64404616336236,
+  "lon": -3.182138347757665,
+  "nombre": "Guadalajara",
+  "lineas": [
+    ["cercanias", "C2"]
+  ]
+},{
+  "lat": 40.59851936164014,
+  "lon": -3.715316276268217,
+  "nombre": "Tres Cantos",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.54386948894571,
+  "lon": -3.7001013698830407,
+  "nombre": "Cantoblanco Universidad",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.60938045845687,
+  "lon": -4.045938893268611,
+  "nombre": "Zorreras, las",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.60937303262731,
+  "lon": -4.046495482692586,
+  "nombre": "Zorreras, las",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.609270755323415,
+  "lon": -4.04647199302207,
+  "nombre": "Zorreras, las",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.609280627801745,
+  "lon": -4.046434617957711,
+  "nombre": "Zorreras, las",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.82239500665469,
+  "lon": -3.9643463574620745,
+  "nombre": "Cotos",
+  "lineas": [
+    ["cercanias", "C9"]
+  ]
+},{
+  "lat": 40.37923064845282,
+  "lon": -3.698939882709812,
+  "nombre": "Doce de Octubre",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.34191043293469,
+  "lon": -3.8421036443032683,
+  "nombre": "Retamas, las",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.34208527782188,
+  "lon": -3.842679617682533,
+  "nombre": "Retamas, las",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.378841556067094,
+  "lon": -3.6986366479061408,
+  "nombre": "Doce de Octubre",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.367063876774765,
+  "lon": -3.704112814198069,
+  "nombre": "Orcasitas",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.366373061364705,
+  "lon": -3.70482238500757,
+  "nombre": "Orcasitas",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.35037426493227,
+  "lon": -3.705079212003828,
+  "nombre": "Puente Alcocer",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.32297185662414,
+  "lon": -3.727188115930613,
+  "nombre": "Margaritas-universidad, las",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.32306838999971,
+  "lon": -3.727157013269122,
+  "nombre": "Margaritas-universidad, las",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.35266376056449,
+  "lon": -3.6843055238572675,
+  "nombre": "Villaverde Bajo",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.35275872048092,
+  "lon": -3.6842976224656203,
+  "nombre": "Villaverde Bajo",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.367199498303094,
+  "lon": -3.704078030771587,
+  "nombre": "Orcasitas",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.24278527310125,
+  "lon": -3.703559911845475,
+  "nombre": "Pinto",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.423780060654146,
+  "lon": -3.561280437298616,
+  "nombre": "Coslada",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.42388911366231,
+  "lon": -3.561180405642716,
+  "nombre": "Coslada",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.42375378890617,
+  "lon": -3.560805440842694,
+  "nombre": "Coslada",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.56112837382112,
+  "lon": -3.265460570184245,
+  "nombre": "Azuqueca",
+  "lineas": [
+    ["cercanias", "C2"]
+  ]
+},{
+  "lat": 40.56101382487639,
+  "lon": -3.26559059213726,
+  "nombre": "Azuqueca",
+  "lineas": [
+    ["cercanias", "C2"]
+  ]
+},{
+  "lat": 40.55876559441381,
+  "lon": -3.7138410471569743,
+  "nombre": "Goloso, el",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.54670578754628,
+  "lon": -3.635100634315165,
+  "nombre": "Alcobendas-s.s. de los Reyes",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.54661388610078,
+  "lon": -3.6350436428353423,
+  "nombre": "Alcobendas-s.s. de los Reyes",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.54692813202489,
+  "lon": -3.6347918954342644,
+  "nombre": "Alcobendas-s.s. de los Reyes",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.54687400955109,
+  "lon": -3.634752530279468,
+  "nombre": "Alcobendas-s.s. de los Reyes",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.47221182840582,
+  "lon": -3.682314895480353,
+  "nombre": "Chamartin",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C2"],
+    ["cercanias", "C3"],
+    ["cercanias", "C4"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.6179038133853,
+  "lon": -4.030964777339345,
+  "nombre": "San Yago",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.448406152487415,
+  "lon": -3.785285234007315,
+  "nombre": "Aravaca",
+  "lineas": [
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.44870704150983,
+  "lon": -3.785323773043723,
+  "nombre": "Aravaca",
+  "lineas": [
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.42335313203251,
+  "lon": -3.690952537034461,
+  "nombre": "Recoletos",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C2"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.44656901260812,
+  "lon": -3.692242032863165,
+  "nombre": "Nuevos Ministerios",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C2"],
+    ["cercanias", "C3"],
+    ["cercanias", "C4"],
+    ["cercanias", "C7"],
+    ["cercanias", "C8"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.35018795393909,
+  "lon": -3.8315621283049097,
+  "nombre": "Alcorcon",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.33102445198005,
+  "lon": -3.882502128618545,
+  "nombre": "Mostoles el Soto",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.35002536855237,
+  "lon": -3.831896609681694,
+  "nombre": "Alcorcon",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.35298754985545,
+  "lon": -3.6834085953359827,
+  "nombre": "Villaverde Bajo",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.35649790472626,
+  "lon": -3.8154936162958517,
+  "nombre": "San Jose de Valderas",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.377489599000036,
+  "lon": -3.792127916023244,
+  "nombre": "Cuatro Vientos",
+  "lineas": [
+    ["cercanias", "C5"]
+  ]
+},{
+  "lat": 40.35276362109965,
+  "lon": -3.683434530708765,
+  "nombre": "Villaverde Bajo",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.159048744713566,
+  "lon": -3.610185416013882,
+  "nombre": "Ciempozuelos",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.33182438911735,
+  "lon": -3.699052132073817,
+  "nombre": "San Cristobal Industrial",
+  "lineas": [
+    ["cercanias", "C3"]
+  ]
+},{
+  "lat": 40.505182361828396,
+  "lon": -3.3356787520458817,
+  "nombre": "Alcal\u00e1 de Henares Universidad",
+  "lineas": [
+    ["cercanias", "C2"]
+  ]
+},{
+  "lat": 40.50541530059093,
+  "lon": -3.335419179107359,
+  "nombre": "Alcal\u00e1 de Henares Universidad",
+  "lineas": [
+    ["cercanias", "C2"]
+  ]
+},{
+  "lat": 40.50561156555466,
+  "lon": -3.3350966508266366,
+  "nombre": "Alcal\u00e1 de Henares Universidad",
+  "lineas": [
+    ["cercanias", "C2"]
+  ]
+},{
+  "lat": 40.53468119217132,
+  "lon": -3.2986954135463518,
+  "nombre": "Meco",
+  "lineas": [
+    ["cercanias", "C2"]
+  ]
+},{
+  "lat": 40.645237061575145,
+  "lon": -3.776692800928455,
+  "nombre": "Colmenar Viejo",
+  "lineas": [
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.48560543989184,
+  "lon": -3.6632165506718564,
+  "nombre": "Fuente de la Mora",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.48565358219114,
+  "lon": -3.663053367435943,
+  "nombre": "Fuente de la Mora",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.48461188714853,
+  "lon": -3.6631194986309525,
+  "nombre": "Fuente de la Mora",
+  "lineas": [
+    ["cercanias", "C1"],
+    ["cercanias", "C7"],
+    ["cercanias", "C10"]
+  ]
+},{
+  "lat": 40.49173725671862,
+  "lon": -3.593016258206367,
+  "nombre": "Aeropuerto t4",
+  "lineas": [
+    ["cercanias", "C1"]
+  ]
+},{
+  "lat": 40.41684854790841,
+  "lon": -3.7029868977036307,
+  "nombre": "Sol",
+  "lineas": [
+    ["cercanias", "C3"],
+    ["cercanias", "C4"]
+  ]
+},{
+  "lat": 40.463187856118864,
+  "lon": -3.441380492558193,
+  "nombre": "Soto del Henares",
+  "lineas": [
+    ["cercanias", "C2"],
+    ["cercanias", "C7"]
+  ]
+},{
+  "lat": 40.48263408424855,
+  "lon": -3.6166661869181973,
+  "nombre": "Valdebebas",
+  "lineas": [
+    ["cercanias", "C1"]
+  ]
+},{
+  "lat": 40.48264224397805,
+  "lon": -3.616083332661292,
+  "nombre": "Valdebebas",
+  "lineas": [
+    ["cercanias", "C1"]
+  ]
+},{
+  "lat": 40.48251470733366,
+  "lon": -3.616287516931561,
+  "nombre": "Valdebebas",
+  "lineas": [
+    ["cercanias", "C1"]
+  ]
+},{
+  "lat": 40.482033649805416,
+  "lon": -3.616389108312646,
+  "nombre": "Valdebebas",
+  "lineas": [
+    ["cercanias", "C1"]
+  ]
+},{
+  "lat": 40.48191615490892,
+  "lon": -3.616606632817788,
+  "nombre": "Valdebebas",
+  "lineas": [
+    ["cercanias", "C1"]
+  ]
+},{
+  "lat": 40.48191900976204,
+  "lon": -3.6160701050892947,
+  "nombre": "Valdebebas",
+  "lineas": [
+    ["cercanias", "C1"]
+  ]
+},{
+  "lat": 40.49354058024322,
+  "lon": -3.6556338708117218,
+  "nombre": "Blasco Iba\u00f1ez",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.4935747426102,
+  "lon": -3.655704449988634,
+  "nombre": "Blasco Iba\u00f1ez",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.4801531414943,
+  "lon": -3.6669416626153035,
+  "nombre": "Pinar de Chamartin",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.48023219334973,
+  "lon": -3.666844224868151,
+  "nombre": "Pinar de Chamartin",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.48561476902502,
+  "lon": -3.6631816336517855,
+  "nombre": "Fuente de la Mora",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.48565548511978,
+  "lon": -3.6630223901381664,
+  "nombre": "Fuente de la Mora",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.48460885879765,
+  "lon": -3.6630833042145947,
+  "nombre": "Fuente de la Mora",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.4846092160734,
+  "lon": -3.6630208718286057,
+  "nombre": "Fuente de la Mora",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.48740195241379,
+  "lon": -3.66104801941646,
+  "nombre": "Virgen del Cortijo",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.487419212689915,
+  "lon": -3.6611558954061456,
+  "nombre": "Virgen del Cortijo",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.49701404731607,
+  "lon": -3.6590666949995208,
+  "nombre": "Maria Tudor",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.4970778686826,
+  "lon": -3.659047845487645,
+  "nombre": "Maria Tudor",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.49779104558099,
+  "lon": -3.6582003752472256,
+  "nombre": "Maria Tudor",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.48552465172435,
+  "lon": -3.6534977912586832,
+  "nombre": "Antonio Saura",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.48902524990812,
+  "lon": -3.6512583303384325,
+  "nombre": "Alvarez de Villaamil",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.50545933363391,
+  "lon": -3.6650103230309394,
+  "nombre": "Palas de Rey",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.50808268425184,
+  "lon": -3.6688399866597403,
+  "nombre": "Las Tablas",
+  "lineas": [
+    ["metro_ligero", "ML1"]
+  ]
+},{
+  "lat": 40.39787032594495,
+  "lon": -3.8358225177195084,
+  "nombre": "Monteprincipe",
+  "lineas": [
+    ["metro_ligero", "ML3"]
+  ]
+},{
+  "lat": 40.397767139892245,
+  "lon": -3.8359178906047764,
+  "nombre": "Monteprincipe",
+  "lineas": [
+    ["metro_ligero", "ML3"]
+  ]
+},{
+  "lat": 40.396875211841284,
+  "lon": -3.774786850395137,
+  "nombre": "Colonia Jardin",
+  "lineas": [
+    ["metro_ligero", "ML2"],
+    ["metro_ligero", "ML3"]
+  ]
+},{
+  "lat": 40.41498672304658,
+  "lon": -3.792624538086132,
+  "nombre": "Somosaguas Sur",
+  "lineas": [
+    ["metro_ligero", "ML2"]
+  ]
+},{
+  "lat": 40.41566835121283,
+  "lon": -3.79263876387535,
+  "nombre": "Somosaguas Sur",
+  "lineas": [
+    ["metro_ligero", "ML2"]
+  ]
+},{
+  "lat": 40.439142860509435,
+  "lon": -3.793091539977091,
+  "nombre": "Avenida de Europa",
+  "lineas": [
+    ["metro_ligero", "ML2"]
+  ]
+},{
+  "lat": 40.439528477943774,
+  "lon": -3.793007387643106,
+  "nombre": "Avenida de Europa",
+  "lineas": [
+    ["metro_ligero", "ML2"]
+  ]
+},{
+  "lat": 40.44475845145665,
+  "lon": -3.7911594505378736,
+  "nombre": "Berna",
+  "lineas": [
+    ["metro_ligero", "ML2"]
+  ]
+},{
+  "lat": 40.44460114311959,
+  "lon": -3.791157607219004,
+  "nombre": "Berna",
+  "lineas": [
+    ["metro_ligero", "ML2"]
+  ]
+},{
+  "lat": 40.3968444178785,
+  "lon": -3.774764416383601,
+  "nombre": "Colonia Jardin",
+  "lineas": [
+    ["metro_ligero", "ML2"],
+    ["metro_ligero", "ML3"]
+  ]
+}]

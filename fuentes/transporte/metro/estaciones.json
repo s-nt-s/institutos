@@ -1,0 +1,3230 @@
+{
+"objectIdFieldName": "OBJECTID",
+"uniqueIdField": {
+  "name": "OBJECTID",
+  "isSystemMaintained": true
+},
+"globalIdFieldName": "",
+"geometryType": "esriGeometryPoint",
+"spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+},
+"fields": [
+  {
+    "name": "IDESTACION",
+    "type": "esriFieldTypeString",
+    "alias": "IDESTACION",
+    "sqlType": "sqlTypeOther",
+    "length": 50,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "CODIGOESTACION",
+    "type": "esriFieldTypeString",
+    "alias": "CODIGOESTACION",
+    "sqlType": "sqlTypeOther",
+    "length": 7,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "DENOMINACION",
+    "type": "esriFieldTypeString",
+    "alias": "DENOMINACION",
+    "sqlType": "sqlTypeOther",
+    "length": 240,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "CODIGOCTMESTACIONREDMETRO",
+    "type": "esriFieldTypeString",
+    "alias": "CODIGOCTMESTACIONREDMETRO",
+    "sqlType": "sqlTypeOther",
+    "length": 7,
+    "domain": null,
+    "defaultValue": null
+  }
+],
+"features": [
+  {
+    "attributes": {
+      "IDESTACION": "4_38",
+      "CODIGOESTACION": "38",
+      "DENOMINACION": "NOVICIADO",
+      "CODIGOCTMESTACIONREDMETRO": "50"
+    },
+    "geometry": {
+      "x": -3.7074190426136306,
+      "y": 40.424842233578424
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_175",
+      "CODIGOESTACION": "175",
+      "DENOMINACION": "ESTRELLA",
+      "CODIGOCTMESTACIONREDMETRO": "175"
+    },
+    "geometry": {
+      "x": -3.6617852707606366,
+      "y": 40.41147221920649
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_7",
+      "CODIGOESTACION": "7",
+      "DENOMINACION": "RIOS ROSAS",
+      "CODIGOCTMESTACIONREDMETRO": "7"
+    },
+    "geometry": {
+      "x": -3.701328481177294,
+      "y": 40.44197535635587
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_102",
+      "CODIGOESTACION": "102",
+      "DENOMINACION": "CAMPAMENTO",
+      "CODIGOCTMESTACIONREDMETRO": "102"
+    },
+    "geometry": {
+      "x": -3.768128136787409,
+      "y": 40.39480775740209
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_109",
+      "CODIGOESTACION": "109",
+      "DENOMINACION": "USERA",
+      "CODIGOCTMESTACIONREDMETRO": "109"
+    },
+    "geometry": {
+      "x": -3.706895642789324,
+      "y": 40.38709669326968
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_115",
+      "CODIGOESTACION": "115",
+      "DENOMINACION": "O'DONNELL",
+      "CODIGOCTMESTACIONREDMETRO": "115"
+    },
+    "geometry": {
+      "x": -3.6685951462919535,
+      "y": 40.42288842464461
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_128",
+      "CODIGOESTACION": "128",
+      "DENOMINACION": "PUERTA DEL ANGEL",
+      "CODIGOCTMESTACIONREDMETRO": "128"
+    },
+    "geometry": {
+      "x": -3.7272404518154256,
+      "y": 40.41389889439627
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_230",
+      "CODIGOESTACION": "230",
+      "DENOMINACION": "EL BERCIAL",
+      "CODIGOCTMESTACIONREDMETRO": "230"
+    },
+    "geometry": {
+      "x": -3.7296331804893366,
+      "y": 40.329072367482894
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_268",
+      "CODIGOESTACION": "268",
+      "DENOMINACION": "HOSPITAL 12 DE OCTUBRE",
+      "CODIGOCTMESTACIONREDMETRO": "268"
+    },
+    "geometry": {
+      "x": -3.6958546924445588,
+      "y": 40.375031361291015
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_267",
+      "CODIGOESTACION": "267",
+      "DENOMINACION": "ALMENDRALES",
+      "CODIGOCTMESTACIONREDMETRO": "267"
+    },
+    "geometry": {
+      "x": -3.697881397655217,
+      "y": 40.38409352717396
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_47",
+      "CODIGOESTACION": "47",
+      "DENOMINACION": "LAVAPIES",
+      "CODIGOCTMESTACIONREDMETRO": "47"
+    },
+    "geometry": {
+      "x": -3.7009041232004773,
+      "y": 40.40851094285593
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_274",
+      "CODIGOESTACION": "274",
+      "DENOMINACION": "TRES OLIVOS",
+      "CODIGOCTMESTACIONREDMETRO": "274"
+    },
+    "geometry": {
+      "x": -3.6952024504667387,
+      "y": 40.50120462748204
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_269",
+      "CODIGOESTACION": "269",
+      "DENOMINACION": "SAN FERMIN-ORCASUR",
+      "CODIGOCTMESTACIONREDMETRO": "269"
+    },
+    "geometry": {
+      "x": -3.6941764145036964,
+      "y": 40.36999093055091
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_135",
+      "CODIGOESTACION": "135",
+      "DENOMINACION": "GARCIA NOBLEJAS",
+      "CODIGOCTMESTACIONREDMETRO": "135"
+    },
+    "geometry": {
+      "x": -3.633299465727318,
+      "y": 40.428423190545146
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_142",
+      "CODIGOESTACION": "142",
+      "DENOMINACION": "GREGORIO MARA\u00d1ON",
+      "CODIGOCTMESTACIONREDMETRO": "142"
+    },
+    "geometry": {
+      "x": -3.6914828621190114,
+      "y": 40.43825099442897
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_150",
+      "CODIGOESTACION": "150",
+      "DENOMINACION": "PE\u00d1AGRANDE",
+      "CODIGOCTMESTACIONREDMETRO": "150"
+    },
+    "geometry": {
+      "x": -3.715824157912478,
+      "y": 40.47592352024965
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_161",
+      "CODIGOESTACION": "161",
+      "DENOMINACION": "HERRERA ORIA",
+      "CODIGOCTMESTACIONREDMETRO": "161"
+    },
+    "geometry": {
+      "x": -3.70751021303079,
+      "y": 40.48466278015302
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_166",
+      "CODIGOESTACION": "166",
+      "DENOMINACION": "PIO XII",
+      "CODIGOCTMESTACIONREDMETRO": "166"
+    },
+    "geometry": {
+      "x": -3.67579015001895,
+      "y": 40.46300276051131
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_52",
+      "CODIGOESTACION": "52",
+      "DENOMINACION": "ARG\u00dcELLES",
+      "CODIGOCTMESTACIONREDMETRO": "52"
+    },
+    "geometry": {
+      "x": -3.715962651094834,
+      "y": 40.43066093022461
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_88",
+      "CODIGOESTACION": "88",
+      "DENOMINACION": "CALLAO",
+      "CODIGOCTMESTACIONREDMETRO": "49"
+    },
+    "geometry": {
+      "x": -3.705664776700521,
+      "y": 40.42008325439652
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_264",
+      "CODIGOESTACION": "264",
+      "DENOMINACION": "HORTALEZA",
+      "CODIGOCTMESTACIONREDMETRO": "264"
+    },
+    "geometry": {
+      "x": -3.6525726113410113,
+      "y": 40.47537171795902
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_285",
+      "CODIGOESTACION": "285",
+      "DENOMINACION": "AEROPUERTO T4",
+      "CODIGOCTMESTACIONREDMETRO": "285"
+    },
+    "geometry": {
+      "x": -3.593245597213427,
+      "y": 40.491766772325995
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_154",
+      "CODIGOESTACION": "154",
+      "DENOMINACION": "PITIS",
+      "CODIGOCTMESTACIONREDMETRO": "154"
+    },
+    "geometry": {
+      "x": -3.7258912329080798,
+      "y": 40.49510584237574
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_214",
+      "CODIGOESTACION": "214",
+      "DENOMINACION": "MOSTOLES CENTRAL",
+      "CODIGOCTMESTACIONREDMETRO": "214"
+    },
+    "geometry": {
+      "x": -3.863542175638656,
+      "y": 40.32850021833154
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_91",
+      "CODIGOESTACION": "91",
+      "DENOMINACION": "PUERTA DE TOLEDO",
+      "CODIGOCTMESTACIONREDMETRO": "91"
+    },
+    "geometry": {
+      "x": -3.711046450767629,
+      "y": 40.40703575446187
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_279",
+      "CODIGOESTACION": "279",
+      "DENOMINACION": "LA MORALEJA",
+      "CODIGOCTMESTACIONREDMETRO": "279"
+    },
+    "geometry": {
+      "x": -3.635559522713986,
+      "y": 40.53195564734653
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_221",
+      "CODIGOESTACION": "221",
+      "DENOMINACION": "FUENLABRADA CENTRAL",
+      "CODIGOCTMESTACIONREDMETRO": "221"
+    },
+    "geometry": {
+      "x": -3.7989069007820175,
+      "y": 40.2826757751405
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_140",
+      "CODIGOESTACION": "140",
+      "DENOMINACION": "CARTAGENA",
+      "CODIGOCTMESTACIONREDMETRO": "140"
+    },
+    "geometry": {
+      "x": -3.672151601329782,
+      "y": 40.43933749524513
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_197",
+      "CODIGOESTACION": "197",
+      "DENOMINACION": "PLAZA DE ESPA\u00d1A",
+      "CODIGOCTMESTACIONREDMETRO": "50"
+    },
+    "geometry": {
+      "x": -3.7096987115977367,
+      "y": 40.4240868846098
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_145",
+      "CODIGOESTACION": "145",
+      "DENOMINACION": "ISLAS FILIPINAS",
+      "CODIGOCTMESTACIONREDMETRO": "145"
+    },
+    "geometry": {
+      "x": -3.7137286447993536,
+      "y": 40.43906820663266
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_173",
+      "CODIGOESTACION": "173",
+      "DENOMINACION": "IBIZA",
+      "CODIGOCTMESTACIONREDMETRO": "173"
+    },
+    "geometry": {
+      "x": -3.6785751055264586,
+      "y": 40.41839121058978
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_5",
+      "CODIGOESTACION": "5",
+      "DENOMINACION": "ALVARADO",
+      "CODIGOCTMESTACIONREDMETRO": "5"
+    },
+    "geometry": {
+      "x": -3.7033142092757845,
+      "y": 40.450331975994324
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_58",
+      "CODIGOESTACION": "58",
+      "DENOMINACION": "COLON",
+      "CODIGOCTMESTACIONREDMETRO": "58"
+    },
+    "geometry": {
+      "x": -3.6910073925714295,
+      "y": 40.42541918213737
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_34",
+      "CODIGOESTACION": "34",
+      "DENOMINACION": "SEVILLA",
+      "CODIGOCTMESTACIONREDMETRO": "34"
+    },
+    "geometry": {
+      "x": -3.699251138040337,
+      "y": 40.41805074812411
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_33",
+      "CODIGOESTACION": "33",
+      "DENOMINACION": "BANCO DE ESPA\u00d1A",
+      "CODIGOCTMESTACIONREDMETRO": "33"
+    },
+    "geometry": {
+      "x": -3.6949651055813844,
+      "y": 40.4192197861148
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_4",
+      "CODIGOESTACION": "4",
+      "DENOMINACION": "ESTRECHO",
+      "CODIGOCTMESTACIONREDMETRO": "4"
+    },
+    "geometry": {
+      "x": -3.7030229599498505,
+      "y": 40.45428802582823
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_300",
+      "CODIGOESTACION": "300",
+      "DENOMINACION": "RIVAS FUTURA",
+      "CODIGOCTMESTACIONREDMETRO": "300"
+    },
+    "geometry": {
+      "x": -3.5247890122718806,
+      "y": 40.34134215405359
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_108",
+      "CODIGOESTACION": "108",
+      "DENOMINACION": "PLAZA ELIPTICA",
+      "CODIGOCTMESTACIONREDMETRO": "108"
+    },
+    "geometry": {
+      "x": -3.7183705578119546,
+      "y": 40.38460005540756
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_159",
+      "CODIGOESTACION": "159",
+      "DENOMINACION": "AEROPUERTO T1 T2 T3",
+      "CODIGOCTMESTACIONREDMETRO": "159"
+    },
+    "geometry": {
+      "x": -3.569538255943205,
+      "y": 40.4686442368363
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_64",
+      "CODIGOESTACION": "64",
+      "DENOMINACION": "AVENIDA DE AMERICA",
+      "CODIGOCTMESTACIONREDMETRO": "64"
+    },
+    "geometry": {
+      "x": -3.6766395553262643,
+      "y": 40.43803257738159
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_121",
+      "CODIGOESTACION": "121",
+      "DENOMINACION": "CUATRO CAMINOS",
+      "CODIGOCTMESTACIONREDMETRO": "6"
+    },
+    "geometry": {
+      "x": -3.703868699286015,
+      "y": 40.44697459690457
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_116",
+      "CODIGOESTACION": "116",
+      "DENOMINACION": "MANUEL BECERRA",
+      "CODIGOCTMESTACIONREDMETRO": "29"
+    },
+    "geometry": {
+      "x": -3.6692051807116384,
+      "y": 40.42790447983754
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_19",
+      "CODIGOESTACION": "19",
+      "DENOMINACION": "PUENTE DE VALLECAS",
+      "CODIGOCTMESTACIONREDMETRO": "19"
+    },
+    "geometry": {
+      "x": -3.669058999478586,
+      "y": 40.39819215100294
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_291",
+      "CODIGOESTACION": "291",
+      "DENOMINACION": "JARAMA",
+      "CODIGOCTMESTACIONREDMETRO": "291"
+    },
+    "geometry": {
+      "x": -3.5254937648988705,
+      "y": 40.42295480433805
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_144",
+      "CODIGOESTACION": "144",
+      "DENOMINACION": "CANAL",
+      "CODIGOCTMESTACIONREDMETRO": "41"
+    },
+    "geometry": {
+      "x": -3.704888988656737,
+      "y": 40.43870250794506
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_277",
+      "CODIGOESTACION": "277",
+      "DENOMINACION": "RONDA DE LA COMUNICACION",
+      "CODIGOCTMESTACIONREDMETRO": "277"
+    },
+    "geometry": {
+      "x": -3.6627651035032445,
+      "y": 40.51553464717745
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_195",
+      "CODIGOESTACION": "195",
+      "DENOMINACION": "ALONSO MARTINEZ",
+      "CODIGOCTMESTACIONREDMETRO": "57"
+    },
+    "geometry": {
+      "x": -3.6964318860038867,
+      "y": 40.42852602883
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_45",
+      "CODIGOESTACION": "45",
+      "DENOMINACION": "PALOS DE LA FRONTERA",
+      "CODIGOCTMESTACIONREDMETRO": "45"
+    },
+    "geometry": {
+      "x": -3.6942326840798296,
+      "y": 40.40307228397831
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_137",
+      "CODIGOESTACION": "137",
+      "DENOMINACION": "PUEBLO NUEVO",
+      "CODIGOCTMESTACIONREDMETRO": "78"
+    },
+    "geometry": {
+      "x": -3.6428229372521685,
+      "y": 40.43565851549913
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_122",
+      "CODIGOESTACION": "122",
+      "DENOMINACION": "GUZMAN EL BUENO",
+      "CODIGOCTMESTACIONREDMETRO": "122"
+    },
+    "geometry": {
+      "x": -3.7122940370605675,
+      "y": 40.44636607914371
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_18",
+      "CODIGOESTACION": "18",
+      "DENOMINACION": "PACIFICO",
+      "CODIGOCTMESTACIONREDMETRO": "18"
+    },
+    "geometry": {
+      "x": -3.67513655621334,
+      "y": 40.40126178904823
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_87",
+      "CODIGOESTACION": "87",
+      "DENOMINACION": "GRAN VIA",
+      "CODIGOCTMESTACIONREDMETRO": "11"
+    },
+    "geometry": {
+      "x": -3.701803930135661,
+      "y": 40.419986617735724
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_25",
+      "CODIGOESTACION": "25",
+      "DENOMINACION": "SIERRA DE GUADALUPE",
+      "CODIGOCTMESTACIONREDMETRO": "25"
+    },
+    "geometry": {
+      "x": -3.6247174701487794,
+      "y": 40.3821642503006
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_187",
+      "CODIGOESTACION": "187",
+      "DENOMINACION": "FUENCARRAL",
+      "CODIGOCTMESTACIONREDMETRO": "187"
+    },
+    "geometry": {
+      "x": -3.692831231006568,
+      "y": 40.495085162407655
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_2",
+      "CODIGOESTACION": "2",
+      "DENOMINACION": "VALDEACEDERAS",
+      "CODIGOCTMESTACIONREDMETRO": "2"
+    },
+    "geometry": {
+      "x": -3.6950620375087544,
+      "y": 40.46442417859868
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_208",
+      "CODIGOESTACION": "208",
+      "DENOMINACION": "PAN BENDITO",
+      "CODIGOCTMESTACIONREDMETRO": "208"
+    },
+    "geometry": {
+      "x": -3.7341688565304656,
+      "y": 40.37586863665673
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_210",
+      "CODIGOESTACION": "210",
+      "DENOMINACION": "PARQUE LISBOA",
+      "CODIGOCTMESTACIONREDMETRO": "210"
+    },
+    "geometry": {
+      "x": -3.8211957325521553,
+      "y": 40.34968728152219
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_104",
+      "CODIGOESTACION": "104",
+      "DENOMINACION": "LAGUNA",
+      "CODIGOCTMESTACIONREDMETRO": "104"
+    },
+    "geometry": {
+      "x": -3.744288718056632,
+      "y": 40.39922962471062
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_222",
+      "CODIGOESTACION": "222",
+      "DENOMINACION": "PARQUE DE LOS ESTADOS",
+      "CODIGOCTMESTACIONREDMETRO": "222"
+    },
+    "geometry": {
+      "x": -3.786974043457501,
+      "y": 40.28683580053262
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_227",
+      "CODIGOESTACION": "227",
+      "DENOMINACION": "JUAN DE LA CIERVA",
+      "CODIGOCTMESTACIONREDMETRO": "227"
+    },
+    "geometry": {
+      "x": -3.722240122704442,
+      "y": 40.31180236485632
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_231",
+      "CODIGOESTACION": "231",
+      "DENOMINACION": "EL CARRASCAL",
+      "CODIGOCTMESTACIONREDMETRO": "231"
+    },
+    "geometry": {
+      "x": -3.7401848829148365,
+      "y": 40.33663824377751
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_233",
+      "CODIGOESTACION": "233",
+      "DENOMINACION": "CASA DEL RELOJ",
+      "CODIGOCTMESTACIONREDMETRO": "233"
+    },
+    "geometry": {
+      "x": -3.75942499130863,
+      "y": 40.32660272138423
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_253",
+      "CODIGOESTACION": "253",
+      "DENOMINACION": "EL CAPRICHO",
+      "CODIGOCTMESTACIONREDMETRO": "253"
+    },
+    "geometry": {
+      "x": -3.5940116576957872,
+      "y": 40.453468332704944
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_26",
+      "CODIGOESTACION": "26",
+      "DENOMINACION": "VILLA DE VALLECAS",
+      "CODIGOCTMESTACIONREDMETRO": "26"
+    },
+    "geometry": {
+      "x": -3.621296484882349,
+      "y": 40.379598611419055
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_179",
+      "CODIGOESTACION": "179",
+      "DENOMINACION": "VALDEBERNARDO",
+      "CODIGOCTMESTACIONREDMETRO": "179"
+    },
+    "geometry": {
+      "x": -3.6215591598085286,
+      "y": 40.40004712961799
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_167",
+      "CODIGOESTACION": "167",
+      "DENOMINACION": "COLOMBIA",
+      "CODIGOCTMESTACIONREDMETRO": "156"
+    },
+    "geometry": {
+      "x": -3.6769390594028932,
+      "y": 40.45748975041236
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_132",
+      "CODIGOESTACION": "132",
+      "DENOMINACION": "LAS MUSAS",
+      "CODIGOCTMESTACIONREDMETRO": "132"
+    },
+    "geometry": {
+      "x": -3.607879514276323,
+      "y": 40.432988127939815
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_117",
+      "CODIGOESTACION": "117",
+      "DENOMINACION": "DIEGO DE LEON",
+      "CODIGOCTMESTACIONREDMETRO": "63"
+    },
+    "geometry": {
+      "x": -3.6729385667724195,
+      "y": 40.432947682446056
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_171",
+      "CODIGOESTACION": "171",
+      "DENOMINACION": "NU\u00d1EZ DE BALBOA",
+      "CODIGOCTMESTACIONREDMETRO": "83"
+    },
+    "geometry": {
+      "x": -3.6793637194556172,
+      "y": 40.43012982126571
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_81",
+      "CODIGOESTACION": "81",
+      "DENOMINACION": "VENTAS",
+      "CODIGOCTMESTACIONREDMETRO": "28"
+    },
+    "geometry": {
+      "x": -3.6636058417273496,
+      "y": 40.430884803194914
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_190",
+      "CODIGOESTACION": "190",
+      "DENOMINACION": "PLAZA DE CASTILLA",
+      "CODIGOCTMESTACIONREDMETRO": "1"
+    },
+    "geometry": {
+      "x": -3.6890861043280827,
+      "y": 40.46689653414191
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_182",
+      "CODIGOESTACION": "182",
+      "DENOMINACION": "PUERTA DE ARGANDA",
+      "CODIGOCTMESTACIONREDMETRO": "182"
+    },
+    "geometry": {
+      "x": -3.5959753029479633,
+      "y": 40.40131578216117
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_158",
+      "CODIGOESTACION": "158",
+      "DENOMINACION": "FERIA DE MADRID",
+      "CODIGOCTMESTACIONREDMETRO": "158"
+    },
+    "geometry": {
+      "x": -3.6162046822415186,
+      "y": 40.46389315131333
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_99",
+      "CODIGOESTACION": "99",
+      "DENOMINACION": "EUGENIA DE MONTIJO",
+      "CODIGOCTMESTACIONREDMETRO": "99"
+    },
+    "geometry": {
+      "x": -3.7512111847828216,
+      "y": 40.38438579717573
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_305",
+      "CODIGOESTACION": "305",
+      "DENOMINACION": "LA FORTUNA",
+      "CODIGOCTMESTACIONREDMETRO": "305"
+    },
+    "geometry": {
+      "x": -3.7778258498960042,
+      "y": 40.357953128926525
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_323",
+      "CODIGOESTACION": "323",
+      "DENOMINACION": "ALSACIA",
+      "CODIGOCTMESTACIONREDMETRO": "323"
+    },
+    "geometry": {
+      "x": -3.6235060015486664,
+      "y": 40.41829269464442
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_322",
+      "CODIGOESTACION": "322",
+      "DENOMINACION": "LA ALMUDENA",
+      "CODIGOCTMESTACIONREDMETRO": "322"
+    },
+    "geometry": {
+      "x": -3.6391423303625725,
+      "y": 40.42361329068056
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_345",
+      "CODIGOESTACION": "345",
+      "DENOMINACION": "PACO DE LUCIA",
+      "CODIGOCTMESTACIONREDMETRO": "345"
+    },
+    "geometry": {
+      "x": -3.709081480557363,
+      "y": 40.499654912051675
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_60",
+      "CODIGOESTACION": "60",
+      "DENOMINACION": "VELAZQUEZ",
+      "CODIGOCTMESTACIONREDMETRO": "60"
+    },
+    "geometry": {
+      "x": -3.6829181480861983,
+      "y": 40.425032550864806
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_65",
+      "CODIGOESTACION": "65",
+      "DENOMINACION": "PROSPERIDAD",
+      "CODIGOCTMESTACIONREDMETRO": "65"
+    },
+    "geometry": {
+      "x": -3.674818902992059,
+      "y": 40.444188974144545
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_68",
+      "CODIGOESTACION": "68",
+      "DENOMINACION": "ARTURO SORIA",
+      "CODIGOCTMESTACIONREDMETRO": "68"
+    },
+    "geometry": {
+      "x": -3.656181218097823,
+      "y": 40.4558324918715
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_70",
+      "CODIGOESTACION": "70",
+      "DENOMINACION": "CANILLAS",
+      "CODIGOCTMESTACIONREDMETRO": "70"
+    },
+    "geometry": {
+      "x": -3.6355954639810872,
+      "y": 40.463810536980176
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_73",
+      "CODIGOESTACION": "73",
+      "DENOMINACION": "PARQUE DE SANTA MARIA",
+      "CODIGOCTMESTACIONREDMETRO": "73"
+    },
+    "geometry": {
+      "x": -3.6452420021656278,
+      "y": 40.47711429389674
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_77",
+      "CODIGOESTACION": "77",
+      "DENOMINACION": "CIUDAD LINEAL",
+      "CODIGOCTMESTACIONREDMETRO": "77"
+    },
+    "geometry": {
+      "x": -3.638157588345499,
+      "y": 40.4380484084201
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_90",
+      "CODIGOESTACION": "90",
+      "DENOMINACION": "LA LATINA",
+      "CODIGOCTMESTACIONREDMETRO": "90"
+    },
+    "geometry": {
+      "x": -3.708160868519015,
+      "y": 40.41128032868688
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_98",
+      "CODIGOESTACION": "98",
+      "DENOMINACION": "CARABANCHEL",
+      "CODIGOCTMESTACIONREDMETRO": "98"
+    },
+    "geometry": {
+      "x": -3.744870521041383,
+      "y": 40.38782701996798
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_183",
+      "CODIGOESTACION": "183",
+      "DENOMINACION": "RIVAS URBANIZACIONES",
+      "CODIGOCTMESTACIONREDMETRO": "183"
+    },
+    "geometry": {
+      "x": -3.5472758067455525,
+      "y": 40.366771502577514
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_62",
+      "CODIGOESTACION": "62",
+      "DENOMINACION": "LISTA",
+      "CODIGOCTMESTACIONREDMETRO": "62"
+    },
+    "geometry": {
+      "x": -3.675409822278686,
+      "y": 40.429168520255786
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_199",
+      "CODIGOESTACION": "199",
+      "DENOMINACION": "LAGO",
+      "CODIGOCTMESTACIONREDMETRO": "199"
+    },
+    "geometry": {
+      "x": -3.7356310593736235,
+      "y": 40.416414110991504
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_200",
+      "CODIGOESTACION": "200",
+      "DENOMINACION": "BATAN",
+      "CODIGOCTMESTACIONREDMETRO": "200"
+    },
+    "geometry": {
+      "x": -3.7531099371759526,
+      "y": 40.40786020840237
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_12",
+      "CODIGOESTACION": "12",
+      "DENOMINACION": "SOL",
+      "CODIGOCTMESTACIONREDMETRO": "12"
+    },
+    "geometry": {
+      "x": -3.703261648575282,
+      "y": 40.41687606089402
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_35",
+      "CODIGOESTACION": "35",
+      "DENOMINACION": "SOL",
+      "CODIGOCTMESTACIONREDMETRO": "12"
+    },
+    "geometry": {
+      "x": -3.7032613507552123,
+      "y": 40.4168474580948
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_48",
+      "CODIGOESTACION": "48",
+      "DENOMINACION": "SOL",
+      "CODIGOCTMESTACIONREDMETRO": "12"
+    },
+    "geometry": {
+      "x": -3.7032610281165037,
+      "y": 40.41681647165373
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_120",
+      "CODIGOESTACION": "120",
+      "DENOMINACION": "NUEVOS MINISTERIOS",
+      "CODIGOCTMESTACIONREDMETRO": "120"
+    },
+    "geometry": {
+      "x": -3.6924064585114573,
+      "y": 40.446621215182525
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_193",
+      "CODIGOESTACION": "193",
+      "DENOMINACION": "NUEVOS MINISTERIOS",
+      "CODIGOCTMESTACIONREDMETRO": "120"
+    },
+    "geometry": {
+      "x": -3.6924060916320443,
+      "y": 40.44658546516346
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_185",
+      "CODIGOESTACION": "185",
+      "DENOMINACION": "LA POVEDA",
+      "CODIGOCTMESTACIONREDMETRO": "185"
+    },
+    "geometry": {
+      "x": -3.477447350588455,
+      "y": 40.31901573079284
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_101",
+      "CODIGOESTACION": "101",
+      "DENOMINACION": "EMPALME",
+      "CODIGOCTMESTACIONREDMETRO": "101"
+    },
+    "geometry": {
+      "x": -3.765347875572339,
+      "y": 40.39057255783158
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_226",
+      "CODIGOESTACION": "226",
+      "DENOMINACION": "GETAFE CENTRAL",
+      "CODIGOCTMESTACIONREDMETRO": "226"
+    },
+    "geometry": {
+      "x": -3.734025028929001,
+      "y": 40.30992790904166
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_10",
+      "CODIGOESTACION": "10",
+      "DENOMINACION": "TRIBUNAL",
+      "CODIGOCTMESTACIONREDMETRO": "10"
+    },
+    "geometry": {
+      "x": -3.70109984950459,
+      "y": 40.42618539559021
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_105",
+      "CODIGOESTACION": "105",
+      "DENOMINACION": "CARPETANA",
+      "CODIGOCTMESTACIONREDMETRO": "105"
+    },
+    "geometry": {
+      "x": -3.740993676713557,
+      "y": 40.39270189946354
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_107",
+      "CODIGOESTACION": "107",
+      "DENOMINACION": "OPA\u00d1EL",
+      "CODIGOCTMESTACIONREDMETRO": "107"
+    },
+    "geometry": {
+      "x": -3.723133621163613,
+      "y": 40.38690440425559
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_113",
+      "CODIGOESTACION": "113",
+      "DENOMINACION": "CONDE DE CASAL",
+      "CODIGOCTMESTACIONREDMETRO": "113"
+    },
+    "geometry": {
+      "x": -3.670408067233978,
+      "y": 40.40696795047538
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_123",
+      "CODIGOESTACION": "123",
+      "DENOMINACION": "VICENTE ALEIXANDRE",
+      "CODIGOCTMESTACIONREDMETRO": "123"
+    },
+    "geometry": {
+      "x": -3.719426711968892,
+      "y": 40.44643639934855
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_129",
+      "CODIGOESTACION": "129",
+      "DENOMINACION": "ALTO DE EXTREMADURA",
+      "CODIGOCTMESTACIONREDMETRO": "129"
+    },
+    "geometry": {
+      "x": -3.7389361815722615,
+      "y": 40.40992601698508
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_13",
+      "CODIGOESTACION": "13",
+      "DENOMINACION": "TIRSO DE MOLINA",
+      "CODIGOCTMESTACIONREDMETRO": "13"
+    },
+    "geometry": {
+      "x": -3.704655268799714,
+      "y": 40.412348094110165
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_50",
+      "CODIGOESTACION": "50",
+      "DENOMINACION": "PLAZA DE ESPA\u00d1A",
+      "CODIGOCTMESTACIONREDMETRO": "50"
+    },
+    "geometry": {
+      "x": -3.711197037580092,
+      "y": 40.42341602795806
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_51",
+      "CODIGOESTACION": "51",
+      "DENOMINACION": "VENTURA RODRIGUEZ",
+      "CODIGOCTMESTACIONREDMETRO": "51"
+    },
+    "geometry": {
+      "x": -3.713413096705454,
+      "y": 40.42708736443108
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_276",
+      "CODIGOESTACION": "276",
+      "DENOMINACION": "LAS TABLAS",
+      "CODIGOCTMESTACIONREDMETRO": "276"
+    },
+    "geometry": {
+      "x": -3.6694425832834607,
+      "y": 40.50833012106391
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_103",
+      "CODIGOESTACION": "103",
+      "DENOMINACION": "CASA DE CAMPO",
+      "CODIGOCTMESTACIONREDMETRO": "103"
+    },
+    "geometry": {
+      "x": -3.761013667626499,
+      "y": 40.403242270835875
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_201",
+      "CODIGOESTACION": "201",
+      "DENOMINACION": "CASA DE CAMPO",
+      "CODIGOCTMESTACIONREDMETRO": "103"
+    },
+    "geometry": {
+      "x": -3.761013281083767,
+      "y": 40.40320794801885
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_78",
+      "CODIGOESTACION": "78",
+      "DENOMINACION": "PUEBLO NUEVO",
+      "CODIGOCTMESTACIONREDMETRO": "78"
+    },
+    "geometry": {
+      "x": -3.64282326413925,
+      "y": 40.43569283899227
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_124",
+      "CODIGOESTACION": "124",
+      "DENOMINACION": "CIUDAD UNIVERSITARIA",
+      "CODIGOCTMESTACIONREDMETRO": "124"
+    },
+    "geometry": {
+      "x": -3.726784810097875,
+      "y": 40.44356467694622
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_146",
+      "CODIGOESTACION": "146",
+      "DENOMINACION": "GUZMAN EL BUENO",
+      "CODIGOCTMESTACIONREDMETRO": "122"
+    },
+    "geometry": {
+      "x": -3.712293644526187,
+      "y": 40.446328896938624
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_176",
+      "CODIGOESTACION": "176",
+      "DENOMINACION": "VINATEROS",
+      "CODIGOCTMESTACIONREDMETRO": "176"
+    },
+    "geometry": {
+      "x": -3.6527342071047637,
+      "y": 40.41023992779957
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_177",
+      "CODIGOESTACION": "177",
+      "DENOMINACION": "ARTILLEROS",
+      "CODIGOCTMESTACIONREDMETRO": "177"
+    },
+    "geometry": {
+      "x": -3.641812337774728,
+      "y": 40.4052238336675
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_20",
+      "CODIGOESTACION": "20",
+      "DENOMINACION": "NUEVA NUMANCIA",
+      "CODIGOCTMESTACIONREDMETRO": "20"
+    },
+    "geometry": {
+      "x": -3.6641417014856694,
+      "y": 40.39553816215716
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_181",
+      "CODIGOESTACION": "181",
+      "DENOMINACION": "SAN CIPRIANO",
+      "CODIGOCTMESTACIONREDMETRO": "181"
+    },
+    "geometry": {
+      "x": -3.6023940495699014,
+      "y": 40.40381175745944
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_252",
+      "CODIGOESTACION": "252",
+      "DENOMINACION": "ALAMEDA DE OSUNA",
+      "CODIGOCTMESTACIONREDMETRO": "252"
+    },
+    "geometry": {
+      "x": -3.5875209290434937,
+      "y": 40.45778862852046
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_15",
+      "CODIGOESTACION": "15",
+      "DENOMINACION": "ESTACI\u00d3N DEL ARTE",
+      "CODIGOCTMESTACIONREDMETRO": "15"
+    },
+    "geometry": {
+      "x": -3.692487271050582,
+      "y": 40.40885159837552
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_16",
+      "CODIGOESTACION": "16",
+      "DENOMINACION": "ATOCHA RENFE",
+      "CODIGOCTMESTACIONREDMETRO": "16"
+    },
+    "geometry": {
+      "x": -3.689378110765852,
+      "y": 40.406586814542514
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_36",
+      "CODIGOESTACION": "36",
+      "DENOMINACION": "OPERA",
+      "CODIGOCTMESTACIONREDMETRO": "36"
+    },
+    "geometry": {
+      "x": -3.7094186087196794,
+      "y": 40.418092919493105
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_57",
+      "CODIGOESTACION": "57",
+      "DENOMINACION": "ALONSO MARTINEZ",
+      "CODIGOCTMESTACIONREDMETRO": "57"
+    },
+    "geometry": {
+      "x": -3.6959386952332616,
+      "y": 40.42772011333865
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_3",
+      "CODIGOESTACION": "3",
+      "DENOMINACION": "TETUAN",
+      "CODIGOCTMESTACIONREDMETRO": "3"
+    },
+    "geometry": {
+      "x": -3.698249893972328,
+      "y": 40.46055188266481
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_293",
+      "CODIGOESTACION": "293",
+      "DENOMINACION": "LA GAVIA",
+      "CODIGOCTMESTACIONREDMETRO": "293"
+    },
+    "geometry": {
+      "x": -3.613463483075256,
+      "y": 40.37019166319747
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_30",
+      "CODIGOESTACION": "30",
+      "DENOMINACION": "GOYA",
+      "CODIGOCTMESTACIONREDMETRO": "30"
+    },
+    "geometry": {
+      "x": -3.675910176185961,
+      "y": 40.4245483896706
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_31",
+      "CODIGOESTACION": "31",
+      "DENOMINACION": "PRINCIPE DE VERGARA",
+      "CODIGOCTMESTACIONREDMETRO": "31"
+    },
+    "geometry": {
+      "x": -3.680122681043693,
+      "y": 40.422944861760726
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_32",
+      "CODIGOESTACION": "32",
+      "DENOMINACION": "RETIRO",
+      "CODIGOCTMESTACIONREDMETRO": "32"
+    },
+    "geometry": {
+      "x": -3.686244719177841,
+      "y": 40.42030671752325
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_37",
+      "CODIGOESTACION": "37",
+      "DENOMINACION": "SANTO DOMINGO",
+      "CODIGOCTMESTACIONREDMETRO": "37"
+    },
+    "geometry": {
+      "x": -3.707955276656987,
+      "y": 40.42131540813318
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_39",
+      "CODIGOESTACION": "39",
+      "DENOMINACION": "SAN BERNARDO",
+      "CODIGOCTMESTACIONREDMETRO": "39"
+    },
+    "geometry": {
+      "x": -3.7055699332510224,
+      "y": 40.430012762660795
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_294",
+      "CODIGOESTACION": "294",
+      "DENOMINACION": "LAS SUERTES",
+      "CODIGOCTMESTACIONREDMETRO": "294"
+    },
+    "geometry": {
+      "x": -3.5995326897288193,
+      "y": 40.36322802476594
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_295",
+      "CODIGOESTACION": "295",
+      "DENOMINACION": "VALDECARROS",
+      "CODIGOCTMESTACIONREDMETRO": "295"
+    },
+    "geometry": {
+      "x": -3.59316035499877,
+      "y": 40.360068133185166
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_8",
+      "CODIGOESTACION": "8",
+      "DENOMINACION": "IGLESIA",
+      "CODIGOCTMESTACIONREDMETRO": "8"
+    },
+    "geometry": {
+      "x": -3.698979992348473,
+      "y": 40.434923478284944
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_11",
+      "CODIGOESTACION": "11",
+      "DENOMINACION": "GRAN VIA",
+      "CODIGOCTMESTACIONREDMETRO": "11"
+    },
+    "geometry": {
+      "x": -3.701804154062708,
+      "y": 40.420008279509474
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_262",
+      "CODIGOESTACION": "262",
+      "DENOMINACION": "BAMBU",
+      "CODIGOCTMESTACIONREDMETRO": "262"
+    },
+    "geometry": {
+      "x": -3.6763674414711556,
+      "y": 40.47681536116508
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_127",
+      "CODIGOESTACION": "127",
+      "DENOMINACION": "PRINCIPE PIO",
+      "CODIGOCTMESTACIONREDMETRO": "127"
+    },
+    "geometry": {
+      "x": -3.7203235591422588,
+      "y": 40.42106884438364
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_198",
+      "CODIGOESTACION": "198",
+      "DENOMINACION": "PRINCIPE PIO",
+      "CODIGOCTMESTACIONREDMETRO": "127"
+    },
+    "geometry": {
+      "x": -3.7203262700195014,
+      "y": 40.42103069046502
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_238",
+      "CODIGOESTACION": "238",
+      "DENOMINACION": "PRINCIPE PIO",
+      "CODIGOCTMESTACIONREDMETRO": "127"
+    },
+    "geometry": {
+      "x": -3.7203258886629875,
+      "y": 40.420994937799975
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_191",
+      "CODIGOESTACION": "191",
+      "DENOMINACION": "CUZCO",
+      "CODIGOCTMESTACIONREDMETRO": "191"
+    },
+    "geometry": {
+      "x": -3.689850751213803,
+      "y": 40.45842141927867
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_192",
+      "CODIGOESTACION": "192",
+      "DENOMINACION": "SANTIAGO BERNABEU",
+      "CODIGOCTMESTACIONREDMETRO": "192"
+    },
+    "geometry": {
+      "x": -3.6903793467348454,
+      "y": 40.45158917952577
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_205",
+      "CODIGOESTACION": "205",
+      "DENOMINACION": "PUERTA DEL SUR",
+      "CODIGOCTMESTACIONREDMETRO": "205"
+    },
+    "geometry": {
+      "x": -3.8121107350474532,
+      "y": 40.3452428742768
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_204",
+      "CODIGOESTACION": "204",
+      "DENOMINACION": "JOAQUIN VILUMBRALES",
+      "CODIGOCTMESTACIONREDMETRO": "204"
+    },
+    "geometry": {
+      "x": -3.8072012843672822,
+      "y": 40.349848097734004
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_207",
+      "CODIGOESTACION": "207",
+      "DENOMINACION": "ABRANTES",
+      "CODIGOCTMESTACIONREDMETRO": "207"
+    },
+    "geometry": {
+      "x": -3.7279002491217077,
+      "y": 40.380833614731245
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_21",
+      "CODIGOESTACION": "21",
+      "DENOMINACION": "PORTAZGO",
+      "CODIGOCTMESTACIONREDMETRO": "21"
+    },
+    "geometry": {
+      "x": -3.658682425344429,
+      "y": 40.39266410896103
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_133",
+      "CODIGOESTACION": "133",
+      "DENOMINACION": "SAN BLAS",
+      "CODIGOCTMESTACIONREDMETRO": "133"
+    },
+    "geometry": {
+      "x": -3.6154690762577584,
+      "y": 40.427991906767446
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_134",
+      "CODIGOESTACION": "134",
+      "DENOMINACION": "SIMANCAS",
+      "CODIGOCTMESTACIONREDMETRO": "134"
+    },
+    "geometry": {
+      "x": -3.625721672941209,
+      "y": 40.4279923730252
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_263",
+      "CODIGOESTACION": "263",
+      "DENOMINACION": "PINAR DE CHAMARTIN",
+      "CODIGOCTMESTACIONREDMETRO": "263"
+    },
+    "geometry": {
+      "x": -3.666804481448275,
+      "y": 40.48013997815096
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_266",
+      "CODIGOESTACION": "266",
+      "DENOMINACION": "PINAR DE CHAMARTIN",
+      "CODIGOCTMESTACIONREDMETRO": "263"
+    },
+    "geometry": {
+      "x": -3.6667610675346913,
+      "y": 40.48013848447957
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_89",
+      "CODIGOESTACION": "89",
+      "DENOMINACION": "OPERA",
+      "CODIGOCTMESTACIONREDMETRO": "36"
+    },
+    "geometry": {
+      "x": -3.7093496027052257,
+      "y": 40.41809334199409
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_237",
+      "CODIGOESTACION": "237",
+      "DENOMINACION": "OPERA",
+      "CODIGOCTMESTACIONREDMETRO": "36"
+    },
+    "geometry": {
+      "x": -3.7092805966893105,
+      "y": 40.41809376445387
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_206",
+      "CODIGOESTACION": "206",
+      "DENOMINACION": "PLAZA ELIPTICA",
+      "CODIGOCTMESTACIONREDMETRO": "108"
+    },
+    "geometry": {
+      "x": -3.718252093606752,
+      "y": 40.384600790382066
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_118",
+      "CODIGOESTACION": "118",
+      "DENOMINACION": "AVENIDA DE AMERICA",
+      "CODIGOCTMESTACIONREDMETRO": "64"
+    },
+    "geometry": {
+      "x": -3.676583431725225,
+      "y": 40.43803528785048
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_141",
+      "CODIGOESTACION": "141",
+      "DENOMINACION": "AVENIDA DE AMERICA",
+      "CODIGOCTMESTACIONREDMETRO": "64"
+    },
+    "geometry": {
+      "x": -3.676527279518791,
+      "y": 40.43803561557426
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_170",
+      "CODIGOESTACION": "170",
+      "DENOMINACION": "AVENIDA DE AMERICA",
+      "CODIGOCTMESTACIONREDMETRO": "64"
+    },
+    "geometry": {
+      "x": -3.6764711524000466,
+      "y": 40.43803832871194
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_29",
+      "CODIGOESTACION": "29",
+      "DENOMINACION": "MANUEL BECERRA",
+      "CODIGOCTMESTACIONREDMETRO": "29"
+    },
+    "geometry": {
+      "x": -3.669258203049727,
+      "y": 40.42790417380744
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_6",
+      "CODIGOESTACION": "6",
+      "DENOMINACION": "CUATRO CAMINOS",
+      "CODIGOCTMESTACIONREDMETRO": "6"
+    },
+    "geometry": {
+      "x": -3.703974771978261,
+      "y": 40.44697395278304
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_42",
+      "CODIGOESTACION": "42",
+      "DENOMINACION": "CUATRO CAMINOS",
+      "CODIGOCTMESTACIONREDMETRO": "6"
+    },
+    "geometry": {
+      "x": -3.7039217350429934,
+      "y": 40.446974274859556
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_202",
+      "CODIGOESTACION": "202",
+      "DENOMINACION": "COLONIA JARDIN",
+      "CODIGOCTMESTACIONREDMETRO": "202"
+    },
+    "geometry": {
+      "x": -3.774616256196163,
+      "y": 40.396975426434246
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_212",
+      "CODIGOESTACION": "212",
+      "DENOMINACION": "PARQUE OESTE",
+      "CODIGOCTMESTACIONREDMETRO": "212"
+    },
+    "geometry": {
+      "x": -3.849338616599969,
+      "y": 40.345894380413725
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_213",
+      "CODIGOESTACION": "213",
+      "DENOMINACION": "UNIVERSIDAD REY JUAN CARLOS",
+      "CODIGOCTMESTACIONREDMETRO": "213"
+    },
+    "geometry": {
+      "x": -3.8721796064244822,
+      "y": 40.335122976598605
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_215",
+      "CODIGOESTACION": "215",
+      "DENOMINACION": "PRADILLO",
+      "CODIGOCTMESTACIONREDMETRO": "215"
+    },
+    "geometry": {
+      "x": -3.864889402970309,
+      "y": 40.32167696474467
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_216",
+      "CODIGOESTACION": "216",
+      "DENOMINACION": "HOSPITAL DE MOSTOLES",
+      "CODIGOCTMESTACIONREDMETRO": "216"
+    },
+    "geometry": {
+      "x": -3.874712477719213,
+      "y": 40.316524281645606
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_224",
+      "CODIGOESTACION": "224",
+      "DENOMINACION": "CONSERVATORIO",
+      "CODIGOCTMESTACIONREDMETRO": "224"
+    },
+    "geometry": {
+      "x": -3.7457610404433783,
+      "y": 40.29324384631658
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_218",
+      "CODIGOESTACION": "218",
+      "DENOMINACION": "LORANCA",
+      "CODIGOCTMESTACIONREDMETRO": "218"
+    },
+    "geometry": {
+      "x": -3.837683457120192,
+      "y": 40.29681266405529
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_219",
+      "CODIGOESTACION": "219",
+      "DENOMINACION": "HOSPITAL DE FUENLABRADA",
+      "CODIGOCTMESTACIONREDMETRO": "219"
+    },
+    "geometry": {
+      "x": -3.816416808685618,
+      "y": 40.28575548587764
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_220",
+      "CODIGOESTACION": "220",
+      "DENOMINACION": "PARQUE EUROPA",
+      "CODIGOCTMESTACIONREDMETRO": "220"
+    },
+    "geometry": {
+      "x": -3.8063229922835395,
+      "y": 40.28517569649551
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_41",
+      "CODIGOESTACION": "41",
+      "DENOMINACION": "CANAL",
+      "CODIGOCTMESTACIONREDMETRO": "41"
+    },
+    "geometry": {
+      "x": -3.704334573354305,
+      "y": 40.43841299799997
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_40",
+      "CODIGOESTACION": "40",
+      "DENOMINACION": "QUEVEDO",
+      "CODIGOCTMESTACIONREDMETRO": "40"
+    },
+    "geometry": {
+      "x": -3.704332861250257,
+      "y": 40.433217315157556
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_223",
+      "CODIGOESTACION": "223",
+      "DENOMINACION": "ARROYO CULEBRO",
+      "CODIGOCTMESTACIONREDMETRO": "223"
+    },
+    "geometry": {
+      "x": -3.7568233566673848,
+      "y": 40.28874176914942
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_225",
+      "CODIGOESTACION": "225",
+      "DENOMINACION": "ALONSO DE MENDOZA",
+      "CODIGOCTMESTACIONREDMETRO": "225"
+    },
+    "geometry": {
+      "x": -3.7366369717124623,
+      "y": 40.300813961926536
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_229",
+      "CODIGOESTACION": "229",
+      "DENOMINACION": "LOS ESPARTALES",
+      "CODIGOCTMESTACIONREDMETRO": "229"
+    },
+    "geometry": {
+      "x": -3.7181978645243983,
+      "y": 40.32422701493734
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_23",
+      "CODIGOESTACION": "23",
+      "DENOMINACION": "ALTO DEL ARENAL",
+      "CODIGOCTMESTACIONREDMETRO": "23"
+    },
+    "geometry": {
+      "x": -3.6452165490428263,
+      "y": 40.38977101214874
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_232",
+      "CODIGOESTACION": "232",
+      "DENOMINACION": "JULIAN BESTEIRO",
+      "CODIGOCTMESTACIONREDMETRO": "232"
+    },
+    "geometry": {
+      "x": -3.7526589509919104,
+      "y": 40.33474910783056
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_44",
+      "CODIGOESTACION": "44",
+      "DENOMINACION": "DELICIAS",
+      "CODIGOCTMESTACIONREDMETRO": "44"
+    },
+    "geometry": {
+      "x": -3.694199616036338,
+      "y": 40.39990477855439
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_236",
+      "CODIGOESTACION": "236",
+      "DENOMINACION": "SAN NICASIO",
+      "CODIGOCTMESTACIONREDMETRO": "236"
+    },
+    "geometry": {
+      "x": -3.775873625300736,
+      "y": 40.33616314789595
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_24",
+      "CODIGOESTACION": "24",
+      "DENOMINACION": "MIGUEL HERNANDEZ",
+      "CODIGOCTMESTACIONREDMETRO": "24"
+    },
+    "geometry": {
+      "x": -3.6395099006306384,
+      "y": 40.38731574705667
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_254",
+      "CODIGOESTACION": "254",
+      "DENOMINACION": "SAN FRANCISCO",
+      "CODIGOCTMESTACIONREDMETRO": "254"
+    },
+    "geometry": {
+      "x": -3.739102929190019,
+      "y": 40.37359884105576
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_257",
+      "CODIGOESTACION": "257",
+      "DENOMINACION": "AVIACION ESPA\u00d1OLA",
+      "CODIGOCTMESTACIONREDMETRO": "257"
+    },
+    "geometry": {
+      "x": -3.7839229464393767,
+      "y": 40.38363943761124
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_258",
+      "CODIGOESTACION": "258",
+      "DENOMINACION": "PINAR DEL REY",
+      "CODIGOCTMESTACIONREDMETRO": "258"
+    },
+    "geometry": {
+      "x": -3.6486683605201167,
+      "y": 40.46800136207379
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_260",
+      "CODIGOESTACION": "260",
+      "DENOMINACION": "LA ELIPA",
+      "CODIGOCTMESTACIONREDMETRO": "260"
+    },
+    "geometry": {
+      "x": -3.6505189139028626,
+      "y": 40.426617234977186
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_286",
+      "CODIGOESTACION": "286",
+      "DENOMINACION": "ESTADIO METROPOLITANO",
+      "CODIGOCTMESTACIONREDMETRO": "286"
+    },
+    "geometry": {
+      "x": -3.6001536542125243,
+      "y": 40.43339348409986
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_184",
+      "CODIGOESTACION": "184",
+      "DENOMINACION": "RIVAS VACIAMADRID",
+      "CODIGOCTMESTACIONREDMETRO": "184"
+    },
+    "geometry": {
+      "x": -3.5205975209537232,
+      "y": 40.32837092189286
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_22",
+      "CODIGOESTACION": "22",
+      "DENOMINACION": "BUENOS AIRES",
+      "CODIGOCTMESTACIONREDMETRO": "22"
+    },
+    "geometry": {
+      "x": -3.6539061229836958,
+      "y": 40.39156287721576
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_178",
+      "CODIGOESTACION": "178",
+      "DENOMINACION": "PAVONES",
+      "CODIGOCTMESTACIONREDMETRO": "178"
+    },
+    "geometry": {
+      "x": -3.635122556293407,
+      "y": 40.40051154957267
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_273",
+      "CODIGOESTACION": "273",
+      "DENOMINACION": "VILLAVERDE ALTO",
+      "CODIGOCTMESTACIONREDMETRO": "273"
+    },
+    "geometry": {
+      "x": -3.7119902708686725,
+      "y": 40.34122865689154
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_28",
+      "CODIGOESTACION": "28",
+      "DENOMINACION": "VENTAS",
+      "CODIGOCTMESTACIONREDMETRO": "28"
+    },
+    "geometry": {
+      "x": -3.6636588664575465,
+      "y": 40.430884498813434
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_217",
+      "CODIGOESTACION": "217",
+      "DENOMINACION": "MANUELA MALASA\u00d1A",
+      "CODIGOCTMESTACIONREDMETRO": "217"
+    },
+    "geometry": {
+      "x": -3.8640211972261507,
+      "y": 40.30903005583646
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_1",
+      "CODIGOESTACION": "1",
+      "DENOMINACION": "PLAZA DE CASTILLA",
+      "CODIGOCTMESTACIONREDMETRO": "1"
+    },
+    "geometry": {
+      "x": -3.689169587035836,
+      "y": 40.46689603731065
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_164",
+      "CODIGOESTACION": "164",
+      "DENOMINACION": "PLAZA DE CASTILLA",
+      "CODIGOCTMESTACIONREDMETRO": "1"
+    },
+    "geometry": {
+      "x": -3.6891266532024405,
+      "y": 40.46689629239304
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_271",
+      "CODIGOESTACION": "271",
+      "DENOMINACION": "VILLAVERDE BAJO CRUCE",
+      "CODIGOCTMESTACIONREDMETRO": "271"
+    },
+    "geometry": {
+      "x": -3.6926489418134363,
+      "y": 40.35089476396152
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_189",
+      "CODIGOESTACION": "189",
+      "DENOMINACION": "CHAMARTIN",
+      "CODIGOCTMESTACIONREDMETRO": "261"
+    },
+    "geometry": {
+      "x": -3.6825908805499754,
+      "y": 40.472103124612666
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_188",
+      "CODIGOESTACION": "188",
+      "DENOMINACION": "BEGO\u00d1A",
+      "CODIGOCTMESTACIONREDMETRO": "188"
+    },
+    "geometry": {
+      "x": -3.6858496955790008,
+      "y": 40.48041293210537
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_280",
+      "CODIGOESTACION": "280",
+      "DENOMINACION": "MARQUES DE LA VALDAVIA",
+      "CODIGOCTMESTACIONREDMETRO": "280"
+    },
+    "geometry": {
+      "x": -3.637384941176687,
+      "y": 40.54102356213352
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_282",
+      "CODIGOESTACION": "282",
+      "DENOMINACION": "BAUNATAL",
+      "CODIGOCTMESTACIONREDMETRO": "282"
+    },
+    "geometry": {
+      "x": -3.6351260237120413,
+      "y": 40.55442320714419
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_326",
+      "CODIGOESTACION": "326",
+      "DENOMINACION": "MIRASIERRA",
+      "CODIGOCTMESTACIONREDMETRO": "326"
+    },
+    "geometry": {
+      "x": -3.7163444822992076,
+      "y": 40.491097784867534
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_174",
+      "CODIGOESTACION": "174",
+      "DENOMINACION": "SAINZ DE BARANDA",
+      "CODIGOCTMESTACIONREDMETRO": "114"
+    },
+    "geometry": {
+      "x": -3.6695137437026353,
+      "y": 40.4150284968071
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_114",
+      "CODIGOESTACION": "114",
+      "DENOMINACION": "SAINZ DE BARANDA",
+      "CODIGOCTMESTACIONREDMETRO": "114"
+    },
+    "geometry": {
+      "x": -3.669514139418049,
+      "y": 40.41506853886662
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_136",
+      "CODIGOESTACION": "136",
+      "DENOMINACION": "ASCAO",
+      "CODIGOCTMESTACIONREDMETRO": "136"
+    },
+    "geometry": {
+      "x": -3.64105571498423,
+      "y": 40.4302055301581
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_93",
+      "CODIGOESTACION": "93",
+      "DENOMINACION": "PIRAMIDES",
+      "CODIGOCTMESTACIONREDMETRO": "93"
+    },
+    "geometry": {
+      "x": -3.7113771228123165,
+      "y": 40.40259816545889
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_235",
+      "CODIGOESTACION": "235",
+      "DENOMINACION": "LEGANES CENTRAL",
+      "CODIGOCTMESTACIONREDMETRO": "235"
+    },
+    "geometry": {
+      "x": -3.771536996688428,
+      "y": 40.32898523094555
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_211",
+      "CODIGOESTACION": "211",
+      "DENOMINACION": "ALCORCON CENTRAL",
+      "CODIGOCTMESTACIONREDMETRO": "211"
+    },
+    "geometry": {
+      "x": -3.8317786206319795,
+      "y": 40.350084340279416
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_228",
+      "CODIGOESTACION": "228",
+      "DENOMINACION": "EL CASAR",
+      "CODIGOCTMESTACIONREDMETRO": "228"
+    },
+    "geometry": {
+      "x": -3.7098540423000594,
+      "y": 40.31862315788545
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_61",
+      "CODIGOESTACION": "61",
+      "DENOMINACION": "GOYA",
+      "CODIGOCTMESTACIONREDMETRO": "30"
+    },
+    "geometry": {
+      "x": -3.6768461429074466,
+      "y": 40.424805404817974
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_172",
+      "CODIGOESTACION": "172",
+      "DENOMINACION": "PRINCIPE DE VERGARA",
+      "CODIGOCTMESTACIONREDMETRO": "31"
+    },
+    "geometry": {
+      "x": -3.6802398689995695,
+      "y": 40.42417595482102
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_194",
+      "CODIGOESTACION": "194",
+      "DENOMINACION": "GREGORIO MARA\u00d1ON",
+      "CODIGOCTMESTACIONREDMETRO": "142"
+    },
+    "geometry": {
+      "x": -3.691267602842976,
+      "y": 40.43753407332082
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_259",
+      "CODIGOESTACION": "259",
+      "DENOMINACION": "ARGANZUELA-PLANETARIO",
+      "CODIGOCTMESTACIONREDMETRO": "259"
+    },
+    "geometry": {
+      "x": -3.688640347447094,
+      "y": 40.39310270492071
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_255",
+      "CODIGOESTACION": "255",
+      "DENOMINACION": "CARABANCHEL ALTO",
+      "CODIGOCTMESTACIONREDMETRO": "255"
+    },
+    "geometry": {
+      "x": -3.751906344267269,
+      "y": 40.3720024216854
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_324",
+      "CODIGOESTACION": "324",
+      "DENOMINACION": "AVENIDA DE GUADALAJARA",
+      "CODIGOCTMESTACIONREDMETRO": "324"
+    },
+    "geometry": {
+      "x": -3.6120646096811457,
+      "y": 40.42239358382272
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_325",
+      "CODIGOESTACION": "325",
+      "DENOMINACION": "LAS ROSAS",
+      "CODIGOCTMESTACIONREDMETRO": "325"
+    },
+    "geometry": {
+      "x": -3.6033055955674373,
+      "y": 40.42374843104424
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_256",
+      "CODIGOESTACION": "256",
+      "DENOMINACION": "LA PESETA",
+      "CODIGOCTMESTACIONREDMETRO": "256"
+    },
+    "geometry": {
+      "x": -3.756902710588123,
+      "y": 40.36422401181158
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_130",
+      "CODIGOESTACION": "130",
+      "DENOMINACION": "LUCERO",
+      "CODIGOCTMESTACIONREDMETRO": "130"
+    },
+    "geometry": {
+      "x": -3.745336959451509,
+      "y": 40.405099650652225
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_152",
+      "CODIGOESTACION": "152",
+      "DENOMINACION": "LACOMA",
+      "CODIGOCTMESTACIONREDMETRO": "152"
+    },
+    "geometry": {
+      "x": -3.723045541550223,
+      "y": 40.485015026073626
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_151",
+      "CODIGOESTACION": "151",
+      "DENOMINACION": "AVDA. DE LA ILUSTRACION",
+      "CODIGOCTMESTACIONREDMETRO": "151"
+    },
+    "geometry": {
+      "x": -3.7183982522186554,
+      "y": 40.48010261154569
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_148",
+      "CODIGOESTACION": "148",
+      "DENOMINACION": "VALDEZARZA",
+      "CODIGOCTMESTACIONREDMETRO": "148"
+    },
+    "geometry": {
+      "x": -3.715972126851418,
+      "y": 40.46482353283605
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_156",
+      "CODIGOESTACION": "156",
+      "DENOMINACION": "COLOMBIA",
+      "CODIGOCTMESTACIONREDMETRO": "156"
+    },
+    "geometry": {
+      "x": -3.6768242867748153,
+      "y": 40.456339068325185
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_82",
+      "CODIGOESTACION": "82",
+      "DENOMINACION": "DIEGO DE LEON",
+      "CODIGOCTMESTACIONREDMETRO": "63"
+    },
+    "geometry": {
+      "x": -3.674261712530584,
+      "y": 40.43235319427283
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_53",
+      "CODIGOESTACION": "53",
+      "DENOMINACION": "MONCLOA",
+      "CODIGOCTMESTACIONREDMETRO": "53"
+    },
+    "geometry": {
+      "x": -3.719450619240696,
+      "y": 40.43502351519558
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_265",
+      "CODIGOESTACION": "265",
+      "DENOMINACION": "MANOTERAS",
+      "CODIGOCTMESTACIONREDMETRO": "265"
+    },
+    "geometry": {
+      "x": -3.6628954758911214,
+      "y": 40.476874226693596
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_27",
+      "CODIGOESTACION": "27",
+      "DENOMINACION": "CONGOSTO",
+      "CODIGOCTMESTACIONREDMETRO": "27"
+    },
+    "geometry": {
+      "x": -3.6188413501245416,
+      "y": 40.37238237036666
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_160",
+      "CODIGOESTACION": "160",
+      "DENOMINACION": "BARAJAS",
+      "CODIGOCTMESTACIONREDMETRO": "160"
+    },
+    "geometry": {
+      "x": -3.5825279097963674,
+      "y": 40.475774163830884
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_112",
+      "CODIGOESTACION": "112",
+      "DENOMINACION": "PACIFICO",
+      "CODIGOCTMESTACIONREDMETRO": "18"
+    },
+    "geometry": {
+      "x": -3.6738560384118877,
+      "y": 40.402071738555954
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_234",
+      "CODIGOESTACION": "234",
+      "DENOMINACION": "HOSPITAL SEVERO OCHOA",
+      "CODIGOCTMESTACIONREDMETRO": "234"
+    },
+    "geometry": {
+      "x": -3.7679730473046176,
+      "y": 40.32177027008829
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_209",
+      "CODIGOESTACION": "209",
+      "DENOMINACION": "PUERTA DEL SUR",
+      "CODIGOCTMESTACIONREDMETRO": "205"
+    },
+    "geometry": {
+      "x": -3.8124891797456804,
+      "y": 40.34543086550063
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_283",
+      "CODIGOESTACION": "283",
+      "DENOMINACION": "REYES CATOLICOS",
+      "CODIGOCTMESTACIONREDMETRO": "283"
+    },
+    "geometry": {
+      "x": -3.6233994104420226,
+      "y": 40.55037483366552
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_281",
+      "CODIGOESTACION": "281",
+      "DENOMINACION": "MANUEL DE FALLA",
+      "CODIGOCTMESTACIONREDMETRO": "281"
+    },
+    "geometry": {
+      "x": -3.6468794495056858,
+      "y": 40.55047998089715
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_278",
+      "CODIGOESTACION": "278",
+      "DENOMINACION": "LA GRANJA",
+      "CODIGOCTMESTACIONREDMETRO": "278"
+    },
+    "geometry": {
+      "x": -3.658592087138037,
+      "y": 40.52759962236235
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_284",
+      "CODIGOESTACION": "284",
+      "DENOMINACION": "HOSPITAL INFANTA SOFIA",
+      "CODIGOCTMESTACIONREDMETRO": "284"
+    },
+    "geometry": {
+      "x": -3.6114547338421925,
+      "y": 40.559769448196086
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_119",
+      "CODIGOESTACION": "119",
+      "DENOMINACION": "REPUBLICA ARGENTINA",
+      "CODIGOCTMESTACIONREDMETRO": "119"
+    },
+    "geometry": {
+      "x": -3.6840618670570504,
+      "y": 40.44379456449
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_155",
+      "CODIGOESTACION": "155",
+      "DENOMINACION": "NUEVOS MINISTERIOS",
+      "CODIGOCTMESTACIONREDMETRO": "120"
+    },
+    "geometry": {
+      "x": -3.692405592344977,
+      "y": 40.446552669988414
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_261",
+      "CODIGOESTACION": "261",
+      "DENOMINACION": "CHAMARTIN",
+      "CODIGOCTMESTACIONREDMETRO": "261"
+    },
+    "geometry": {
+      "x": -3.682590109403099,
+      "y": 40.47202685297345
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_180",
+      "CODIGOESTACION": "180",
+      "DENOMINACION": "VICALVARO",
+      "CODIGOCTMESTACIONREDMETRO": "180"
+    },
+    "geometry": {
+      "x": -3.6088588260062022,
+      "y": 40.404215916403444
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_288",
+      "CODIGOESTACION": "288",
+      "DENOMINACION": "COSLADA CENTRAL",
+      "CODIGOCTMESTACIONREDMETRO": "288"
+    },
+    "geometry": {
+      "x": -3.5611923494996556,
+      "y": 40.42373620597773
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_138",
+      "CODIGOESTACION": "138",
+      "DENOMINACION": "BARRIO DE LA CONCEPCION",
+      "CODIGOCTMESTACIONREDMETRO": "138"
+    },
+    "geometry": {
+      "x": -3.6520040012947503,
+      "y": 40.439099399993054
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_14",
+      "CODIGOESTACION": "14",
+      "DENOMINACION": "ANTON MARTIN",
+      "CODIGOCTMESTACIONREDMETRO": "14"
+    },
+    "geometry": {
+      "x": -3.6993729633448895,
+      "y": 40.41246356569
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_143",
+      "CODIGOESTACION": "143",
+      "DENOMINACION": "ALONSO CANO",
+      "CODIGOCTMESTACIONREDMETRO": "143"
+    },
+    "geometry": {
+      "x": -3.6992456432372576,
+      "y": 40.43837537611044
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_147",
+      "CODIGOESTACION": "147",
+      "DENOMINACION": "FRANCOS RODRIGUEZ",
+      "CODIGOCTMESTACIONREDMETRO": "147"
+    },
+    "geometry": {
+      "x": -3.712386672198295,
+      "y": 40.45648182077827
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_149",
+      "CODIGOESTACION": "149",
+      "DENOMINACION": "ANTONIO MACHADO",
+      "CODIGOCTMESTACIONREDMETRO": "149"
+    },
+    "geometry": {
+      "x": -3.7176948552412226,
+      "y": 40.47021772039073
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_186",
+      "CODIGOESTACION": "186",
+      "DENOMINACION": "ARGANDA DEL REY",
+      "CODIGOCTMESTACIONREDMETRO": "186"
+    },
+    "geometry": {
+      "x": -3.447518960780649,
+      "y": 40.303669277437
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_162",
+      "CODIGOESTACION": "162",
+      "DENOMINACION": "BARRIO DEL PILAR",
+      "CODIGOCTMESTACIONREDMETRO": "162"
+    },
+    "geometry": {
+      "x": -3.703164503841757,
+      "y": 40.47688906880558
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_203",
+      "CODIGOESTACION": "203",
+      "DENOMINACION": "CUATRO VIENTOS",
+      "CODIGOCTMESTACIONREDMETRO": "203"
+    },
+    "geometry": {
+      "x": -3.7915151998735666,
+      "y": 40.37770688876972
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_168",
+      "CODIGOESTACION": "168",
+      "DENOMINACION": "CONCHA ESPINA",
+      "CODIGOCTMESTACIONREDMETRO": "168"
+    },
+    "geometry": {
+      "x": -3.677380122875907,
+      "y": 40.451448432622364
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_163",
+      "CODIGOESTACION": "163",
+      "DENOMINACION": "VENTILLA",
+      "CODIGOCTMESTACIONREDMETRO": "163"
+    },
+    "geometry": {
+      "x": -3.6958833297651754,
+      "y": 40.46943537698728
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_165",
+      "CODIGOESTACION": "165",
+      "DENOMINACION": "DUQUE DE PASTRANA",
+      "CODIGOCTMESTACIONREDMETRO": "165"
+    },
+    "geometry": {
+      "x": -3.6791705524779017,
+      "y": 40.467625851508785
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_157",
+      "CODIGOESTACION": "157",
+      "DENOMINACION": "MAR DE CRISTAL",
+      "CODIGOCTMESTACIONREDMETRO": "71"
+    },
+    "geometry": {
+      "x": -3.6383202232204686,
+      "y": 40.469383787188725
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_54",
+      "CODIGOESTACION": "54",
+      "DENOMINACION": "ARG\u00dcELLES",
+      "CODIGOCTMESTACIONREDMETRO": "52"
+    },
+    "geometry": {
+      "x": -3.7159568697272873,
+      "y": 40.430598358763966
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_296",
+      "CODIGOESTACION": "296",
+      "DENOMINACION": "HOSPITAL DEL HENARES",
+      "CODIGOCTMESTACIONREDMETRO": "296"
+    },
+    "geometry": {
+      "x": -3.5345349720982124,
+      "y": 40.41761001821852
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_126",
+      "CODIGOESTACION": "126",
+      "DENOMINACION": "ARG\u00dcELLES",
+      "CODIGOCTMESTACIONREDMETRO": "52"
+    },
+    "geometry": {
+      "x": -3.7159561654441755,
+      "y": 40.430531839640196
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_49",
+      "CODIGOESTACION": "49",
+      "DENOMINACION": "CALLAO",
+      "CODIGOCTMESTACIONREDMETRO": "49"
+    },
+    "geometry": {
+      "x": -3.7056612368434116,
+      "y": 40.420136495085096
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_139",
+      "CODIGOESTACION": "139",
+      "DENOMINACION": "PARQUE DE LAS AVENIDAS",
+      "CODIGOCTMESTACIONREDMETRO": "139"
+    },
+    "geometry": {
+      "x": -3.6629705808692217,
+      "y": 40.43944760234025
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_86",
+      "CODIGOESTACION": "86",
+      "DENOMINACION": "CHUECA",
+      "CODIGOCTMESTACIONREDMETRO": "86"
+    },
+    "geometry": {
+      "x": -3.6976165924437825,
+      "y": 40.422933178079816
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_196",
+      "CODIGOESTACION": "196",
+      "DENOMINACION": "TRIBUNAL",
+      "CODIGOCTMESTACIONREDMETRO": "10"
+    },
+    "geometry": {
+      "x": -3.7020777488360026,
+      "y": 40.42599519678041
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_289",
+      "CODIGOESTACION": "289",
+      "DENOMINACION": "LA RAMBLA",
+      "CODIGOCTMESTACIONREDMETRO": "289"
+    },
+    "geometry": {
+      "x": -3.5479238333382477,
+      "y": 40.42514348413913
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_287",
+      "CODIGOESTACION": "287",
+      "DENOMINACION": "BARRIO DEL PUERTO",
+      "CODIGOCTMESTACIONREDMETRO": "287"
+    },
+    "geometry": {
+      "x": -3.5691884702656647,
+      "y": 40.42249687009597
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_290",
+      "CODIGOESTACION": "290",
+      "DENOMINACION": "SAN FERNANDO",
+      "CODIGOCTMESTACIONREDMETRO": "290"
+    },
+    "geometry": {
+      "x": -3.5354145225517146,
+      "y": 40.42441224966061
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_292",
+      "CODIGOESTACION": "292",
+      "DENOMINACION": "HENARES",
+      "CODIGOCTMESTACIONREDMETRO": "292"
+    },
+    "geometry": {
+      "x": -3.5271783527904157,
+      "y": 40.41776948524124
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_169",
+      "CODIGOESTACION": "169",
+      "DENOMINACION": "CRUZ DEL RAYO",
+      "CODIGOCTMESTACIONREDMETRO": "169"
+    },
+    "geometry": {
+      "x": -3.6782141096710466,
+      "y": 40.44426588110329
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_17",
+      "CODIGOESTACION": "17",
+      "DENOMINACION": "MENENDEZ PELAYO",
+      "CODIGOCTMESTACIONREDMETRO": "17"
+    },
+    "geometry": {
+      "x": -3.6809794170757697,
+      "y": 40.40445052226359
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_270",
+      "CODIGOESTACION": "270",
+      "DENOMINACION": "CIUDAD DE LOS ANGELES",
+      "CODIGOCTMESTACIONREDMETRO": "270"
+    },
+    "geometry": {
+      "x": -3.6936264441706634,
+      "y": 40.359585428137
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_272",
+      "CODIGOESTACION": "272",
+      "DENOMINACION": "SAN CRISTOBAL",
+      "CODIGOCTMESTACIONREDMETRO": "272"
+    },
+    "geometry": {
+      "x": -3.6931802991863165,
+      "y": 40.34154193600964
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_55",
+      "CODIGOESTACION": "55",
+      "DENOMINACION": "SAN BERNARDO",
+      "CODIGOCTMESTACIONREDMETRO": "39"
+    },
+    "geometry": {
+      "x": -3.705673788588775,
+      "y": 40.429662461610036
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_56",
+      "CODIGOESTACION": "56",
+      "DENOMINACION": "BILBAO",
+      "CODIGOCTMESTACIONREDMETRO": "9"
+    },
+    "geometry": {
+      "x": -3.7011381755651382,
+      "y": 40.42885030444197
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_85",
+      "CODIGOESTACION": "85",
+      "DENOMINACION": "ALONSO MARTINEZ",
+      "CODIGOCTMESTACIONREDMETRO": "57"
+    },
+    "geometry": {
+      "x": -3.6950229019466976,
+      "y": 40.42828258137045
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_46",
+      "CODIGOESTACION": "46",
+      "DENOMINACION": "EMBAJADORES",
+      "CODIGOCTMESTACIONREDMETRO": "46"
+    },
+    "geometry": {
+      "x": -3.70268049977228,
+      "y": 40.405127271162534
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_125",
+      "CODIGOESTACION": "125",
+      "DENOMINACION": "MONCLOA",
+      "CODIGOCTMESTACIONREDMETRO": "53"
+    },
+    "geometry": {
+      "x": -3.719450010688234,
+      "y": 40.43496631087177
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_100",
+      "CODIGOESTACION": "100",
+      "DENOMINACION": "ALUCHE",
+      "CODIGOCTMESTACIONREDMETRO": "100"
+    },
+    "geometry": {
+      "x": -3.76080381070444,
+      "y": 40.38562861956385
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_92",
+      "CODIGOESTACION": "92",
+      "DENOMINACION": "ACACIAS",
+      "CODIGOCTMESTACIONREDMETRO": "46"
+    },
+    "geometry": {
+      "x": -3.7066410860751864,
+      "y": 40.40387164372991
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_110",
+      "CODIGOESTACION": "110",
+      "DENOMINACION": "LEGAZPI",
+      "CODIGOCTMESTACIONREDMETRO": "43"
+    },
+    "geometry": {
+      "x": -3.69505136534669,
+      "y": 40.39115775794032
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_43",
+      "CODIGOESTACION": "43",
+      "DENOMINACION": "LEGAZPI",
+      "CODIGOCTMESTACIONREDMETRO": "43"
+    },
+    "geometry": {
+      "x": -3.695113687596018,
+      "y": 40.391154999510235
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_111",
+      "CODIGOESTACION": "111",
+      "DENOMINACION": "MENDEZ ALVARO",
+      "CODIGOCTMESTACIONREDMETRO": "111"
+    },
+    "geometry": {
+      "x": -3.6781415070830423,
+      "y": 40.39537559939098
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_96",
+      "CODIGOESTACION": "96",
+      "DENOMINACION": "OPORTO",
+      "CODIGOCTMESTACIONREDMETRO": "96"
+    },
+    "geometry": {
+      "x": -3.7313233124150336,
+      "y": 40.38846476309323
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_106",
+      "CODIGOESTACION": "106",
+      "DENOMINACION": "OPORTO",
+      "CODIGOCTMESTACIONREDMETRO": "96"
+    },
+    "geometry": {
+      "x": -3.731264112878039,
+      "y": 40.388467519483676
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_59",
+      "CODIGOESTACION": "59",
+      "DENOMINACION": "SERRANO",
+      "CODIGOCTMESTACIONREDMETRO": "59"
+    },
+    "geometry": {
+      "x": -3.6866304363833353,
+      "y": 40.42543215941902
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_63",
+      "CODIGOESTACION": "63",
+      "DENOMINACION": "DIEGO DE LEON",
+      "CODIGOCTMESTACIONREDMETRO": "63"
+    },
+    "geometry": {
+      "x": -3.6749527300771714,
+      "y": 40.43467946439266
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_275",
+      "CODIGOESTACION": "275",
+      "DENOMINACION": "MONTECARMELO",
+      "CODIGOCTMESTACIONREDMETRO": "275"
+    },
+    "geometry": {
+      "x": -3.6957506950563808,
+      "y": 40.505252159110974
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_66",
+      "CODIGOESTACION": "66",
+      "DENOMINACION": "ALFONSO XIII",
+      "CODIGOCTMESTACIONREDMETRO": "66"
+    },
+    "geometry": {
+      "x": -3.6679061529956103,
+      "y": 40.44824838816102
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_67",
+      "CODIGOESTACION": "67",
+      "DENOMINACION": "AVENIDA DE LA PAZ",
+      "CODIGOCTMESTACIONREDMETRO": "67"
+    },
+    "geometry": {
+      "x": -3.6611819996826074,
+      "y": 40.453542634899286
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_69",
+      "CODIGOESTACION": "69",
+      "DENOMINACION": "ESPERANZA",
+      "CODIGOCTMESTACIONREDMETRO": "69"
+    },
+    "geometry": {
+      "x": -3.645817180039627,
+      "y": 40.45944729719177
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_71",
+      "CODIGOESTACION": "71",
+      "DENOMINACION": "MAR DE CRISTAL",
+      "CODIGOCTMESTACIONREDMETRO": "71"
+    },
+    "geometry": {
+      "x": -3.638322673402993,
+      "y": 40.46942603388481
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_72",
+      "CODIGOESTACION": "72",
+      "DENOMINACION": "SAN LORENZO",
+      "CODIGOCTMESTACIONREDMETRO": "72"
+    },
+    "geometry": {
+      "x": -3.639577276564596,
+      "y": 40.47447073958695
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_74",
+      "CODIGOESTACION": "74",
+      "DENOMINACION": "CANILLEJAS",
+      "CODIGOCTMESTACIONREDMETRO": "74"
+    },
+    "geometry": {
+      "x": -3.608160323120323,
+      "y": 40.449420844365704
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_75",
+      "CODIGOESTACION": "75",
+      "DENOMINACION": "TORRE ARIAS",
+      "CODIGOCTMESTACIONREDMETRO": "75"
+    },
+    "geometry": {
+      "x": -3.616994705938824,
+      "y": 40.443743296414574
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_76",
+      "CODIGOESTACION": "76",
+      "DENOMINACION": "SUANZES",
+      "CODIGOCTMESTACIONREDMETRO": "76"
+    },
+    "geometry": {
+      "x": -3.6268397441771407,
+      "y": 40.44085124307767
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_79",
+      "CODIGOESTACION": "79",
+      "DENOMINACION": "QUINTANA",
+      "CODIGOCTMESTACIONREDMETRO": "79"
+    },
+    "geometry": {
+      "x": -3.6473622420983225,
+      "y": 40.43358494164949
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_80",
+      "CODIGOESTACION": "80",
+      "DENOMINACION": "EL CARMEN",
+      "CODIGOCTMESTACIONREDMETRO": "80"
+    },
+    "geometry": {
+      "x": -3.6575725472596625,
+      "y": 40.43189329209465
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_83",
+      "CODIGOESTACION": "83",
+      "DENOMINACION": "NU\u00d1EZ DE BALBOA",
+      "CODIGOCTMESTACIONREDMETRO": "83"
+    },
+    "geometry": {
+      "x": -3.6825799144836044,
+      "y": 40.43278060804376
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_84",
+      "CODIGOESTACION": "84",
+      "DENOMINACION": "RUBEN DARIO",
+      "CODIGOCTMESTACIONREDMETRO": "84"
+    },
+    "geometry": {
+      "x": -3.689541598575491,
+      "y": 40.43315793720963
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_9",
+      "CODIGOESTACION": "9",
+      "DENOMINACION": "BILBAO",
+      "CODIGOCTMESTACIONREDMETRO": "9"
+    },
+    "geometry": {
+      "x": -3.7021820657784166,
+      "y": 40.42905602410363
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_94",
+      "CODIGOESTACION": "94",
+      "DENOMINACION": "MARQUES DE VADILLO",
+      "CODIGOCTMESTACIONREDMETRO": "94"
+    },
+    "geometry": {
+      "x": -3.7159600765140515,
+      "y": 40.397356290324495
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_95",
+      "CODIGOESTACION": "95",
+      "DENOMINACION": "URGEL",
+      "CODIGOCTMESTACIONREDMETRO": "95"
+    },
+    "geometry": {
+      "x": -3.7236048242936626,
+      "y": 40.39335176845625
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "4_97",
+      "CODIGOESTACION": "97",
+      "DENOMINACION": "VISTA ALEGRE",
+      "CODIGOCTMESTACIONREDMETRO": "97"
+    },
+    "geometry": {
+      "x": -3.7398245500065785,
+      "y": 40.38884702575721
+    }
+  }
+]
+}

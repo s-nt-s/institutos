@@ -1,4 +1,5 @@
-var main_layer;
+var centros_layer;
+var transpo_layer;
 var mymap;
 var cursorMarker;
 
@@ -147,15 +148,15 @@ function marcar(t, id) {
   var marca = t.value;
   if (marca.length) marca = Number(marca);
   else marca=null;
-  geomap["features"].forEach(function(f) {
+  geocentros["features"].forEach(function(f) {
     var _id = f.properties.id;
     if (_id==id) {
       f.properties.marca=marca;
     }
   })
-  mymap.removeLayer(main_layer)
-  main_layer = get_layer();
-  mymap.addLayer(main_layer);
+  mymap.removeLayer(centros_layer)
+  centros_layer = get_centros_layer();
+  mymap.addLayer(centros_layer);
   $(".active").trigger("active");
 }
 
@@ -208,8 +209,8 @@ function make_filter(f, layer) {
   return true;
 }
 
-function get_layer() {
-  return L.geoJSON(geomap,{
+function get_centros_layer() {
+  return L.geoJSON(geocentros,{
     pointToLayer: function (f, latlng) {
       var p = f.properties;
       if (p.marca==2) {
@@ -231,6 +232,68 @@ function get_layer() {
     filter: make_filter
   })
 }
+
+
+function get_transpo_layer() {
+  return L.geoJSON(geotransporte,{
+    style:function(f){
+      return {
+        "color":f.properties.color,
+        weight: 3,
+        opacity: .7,
+        lineJoin: 'round'
+      }
+    },
+    pointToLayer: function (f, latlng) {
+      var p = f.properties;
+      let options = {
+        radius: 4,
+        fillColor: "black",
+        color: "black",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.5
+      }
+      return L.circleMarker( latlng, options );
+    },
+    onEachFeature: function(f, l) {
+      var p = f.properties;
+      if (f.geometry.type == "LineString") {
+        var tp = p.tipo.replace("_", " ");
+        tp = tp.charAt(0).toUpperCase() + tp.slice(1)
+        l.bindPopup("Linea "+p.linea+" de "+tp);
+      } else if (f.geometry.type == "Point") {
+        var i;
+        txt=[]
+        for (i=0;i<p.lineas.length; i++) {
+          var ln=p.lineas[i]
+          txt.push(ln[1])
+        }
+        if (txt.length==1) txt="Linea "+txt[0];
+        else txt = "Lineas "+txt.join(", ");
+        body=`<h1>${p.nombre}</h1><p>${txt}</p>`;
+        l.bindPopup(body);
+      }
+    },
+    filter: function (f, layer) {
+      var p = f.properties;
+      if (f.geometry.type == "LineString") {
+        var id = "#"+p.tipo+"_"+p.linea;
+        return $(id).is(":checked");
+      } else if (f.geometry.type == "Point") {
+        if (!$("#estaciones").is(":checked")) return false;
+        var i;
+        for (i=0;i<p.lineas.length; i++) {
+          var ln=p.lineas[i]
+          var id = "#"+ln[0]+"_"+ln[1];
+          return $(id).is(":checked");
+        }
+      }
+      return false;
+    }
+  })
+}
+
 
 
 $(document).ready(function() {
@@ -262,17 +325,23 @@ mymap.on('click', function(e){
   cursorMarker.addTo(mymap);
   $(".active").trigger("active");
 });
-main_layer = get_layer();
-main_layer.addTo(mymap);
-bounds = main_layer.getBounds()
+centros_layer = get_centros_layer();
+centros_layer.addTo(mymap);
+bounds = centros_layer.getBounds()
 if (Object.keys(bounds).length) mymap.fitBounds(bounds);
 else mymap.setView([40.4165000, -3.7025600], 12)
 var sidebar = L.control.sidebar('sidebar').addTo(mymap);
 
+$("#transporte input").bind("click keypress change", function() {
+    if(transpo_layer) mymap.removeLayer(transpo_layer)
+    transpo_layer = get_transpo_layer();
+    mymap.addLayer(transpo_layer);
+}).change();
+
 $("div.filter input").bind("click keypress change", function() {
-    mymap.removeLayer(main_layer)
-    main_layer = get_layer();
-    mymap.addLayer(main_layer);
+    if(centros_layer) mymap.removeLayer(centros_layer)
+    centros_layer = get_centros_layer();
+    mymap.addLayer(centros_layer);
     var estadistica=get_estadistica();
     $("#count").text(estadistica.seleccionados.length+estadistica.showen.length);
 }).change();
@@ -281,7 +350,7 @@ $("#messages").bind("active", function(){
   var lnk = $("#maillink")
   var href = lnk.data("href");
   var mails=[]
-  geomap["features"].forEach(function(f) {
+  geocentros["features"].forEach(function(f) {
     var mail = f.properties.mail;
     if (mail && make_filter(f) && c.marca!=2) {
       mails.push(mail)
@@ -311,7 +380,7 @@ function get_estadistica(mrk) {
   var showen=[];
   if (mrk && mrk._latlng) mrk = mrk._latlng;
   if (mrk && !(mrk.lat && mrk.lng)) mrk = null;
-  geomap["features"].forEach(function(f) {
+  geocentros["features"].forEach(function(f) {
     c=f.properties;
     if (mrk) {
       var latlon = c.latlon.split(/,/)

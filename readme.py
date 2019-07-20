@@ -12,15 +12,12 @@ def _readme(key):
     i = d.indice
     if key == "datos":
         transporte=''
-        for dt in i.transporte.values():
-            transporte = transporte + "\n                * La red de [{0}]({1})".format(dt.txt, dt.doc)
         return '''
             * [La última convocatoría]({0})
             * [El anexo 29]({1})
             * [El buscador de centros]({2})
-            * Y para determinar la distancia a la estación de transporte más cercana,
-            se han usado los datos de: {3}
-        '''.format(i.convocatoria, i.anexo29, i.centros, transporte)
+            * [El portal de datos abiertos de CRTM]({3})
+        '''.format(i.convocatoria, i.anexo29, i.centros, i.transporte.opendata)
     if key == "buscador":
         return i.centros
     if key == "tipos":

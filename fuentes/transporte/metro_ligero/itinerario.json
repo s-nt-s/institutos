@@ -1,0 +1,802 @@
+{
+"objectIdFieldName": "OBJECTID",
+"uniqueIdField": {
+  "name": "OBJECTID",
+  "isSystemMaintained": true
+},
+"globalIdFieldName": "",
+"fields": [
+  {
+    "name": "NUMEROLINEAUSUARIO",
+    "type": "esriFieldTypeString",
+    "alias": "NUMEROLINEAUSUARIO",
+    "sqlType": "sqlTypeOther",
+    "length": 8,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "CODIGOGESTIONLINEA",
+    "type": "esriFieldTypeString",
+    "alias": "CODIGOGESTIONLINEA",
+    "sqlType": "sqlTypeOther",
+    "length": 10,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "CODIGOESTACION",
+    "type": "esriFieldTypeString",
+    "alias": "CODIGOESTACION",
+    "sqlType": "sqlTypeOther",
+    "length": 7,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "DENOMINACION",
+    "type": "esriFieldTypeString",
+    "alias": "DENOMINACION",
+    "sqlType": "sqlTypeOther",
+    "length": 240,
+    "domain": null,
+    "defaultValue": null
+  }
+],
+"features": [
+  {
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "29",
+      "DENOMINACION": "MONTEPRINCIPE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "29",
+      "DENOMINACION": "MONTEPRINCIPE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "30",
+      "DENOMINACION": "VENTORRO DEL CANO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "30",
+      "DENOMINACION": "VENTORRO DEL CANO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "31",
+      "DENOMINACION": "PRADO DEL ESPINO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "31",
+      "DENOMINACION": "PRADO DEL ESPINO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "32",
+      "DENOMINACION": "CANTABRIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "32",
+      "DENOMINACION": "CANTABRIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "33",
+      "DENOMINACION": "FERIAL DE BOADILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "33",
+      "DENOMINACION": "FERIAL DE BOADILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "34",
+      "DENOMINACION": "BOADILLA CENTRO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "34",
+      "DENOMINACION": "BOADILLA CENTRO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "35",
+      "DENOMINACION": "NUEVO MUNDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "35",
+      "DENOMINACION": "NUEVO MUNDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "36",
+      "DENOMINACION": "SIGLO XXI"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "36",
+      "DENOMINACION": "SIGLO XXI"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "37",
+      "DENOMINACION": "INFANTE DON LUIS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "37",
+      "DENOMINACION": "INFANTE DON LUIS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "38",
+      "DENOMINACION": "PUERTA DE BOADILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "38",
+      "DENOMINACION": "PUERTA DE BOADILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "1",
+      "DENOMINACION": "PINAR DE CHAMARTIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "1",
+      "DENOMINACION": "PINAR DE CHAMARTIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "2",
+      "DENOMINACION": "FUENTE DE LA MORA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "2",
+      "DENOMINACION": "FUENTE DE LA MORA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "3",
+      "DENOMINACION": "VIRGEN DEL CORTIJO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "3",
+      "DENOMINACION": "VIRGEN DEL CORTIJO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "4",
+      "DENOMINACION": "ANTONIO SAURA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "4",
+      "DENOMINACION": "ANTONIO SAURA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "5",
+      "DENOMINACION": "ALVAREZ DE VILLAAMIL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "5",
+      "DENOMINACION": "ALVAREZ DE VILLAAMIL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "6",
+      "DENOMINACION": "BLASCO IBA\u00d1EZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "6",
+      "DENOMINACION": "BLASCO IBA\u00d1EZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "7",
+      "DENOMINACION": "MARIA TUDOR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "7",
+      "DENOMINACION": "MARIA TUDOR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "8",
+      "DENOMINACION": "PALAS DE REY"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "8",
+      "DENOMINACION": "PALAS DE REY"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "9",
+      "DENOMINACION": "LAS TABLAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "510",
+      "CODIGOESTACION": "9",
+      "DENOMINACION": "LAS TABLAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "10",
+      "DENOMINACION": "COLONIA JARDIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "10",
+      "DENOMINACION": "COLONIA JARDIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "23",
+      "DENOMINACION": "ESTACION DE ARAVACA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "23",
+      "DENOMINACION": "ESTACION DE ARAVACA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "24",
+      "DENOMINACION": "COLONIA JARDIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "24",
+      "DENOMINACION": "COLONIA JARDIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "50",
+      "DENOMINACION": "PLAZA DE TOROS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "50",
+      "DENOMINACION": "PLAZA DE TOROS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "51",
+      "DENOMINACION": "JULIO ROMERO DE TORRES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "51",
+      "DENOMINACION": "JULIO ROMERO DE TORRES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "53",
+      "DENOMINACION": "PARLA CENTRO - BULEVAR NORTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "53",
+      "DENOMINACION": "PARLA CENTRO - BULEVAR NORTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "54",
+      "DENOMINACION": "IGLESIA CENTRO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "54",
+      "DENOMINACION": "IGLESIA CENTRO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "55",
+      "DENOMINACION": "BULEVAR SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "55",
+      "DENOMINACION": "BULEVAR SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "56",
+      "DENOMINACION": "REYES CATOLICOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "56",
+      "DENOMINACION": "REYES CATOLICOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "57",
+      "DENOMINACION": "ISABEL II"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "57",
+      "DENOMINACION": "ISABEL II"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "58",
+      "DENOMINACION": "PARQUE PARLA ESTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "58",
+      "DENOMINACION": "PARQUE PARLA ESTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "52",
+      "DENOMINACION": "LA BALLENA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "52",
+      "DENOMINACION": "LA BALLENA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "59",
+      "DENOMINACION": "AVENIDA SISTEMA SOLAR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "59",
+      "DENOMINACION": "AVENIDA SISTEMA SOLAR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "60",
+      "DENOMINACION": "TIERRA NORTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "61",
+      "DENOMINACION": "TIERRA SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "62",
+      "DENOMINACION": "VENUS NORTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "63",
+      "DENOMINACION": "VENUS SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "63",
+      "DENOMINACION": "VENUS SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "65",
+      "DENOMINACION": "ESTRELLA POLAR SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "64",
+      "DENOMINACION": "ESTRELLA POLAR NORTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "64",
+      "DENOMINACION": "ESTRELLA POLAR NORTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "66",
+      "DENOMINACION": "JAIME I NORTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "67",
+      "DENOMINACION": "JAIME I SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-1",
+      "CODIGOGESTIONLINEA": "041",
+      "CODIGOESTACION": "68",
+      "DENOMINACION": "POLIGONO INDUSTRIAL CIUDAD DE PARLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4-2",
+      "CODIGOGESTIONLINEA": "042",
+      "CODIGOESTACION": "68",
+      "DENOMINACION": "POLIGONO INDUSTRIAL CIUDAD DE PARLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "11",
+      "DENOMINACION": "PRADO DE LA VEGA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "11",
+      "DENOMINACION": "PRADO DE LA VEGA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "12",
+      "DENOMINACION": "COLONIA DE LOS ANGELES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "12",
+      "DENOMINACION": "COLONIA DE LOS ANGELES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "13",
+      "DENOMINACION": "PRADO DEL REY"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "13",
+      "DENOMINACION": "PRADO DEL REY"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "14",
+      "DENOMINACION": "SOMOSAGUAS SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "14",
+      "DENOMINACION": "SOMOSAGUAS SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "15",
+      "DENOMINACION": "SOMOSAGUAS CENTRO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "15",
+      "DENOMINACION": "SOMOSAGUAS CENTRO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "16",
+      "DENOMINACION": "POZUELO OESTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "16",
+      "DENOMINACION": "POZUELO OESTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "18",
+      "DENOMINACION": "BELGICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "18",
+      "DENOMINACION": "BELGICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "19",
+      "DENOMINACION": "DOS CASTILLAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "19",
+      "DENOMINACION": "DOS CASTILLAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "20",
+      "DENOMINACION": "CAMPUS DE SOMOSAGUAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "20",
+      "DENOMINACION": "CAMPUS DE SOMOSAGUAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "21",
+      "DENOMINACION": "AVENIDA DE EUROPA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "21",
+      "DENOMINACION": "AVENIDA DE EUROPA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "22",
+      "DENOMINACION": "BERNA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "020",
+      "CODIGOESTACION": "22",
+      "DENOMINACION": "BERNA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "39",
+      "DENOMINACION": "COCHERAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "39",
+      "DENOMINACION": "COCHERAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "25",
+      "DENOMINACION": "CIUDAD DE LA IMAGEN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "25",
+      "DENOMINACION": "CIUDAD DE LA IMAGEN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "26",
+      "DENOMINACION": "JOSE ISBERT"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "26",
+      "DENOMINACION": "JOSE ISBERT"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "27",
+      "DENOMINACION": "CIUDAD DEL CINE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "27",
+      "DENOMINACION": "CIUDAD DEL CINE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "28",
+      "DENOMINACION": "RETAMARES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "030",
+      "CODIGOESTACION": "28",
+      "DENOMINACION": "RETAMARES"
+    }
+  }
+]
+}

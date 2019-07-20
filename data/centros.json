@@ -16,7 +16,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000029",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 9291.950510646871,
+  "min_distance": 9323.391568135932,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -41,7 +41,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000364",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1635.5914025525217,
+  "min_distance": 1597.3358377752102,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -64,7 +64,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000467",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 1702.2675270505988,
+  "min_distance": 1675.498502526645,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
@@ -76,7 +76,7 @@
   "direccion": "Calle Alalpardo, S/n 28806 Alcal\u00e1 de Henares",
   "telefono": 918892450,
   "mail": "ies.machado.alcala@educa.madrid.org",
-  "latlon": "40.49165857006046,-3.3696764563273067",
+  "latlon": "40.491658570060444,-3.3696764563273067",
   "nocturno": [
     "Artes (LOE-LOMCE)"
   ],
@@ -89,7 +89,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000522",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 410.9893638180325,
+  "min_distance": 430.808454255241,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -117,7 +117,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000753",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1455.5754761744386,
+  "min_distance": 1455.3223697596059,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -145,7 +145,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001629",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 961.795377240997,
+  "min_distance": 961.5453462113037,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -169,7 +169,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001678",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1205.8462953830172,
+  "min_distance": 1194.6010235648998,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -192,7 +192,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001769",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1556.5762399404352,
+  "min_distance": 1556.0861787856488,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -204,7 +204,7 @@
   "direccion": "Paseo De San Sebasti\u00e1n, 23 28490 Becerril de la Sierra",
   "telefono": 918538064,
   "mail": "cp.juanramonjimenez.becerril@educa.madrid.org",
-  "latlon": "40.71360141345145,-3.9910766855742534",
+  "latlon": "40.71360141345146,-3.9910766855742534",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -215,7 +215,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001812",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 4430.28536635918,
+  "min_distance": 4426.076469928181,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -237,7 +237,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001848",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 124.1841192298214,
+  "min_distance": 3779.681365868176,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -259,7 +259,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001873",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 11562.055251327944,
+  "min_distance": 11556.970259857173,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -281,7 +281,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002026",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 29844.171500382316,
+  "min_distance": 29833.423467187982,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -303,7 +303,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002038",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 5688.8741786090695,
+  "min_distance": 5676.5972764203225,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -325,7 +325,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002105",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 34445.160719479354,
+  "min_distance": 34434.515708259954,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -347,7 +347,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002181",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1059.3381325486403,
+  "min_distance": 1039.7791504814143,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -371,7 +371,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002211",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 8926.63797534027,
+  "min_distance": 8926.75041916568,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -396,7 +396,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002312",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 2751.3816772102628,
+  "min_distance": 2737.3994181736743,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -420,7 +420,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002415",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1390.059852333341,
+  "min_distance": 1386.2699871477068,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -445,7 +445,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002580",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 967.8094288134089,
+  "min_distance": 968.3142260985351,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -469,7 +469,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28002853",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 11175.001027771794,
+  "min_distance": 11175.031218823504,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -494,7 +494,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003201",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 365.8282128690611,
+  "min_distance": 366.05341266856436,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -517,7 +517,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003304",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 156.73628570218827,
+  "min_distance": 157.09184724701788,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -542,7 +542,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003882",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 424.1883701173416,
+  "min_distance": 424.1620016820243,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -565,7 +565,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003894",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 966.0958857865177,
+  "min_distance": 965.810033357764,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -576,7 +576,7 @@
   "direccion": "Calle Alpujarras, 52 28915 Legan\u00e9s",
   "telefono": 916880222,
   "mail": "ies.mariazambrano.leganes@educa.madrid.org",
-  "latlon": "40.330590380098705,-3.7475089043237886",
+  "latlon": "40.33059038009869,-3.7475089043237886",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -587,7 +587,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003900",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 594.8699844560906,
+  "min_distance": 595.4735603104241,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -613,7 +613,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28004059",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 96.6526267172232,
+  "min_distance": 86.88380461065393,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -637,7 +637,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28005520",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 506.6947088591469,
+  "min_distance": 506.3350310757913,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
   ]
@@ -659,7 +659,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28013899",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 451.8213508379783,
+  "min_distance": 451.24922161459807,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -682,7 +682,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28015756",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 507.64897004686406,
+  "min_distance": 507.46020199223705,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -705,7 +705,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018344",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 121.12731361170057,
+  "min_distance": 121.28178169389963,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -728,7 +728,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018356",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 243.1166354194918,
+  "min_distance": 253.15354206021647,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -751,7 +751,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018368",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 143.98862307799908,
+  "min_distance": 216.57893445543706,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -773,7 +773,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018371",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 381.7947612557047,
+  "min_distance": 381.4970687630993,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
   ]
@@ -795,7 +795,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018381",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1403.6147506844854,
+  "min_distance": 1403.2651589019376,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -822,7 +822,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018435",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 104.2970085692635,
+  "min_distance": 103.94799159541505,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -845,7 +845,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018460",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 625.8716403075971,
+  "min_distance": 631.6850648666439,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -870,7 +870,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018472",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 289.0012128560645,
+  "min_distance": 289.2066051691839,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -893,7 +893,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018484",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 515.7251554764266,
+  "min_distance": 515.6391788336122,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -916,7 +916,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018903",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 154.8431823705998,
+  "min_distance": 154.98599863526215,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -939,7 +939,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019351",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1991.7597433681617,
+  "min_distance": 1993.1564882003977,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -966,7 +966,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019464",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 87.8169540257072,
+  "min_distance": 88.17369231467548,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -989,7 +989,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019889",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 191.0810544195658,
+  "min_distance": 191.11336843919213,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1013,7 +1013,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28019971",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 412.95704732880796,
+  "min_distance": 413.26408252575936,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -1038,7 +1038,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020119",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 519.0919101720526,
+  "min_distance": 526.7663546903696,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1063,7 +1063,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020201",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 72.1516954854248,
+  "min_distance": 71.80621809988727,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1086,7 +1086,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020341",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 378.9077700842562,
+  "min_distance": 378.5936221478451,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -1097,7 +1097,7 @@
   "direccion": "Calle De N\u00e1poles, 56 28043 Madrid",
   "telefono": 913884579,
   "mail": "ies.condedeorgaz.madrid@educa.madrid.org",
-  "latlon": "40.459983181793525,-3.646389131938344",
+  "latlon": "40.45998318179353,-3.646389131938344",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -1108,7 +1108,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020545",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 64.18180116458264,
+  "min_distance": 63.94877591406831,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1120,7 +1120,7 @@
   "direccion": "Calle De Arcos De Jal\u00f3n, 116 28037 Madrid",
   "telefono": 913064069,
   "mail": "ies.carlostercero.madrid@educa.madrid.org",
-  "latlon": "40.424914525909315,-3.6144371343516086",
+  "latlon": "40.42491452590933,-3.6144371343516086",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -1131,7 +1131,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020557",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 321.57952223123254,
+  "min_distance": 321.6630154519788,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1154,7 +1154,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020570",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 261.22781088045997,
+  "min_distance": 267.0907736526581,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
@@ -1177,7 +1177,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020582",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 461.443539901059,
+  "min_distance": 472.22730203142703,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1204,7 +1204,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020624",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 200.91723051748798,
+  "min_distance": 200.91996012788968,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1227,7 +1227,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020648",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 48.23774867287857,
+  "min_distance": 48.4232460908256,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1250,7 +1250,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020703",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 54.56946082927515,
+  "min_distance": 54.500130816083576,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1274,7 +1274,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020715",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1164.746797279519,
+  "min_distance": 1164.778609602831,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
@@ -1297,7 +1297,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020727",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 149.26952812868313,
+  "min_distance": 204.45270727509953,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1321,7 +1321,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020739",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 171.13168587508613,
+  "min_distance": 171.2837227316092,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1344,7 +1344,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020806",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 217.93258155147635,
+  "min_distance": 218.0441630178792,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1357,7 +1357,7 @@
   "direccion": "Calle V\u00eda L\u00edmite, 14 28029 Madrid",
   "telefono": 913146706,
   "mail": "ies.tetuan.madrid@educa.madrid.org",
-  "latlon": "40.473140346863296,-3.696828178293769",
+  "latlon": "40.47314034686331,-3.696828178293769",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -1368,7 +1368,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020831",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 391.4664954280162,
+  "min_distance": 391.17231668552915,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -1390,7 +1390,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020855",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 410.90785693318867,
+  "min_distance": 410.9566141323413,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1416,7 +1416,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020892",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 8.0029516672003,
+  "min_distance": 7.354102016897807,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1431,7 +1431,7 @@
   "direccion": "Calle De Alfonso Xii, 3 28014 Madrid",
   "telefono": 915277878,
   "mail": "ies.isabellacatolica.madrid@educa.madrid.org",
-  "latlon": "40.40951712958399,-3.688192672587283",
+  "latlon": "40.409517129583975,-3.688192672587283",
   "nocturno": [
     "Ciencias (LOE-LOMCE)",
     "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -1445,7 +1445,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020909",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 232.6786958955586,
+  "min_distance": 232.68052101592286,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1469,7 +1469,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020910",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 175.29909456480587,
+  "min_distance": 175.41652051060152,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1495,7 +1495,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020934",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 72.57344879904582,
+  "min_distance": 72.90076971379654,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1523,7 +1523,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020946",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 134.4105013952032,
+  "min_distance": 134.53799973533467,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1548,7 +1548,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020958",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 270.40778815380725,
+  "min_distance": 270.81657850721655,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1571,7 +1571,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020961",
   "tipo": "042",
   "status_web": 503,
-  "min_distance": 185.10634550053243,
+  "min_distance": 185.51939785766425,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1594,7 +1594,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021008",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 464.78074948015654,
+  "min_distance": 464.5279359965426,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1607,7 +1607,7 @@
   "direccion": "Calle De Luis Mitjans, 41 28007 Madrid",
   "telefono": 915523979,
   "mail": "ies.pacifico.madrid@educa.madrid.org",
-  "latlon": "40.40410946519944,-3.6686222494004217",
+  "latlon": "40.404109465199426,-3.6686222494004217",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -1618,7 +1618,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021252",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 348.64495514096876,
+  "min_distance": 348.36903951151544,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -1640,7 +1640,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021549",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 639.9115582313981,
+  "min_distance": 640.0756873261995,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1664,7 +1664,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021550",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1054.2393189696127,
+  "min_distance": 1031.4036198637484,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1687,7 +1687,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021562",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 652.0259129580626,
+  "min_distance": 652.057520021644,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1710,7 +1710,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022207",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5428.413470888441,
+  "min_distance": 5420.368701013701,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1734,7 +1734,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022724",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2136.045990837749,
+  "min_distance": 2136.0808501477654,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -1756,7 +1756,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28022891",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 17378.82083196123,
+  "min_distance": 17372.501760485233,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -1778,7 +1778,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023194",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 662.7937408537388,
+  "min_distance": 677.8572263250678,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -1800,7 +1800,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023327",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 12660.530246550506,
+  "min_distance": 12640.98291547063,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1824,7 +1824,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023364",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 14674.017974916638,
+  "min_distance": 14666.68162031656,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -1846,7 +1846,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023388",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 17689.612674197364,
+  "min_distance": 17668.454532247633,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -1868,7 +1868,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023741",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 324.5683467248511,
+  "min_distance": 913.6558574745914,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -1890,7 +1890,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023911",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 376.83530831692656,
+  "min_distance": 376.71356741096633,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -1916,7 +1916,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024290",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 314.7250415191238,
+  "min_distance": 317.696689868483,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1940,7 +1940,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024642",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 859.9848488154629,
+  "min_distance": 860.1407628432681,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1964,7 +1964,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025014",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1307.7177969615243,
+  "min_distance": 1273.3224433670016,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -1991,7 +1991,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025026",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1489.6836015653312,
+  "min_distance": 1477.1103115149092,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -2015,7 +2015,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025129",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 28380.34721425196,
+  "min_distance": 28421.524958730864,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -2028,7 +2028,7 @@
   "direccion": "Calle Miguel Cervantes, 4 28511 Valdilecha",
   "telefono": 918738437,
   "mail": "cp.cervantes.valdilecha@educa.madrid.org",
-  "latlon": "40.29384204220651,-3.2996501318009703",
+  "latlon": "40.29384204220653,-3.2996501318009703",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -2039,7 +2039,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025415",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 12616.23435067482,
+  "min_distance": 12615.880255553528,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -2061,7 +2061,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025658",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 21011.71776427269,
+  "min_distance": 21011.202753227317,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -2072,7 +2072,7 @@
   "direccion": "Calle De Valdebernardo, 1 28030 Madrid",
   "telefono": 917731854,
   "mail": "ies.felipesegundo.madrid@educa.madrid.org",
-  "latlon": "40.39752159032749,-3.6338429115163104",
+  "latlon": "40.397521590327486,-3.6338429115163104",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -2083,7 +2083,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025828",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 349.10200677949246,
+  "min_distance": 355.15525621684554,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2109,7 +2109,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28026031",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1309.3756561297296,
+  "min_distance": 1305.6516371987605,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2132,7 +2132,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28026092",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 503.0079452048164,
+  "min_distance": 479.368526323272,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2155,7 +2155,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028301",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1250.7908445164562,
+  "min_distance": 1270.7905862939524,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2178,7 +2178,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028350",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 298.76692626675396,
+  "min_distance": 299.279369391325,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2204,7 +2204,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028374",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 198.51911763576464,
+  "min_distance": 198.42591149758638,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2227,7 +2227,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028404",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 601.8287603156792,
+  "min_distance": 621.3417069660919,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2239,7 +2239,7 @@
   "direccion": "Avenida De Los Toreros, 57 28028 Madrid",
   "telefono": 913552326,
   "mail": "ies.avenidadelostor.madrid@educa.madrid.org",
-  "latlon": "40.43351870441474,-3.6647988443253077",
+  "latlon": "40.433518704414745,-3.6647988443253077",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -2250,7 +2250,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028428",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 284.2327348864426,
+  "min_distance": 284.2532122865205,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2276,7 +2276,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028431",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 481.1922598811963,
+  "min_distance": 481.13701631775643,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2299,7 +2299,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028453",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 286.9961184782489,
+  "min_distance": 286.99840405529585,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2322,7 +2322,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028465",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 300.60348103320183,
+  "min_distance": 344.1924465327732,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2345,7 +2345,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028477",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 331.71640110004256,
+  "min_distance": 331.7031204164854,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2368,7 +2368,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028568",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 346.7301308873078,
+  "min_distance": 344.5847518786235,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2391,7 +2391,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028571",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 547.1908861661842,
+  "min_distance": 554.0630655627801,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -2415,7 +2415,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028611",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 704.8794994579827,
+  "min_distance": 704.8225317430132,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2427,7 +2427,7 @@
   "direccion": "Calle De Serrano, 127 28006 Madrid",
   "telefono": 915617838,
   "mail": "ies.ramirodemaeztu.madrid@educa.madrid.org",
-  "latlon": "40.44234017693831,-3.6860865092847903",
+  "latlon": "40.4423401769383,-3.6860865092847903",
   "nocturno": [
     "Ciencias (LOE-LOMCE)",
     "Humanidades y Ciencias Sociales (LOE-LOMCE)",
@@ -2442,7 +2442,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028672",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 214.44816106738782,
+  "min_distance": 214.4801353894378,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2468,7 +2468,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028684",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1621.624577513837,
+  "min_distance": 1966.0855520573173,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -2493,7 +2493,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030101",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 471.19730290247884,
+  "min_distance": 471.6200150949748,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -2517,7 +2517,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030113",
   "tipo": "031",
   "status_web": 991,
-  "min_distance": 530.6435805574044,
+  "min_distance": 530.5886753718529,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -2530,7 +2530,7 @@
   "direccion": "Calle De Oca\u00f1a, 35bis 28047 Madrid",
   "telefono": 917179100,
   "mail": "cepa.aluche.madrid@educa.madrid.org",
-  "latlon": "40.38478069568678,-3.7556594164657175",
+  "latlon": "40.384780695686764,-3.7556594164657175",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -2541,7 +2541,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030125",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 380.2953628602764,
+  "min_distance": 409.1662177484265,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
@@ -2555,7 +2555,7 @@
   "direccion": "Calle De Fortuny, 24 28010 Madrid",
   "telefono": 913101839,
   "mail": "ies.fortuny.madrid@educa.madrid.org",
-  "latlon": "40.4337594258703,-3.6898309692897224",
+  "latlon": "40.433759425870306,-3.6898309692897224",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -2566,7 +2566,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030137",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 70.99337329208447,
+  "min_distance": 106.55810177957419,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2589,7 +2589,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030149",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 244.25423813034269,
+  "min_distance": 244.34867575281126,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2612,7 +2612,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030150",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 84.78695256049548,
+  "min_distance": 90.11475835920587,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2635,7 +2635,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030162",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 672.6100874740964,
+  "min_distance": 672.718220980553,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2658,7 +2658,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030174",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 704.1698424610089,
+  "min_distance": 705.8166447431189,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2670,7 +2670,7 @@
   "direccion": "Calle De Alfredo Marquerie, 21 28034 Madrid",
   "telefono": 917388675,
   "mail": "ies.damasoalonso.madrid@educa.madrid.org",
-  "latlon": "40.48718116314,-3.7004659272215004",
+  "latlon": "40.48718116313999,-3.7004659272215004",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -2681,7 +2681,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030186",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 507.384449870013,
+  "min_distance": 479.1797421150075,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2704,7 +2704,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030204",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 783.2480013608719,
+  "min_distance": 833.3984172431296,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
@@ -2717,7 +2717,7 @@
   "direccion": "Avenida Juan Carlos I, 19 28981 Parla",
   "telefono": 916982906,
   "mail": "ies.humanejos.parla@educa.madrid.org",
-  "latlon": "40.228683137011366,-3.7688847486100605",
+  "latlon": "40.22868313701137,-3.7688847486100596",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -2728,7 +2728,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030216",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 317.3163360116577,
+  "min_distance": 1353.6492159992201,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -2752,7 +2752,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030228",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 987.0750185646491,
+  "min_distance": 963.3490100985783,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -2776,7 +2776,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030241",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 211.53286108288287,
+  "min_distance": 200.74600219443695,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -2789,7 +2789,7 @@
   "direccion": "Calle De Somont\u00edn, 59 28033 Madrid",
   "telefono": 913028445,
   "mail": "ies.arturosoria.madrid@educa.madrid.org",
-  "latlon": "40.477742910170676,-3.660161958912997",
+  "latlon": "40.47774291017068,-3.660161958912997",
   "nocturno": null,
   "dificultad": true,
   "adaptado": false,
@@ -2800,7 +2800,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030575",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 249.01290646398664,
+  "min_distance": 248.79872225748525,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2823,7 +2823,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030903",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 912.4829254699561,
+  "min_distance": 917.2342273286633,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -2847,7 +2847,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030915",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 350.4197929833338,
+  "min_distance": 335.9662203896222,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2859,7 +2859,7 @@
   "direccion": "Calle De Maqueda, 130 28024 Madrid",
   "telefono": 917191511,
   "mail": "ies.blasdeotero.madrid@educa.madrid.org",
-  "latlon": "40.38888268881213,-3.76207929306955",
+  "latlon": "40.38888268881214,-3.76207929306955",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -2870,7 +2870,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030927",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 334.99887899059,
+  "min_distance": 339.0294853692749,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2893,10 +2893,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030939",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 93.99396214662474,
-  "etapas": [
-    "Bachillerato"
-  ]
+  "min_distance": 93.69745318639774,
+  "etapas": ["Bachillerato"]
 },{
   "id": 28030952,
   "dat": "Capital",
@@ -2915,7 +2913,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030952",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 469.0587147862076,
+  "min_distance": 468.83328123419506,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2938,7 +2936,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030964",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 453.0668337398902,
+  "min_distance": 453.3958216113655,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -2951,7 +2949,7 @@
   "direccion": "Calle De Carlos Ii, S/n 28022 Madrid",
   "telefono": 913065946,
   "mail": "ies.lasmusas.madrid@educa.madrid.org",
-  "latlon": "40.42868839313901,-3.6077871485978754",
+  "latlon": "40.42868839313902,-3.6077871485978754",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -2962,7 +2960,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030976",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 430.02116272483596,
+  "min_distance": 429.6524957747815,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -2985,7 +2983,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030991",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 657.4271655582143,
+  "min_distance": 657.246340897758,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -3009,7 +3007,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031002",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 749.9410820361096,
+  "min_distance": 736.1584241688877,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -3031,7 +3029,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28031555",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 213.32254141716544,
+  "min_distance": 213.2115550381017,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -3042,7 +3040,7 @@
   "direccion": "Avenida Alemania, 19 28916 Legan\u00e9s",
   "telefono": 916867274,
   "mail": "ies.arquitectoperid.leganes@educa.madrid.org",
-  "latlon": "40.33420095800475,-3.740826690151356",
+  "latlon": "40.33420095800474,-3.740826690151356",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3053,7 +3051,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032471",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 258.5915039031997,
+  "min_distance": 258.3424756492495,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3076,7 +3074,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032481",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 503.3805458845696,
+  "min_distance": 503.27767853360075,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -3100,7 +3098,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032501",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1964.726831396561,
+  "min_distance": 1960.84004427564,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3112,7 +3110,7 @@
   "direccion": "Avenida Juan Carlos I, 12 28981 Parla",
   "telefono": 916981111,
   "mail": "ies.tiernogalvan.parla@educa.madrid.org",
-  "latlon": "40.22596700849176,-3.768184077093533",
+  "latlon": "40.225967008491764,-3.768184077093533",
   "nocturno": [
     "Ciencias (LOE-LOMCE)",
     "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -3126,7 +3124,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032559",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 621.1574716912627,
+  "min_distance": 1657.4723813540284,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -3150,7 +3148,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033311",
   "tipo": "031",
   "status_web": 404,
-  "min_distance": 121.23455998620985,
+  "min_distance": 120.96602876629923,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -3163,7 +3161,7 @@
   "direccion": "Calle De Chantada, 34 28029 Madrid",
   "telefono": 913781949,
   "mail": "cepa.sampedro.madrid@educa.madrid.org",
-  "latlon": "40.47346444529825,-3.713111024424132",
+  "latlon": "40.47346444529824,-3.713111024424132",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3174,7 +3172,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033321",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 356.5423492340368,
+  "min_distance": 368.55909217243146,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
@@ -3199,7 +3197,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033333",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 182.60965967247276,
+  "min_distance": 182.50902161089928,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -3223,7 +3221,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033539",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 310.9715511234204,
+  "min_distance": 330.85951395080065,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3246,7 +3244,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033552",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 413.1314169130112,
+  "min_distance": 413.18513963859147,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3269,7 +3267,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033679",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 124.89472273766155,
+  "min_distance": 123.54386490988688,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -3291,7 +3289,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033850",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 754.2138087954196,
+  "min_distance": 754.4601441765727,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -3315,7 +3313,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28034441",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 133.2499206701183,
+  "min_distance": 132.75574623232882,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3338,7 +3336,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035305",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1446.7046403070196,
+  "min_distance": 1434.1995280113827,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3361,7 +3359,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035317",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1418.0838734366055,
+  "min_distance": 1401.396969049019,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -3385,7 +3383,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035330",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 613.2796452782275,
+  "min_distance": 598.4607082615476,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3397,7 +3395,7 @@
   "direccion": "Camino De La Dehesilla Y Rodeo, S/n 28470 Cercedilla",
   "telefono": 918521763,
   "mail": "ies.ladehesilla.cercedilla@educa.madrid.org",
-  "latlon": "40.737405789386784,-4.043729029455896",
+  "latlon": "40.73740578938678,-4.043729029455895",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3408,7 +3406,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035342",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1864.9939746311275,
+  "min_distance": 1907.9998138224028,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3431,7 +3429,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036656",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 455.3529915296733,
+  "min_distance": 455.5362237108608,
   "etapas": [
     "ESO para personas adultas (LOE-LOMCE)"
   ]
@@ -3453,7 +3451,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036930",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 342.0029512153976,
+  "min_distance": 341.4884760822286,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -3466,7 +3464,7 @@
   "direccion": "Avenida Del Oeste, S/n 28922 Alcorc\u00f3n",
   "telefono": 916439991,
   "mail": "ies.laarboleda.alcorcon@educa.madrid.org",
-  "latlon": "40.34165824906582,-3.8325430117586587",
+  "latlon": "40.34165824906583,-3.8325430117586587",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3477,7 +3475,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036978",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 832.0083302113406,
+  "min_distance": 812.8167821499104,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -3501,7 +3499,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036981",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 573.9821785101033,
+  "min_distance": 574.4746878733117,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -3525,7 +3523,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036991",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2320.7633578587156,
+  "min_distance": 2383.6159810857557,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -3538,7 +3536,7 @@
   "direccion": "Calle Agustinos, S/n 28914 Legan\u00e9s",
   "telefono": 916947859,
   "mail": "ies.tiernogalvan.leganes@educa.madrid.org",
-  "latlon": "40.317109998761175,-3.7726174570450484",
+  "latlon": "40.31710999876118,-3.7726174570450484",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3549,7 +3547,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037004",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 584.4772891147746,
+  "min_distance": 584.4496799496548,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3572,7 +3570,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037016",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 357.23452893204103,
+  "min_distance": 357.428789250726,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3595,7 +3593,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037028",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 335.2811480524645,
+  "min_distance": 372.44803232868924,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -3619,7 +3617,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037031",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 396.09555780666676,
+  "min_distance": 408.6791695478786,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3642,7 +3640,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037041",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 630.9044545457197,
+  "min_distance": 631.1028693659833,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3665,7 +3663,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037053",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 555.3905968269339,
+  "min_distance": 555.6940787989193,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3688,7 +3686,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037065",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 300.4154572345364,
+  "min_distance": 302.09246900302514,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -3712,7 +3710,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037077",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1155.3162096162396,
+  "min_distance": 1119.2258554063674,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3735,7 +3733,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037089",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1899.3568508345984,
+  "min_distance": 1926.9893618354245,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -3759,7 +3757,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037892",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 477.8504249250141,
+  "min_distance": 478.34470213196437,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -3783,7 +3781,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038070",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 502.6353480358724,
+  "min_distance": 508.15797563641405,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -3805,7 +3803,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038100",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 47.99083258095908,
+  "min_distance": 46.35518394234329,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -3827,7 +3825,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038151",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 715.7258891050858,
+  "min_distance": 715.8941412432764,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3839,7 +3837,7 @@
   "direccion": "Calle Austria, 7 28916 Legan\u00e9s",
   "telefono": 916862999,
   "mail": "ies.salvadordali.leganes@educa.madrid.org",
-  "latlon": "40.336955597574175,-3.742563890444476",
+  "latlon": "40.33695559757417,-3.742563890444476",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -3850,7 +3848,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038291",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 181.61688773413158,
+  "min_distance": 181.98103367134027,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3862,7 +3860,7 @@
   "direccion": "Calle De La Ingenier\u00eda, 1 28918 Legan\u00e9s",
   "telefono": 916806303,
   "mail": "ies.sigloveintiuno.leganes@educa.madrid.org",
-  "latlon": "40.338367602932315,-3.7636886267571183",
+  "latlon": "40.33836760293232,-3.7636886267571183",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3873,7 +3871,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038306",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1019.603253988892,
+  "min_distance": 1038.938729123091,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3896,7 +3894,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038355",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 103.02618312980795,
+  "min_distance": 103.6264066179083,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -3919,7 +3917,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038367",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 500.18555210602443,
+  "min_distance": 515.6641508241521,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -3941,7 +3939,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038379",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 228.77841356819965,
+  "min_distance": 228.8444234615736,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -3963,7 +3961,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038422",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 762.0635101331991,
+  "min_distance": 783.0003157286119,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -3985,7 +3983,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038446",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 664.6142754307377,
+  "min_distance": 664.7547832122473,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4009,7 +4007,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038550",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 162.6280534265585,
+  "min_distance": 162.82347332557623,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
   ]
@@ -4031,7 +4029,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038616",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 624.5126659807934,
+  "min_distance": 625.0231584829063,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4054,7 +4052,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038631",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 96.2862306143933,
+  "min_distance": 96.76841789930835,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -4078,7 +4076,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038641",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1625.3174766304605,
+  "min_distance": 1637.0563919247948,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -4102,7 +4100,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038665",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 234.08922707793886,
+  "min_distance": 228.42194231898733,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
@@ -4125,7 +4123,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038689",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 156.5787455451899,
+  "min_distance": 125.42084969044964,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
@@ -4149,7 +4147,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038801",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 70.03554044062572,
+  "min_distance": 47.2851865700372,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4161,7 +4159,7 @@
   "direccion": "Calle De Joaqu\u00edn Lorenzo, 2 28035 Madrid",
   "telefono": 913732052,
   "mail": "ies.newton.madrid@educa.madrid.org",
-  "latlon": "40.473018628383926,-3.722520036764229",
+  "latlon": "40.47301862838391,-3.722520036764229",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -4172,7 +4170,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038823",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 498.6705425137011,
+  "min_distance": 498.4353447557292,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4184,7 +4182,7 @@
   "direccion": "Calle Gardenia, 29 28803 Alcal\u00e1 de Henares",
   "telefono": 918808462,
   "mail": "ies.isidradeguzman.alcala@educa.madrid.org",
-  "latlon": "40.47372451898073,-3.371642537326748",
+  "latlon": "40.473724518980724,-3.371642537326748",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -4195,7 +4193,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038835",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1760.9189667345147,
+  "min_distance": 1754.0190101915,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4218,7 +4216,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038847",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 578.8438521434078,
+  "min_distance": 584.2692382225181,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4242,7 +4240,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038859",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 382.1999819351525,
+  "min_distance": 382.2450677815451,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4265,7 +4263,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038860",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 161.19022145968762,
+  "min_distance": 131.76467287752953,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4288,7 +4286,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038872",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 547.5041458870264,
+  "min_distance": 550.0064026617273,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4311,7 +4309,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038884",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 872.6243099615575,
+  "min_distance": 872.940235283707,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4334,7 +4332,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038896",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 465.79405479882615,
+  "min_distance": 465.69348304160496,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4357,7 +4355,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038902",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 203.75070777187804,
+  "min_distance": 583.0434511073144,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4381,7 +4379,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038914",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1396.099072547334,
+  "min_distance": 1868.6635283919225,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4404,7 +4402,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038926",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1709.1280411700357,
+  "min_distance": 1686.1629527931123,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4416,7 +4414,7 @@
   "direccion": "Calle De Las Moreras, 28 28300 Aranjuez",
   "telefono": 918920298,
   "mail": "ies.alpajes.aranjuez@educa.madrid.org",
-  "latlon": "40.03509377888681,-3.5935656943584227",
+  "latlon": "40.035093778886825,-3.5935656943584227",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -4427,7 +4425,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039037",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2103.788487515463,
+  "min_distance": 2104.7504999093435,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4451,7 +4449,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039128",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1078.6938209240323,
+  "min_distance": 1083.3573260668875,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -4473,7 +4471,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039669",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 7966.466908586973,
+  "min_distance": 7967.024811029203,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -4484,7 +4482,7 @@
   "direccion": "Calle Cardenal Sandoval Y Rojas, 1 28802 Alcal\u00e1 de Henares",
   "telefono": 918817263,
   "mail": "ies.cardenalcisnero.alcala@educa.madrid.org",
-  "latlon": "40.48123192788996,-3.3707164846736113",
+  "latlon": "40.48123192788995,-3.3707164846736113",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -4495,7 +4493,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039670",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 945.9508774181721,
+  "min_distance": 942.0299131481258,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4519,7 +4517,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039682",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2046.2365289729069,
+  "min_distance": 2005.5287436788717,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4542,7 +4540,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039700",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 78.87394965839789,
+  "min_distance": 68.08272167326857,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4569,7 +4567,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039724",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1425.4878288704303,
+  "min_distance": 1424.998398630768,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4581,7 +4579,7 @@
   "direccion": "Calle De La Habana, 2 28945 Fuenlabrada",
   "telefono": 916060313,
   "mail": "ies.carobaroja.fuenlabrada@educa.madrid.org",
-  "latlon": "40.28752298199445,-3.7861623259145554",
+  "latlon": "40.28752298199444,-3.7861623259145554",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -4592,7 +4590,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039797",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 91.9037229176955,
+  "min_distance": 91.85769993568248,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4616,7 +4614,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039803",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 725.3716088710431,
+  "min_distance": 722.608973374338,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4640,7 +4638,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039827",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 755.9086776962524,
+  "min_distance": 748.4161917368891,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4663,7 +4661,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039839",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 405.5324690435968,
+  "min_distance": 378.1827699844046,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4687,7 +4685,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039840",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 410.7540042914484,
+  "min_distance": 410.5733000610918,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4711,7 +4709,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039864",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 925.8615413006513,
+  "min_distance": 944.8370228078484,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4735,7 +4733,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039876",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 385.090742113902,
+  "min_distance": 406.03924991940295,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4758,7 +4756,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039888",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 254.43691956791997,
+  "min_distance": 272.08509234262726,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4782,7 +4780,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039891",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 247.58981932451286,
+  "min_distance": 247.2999070204589,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4805,7 +4803,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039943",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1319.5250961271622,
+  "min_distance": 1321.8407910989945,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4828,7 +4826,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039992",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 130.9138893970353,
+  "min_distance": 151.03019540556073,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4840,7 +4838,7 @@
   "direccion": "Calle Tulip\u00e1n, 1 28933 M\u00f3stoles",
   "telefono": 916645070,
   "mail": "ies.benjaminrua.mostoles@educa.madrid.org",
-  "latlon": "40.336282129911524,-3.8713740570284276",
+  "latlon": "40.33628212991153,-3.8713740570284276",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -4851,7 +4849,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040003",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 146.09075091704256,
+  "min_distance": 177.23906698447155,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -4873,7 +4871,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040027",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 779.2050944169549,
+  "min_distance": 758.8027816204,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4896,7 +4894,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040611",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 9599.928046075744,
+  "min_distance": 9599.9985863518,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4919,7 +4917,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040660",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 717.2731048597583,
+  "min_distance": 722.9557718940263,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4942,7 +4940,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040672",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 9616.423614285564,
+  "min_distance": 9616.49373842565,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -4955,7 +4953,7 @@
   "direccion": "Calle \u00c1lvarez Laviada, 3 28370 Chinch\u00f3n",
   "telefono": 918940214,
   "mail": "ies.carpediem.chinchon@educa.madrid.org",
-  "latlon": "40.13931144486059,-3.4143865492545746",
+  "latlon": "40.1393114448606,-3.4143865492545746",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -4966,7 +4964,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040684",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 16805.94105148882,
+  "min_distance": 16826.90378306111,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -4989,7 +4987,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040696",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 488.9844914499561,
+  "min_distance": 488.89457548258173,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5012,7 +5010,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040702",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 338.10863886050436,
+  "min_distance": 338.46108327574376,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5035,7 +5033,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040714",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 4556.441160178462,
+  "min_distance": 4564.7397707449345,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -5059,7 +5057,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040738",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1090.8353531484918,
+  "min_distance": 1109.0880601116162,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5082,7 +5080,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040741",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 104.84330406852072,
+  "min_distance": 104.7885946091237,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5105,7 +5103,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040751",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 562.4151500339038,
+  "min_distance": 571.7917395029965,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5128,7 +5126,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040775",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 790.3299588035569,
+  "min_distance": 2239.140541730542,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -5150,7 +5148,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040787",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 1421.819476820526,
+  "min_distance": 1408.1241691021887,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -5163,7 +5161,7 @@
   "direccion": "Avenida Del Moscatelar, 19 28703 San Sebasti\u00e1n de los Reyes",
   "telefono": 916524999,
   "mail": "ies.juliopalacios.sansebastian@educa.madrid.org",
-  "latlon": "40.54355087413264,-3.6180706937215583",
+  "latlon": "40.54355087413265,-3.6180706937215583",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -5174,7 +5172,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040799",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 871.270268217861,
+  "min_distance": 871.8280192751712,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -5198,7 +5196,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041354",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 424.2767332373943,
+  "min_distance": 424.59905066699923,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -5211,7 +5209,7 @@
   "direccion": "Calle Del Parque Ferial, S/n 28923 Alcorc\u00f3n",
   "telefono": 916439644,
   "mail": "ies.elpinar.alcorcon@educa.madrid.org",
-  "latlon": "40.33981586630903,-3.8243731936041927",
+  "latlon": "40.339815866309024,-3.8243731936041927",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -5222,7 +5220,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041366",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1116.2237613657437,
+  "min_distance": 1116.4547071467432,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -5235,7 +5233,7 @@
   "direccion": "Calle De Santillana Del Mar, 22 28660 Boadilla del Monte",
   "telefono": 916321512,
   "mail": "ies.maximotrueba.boadilla@educa.madrid.org",
-  "latlon": "40.40622201868963,-3.8816208563948615",
+  "latlon": "40.406222018689625,-3.8816208563948615",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -5246,7 +5244,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041378",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 168.51704239542508,
+  "min_distance": 3991.7484986518416,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5269,7 +5267,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041381",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 28323.056257290893,
+  "min_distance": 28341.602370113014,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -5293,7 +5291,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041391",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 257.2808728581367,
+  "min_distance": 257.0296759465239,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5305,7 +5303,7 @@
   "direccion": "Carretera De Getafe-legan\u00e9s, S/n 28904 Getafe",
   "telefono": 916831621,
   "mail": "ies.altair.getafe@educa.madrid.org",
-  "latlon": "40.315296503298526,-3.7413614930969064",
+  "latlon": "40.31529650329852,-3.7413614930969064",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -5316,7 +5314,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041411",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 847.6685418240136,
+  "min_distance": 846.6147281277651,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -5340,7 +5338,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041433",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 282.6938907153413,
+  "min_distance": 288.91373246994175,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5363,7 +5361,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041445",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 4742.168310531943,
+  "min_distance": 4742.680653564229,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5386,7 +5384,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041470",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 11686.822778378784,
+  "min_distance": 11666.844828925614,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5398,7 +5396,7 @@
   "direccion": "Camino Del Salmoral, S/n 28981 Parla",
   "telefono": 916051520,
   "mail": "ies.lalaguna.parla@educa.madrid.org",
-  "latlon": "40.245165446020515,-3.7722691126590764",
+  "latlon": "40.24516544602051,-3.7722691126590764",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -5409,7 +5407,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041482",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 511.8951046793312,
+  "min_distance": 528.6897892888002,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5432,7 +5430,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041494",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 484.870820865018,
+  "min_distance": 555.8233583970011,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5455,7 +5453,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041500",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1394.2118020071716,
+  "min_distance": 1384.6166988329485,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5478,7 +5476,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041512",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 3135.623258379459,
+  "min_distance": 3112.27985258058,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5501,7 +5499,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041597",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1618.5564343443273,
+  "min_distance": 1613.8807976097737,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -5526,7 +5524,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041615",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 700.7119294678492,
+  "min_distance": 704.820828402599,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5549,7 +5547,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042000",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1195.2986263068085,
+  "min_distance": 1158.8145254690937,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5572,7 +5570,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042012",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 394.5190346400367,
+  "min_distance": 388.465099153479,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -5596,7 +5594,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042024",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 848.7737632664004,
+  "min_distance": 849.3770374146548,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5619,7 +5617,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042036",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 571.7453320737367,
+  "min_distance": 571.86228931811,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5642,7 +5640,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042048",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 933.2151220826036,
+  "min_distance": 933.3569289748527,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5665,7 +5663,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042051",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 679.7828462311526,
+  "min_distance": 680.1505777983389,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5677,7 +5675,7 @@
   "direccion": "Calle De Los Arquitectos, 39 28903 Getafe",
   "telefono": 916835621,
   "mail": "ies.antoniolopezgarcia.getafe@educa.madrid.org",
-  "latlon": "40.324109978875704,-3.7253203077880728",
+  "latlon": "40.32410997887572,-3.7253203077880728",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -5688,7 +5686,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042061",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 204.22661080609714,
+  "min_distance": 194.27906259959195,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5711,7 +5709,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042073",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2129.277893313142,
+  "min_distance": 2129.3748063361686,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5734,7 +5732,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042085",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 923.8243816286869,
+  "min_distance": 938.7483821990626,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5757,7 +5755,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042097",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1295.5623745996036,
+  "min_distance": 1295.3951464219933,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5780,7 +5778,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042103",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1193.0152814260832,
+  "min_distance": 1170.808906433536,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5792,7 +5790,7 @@
   "direccion": "Avenida De Los Castillos, S/n 28925 Alcorc\u00f3n",
   "telefono": 916101411,
   "mail": "ies.itaca.alcorcon@educa.madrid.org",
-  "latlon": "40.35613308303381,-3.8087917777342697",
+  "latlon": "40.3561330830338,-3.8087917777342706",
   "nocturno": [
     "Humanidades y Ciencias Sociales (LOE-LOMCE)",
     "Artes (LOE-LOMCE)"
@@ -5806,7 +5804,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042115",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 596.3822663366027,
+  "min_distance": 570.7495950562309,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -5830,7 +5828,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042191",
   "tipo": "070",
   "status_web": 404,
-  "min_distance": 638.4228609513035,
+  "min_distance": 638.3864802286841,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -5852,7 +5850,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042590",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1738.3961803350096,
+  "min_distance": 1731.3842456222571,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5875,7 +5873,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042607",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 445.8438474340863,
+  "min_distance": 442.4893389703871,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -5888,7 +5886,7 @@
   "direccion": "Carretera De Guadarrama, 85 28260 Galapagar",
   "telefono": 918587730,
   "mail": "ies.infantaelena.galapagar@educa.madrid.org",
-  "latlon": "40.582901811839065,-4.0113466952039065",
+  "latlon": "40.58290181183905,-4.0113466952039065",
   "nocturno": null,
   "dificultad": true,
   "adaptado": false,
@@ -5899,7 +5897,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042620",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 3150.7608835292785,
+  "min_distance": 3129.6388064883076,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -5923,7 +5921,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042632",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 943.8229013898343,
+  "min_distance": 942.739501245451,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -5945,7 +5943,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042644",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 419.0167213795515,
+  "min_distance": 405.6324005083417,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5968,7 +5966,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042668",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1117.4899429380912,
+  "min_distance": 1119.4118996531674,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -5991,7 +5989,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042671",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1021.8099419473148,
+  "min_distance": 1072.5268867097607,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -6014,7 +6012,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042681",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1457.4721978545026,
+  "min_distance": 1444.5667172252618,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -6027,7 +6025,7 @@
   "direccion": "Calle Real, 94 28500 Arganda del Rey",
   "telefono": 918716668,
   "mail": "cepa.arganda@educa.madrid.org",
-  "latlon": "40.29845014340474,-3.432147753951383",
+  "latlon": "40.29845014340476,-3.432147753951383",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6038,7 +6036,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042875",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1421.8846530026008,
+  "min_distance": 1421.429043653437,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6062,7 +6060,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042887",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 747.2052638675019,
+  "min_distance": 1715.6512134017737,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6086,7 +6084,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042929",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 111.66498212875072,
+  "min_distance": 111.1343142391833,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
@@ -6111,7 +6109,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042930",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 235.3992712120255,
+  "min_distance": 234.9139330830095,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
@@ -6125,7 +6123,7 @@
   "direccion": "Calle De Braille, 10 28034 Madrid",
   "telefono": 917364684,
   "mail": "cepa.fuencarral.madrid@educa.madrid.org",
-  "latlon": "40.49595308081296,-3.6934413405040494",
+  "latlon": "40.495953080812974,-3.6934413405040494",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6136,7 +6134,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042942",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 97.0651732716433,
+  "min_distance": 97.49612991640973,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6160,7 +6158,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042954",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 578.9904713686798,
+  "min_distance": 590.7955986459591,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
@@ -6174,7 +6172,7 @@
   "direccion": "Calle De Las Huertas, 68 28770 Colmenar Viejo",
   "telefono": 918464801,
   "mail": "ies.rosachacel.colmenarviejo@educa.madrid.org",
-  "latlon": "40.65422240983051,-3.765457009852079",
+  "latlon": "40.65422240983053,-3.765457009852079",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -6185,7 +6183,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042981",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1340.3245896139172,
+  "min_distance": 1377.9304808771487,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -6208,7 +6206,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042991",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1650.4130118758262,
+  "min_distance": 1628.6384510713108,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -6231,7 +6229,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043016",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 974.0533191852869,
+  "min_distance": 967.1289529601977,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -6255,7 +6253,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043028",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 258.30431290523387,
+  "min_distance": 218.1286281343223,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -6279,7 +6277,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043235",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 305.8781215900268,
+  "min_distance": 306.62771100989886,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6303,7 +6301,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043259",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 487.06547273829113,
+  "min_distance": 532.8708641295746,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
@@ -6316,7 +6314,7 @@
   "direccion": "Calle De Andorra, 19bis 28043 Madrid",
   "telefono": 913003725,
   "mail": "cepa.pabloguzman.madrid@educa.madrid.org",
-  "latlon": "40.46208807191738,-3.6453477793211304",
+  "latlon": "40.46208807191737,-3.6453477793211304",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6327,7 +6325,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043260",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 282.9705145952484,
+  "min_distance": 282.48847165172606,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6351,7 +6349,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044306",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2577.29148965968,
+  "min_distance": 2554.6169638658102,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -6363,7 +6361,7 @@
   "direccion": "Calle De La Virgen Del Mar, S/n 28821 Coslada",
   "telefono": 916695610,
   "mail": "ies.garciaberlanga.coslada@educa.madrid.org",
-  "latlon": "40.429917356715066,-3.5625513912784825",
+  "latlon": "40.42991735671508,-3.5625513912784825",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6374,7 +6372,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044318",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 675.5405746302007,
+  "min_distance": 675.6215825192667,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -6397,7 +6395,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044501",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 460.9881895598639,
+  "min_distance": 460.74388438980884,
   "etapas": [
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
@@ -6420,7 +6418,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044513",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 690.0163453792114,
+  "min_distance": 666.4001523026567,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6444,7 +6442,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044549",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 4916.145902513409,
+  "min_distance": 5029.62098846973,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
@@ -6467,7 +6465,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044562",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 9236.44738689847,
+  "min_distance": 9249.251207216297,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6480,7 +6478,7 @@
   "direccion": "Calle Constitucion, 8 28590 Villarejo de Salvan\u00e9s",
   "telefono": 918742470,
   "mail": "cepa.villarejodesalvanes@educa.madrid.org",
-  "latlon": "40.16760932272032,-3.2755246323468707",
+  "latlon": "40.167609322720324,-3.2755246323468707",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6491,7 +6489,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044574",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 21023.045181888323,
+  "min_distance": 21022.530408630355,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6515,7 +6513,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044628",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 21672.364270254668,
+  "min_distance": 21661.57383021332,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
@@ -6538,7 +6536,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044719",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 449.5062843921501,
+  "min_distance": 449.202342276222,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -6561,7 +6559,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044720",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 669.0046930858213,
+  "min_distance": 822.4802689963384,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -6584,7 +6582,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044744",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1013.9665372857464,
+  "min_distance": 1033.9754926897122,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -6596,7 +6594,7 @@
   "direccion": "Paseo De La Chopera, 64 28523 Rivas-Vaciamadrid",
   "telefono": 916665259,
   "mail": "ies.duquederivas.rivas@educa.madrid.org",
-  "latlon": "40.36755869406593,-3.5336821972810446",
+  "latlon": "40.367558694065934,-3.5336821972810446",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -6607,7 +6605,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044756",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1158.2414885016708,
+  "min_distance": 1250.7241662136398,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -6631,7 +6629,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044768",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 7218.771240190347,
+  "min_distance": 7232.619720089609,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -6655,7 +6653,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044896",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 28433.15799948551,
+  "min_distance": 28474.463988845557,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6682,7 +6680,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044902",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 340.14707072919964,
+  "min_distance": 340.079026129858,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -6695,7 +6693,7 @@
   "direccion": "Calle De Joan Mir\u00f3, 1 28840 Mejorada del Campo",
   "telefono": 916794920,
   "mail": "ies.losolivos.mejorada@educa.madrid.org",
-  "latlon": "40.392677667333786,-3.479833237461454",
+  "latlon": "40.39267766733379,-3.479833237461454",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6706,7 +6704,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045025",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 4885.47908536629,
+  "min_distance": 4885.990791887181,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -6730,7 +6728,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045037",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 946.8007236892745,
+  "min_distance": 946.3081547940263,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -6742,7 +6740,7 @@
   "direccion": "Avenida De Santa Elena, S/n 28590 Villarejo de Salvan\u00e9s",
   "telefono": 918744960,
   "mail": "ies.villarejo@educa.madrid.org",
-  "latlon": "40.17481709845735,-3.286558826563877",
+  "latlon": "40.17481709845734,-3.286558826563877",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -6753,7 +6751,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045049",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 19794.6430709792,
+  "min_distance": 19794.127991412184,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -6776,7 +6774,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045050",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1057.0202057276808,
+  "min_distance": 1064.6518901514532,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -6789,7 +6787,7 @@
   "direccion": "Calle Del General Garc\u00eda Esc\u00e1mez, 12 28044 Madrid",
   "telefono": 917058402,
   "mail": "cepa.cidcampeador.madrid@educa.madrid.org",
-  "latlon": "40.381843641226276,-3.770694124615365",
+  "latlon": "40.38184364122627,-3.770694124615365",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6800,7 +6798,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045268",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 275.9550528086434,
+  "min_distance": 253.09393578983725,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
@@ -6814,7 +6812,7 @@
   "direccion": "Calle Hnos Garc\u00eda Noblejas (acceso Por Luis Campos), 70 28017 Madrid",
   "telefono": 917545206,
   "mail": "cepa.ciudadlineal.madrid@educa.madrid.org",
-  "latlon": "40.42931437020915,-3.632172537891254",
+  "latlon": "40.42931437020917,-3.632172537891254",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6825,7 +6823,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045271",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 20.082265343978815,
+  "min_distance": 19.77499956955032,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6849,7 +6847,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045281",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 279.08353224612586,
+  "min_distance": 278.1175573935094,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6873,7 +6871,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045293",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 111.0581823117445,
+  "min_distance": 110.89329611993503,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6897,7 +6895,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045311",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 272.04485079164584,
+  "min_distance": 216.4787719363026,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6921,7 +6919,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045323",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 308.2717687769276,
+  "min_distance": 308.38295944633,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6934,7 +6932,7 @@
   "direccion": "Calle De La Abertura, 2 28033 Madrid",
   "telefono": 913811272,
   "mail": "cepa.dulcechacon.madrid@educa.madrid.org",
-  "latlon": "40.477198909318325,-3.6496451386690976",
+  "latlon": "40.47719890931833,-3.6496451386690976",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6945,7 +6943,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045347",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 320.56152708142884,
+  "min_distance": 344.08748665047375,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6969,7 +6967,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045359",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 208.4802338780616,
+  "min_distance": 187.13552380798774,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -6993,7 +6991,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045360",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 402.37633602428593,
+  "min_distance": 397.01027197394285,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
@@ -7018,7 +7016,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045372",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 806.3254742273995,
+  "min_distance": 804.8936361730482,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -7042,7 +7040,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045396",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 547.3054379014696,
+  "min_distance": 543.069939169478,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -7066,7 +7064,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045414",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 12137.61077644397,
+  "min_distance": 12118.423409203637,
   "etapas": [
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
@@ -7089,7 +7087,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045426",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 401.999037718894,
+  "min_distance": 606.2725256055794,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
@@ -7114,7 +7112,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045438",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 2326.9848084034184,
+  "min_distance": 2303.9260843061475,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -7138,7 +7136,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045441",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 160.4333435510137,
+  "min_distance": 141.1580475093607,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -7162,7 +7160,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045463",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 19096.72059611932,
+  "min_distance": 19077.9475628169,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -7175,7 +7173,7 @@
   "direccion": "Calle De La Batalla Del Salado, 29 28045 Madrid",
   "telefono": 915395395,
   "mail": "cepa.arganzuela.madrid@educa.madrid.org",
-  "latlon": "40.40047068046267,-3.695960459840022",
+  "latlon": "40.40047068046266,-3.695960459840022",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -7186,7 +7184,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045608",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 162.3310692284062,
+  "min_distance": 162.5098010768659,
   "etapas": [
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
@@ -7209,7 +7207,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045621",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 827.1697294335768,
+  "min_distance": 807.5119619499255,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -7222,7 +7220,7 @@
   "direccion": "Calle De Santa Irene, 4 28017 Madrid",
   "telefono": 914051101,
   "mail": "ies.goya.madrid@educa.madrid.org",
-  "latlon": "40.41836443851034,-3.650764418326344",
+  "latlon": "40.418364438510345,-3.650764418326344",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -7233,7 +7231,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045633",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 900.0757754876399,
+  "min_distance": 900.5713330902036,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -7257,7 +7255,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045645",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 22084.180156965816,
+  "min_distance": 22073.349107437007,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -7281,7 +7279,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045657",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 233.00958931657215,
+  "min_distance": 232.6378543410944,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -7305,7 +7303,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045669",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 6551.490799907985,
+  "min_distance": 6564.469197196761,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
@@ -7328,7 +7326,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045773",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 9658.885224614047,
+  "min_distance": 9671.695671546411,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7351,7 +7349,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045803",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1181.2009119535203,
+  "min_distance": 1161.0166150534824,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7363,7 +7361,7 @@
   "direccion": "Calle Dal\u00ed, 50 28342 Valdemoro",
   "telefono": 918953211,
   "mail": "ies.avalon.valdemoro@educa.madrid.org",
-  "latlon": "40.195721840751226,-3.686649123756968",
+  "latlon": "40.19572184075123,-3.686649123756968",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -7374,7 +7372,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045815",
   "tipo": "042",
   "status_web": 404,
-  "min_distance": 1867.7915311485722,
+  "min_distance": 1845.4304733478011,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7397,7 +7395,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045839",
   "tipo": "042",
   "status_web": 991,
-  "min_distance": 8849.887218294578,
+  "min_distance": 8851.48570957296,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7420,7 +7418,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045840",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 71.20079273002065,
+  "min_distance": 44.90602624346588,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7443,7 +7441,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046091",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2316.3383951339465,
+  "min_distance": 2305.8331885591556,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7466,7 +7464,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046111",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1642.4126174579578,
+  "min_distance": 1634.3229752336902,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7489,7 +7487,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046251",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 7385.312961796786,
+  "min_distance": 7404.119316603868,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -7511,7 +7509,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046261",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2933.70669716762,
+  "min_distance": 2923.635837411066,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7534,7 +7532,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046273",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 27971.727452387255,
+  "min_distance": 27963.186801557717,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7557,7 +7555,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046285",
   "tipo": "047",
   "status_web": 200,
-  "min_distance": 19140.405332174516,
+  "min_distance": 19160.399926730577,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -7568,7 +7566,7 @@
   "direccion": "Calle Doctor S\u00e1nchez P\u00e9rez, 1 28530 Morata de Taju\u00f1a",
   "telefono": 918730777,
   "mail": "sies.anselmolorenzo.morata@educa.madrid.org",
-  "latlon": "40.22941741630608,-3.44271077476145",
+  "latlon": "40.229417416306084,-3.44271077476145",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -7579,7 +7577,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046297",
   "tipo": "047",
   "status_web": 200,
-  "min_distance": 8239.520198646105,
+  "min_distance": 8239.09894837817,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -7601,7 +7599,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046303",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 9303.761933170712,
+  "min_distance": 11507.58332250576,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -7614,7 +7612,7 @@
   "direccion": "Plaza Alba, 3 28971 Gri\u00f1\u00f3n",
   "telefono": 918141768,
   "mail": "ies.grinon.grinon@educa.madrid.org",
-  "latlon": "40.21477673014127,-3.845830464169186",
+  "latlon": "40.21477673014126,-3.845830464169186",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -7625,7 +7623,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046315",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 4776.63514448918,
+  "min_distance": 4757.594468543808,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7648,7 +7646,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046339",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 12117.757322423095,
+  "min_distance": 12097.821662584673,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -7672,7 +7670,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046352",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2904.3677676256816,
+  "min_distance": 2883.8640637256485,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7695,7 +7693,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046364",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1014.1941788308475,
+  "min_distance": 958.293057194835,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -7719,7 +7717,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046467",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1261.702964328221,
+  "min_distance": 1237.0223302264776,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -7732,7 +7730,7 @@
   "direccion": "Calle De Alonso Heredia, 16 28028 Madrid",
   "telefono": 917261664,
   "mail": "cepa.joaquinsorolla.madrid@educa.madrid.org",
-  "latlon": "40.435464211234276,-3.6726584261840696",
+  "latlon": "40.43546421123427,-3.6726584261840696",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -7743,7 +7741,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046479",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 166.15149588382167,
+  "min_distance": 166.0127559729377,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -7767,7 +7765,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046522",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1723.3637827460655,
+  "min_distance": 1729.9342673151693,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -7780,7 +7778,7 @@
   "direccion": "Carretera De Villanueva Del Pardillo, S/n 28270 Colmenarejo",
   "telefono": 918424540,
   "mail": "ies.colmenarejo@educa.madrid.org",
-  "latlon": "40.55683605096615,-4.012820488461693",
+  "latlon": "40.556836050966155,-4.012820488461693",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -7791,7 +7789,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046558",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5161.6734588607205,
+  "min_distance": 5134.334637143443,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7814,7 +7812,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28047411",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 299.30436416142146,
+  "min_distance": 299.2241019601942,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -7838,7 +7836,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048476",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 210.4427021013843,
+  "min_distance": 215.92163152437826,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7861,7 +7859,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050525",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 6628.106415017138,
+  "min_distance": 6628.361447789943,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7884,7 +7882,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050537",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 8348.87421684742,
+  "min_distance": 13648.242589087848,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7907,7 +7905,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050549",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 3801.5630851641167,
+  "min_distance": 3783.259926306819,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7930,7 +7928,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050550",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 12753.179624615841,
+  "min_distance": 12726.981721912018,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7953,7 +7951,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050562",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 7630.068370311576,
+  "min_distance": 7614.836177795391,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7976,7 +7974,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050720",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 884.2230507138211,
+  "min_distance": 883.8070676914673,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -7988,7 +7986,7 @@
   "direccion": "Avenida De Levante, 141 28521 Rivas-Vaciamadrid",
   "telefono": 916704112,
   "mail": "ies.profesorjulioperez.rivas@educa.madrid.org",
-  "latlon": "40.332116330938675,-3.5139199804422097",
+  "latlon": "40.33211633093869,-3.5139199804422097",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -7999,7 +7997,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050732",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 681.4148907610461,
+  "min_distance": 681.5389875039331,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -8011,7 +8009,7 @@
   "direccion": "Carretera De Meco, K 4 28805 Alcal\u00e1 de Henares",
   "telefono": 918887061,
   "mail": "cepa.josehierro.alcala@educa.madrid.org",
-  "latlon": "40.52322148297118,-3.326192833309165",
+  "latlon": "40.523221482971174,-3.3261928333091655",
   "nocturno": null,
   "dificultad": true,
   "adaptado": false,
@@ -8022,7 +8020,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056400",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 2130.202237372875,
+  "min_distance": 2096.028537645288,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
@@ -8045,7 +8043,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056412",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 2064.1899191507205,
+  "min_distance": 2030.059456235395,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
@@ -8068,7 +8066,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056424",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 2704.0459401634384,
+  "min_distance": 2715.1184986953363,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
@@ -8091,7 +8089,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056436",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 7768.41164163568,
+  "min_distance": 7768.1788219689515,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
@@ -8114,7 +8112,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056448",
   "tipo": "035",
   "status_web": 200,
-  "min_distance": 8195.16878684636,
+  "min_distance": 8157.588438494429,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
@@ -8137,7 +8135,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056451",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 11523.056775845387,
+  "min_distance": 11521.174399994416,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
@@ -8149,7 +8147,7 @@
   "direccion": "Calle Ribadesella, S/n 28250 Torrelodones",
   "telefono": 918593112,
   "mail": "cp.elencinar.torrelodones@educa.madrid.org",
-  "latlon": "40.56982549483604,-3.9271084126249205",
+  "latlon": "40.56982549483603,-3.9271084126249205",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -8160,7 +8158,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057076",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 2538.443361618611,
+  "min_distance": 2567.3368883049943,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -8182,7 +8180,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057088",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 8890.775349709735,
+  "min_distance": 12684.654236180626,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -8204,7 +8202,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057180",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 574.9252205497583,
+  "min_distance": 831.1771157036698,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -8227,7 +8225,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057209",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 4805.8154649272465,
+  "min_distance": 4818.2142153641735,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -8239,7 +8237,7 @@
   "direccion": "Calle Del Acueducto, 3 28880 Meco",
   "telefono": 918877200,
   "mail": "ies.gasparsanz.meco@educa.madrid.org",
-  "latlon": "40.54621445870192,-3.322123760708147",
+  "latlon": "40.546214458701925,-3.322123760708147",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -8250,7 +8248,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057210",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2374.075527446043,
+  "min_distance": 2362.108424057811,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -8273,7 +8271,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057222",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5308.873569287038,
+  "min_distance": 5427.180530914002,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -8295,7 +8293,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057271",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 281.1187331115401,
+  "min_distance": 281.4492805183393,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -8319,7 +8317,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057660",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1889.273174592918,
+  "min_distance": 1950.797532470038,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -8332,7 +8330,7 @@
   "direccion": "Calle Carmen Laforet, 1 28220 Majadahonda",
   "telefono": 916349498,
   "mail": "cepa.mariovargasllosa.majadahonda@educa.madrid.org",
-  "latlon": "40.46824772302307,-3.8709542188618413",
+  "latlon": "40.468247723023076,-3.8709542188618413",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -8343,7 +8341,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057672",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 2280.085570563152,
+  "min_distance": 2281.515789860549,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -8367,7 +8365,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057684",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 260.66477281241424,
+  "min_distance": 266.6806779367532,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
@@ -8392,7 +8390,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057751",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 12190.75998986556,
+  "min_distance": 12159.312418176949,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -8415,7 +8413,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057805",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 297.51754853218057,
+  "min_distance": 297.547512694581,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -8439,7 +8437,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057957",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 223.2485433804886,
+  "min_distance": 220.48200601591975,
   "etapas": null
 },{
   "id": 28057969,
@@ -8459,7 +8457,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057969",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 661.0549506439556,
+  "min_distance": 660.9243317711121,
   "etapas": null
 },{
   "id": 28057970,
@@ -8479,7 +8477,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057970",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 273.27931927282253,
+  "min_distance": 273.04886074082225,
   "etapas": null
 },{
   "id": 28057982,
@@ -8499,7 +8497,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057982",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 103.81248081023108,
+  "min_distance": 103.8123812462041,
   "etapas": null
 },{
   "id": 28057994,
@@ -8508,7 +8506,7 @@
   "direccion": "Paseo De La Castellana, 261 28046 Madrid",
   "telefono": 917277588,
   "mail": "ah.lapaz.madrid@educa.madrid.org",
-  "latlon": "40.48030087224511,-3.6865436265844735",
+  "latlon": "40.48030087224512,-3.6865436265844735",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -8519,7 +8517,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057994",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 55.97866556242121,
+  "min_distance": 55.8643400037313,
   "etapas": null
 },{
   "id": 28058007,
@@ -8539,7 +8537,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058007",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 115.61249840728136,
+  "min_distance": 81.44955479630839,
   "etapas": null
 },{
   "id": 28058019,
@@ -8559,7 +8557,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058019",
   "tipo": "036",
   "status_web": 999,
-  "min_distance": 130.89837498349806,
+  "min_distance": 130.6347925227066,
   "etapas": null
 },{
   "id": 28058603,
@@ -8579,7 +8577,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058603",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 887.7697953294161,
+  "min_distance": 887.7413281530182,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -8602,7 +8600,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058615",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1669.0152076679683,
+  "min_distance": 1627.6432853493604,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -8624,7 +8622,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058627",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1079.9308948506657,
+  "min_distance": 1095.342831793527,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -8647,7 +8645,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058639",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 899.5935603596274,
+  "min_distance": 899.4838695184735,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -8671,7 +8669,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058640",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 456.6477133582433,
+  "min_distance": 5008.030308634107,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -8695,7 +8693,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058652",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2757.855218550114,
+  "min_distance": 2759.3527325002865,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -8718,7 +8716,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058664",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 296.59051389597,
+  "min_distance": 296.550299248898,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -8730,7 +8728,7 @@
   "direccion": "Paseo Del Olivar, 62 28607 \u00c1lamo, El",
   "telefono": 918104133,
   "mail": "ies.elalamo.elalamo@educa.madrid.org",
-  "latlon": "40.228372395257914,-3.9847084823456784",
+  "latlon": "40.22837239525791,-3.9847084823456784",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -8741,7 +8739,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058676",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 13531.343434334947,
+  "min_distance": 13530.984166834045,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -8753,7 +8751,7 @@
   "direccion": "Calle Miguel Hern\u00e1ndez, 2a 28991 Torrej\u00f3n de la Calzada",
   "telefono": 918106097,
   "mail": "ies.migueldelibes.torrejondelacalzada@educa.madrid.org",
-  "latlon": "40.19357302079286,-3.804836526306011",
+  "latlon": "40.193573020792854,-3.804836526306011",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -8764,7 +8762,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058688",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5009.698790645778,
+  "min_distance": 6058.455216997934,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -8787,7 +8785,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059279",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2644.37917787636,
+  "min_distance": 2640.951710823445,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -8809,7 +8807,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059361",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 221.36610906776636,
+  "min_distance": 221.32823235957622,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -8833,7 +8831,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059371",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 9833.223321829928,
+  "min_distance": 12659.209796985768,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -8857,7 +8855,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059383",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 3031.7424141850997,
+  "min_distance": 3013.388916594613,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -8881,7 +8879,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059395",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1048.4586486717117,
+  "min_distance": 1077.3088417693268,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -8905,7 +8903,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059401",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 33379.30837566091,
+  "min_distance": 33364.67519625557,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
@@ -8928,7 +8926,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060270",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 842.6215643590664,
+  "min_distance": 843.1987991467852,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -8950,7 +8948,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060348",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 3442.327703957533,
+  "min_distance": 3422.1185351033964,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -8961,7 +8959,7 @@
   "direccion": "Calle Pio Baroja, 7 28806 Alcal\u00e1 de Henares",
   "telefono": 918770290,
   "mail": "ies.lazarocarreter.alcala@educa.madrid.org",
-  "latlon": "40.50464656376394,-3.373359258844887",
+  "latlon": "40.50464656376395,-3.373359258844887",
   "nocturno": null,
   "dificultad": true,
   "adaptado": true,
@@ -8972,7 +8970,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060373",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1834.8802777839476,
+  "min_distance": 1845.0639723974668,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -8995,7 +8993,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060385",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 9208.239452833654,
+  "min_distance": 9244.718758611389,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9018,7 +9016,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060397",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 4558.826287612402,
+  "min_distance": 4543.241120041437,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9041,7 +9039,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060816",
   "tipo": "016",
   "status_web": 991,
-  "min_distance": 1101.6161548302105,
+  "min_distance": 1359.617059069157,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9064,7 +9062,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060968",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 214.62762206256215,
+  "min_distance": 214.3276290477734,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -9088,7 +9086,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060971",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 552.2511405522044,
+  "min_distance": 556.5528455033066,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -9112,7 +9110,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062011",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2940.715039003135,
+  "min_distance": 2941.610418595787,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9124,7 +9122,7 @@
   "direccion": "Avenida Del Mar Egeo, S/n 28341 Valdemoro",
   "telefono": 918018044,
   "mail": "ies.maestromatiasbravo.valdemoro@educa.madrid.org",
-  "latlon": "40.1785804882631,-3.6891190319937293",
+  "latlon": "40.178580488263094,-3.6891190319937293",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -9135,7 +9133,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062023",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2843.213212012613,
+  "min_distance": 2822.3203408924337,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9158,7 +9156,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062035",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1495.725840675742,
+  "min_distance": 1475.1644662551746,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9170,7 +9168,7 @@
   "direccion": "Calle De La Alianza, 20-24 28041 Madrid",
   "telefono": 917239181,
   "mail": "ies.villaverde.madrid@educa.madrid.org",
-  "latlon": "40.357351489811464,-3.6902999023380567",
+  "latlon": "40.35735148981147,-3.6902999023380567",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -9181,7 +9179,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062126",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 331.2597252609027,
+  "min_distance": 331.4421192200971,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -9203,7 +9201,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28063799",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 128.36292989043292,
+  "min_distance": 137.36747766751438,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -9225,7 +9223,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064007",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1574.832001196581,
+  "min_distance": 1586.850785776636,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9237,7 +9235,7 @@
   "direccion": "Camino De Chozas, S/n 28794 Guadalix de la Sierra",
   "telefono": 918470636,
   "mail": "ies.luisgarciaberlanga.guadalix@educa.madrid.org",
-  "latlon": "40.78218602978418,-3.695994920999966",
+  "latlon": "40.78218602978419,-3.695994920999966",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -9248,7 +9246,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064044",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 16657.159448941842,
+  "min_distance": 16666.68395396664,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -9270,7 +9268,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064160",
   "tipo": "070",
   "status_web": 999,
-  "min_distance": 897.1916687246154,
+  "min_distance": 863.7703809020365,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -9292,7 +9290,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064721",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 177.5422818671819,
+  "min_distance": 188.90555531458529,
   "etapas": null
 },{
   "id": 28065632,
@@ -9312,7 +9310,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065632",
   "tipo": "047",
   "status_web": 999,
-  "min_distance": 2492.3463135542343,
+  "min_distance": 2458.7913367879037,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -9334,7 +9332,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065644",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 588.0572269302692,
+  "min_distance": 592.4232012070771,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -9356,7 +9354,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065711",
   "tipo": "017",
   "status_web": 200,
-  "min_distance": 639.6672557163703,
+  "min_distance": 639.3829859561921,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -9378,7 +9376,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065841",
   "tipo": "047",
   "status_web": 200,
-  "min_distance": 7198.330615877129,
+  "min_distance": 7203.89520113645,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -9400,7 +9398,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067628",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1580.7114552455064,
+  "min_distance": 1579.7397989933108,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9423,7 +9421,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28067744",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 16245.723894915694,
+  "min_distance": 16240.553667426277,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -9445,7 +9443,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069391",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 870.3064429915967,
+  "min_distance": 863.6939830237873,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9468,7 +9466,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069844",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 147.42759611794526,
+  "min_distance": 157.80630839623964,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9491,7 +9489,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070691",
   "tipo": "070",
   "status_web": 999,
-  "min_distance": 3874.0982462730094,
+  "min_distance": 3876.0059137374524,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -9513,7 +9511,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070721",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 778.7243028656288,
+  "min_distance": 742.376565859623,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -9535,7 +9533,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070962",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 637.3786147684015,
+  "min_distance": 637.2492945126984,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9547,7 +9545,7 @@
   "direccion": "Avenida Del Sistema Solar, 8 28983 Parla",
   "telefono": 918295357,
   "mail": "ies.nicolascopernico.parla@educa.madrid.org",
-  "latlon": "40.22377800825034,-3.761330694328965",
+  "latlon": "40.22377800825033,-3.761330694328965",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -9558,7 +9556,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070974",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 64.76929157418091,
+  "min_distance": 2015.0483150226185,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9581,7 +9579,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28071310",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 19318.793014945513,
+  "min_distance": 19300.182658714086,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -9594,7 +9592,7 @@
   "direccion": "Senda De Mafalda, 2 28905 Getafe",
   "telefono": 916810212,
   "mail": "ies.lasenda.getafe@educa.madrid.org",
-  "latlon": "40.29438399635924,-3.747333314858952",
+  "latlon": "40.29438399635923,-3.747333314858952",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -9605,7 +9603,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072107",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 140.99110945845166,
+  "min_distance": 140.89333775057938,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9628,7 +9626,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072223",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 507.03314221621486,
+  "min_distance": 507.07422917278444,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9640,7 +9638,7 @@
   "direccion": "Avenida De Niceto Alcal\u00e1 Zamora, 54 28050 Madrid",
   "telefono": 912761503,
   "mail": "ies.manuelfragairibarne.madrid@educa.madrid.org",
-  "latlon": "40.4998497880134,-3.657145049425794",
+  "latlon": "40.49984978801341,-3.657145049425794",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -9651,7 +9649,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073859",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 245.58819253766688,
+  "min_distance": 245.49165115771913,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9674,7 +9672,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073872",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 21249.811459348814,
+  "min_distance": 21279.890829713837,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -9696,7 +9694,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074037",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 788.26693297902,
+  "min_distance": 788.534172501516,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9719,7 +9717,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074049",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5270.607998780928,
+  "min_distance": 5270.266369722129,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9742,7 +9740,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074050",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 818.4808281988537,
+  "min_distance": 818.2232975671417,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -9766,7 +9764,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074062",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 789.0472503002725,
+  "min_distance": 776.5560738423517,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9778,7 +9776,7 @@
   "direccion": "Calle Del General Marv\u00e1, 24-26 28026 Madrid",
   "telefono": 915699236,
   "mail": "ies.pedrosalinas.madrid@educa.madrid.org",
-  "latlon": "40.38895120389475,-3.7088138168902693",
+  "latlon": "40.38895120389474,-3.7088138168902693",
   "nocturno": [
     "Ciencias (LOE-LOMCE)",
     "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -9792,7 +9790,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074244",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 262.03360851669487,
+  "min_distance": 275.0357184472551,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
@@ -9816,7 +9814,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074669",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 565.7462852473591,
+  "min_distance": 553.5103834319331,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9842,7 +9840,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074670",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 903.9933209632318,
+  "min_distance": 957.2699886506117,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9865,7 +9863,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074852",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1068.3831442774465,
+  "min_distance": 1118.3386694260234,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -9887,7 +9885,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074918",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 353.8600454553325,
+  "min_distance": 354.325753443586,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9910,7 +9908,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075492",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 502.4276258934881,
+  "min_distance": 481.555826279144,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9933,7 +9931,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075509",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 6669.068216688161,
+  "min_distance": 6649.802465274005,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9945,7 +9943,7 @@
   "direccion": "Calle Camilo Jos\u00e9 Cela, 24 28232 Rozas de Madrid, Las",
   "telefono": 911733737,
   "mail": "ies.josegarcianieto.lasrozas@educa.madrid.org",
-  "latlon": "40.52427301092085,-3.892232526550431",
+  "latlon": "40.52427301092086,-3.8922325265504303",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -9956,7 +9954,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075510",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 888.7712259572122,
+  "min_distance": 866.238877009739,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -9979,7 +9977,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075820",
   "tipo": "036",
   "status_web": 999,
-  "min_distance": 1266.1904133891126,
+  "min_distance": 1248.175419970978,
   "etapas": null
 },{
   "id": 28076368,
@@ -9999,7 +9997,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076368",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 334.58813497374257,
+  "min_distance": 334.47032681824794,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -10022,7 +10020,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076371",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 800.1644860117963,
+  "min_distance": 787.0579231127779,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -10045,7 +10043,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076381",
   "tipo": "047",
   "status_web": 200,
-  "min_distance": 8949.163666851839,
+  "min_distance": 8983.6102318304,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -10067,7 +10065,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077269",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 438.518427583105,
+  "min_distance": 438.84809262593865,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -10090,7 +10088,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077491",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 2043.8852310404232,
+  "min_distance": 2042.5502675803502,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -10112,7 +10110,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077889",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 572.2554239476623,
+  "min_distance": 572.5393565867278,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -10134,10 +10132,8 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077890",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5586.713224196822,
-  "etapas": [
-    "Bachillerato"
-  ]
+  "min_distance": 5562.810679851635,
+  "etapas": ["Bachillerato"]
 },{
   "id": 28077907,
   "dat": "Sur",
@@ -10156,7 +10152,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077907",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 264.17255199919026,
+  "min_distance": 264.365613669761,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -10179,7 +10175,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077971",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 551.7174003326456,
+  "min_distance": 558.1227448464633,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ]
@@ -10201,7 +10197,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078031",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 835.064385290594,
+  "min_distance": 6541.628365335974,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -10224,7 +10220,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078043",
   "tipo": "047",
   "status_web": 999,
-  "min_distance": 839.9379003111387,
+  "min_distance": 854.8561743039214,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -10246,7 +10242,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078547",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1383.4192990635047,
+  "min_distance": 1384.4544714656324,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -10257,7 +10253,7 @@
   "direccion": "Calle De La Jacaranda, S/n 28045 Madrid",
   "telefono": 639101034,
   "mail": "ies.forges.madrid@educa.madrid.org",
-  "latlon": "40.397507451552244,-3.679173846707233",
+  "latlon": "40.39750745155225,-3.679173846707233",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -10268,7 +10264,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078559",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 138.4860807459607,
+  "min_distance": 138.01565653773892,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -10291,7 +10287,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078857",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 3636.841140671129,
+  "min_distance": 3634.827866661572,
   "etapas": null
 },{
   "id": 28079357,
@@ -10311,7 +10307,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079357",
   "tipo": "042",
   "status_web": null,
-  "min_distance": 1140.552891111384,
+  "min_distance": 1140.5194596224467,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -10334,7 +10330,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079370",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 611.6013288097525,
+  "min_distance": 555.714734818539,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -10356,7 +10352,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079382",
   "tipo": "042",
   "status_web": null,
-  "min_distance": 205.48301949013728,
+  "min_distance": 205.3151970964653,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -10378,7 +10374,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079394",
   "tipo": "042",
   "status_web": null,
-  "min_distance": 588.0454769552887,
+  "min_distance": 581.2891937224248,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]
@@ -10400,7 +10396,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28079400",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 1503.978852751892,
+  "min_distance": 1462.9899728327475,
   "etapas": [
     "ESO (LOE-LOMCE)"
   ]

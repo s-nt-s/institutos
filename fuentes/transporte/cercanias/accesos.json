@@ -1,0 +1,2295 @@
+{
+"objectIdFieldName": "OBJECTID",
+"uniqueIdField": {
+  "name": "OBJECTID",
+  "isSystemMaintained": true
+},
+"globalIdFieldName": "",
+"geometryType": "esriGeometryPoint",
+"spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+},
+"fields": [
+  {
+    "name": "IDACCESO",
+    "type": "esriFieldTypeString",
+    "alias": "IDACCESO",
+    "sqlType": "sqlTypeOther",
+    "length": 50,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "CODIGOESTACION",
+    "type": "esriFieldTypeString",
+    "alias": "CODIGOESTACION",
+    "sqlType": "sqlTypeOther",
+    "length": 7,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "IDFESTACION",
+    "type": "esriFieldTypeString",
+    "alias": "IDFESTACION",
+    "sqlType": "sqlTypeOther",
+    "length": 48,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "DENOMINACION",
+    "type": "esriFieldTypeString",
+    "alias": "DENOMINACION",
+    "sqlType": "sqlTypeOther",
+    "length": 120,
+    "domain": null,
+    "defaultValue": null
+  }
+],
+"features": [
+  {
+    "attributes": {
+      "IDACCESO": "5_116_768",
+      "CODIGOESTACION": "116",
+      "IDFESTACION": "5_116",
+      "DENOMINACION": "Ar\u00e9valo"
+    },
+    "geometry": {
+      "x": -4.702505330992439,
+      "y": 41.04810493811343
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_117_769",
+      "CODIGOESTACION": "117",
+      "IDFESTACION": "5_117",
+      "DENOMINACION": "Las Navas del Marqu\u00e9s"
+    },
+    "geometry": {
+      "x": -4.36149866986965,
+      "y": 40.58928460217621
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_111_763",
+      "CODIGOESTACION": "111",
+      "IDFESTACION": "5_111",
+      "DENOMINACION": "Valladolid"
+    },
+    "geometry": {
+      "x": -4.727043127366571,
+      "y": 41.64222997356444
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_118_770",
+      "CODIGOESTACION": "118",
+      "IDFESTACION": "5_118",
+      "DENOMINACION": "Navalperal"
+    },
+    "geometry": {
+      "x": -4.408062025430443,
+      "y": 40.59066454432394
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_119_771",
+      "CODIGOESTACION": "119",
+      "IDFESTACION": "5_119",
+      "DENOMINACION": "Herrad\u00f3n-La Ca\u00f1ada"
+    },
+    "geometry": {
+      "x": -4.495162235137414,
+      "y": 40.599308100908026
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_115_767",
+      "CODIGOESTACION": "115",
+      "IDFESTACION": "5_115",
+      "DENOMINACION": "La Losa-Navas de Riofr\u00edo"
+    },
+    "geometry": {
+      "x": -4.141205028068132,
+      "y": 40.856683884023965
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_120_772",
+      "CODIGOESTACION": "120",
+      "IDFESTACION": "5_120",
+      "DENOMINACION": "Guimorcondo"
+    },
+    "geometry": {
+      "x": -4.614735358636877,
+      "y": 40.649071459992825
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_113_765",
+      "CODIGOESTACION": "113",
+      "IDFESTACION": "5_113",
+      "DENOMINACION": "El Espinar"
+    },
+    "geometry": {
+      "x": -4.189582102230033,
+      "y": 40.7408241011829
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_112_764",
+      "CODIGOESTACION": "112",
+      "IDFESTACION": "5_112",
+      "DENOMINACION": "Ariza"
+    },
+    "geometry": {
+      "x": -2.0595402467608865,
+      "y": 41.30967131926859
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_114_766",
+      "CODIGOESTACION": "114",
+      "IDFESTACION": "5_114",
+      "DENOMINACION": "Otero-Herreros"
+    },
+    "geometry": {
+      "x": -4.203560019157844,
+      "y": 40.80098461062581
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_30_828",
+      "CODIGOESTACION": "30",
+      "IDFESTACION": "5_30",
+      "DENOMINACION": "Acceso Renfe Fanjul"
+    },
+    "geometry": {
+      "x": -3.7685774297166788,
+      "y": 40.38344831096305
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_7_829",
+      "CODIGOESTACION": "7",
+      "IDFESTACION": "5_7",
+      "DENOMINACION": "Acceso Renfe Aluche"
+    },
+    "geometry": {
+      "x": -3.761090344893043,
+      "y": 40.38569014255166
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_7_830",
+      "CODIGOESTACION": "7",
+      "IDFESTACION": "5_7",
+      "DENOMINACION": "Acceso Renfe Aluche"
+    },
+    "geometry": {
+      "x": -3.7611670546714,
+      "y": 40.3858588793493
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_11_845",
+      "CODIGOESTACION": "11",
+      "IDFESTACION": "5_11",
+      "DENOMINACION": "Acceso Renfe Atocha"
+    },
+    "geometry": {
+      "x": -3.689516832231541,
+      "y": 40.40651571216891
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_11_847",
+      "CODIGOESTACION": "11",
+      "IDFESTACION": "5_11",
+      "DENOMINACION": "Alfonso XII"
+    },
+    "geometry": {
+      "x": -3.689167042745568,
+      "y": 40.407532637806696
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_11_848",
+      "CODIGOESTACION": "11",
+      "IDFESTACION": "5_11",
+      "DENOMINACION": "Subacceso Renfe Atocha - Metro Atocha"
+    },
+    "geometry": {
+      "x": -3.688975204800764,
+      "y": 40.40706658107084
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_46_849",
+      "CODIGOESTACION": "46",
+      "IDFESTACION": "5_46",
+      "DENOMINACION": "Acceso Renfe Mendez Alvaro"
+    },
+    "geometry": {
+      "x": -3.6777620528369566,
+      "y": 40.3955897295156
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_48_871",
+      "CODIGOESTACION": "48",
+      "IDFESTACION": "5_48",
+      "DENOMINACION": "Acceso Renfe M\u00f3stoles"
+    },
+    "geometry": {
+      "x": -3.8638016181212023,
+      "y": 40.32828615868221
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_48_872",
+      "CODIGOESTACION": "48",
+      "IDFESTACION": "5_48",
+      "DENOMINACION": "Acceso Renfe M\u00f3stoles"
+    },
+    "geometry": {
+      "x": -3.86409431462932,
+      "y": 40.328090017830746
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_49_881",
+      "CODIGOESTACION": "49",
+      "IDFESTACION": "5_49",
+      "DENOMINACION": "Acceso Renfe M\u00f3stoles-El Soto"
+    },
+    "geometry": {
+      "x": -3.882142072719313,
+      "y": 40.33084388021555
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_48_882",
+      "CODIGOESTACION": "48",
+      "IDFESTACION": "5_48",
+      "DENOMINACION": "Acceso Renfe M\u00f3stoles"
+    },
+    "geometry": {
+      "x": -3.8634033196789663,
+      "y": 40.32864179628289
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_48_883",
+      "CODIGOESTACION": "48",
+      "IDFESTACION": "5_48",
+      "DENOMINACION": "Acceso Renfe M\u00f3stoles"
+    },
+    "geometry": {
+      "x": -3.863913931043551,
+      "y": 40.3288239140155
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_46_891",
+      "CODIGOESTACION": "46",
+      "IDFESTACION": "5_46",
+      "DENOMINACION": "Acceso Renfe M\u00e9ndez \u00c1lvaro"
+    },
+    "geometry": {
+      "x": -3.678255322825432,
+      "y": 40.39570313453162
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_36_905",
+      "CODIGOESTACION": "36",
+      "IDFESTACION": "5_36",
+      "DENOMINACION": "Acceso Renfe Getafe Sector 3"
+    },
+    "geometry": {
+      "x": -3.73761993151243,
+      "y": 40.288250263203906
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_35_921",
+      "CODIGOESTACION": "35",
+      "IDFESTACION": "5_35",
+      "DENOMINACION": "Acceso Renfe Getafe Industrial"
+    },
+    "geometry": {
+      "x": -3.707845667407838,
+      "y": 40.30546632884981
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_59_934",
+      "CODIGOESTACION": "59",
+      "IDFESTACION": "5_59",
+      "DENOMINACION": "El Pozo"
+    },
+    "geometry": {
+      "x": -3.656577605659043,
+      "y": 40.37605110925223
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_59_935",
+      "CODIGOESTACION": "59",
+      "IDFESTACION": "5_59",
+      "DENOMINACION": "El Pozo"
+    },
+    "geometry": {
+      "x": -3.6556967422917035,
+      "y": 40.37625727083232
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_87_938",
+      "CODIGOESTACION": "87",
+      "IDFESTACION": "5_87",
+      "DENOMINACION": "Vallecas"
+    },
+    "geometry": {
+      "x": -3.6245964651188687,
+      "y": 40.381919678412
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_75_940",
+      "CODIGOESTACION": "75",
+      "IDFESTACION": "5_75",
+      "DENOMINACION": "Santa Eugenia"
+    },
+    "geometry": {
+      "x": -3.6089650967426707,
+      "y": 40.38675588733115
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_90_942",
+      "CODIGOESTACION": "90",
+      "IDFESTACION": "5_90",
+      "DENOMINACION": "Vic\u00e1lvaro"
+    },
+    "geometry": {
+      "x": -3.5963702305824694,
+      "y": 40.40119095193173
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_90_943",
+      "CODIGOESTACION": "90",
+      "IDFESTACION": "5_90",
+      "DENOMINACION": "Ascensor Interior"
+    },
+    "geometry": {
+      "x": -3.595825662827874,
+      "y": 40.401310894733406
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_18_976",
+      "CODIGOESTACION": "18",
+      "IDFESTACION": "5_18",
+      "DENOMINACION": "Chamart\u00edn"
+    },
+    "geometry": {
+      "x": -3.680984538034929,
+      "y": 40.47218147897123
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_29_982",
+      "CODIGOESTACION": "29",
+      "IDFESTACION": "5_29",
+      "DENOMINACION": "El Escorial"
+    },
+    "geometry": {
+      "x": -4.132381379781406,
+      "y": 40.58563901823225
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_29_983",
+      "CODIGOESTACION": "29",
+      "IDFESTACION": "5_29",
+      "DENOMINACION": "El Escorial"
+    },
+    "geometry": {
+      "x": -4.132442085363155,
+      "y": 40.58534524940774
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_29_984",
+      "CODIGOESTACION": "29",
+      "IDFESTACION": "5_29",
+      "DENOMINACION": "El Escorial"
+    },
+    "geometry": {
+      "x": -4.132477144764794,
+      "y": 40.585199508418874
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_29_985",
+      "CODIGOESTACION": "29",
+      "IDFESTACION": "5_29",
+      "DENOMINACION": "El Escorial"
+    },
+    "geometry": {
+      "x": -4.131582384523384,
+      "y": 40.585534820424485
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_29_986",
+      "CODIGOESTACION": "29",
+      "IDFESTACION": "5_29",
+      "DENOMINACION": "El Escorial"
+    },
+    "geometry": {
+      "x": -4.132485285633968,
+      "y": 40.58438425879672
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_94_990",
+      "CODIGOESTACION": "94",
+      "IDFESTACION": "5_94",
+      "DENOMINACION": "Zarzalejo"
+    },
+    "geometry": {
+      "x": -4.15810632106849,
+      "y": 40.538852132266776
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_1_824",
+      "CODIGOESTACION": "1",
+      "IDFESTACION": "5_1",
+      "DENOMINACION": "Acceso Renfe Las Aguilas"
+    },
+    "geometry": {
+      "x": -3.780401561909433,
+      "y": 40.38137220744128
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_1_825",
+      "CODIGOESTACION": "1",
+      "IDFESTACION": "5_1",
+      "DENOMINACION": "Acceso Renfe Las Aguilas"
+    },
+    "geometry": {
+      "x": -3.780241275042327,
+      "y": 40.38098713410645
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_48_833",
+      "CODIGOESTACION": "48",
+      "IDFESTACION": "5_48",
+      "DENOMINACION": "Acceso Renfe M\u00f3stoles"
+    },
+    "geometry": {
+      "x": -3.863509378145308,
+      "y": 40.328518529170246
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_40_841",
+      "CODIGOESTACION": "40",
+      "IDFESTACION": "5_40",
+      "DENOMINACION": "Acceso Laguna"
+    },
+    "geometry": {
+      "x": -3.7446299741225006,
+      "y": 40.39920829951695
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_40_842",
+      "CODIGOESTACION": "40",
+      "IDFESTACION": "5_40",
+      "DENOMINACION": "Correspondencia Metro"
+    },
+    "geometry": {
+      "x": -3.7435718720971534,
+      "y": 40.39927230909145
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_28_843",
+      "CODIGOESTACION": "28",
+      "IDFESTACION": "5_28",
+      "DENOMINACION": "Acceso Renfe Embajadores"
+    },
+    "geometry": {
+      "x": -3.7023178913204,
+      "y": 40.40542248586306
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_28_844",
+      "CODIGOESTACION": "28",
+      "IDFESTACION": "5_28",
+      "DENOMINACION": "Correspondencia Metro"
+    },
+    "geometry": {
+      "x": -3.7025954792112246,
+      "y": 40.40496797879858
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_5_876",
+      "CODIGOESTACION": "5",
+      "IDFESTACION": "5_5",
+      "DENOMINACION": "Acceso Renfe Alcorc\u00f3n"
+    },
+    "geometry": {
+      "x": -3.8318583146776115,
+      "y": 40.35056053952181
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_5_877",
+      "CODIGOESTACION": "5",
+      "IDFESTACION": "5_5",
+      "DENOMINACION": "Acceso Renfe Alcorc\u00f3n"
+    },
+    "geometry": {
+      "x": -3.832317476733187,
+      "y": 40.35019968652419
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_5_878",
+      "CODIGOESTACION": "5",
+      "IDFESTACION": "5_5",
+      "DENOMINACION": "Acceso Renfe Alcorc\u00f3n"
+    },
+    "geometry": {
+      "x": -3.832530857596165,
+      "y": 40.3499178325757
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_5_879",
+      "CODIGOESTACION": "5",
+      "IDFESTACION": "5_5",
+      "DENOMINACION": "Acceso Renfe Alcorc\u00f3n"
+    },
+    "geometry": {
+      "x": -3.8322873943024365,
+      "y": 40.35018560105962
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_72_884",
+      "CODIGOESTACION": "72",
+      "IDFESTACION": "5_72",
+      "DENOMINACION": "Acceso Renfe San Jos\u00e9 de Valderas"
+    },
+    "geometry": {
+      "x": -3.815891037734659,
+      "y": 40.35678352617371
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_24_885",
+      "CODIGOESTACION": "24",
+      "IDFESTACION": "5_24",
+      "DENOMINACION": "Acceso Renfe Cuatro Vientos"
+    },
+    "geometry": {
+      "x": -3.792439563015593,
+      "y": 40.37759329970256
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_24_886",
+      "CODIGOESTACION": "24",
+      "IDFESTACION": "5_24",
+      "DENOMINACION": "Acceso Renfe Cuatro Vientos"
+    },
+    "geometry": {
+      "x": -3.792517664776264,
+      "y": 40.37755557952269
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_24_887",
+      "CODIGOESTACION": "24",
+      "IDFESTACION": "5_24",
+      "DENOMINACION": "Acceso Renfe Cuatro Vientos"
+    },
+    "geometry": {
+      "x": -3.7924788850560316,
+      "y": 40.37839680346801
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_24_888",
+      "CODIGOESTACION": "24",
+      "IDFESTACION": "5_24",
+      "DENOMINACION": "Acceso Renfe Cuatro Vientos"
+    },
+    "geometry": {
+      "x": -3.7927310566304606,
+      "y": 40.37821201251571
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_95_895",
+      "CODIGOESTACION": "95",
+      "IDFESTACION": "5_95",
+      "DENOMINACION": "Acceso Renfe Zarzaquemada"
+    },
+    "geometry": {
+      "x": -3.7483267647016163,
+      "y": 40.34126447587083
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_34_906",
+      "CODIGOESTACION": "34",
+      "IDFESTACION": "5_34",
+      "DENOMINACION": "Acceso Renfe Getafe Centro"
+    },
+    "geometry": {
+      "x": -3.733870029337893,
+      "y": 40.30995553891908
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_69_926",
+      "CODIGOESTACION": "69",
+      "IDFESTACION": "5_69",
+      "DENOMINACION": "San Cristobal de los \u00c1ngeles"
+    },
+    "geometry": {
+      "x": -3.6839830970401057,
+      "y": 40.34243430087934
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_69_927",
+      "CODIGOESTACION": "69",
+      "IDFESTACION": "5_69",
+      "DENOMINACION": "San Cristobal de los \u00c1ngeles"
+    },
+    "geometry": {
+      "x": -3.6839764329399336,
+      "y": 40.34229382797285
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_69_928",
+      "CODIGOESTACION": "69",
+      "IDFESTACION": "5_69",
+      "DENOMINACION": "San Cristobal de los \u00c1ngeles"
+    },
+    "geometry": {
+      "x": -3.6835942582066017,
+      "y": 40.34237637697581
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_10_932",
+      "CODIGOESTACION": "10",
+      "IDFESTACION": "5_10",
+      "DENOMINACION": "Asamblea de Madrid-Entrev\u00edas"
+    },
+    "geometry": {
+      "x": -3.6681658045370598,
+      "y": 40.38182779643231
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_59_933",
+      "CODIGOESTACION": "59",
+      "IDFESTACION": "5_59",
+      "DENOMINACION": "El Pozo"
+    },
+    "geometry": {
+      "x": -3.6558603834713583,
+      "y": 40.375983488169176
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_59_936",
+      "CODIGOESTACION": "59",
+      "IDFESTACION": "5_59",
+      "DENOMINACION": "El Pozo"
+    },
+    "geometry": {
+      "x": -3.655921299095963,
+      "y": 40.37634155608118
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_59_937",
+      "CODIGOESTACION": "59",
+      "IDFESTACION": "5_59",
+      "DENOMINACION": "El Pozo"
+    },
+    "geometry": {
+      "x": -3.655993924399019,
+      "y": 40.376348082054
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_106_950",
+      "CODIGOESTACION": "106",
+      "IDFESTACION": "5_106",
+      "DENOMINACION": "La Garena"
+    },
+    "geometry": {
+      "x": -3.3930972554960093,
+      "y": 40.48056330177944
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_31_973",
+      "CODIGOESTACION": "31",
+      "IDFESTACION": "5_31",
+      "DENOMINACION": "Fuencarral"
+    },
+    "geometry": {
+      "x": -3.682584616151407,
+      "y": 40.50151875942853
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_64_979",
+      "CODIGOESTACION": "64",
+      "IDFESTACION": "5_64",
+      "DENOMINACION": "Ram\u00f3n y Cajal"
+    },
+    "geometry": {
+      "x": -3.6949158828816144,
+      "y": 40.48799636568021
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_64_980",
+      "CODIGOESTACION": "64",
+      "IDFESTACION": "5_64",
+      "DENOMINACION": "Ram\u00f3n y Cajal"
+    },
+    "geometry": {
+      "x": -3.6946612007401467,
+      "y": 40.4879353729553
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_64_981",
+      "CODIGOESTACION": "64",
+      "IDFESTACION": "5_64",
+      "DENOMINACION": "Ram\u00f3n y Cajal"
+    },
+    "geometry": {
+      "x": -3.6937672202760377,
+      "y": 40.48818279860275
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_61_1024",
+      "CODIGOESTACION": "61",
+      "IDFESTACION": "5_61",
+      "DENOMINACION": "Pr\u00edncipe P\u00edo"
+    },
+    "geometry": {
+      "x": -3.7182892941857317,
+      "y": 40.42112196494705
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_30_827",
+      "CODIGOESTACION": "30",
+      "IDFESTACION": "5_30",
+      "DENOMINACION": "Acceso Renfe Fanjul"
+    },
+    "geometry": {
+      "x": -3.76864195816728,
+      "y": 40.38364095999009
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_11_846",
+      "CODIGOESTACION": "11",
+      "IDFESTACION": "5_11",
+      "DENOMINACION": "Paseo Infanta Isabel"
+    },
+    "geometry": {
+      "x": -3.688195127789151,
+      "y": 40.40701401382688
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_46_850",
+      "CODIGOESTACION": "46",
+      "IDFESTACION": "5_46",
+      "DENOMINACION": "Acceso Renfe M\u00e9ndez \u00c1lvaro"
+    },
+    "geometry": {
+      "x": -3.6776519569744877,
+      "y": 40.39569715404108
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_41_864",
+      "CODIGOESTACION": "41",
+      "IDFESTACION": "5_41",
+      "DENOMINACION": "Acceso Renfe Legan\u00e9s"
+    },
+    "geometry": {
+      "x": -3.771674133330644,
+      "y": 40.32905173436387
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_105_865",
+      "CODIGOESTACION": "105",
+      "IDFESTACION": "5_105",
+      "DENOMINACION": "Acceso Renfe Parque Polvoranca"
+    },
+    "geometry": {
+      "x": -3.7836153744722054,
+      "y": 40.312537509383056
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_103_922",
+      "CODIGOESTACION": "103",
+      "IDFESTACION": "5_103",
+      "DENOMINACION": "Acceso Renfe El Casar"
+    },
+    "geometry": {
+      "x": -3.709982236140234,
+      "y": 40.3186985465846
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_32_869",
+      "CODIGOESTACION": "32",
+      "IDFESTACION": "5_32",
+      "DENOMINACION": "Acceso Renfe Fuenlabrada"
+    },
+    "geometry": {
+      "x": -3.7996538864369254,
+      "y": 40.28315226735732
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_48_873",
+      "CODIGOESTACION": "48",
+      "IDFESTACION": "5_48",
+      "DENOMINACION": "Acceso Renfe M\u00f3stoles"
+    },
+    "geometry": {
+      "x": -3.863827073883562,
+      "y": 40.32897334022631
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_66_875",
+      "CODIGOESTACION": "66",
+      "IDFESTACION": "5_66",
+      "DENOMINACION": "Acceso Renfe Las Retamas"
+    },
+    "geometry": {
+      "x": -3.842806436896846,
+      "y": 40.34197991658683
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_86_920",
+      "CODIGOESTACION": "86",
+      "IDFESTACION": "5_86",
+      "DENOMINACION": "Acceso Renfe Valdemoro"
+    },
+    "geometry": {
+      "x": -3.6649792065922764,
+      "y": 40.19599565010579
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_75_939",
+      "CODIGOESTACION": "75",
+      "IDFESTACION": "5_75",
+      "DENOMINACION": "Santa Eugenia"
+    },
+    "geometry": {
+      "x": -3.6088851265982704,
+      "y": 40.38683030211534
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_18_975",
+      "CODIGOESTACION": "18",
+      "IDFESTACION": "5_18",
+      "DENOMINACION": "Chamart\u00edn"
+    },
+    "geometry": {
+      "x": -3.6828837076515386,
+      "y": 40.47352333800217
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_76_987",
+      "CODIGOESTACION": "76",
+      "IDFESTACION": "5_76",
+      "DENOMINACION": "Santa Maria de la Alameda"
+    },
+    "geometry": {
+      "x": -4.269161105350505,
+      "y": 40.5690160197793
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_76_988",
+      "CODIGOESTACION": "76",
+      "IDFESTACION": "5_76",
+      "DENOMINACION": "Santa Mar\u00eda de la Alameda"
+    },
+    "geometry": {
+      "x": -4.269162271230043,
+      "y": 40.568746668768256
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_20_1009",
+      "CODIGOESTACION": "20",
+      "IDFESTACION": "5_20",
+      "DENOMINACION": "Collado Mediano"
+    },
+    "geometry": {
+      "x": -4.035713915442018,
+      "y": 40.692754143310104
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_6_1010",
+      "CODIGOESTACION": "6",
+      "IDFESTACION": "5_6",
+      "DENOMINACION": "Alpedrete"
+    },
+    "geometry": {
+      "x": -4.0348696362031795,
+      "y": 40.65816736534676
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_55_1016",
+      "CODIGOESTACION": "55",
+      "IDFESTACION": "5_55",
+      "DENOMINACION": "Pinar de Las Rozas"
+    },
+    "geometry": {
+      "x": -3.8823162846561377,
+      "y": 40.52237784335556
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_68_1017",
+      "CODIGOESTACION": "68",
+      "IDFESTACION": "5_68",
+      "DENOMINACION": "Las Rozas"
+    },
+    "geometry": {
+      "x": -3.868255966203681,
+      "y": 40.494298143725004
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_42_1018",
+      "CODIGOESTACION": "42",
+      "IDFESTACION": "5_42",
+      "DENOMINACION": "Majadahonda"
+    },
+    "geometry": {
+      "x": -3.8452175608226296,
+      "y": 40.47423280859349
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_13_1019",
+      "CODIGOESTACION": "13",
+      "IDFESTACION": "5_13",
+      "DENOMINACION": "El Barrial-Centro Comercial Pozuelo"
+    },
+    "geometry": {
+      "x": -3.8079156299227512,
+      "y": 40.465059109332664
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_60_1020",
+      "CODIGOESTACION": "60",
+      "IDFESTACION": "5_60",
+      "DENOMINACION": "Pozuelo"
+    },
+    "geometry": {
+      "x": -3.8002296628953305,
+      "y": 40.44726505872689
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_9_1021",
+      "CODIGOESTACION": "9",
+      "IDFESTACION": "5_9",
+      "DENOMINACION": "Aravaca"
+    },
+    "geometry": {
+      "x": -3.7856724896477134,
+      "y": 40.448312064713875
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_92_856",
+      "CODIGOESTACION": "92",
+      "IDFESTACION": "5_92",
+      "DENOMINACION": "Acceso Renfe Villaverde Alto"
+    },
+    "geometry": {
+      "x": -3.711630220235632,
+      "y": 40.34161726275709
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_41_863",
+      "CODIGOESTACION": "41",
+      "IDFESTACION": "5_41",
+      "DENOMINACION": "Acceso Renfe Legan\u00e9s"
+    },
+    "geometry": {
+      "x": -3.7710102287096054,
+      "y": 40.32871039104811
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_77_867",
+      "CODIGOESTACION": "77",
+      "IDFESTACION": "5_77",
+      "DENOMINACION": "Acceso Renfe La Serna"
+    },
+    "geometry": {
+      "x": -3.7923910262458143,
+      "y": 40.29655192095169
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_77_868",
+      "CODIGOESTACION": "77",
+      "IDFESTACION": "5_77",
+      "DENOMINACION": "Acceso Renfe La Serna"
+    },
+    "geometry": {
+      "x": -3.7922462240981507,
+      "y": 40.296815118104675
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_32_870",
+      "CODIGOESTACION": "32",
+      "IDFESTACION": "5_32",
+      "DENOMINACION": "Acceso Renfe Fuenlabrada"
+    },
+    "geometry": {
+      "x": -3.7988654927312795,
+      "y": 40.282632987087354
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_48_874",
+      "CODIGOESTACION": "48",
+      "IDFESTACION": "5_48",
+      "DENOMINACION": "Acceso Renfe M\u00f3stoles"
+    },
+    "geometry": {
+      "x": -3.863692436175063,
+      "y": 40.3288976149429
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_49_880",
+      "CODIGOESTACION": "49",
+      "IDFESTACION": "5_49",
+      "DENOMINACION": "Acceso Renfe M\u00f3stoles-El Soto"
+    },
+    "geometry": {
+      "x": -3.8825364126076307,
+      "y": 40.33098961433673
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_104_899",
+      "CODIGOESTACION": "104",
+      "IDFESTACION": "5_104",
+      "DENOMINACION": "Acceso Renfe Humanes"
+    },
+    "geometry": {
+      "x": -3.8287209376515303,
+      "y": 40.25580132328765
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_104_900",
+      "CODIGOESTACION": "104",
+      "IDFESTACION": "5_104",
+      "DENOMINACION": "Acceso Renfe Humanes"
+    },
+    "geometry": {
+      "x": -3.8286389483263754,
+      "y": 40.255813352169284
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_104_901",
+      "CODIGOESTACION": "104",
+      "IDFESTACION": "5_104",
+      "DENOMINACION": "Acceso Renfe Humanes"
+    },
+    "geometry": {
+      "x": -3.8282876923380114,
+      "y": 40.255481191416656
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_104_902",
+      "CODIGOESTACION": "104",
+      "IDFESTACION": "5_104",
+      "DENOMINACION": "Acceso Renfe Humanes"
+    },
+    "geometry": {
+      "x": -3.8284072554756325,
+      "y": 40.25548891866036
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_34_907",
+      "CODIGOESTACION": "34",
+      "IDFESTACION": "5_34",
+      "DENOMINACION": "Acceso Renfe Getafe Centro"
+    },
+    "geometry": {
+      "x": -3.7341653149017744,
+      "y": 40.310025410077586
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_90_941",
+      "CODIGOESTACION": "90",
+      "IDFESTACION": "5_90",
+      "DENOMINACION": "Vic\u00e1lvaro"
+    },
+    "geometry": {
+      "x": -3.5958489162177303,
+      "y": 40.40140505601229
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_71_947",
+      "CODIGOESTACION": "71",
+      "IDFESTACION": "5_71",
+      "DENOMINACION": "San Fernando de Henares"
+    },
+    "geometry": {
+      "x": -3.5339882980009723,
+      "y": 40.4426035513609
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_81_948",
+      "CODIGOESTACION": "81",
+      "IDFESTACION": "5_81",
+      "DENOMINACION": "Torrej\u00f3n de Ardoz"
+    },
+    "geometry": {
+      "x": -3.4798618252602886,
+      "y": 40.45480631079957
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_2_951",
+      "CODIGOESTACION": "2",
+      "IDFESTACION": "5_2",
+      "DENOMINACION": "Alcal\u00e1 de Henares"
+    },
+    "geometry": {
+      "x": -3.366058970390102,
+      "y": 40.48893396956794
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_2_953",
+      "CODIGOESTACION": "2",
+      "IDFESTACION": "5_2",
+      "DENOMINACION": "Alcal\u00e1 de Henares"
+    },
+    "geometry": {
+      "x": -3.3657619451684027,
+      "y": 40.489076092850425
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_85_970",
+      "CODIGOESTACION": "85",
+      "IDFESTACION": "5_85",
+      "DENOMINACION": "Valdelasfuentes"
+    },
+    "geometry": {
+      "x": -3.654037433335898,
+      "y": 40.54734712812358
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_84_971",
+      "CODIGOESTACION": "84",
+      "IDFESTACION": "5_84",
+      "DENOMINACION": "Universidad P. Comillas"
+    },
+    "geometry": {
+      "x": -3.683189744910147,
+      "y": 40.5537568106638
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_63_998",
+      "CODIGOESTACION": "63",
+      "IDFESTACION": "5_63",
+      "DENOMINACION": "Puerto de Navacerrada"
+    },
+    "geometry": {
+      "x": -4.005080953572243,
+      "y": 40.784035197643384
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_58_978",
+      "CODIGOESTACION": "58",
+      "IDFESTACION": "5_58",
+      "DENOMINACION": "Pitis"
+    },
+    "geometry": {
+      "x": -3.7260644666893494,
+      "y": 40.49528035950675
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_67_989",
+      "CODIGOESTACION": "67",
+      "IDFESTACION": "5_67",
+      "DENOMINACION": "Robledo de Chavela"
+    },
+    "geometry": {
+      "x": -4.246809620301239,
+      "y": 40.52071531485415
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_63_999",
+      "CODIGOESTACION": "63",
+      "IDFESTACION": "5_63",
+      "DENOMINACION": "Puerto de Navacerrada"
+    },
+    "geometry": {
+      "x": -4.004094618597187,
+      "y": 40.78454566659054
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_63_1000",
+      "CODIGOESTACION": "63",
+      "IDFESTACION": "5_63",
+      "DENOMINACION": "Puerto de Navacerrada"
+    },
+    "geometry": {
+      "x": -4.00493151710474,
+      "y": 40.784358360222775
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_47_1007",
+      "CODIGOESTACION": "47",
+      "IDFESTACION": "5_47",
+      "DENOMINACION": "Los Molinos"
+    },
+    "geometry": {
+      "x": -4.066692640270928,
+      "y": 40.70742396114268
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_16_1008",
+      "CODIGOESTACION": "16",
+      "IDFESTACION": "5_16",
+      "DENOMINACION": "Cercedilla"
+    },
+    "geometry": {
+      "x": -4.066316032301664,
+      "y": 40.73759751117767
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_50_1011",
+      "CODIGOESTACION": "50",
+      "IDFESTACION": "5_50",
+      "DENOMINACION": "Los Negrales"
+    },
+    "geometry": {
+      "x": -4.021847091794305,
+      "y": 40.638514429006335
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_91_1012",
+      "CODIGOESTACION": "91",
+      "IDFESTACION": "5_91",
+      "DENOMINACION": "Villalba"
+    },
+    "geometry": {
+      "x": -4.007906389399959,
+      "y": 40.62638091906827
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_33_1013",
+      "CODIGOESTACION": "33",
+      "IDFESTACION": "5_33",
+      "DENOMINACION": "Galapagar-La Navata"
+    },
+    "geometry": {
+      "x": -3.982066876307063,
+      "y": 40.60010904261076
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_82_1014",
+      "CODIGOESTACION": "82",
+      "IDFESTACION": "5_82",
+      "DENOMINACION": "Torrelodones"
+    },
+    "geometry": {
+      "x": -3.956797881732982,
+      "y": 40.57451316819918
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_44_1015",
+      "CODIGOESTACION": "44",
+      "IDFESTACION": "5_44",
+      "DENOMINACION": "Las Matas"
+    },
+    "geometry": {
+      "x": -3.896650373630842,
+      "y": 40.552518373272875
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_121_822",
+      "CODIGOESTACION": "121",
+      "IDFESTACION": "5_121",
+      "DENOMINACION": "Medina del Campo"
+    },
+    "geometry": {
+      "x": -4.9095142378182235,
+      "y": 41.317211518233236
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_95_861",
+      "CODIGOESTACION": "95",
+      "IDFESTACION": "5_95",
+      "DENOMINACION": "Acceso Renfe Zarzaquemada"
+    },
+    "geometry": {
+      "x": -3.747910983494283,
+      "y": 40.340604187597236
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_95_862",
+      "CODIGOESTACION": "95",
+      "IDFESTACION": "5_95",
+      "DENOMINACION": "Acceso Renfe Zarzaquemada"
+    },
+    "geometry": {
+      "x": -3.7484805527498817,
+      "y": 40.3405727775984
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_40_889",
+      "CODIGOESTACION": "40",
+      "IDFESTACION": "5_40",
+      "DENOMINACION": "Acceso Renfe Laguna"
+    },
+    "geometry": {
+      "x": -3.7442270021783073,
+      "y": 40.39896775750891
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_46_890",
+      "CODIGOESTACION": "46",
+      "IDFESTACION": "5_46",
+      "DENOMINACION": "Acceso Renfe M\u00e9ndez \u00c1lvaro"
+    },
+    "geometry": {
+      "x": -3.6788144691159768,
+      "y": 40.39626099126881
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_46_892",
+      "CODIGOESTACION": "46",
+      "IDFESTACION": "5_46",
+      "DENOMINACION": "Acceso Renfe M\u00e9ndez \u00c1lvaro"
+    },
+    "geometry": {
+      "x": -3.6782337826224896,
+      "y": 40.39603613656695
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_52_893",
+      "CODIGOESTACION": "52",
+      "IDFESTACION": "5_52",
+      "DENOMINACION": "Acceso Renfe Orcasitas"
+    },
+    "geometry": {
+      "x": -3.7048258588205845,
+      "y": 40.364715023188126
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_52_894",
+      "CODIGOESTACION": "52",
+      "IDFESTACION": "5_52",
+      "DENOMINACION": "Acceso Renfe Orcasitas"
+    },
+    "geometry": {
+      "x": -3.7049944723518466,
+      "y": 40.36474736794324
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_105_896",
+      "CODIGOESTACION": "105",
+      "IDFESTACION": "5_105",
+      "DENOMINACION": "Acceso Parque Polvoranca"
+    },
+    "geometry": {
+      "x": -3.783234107024326,
+      "y": 40.31230046083196
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_77_897",
+      "CODIGOESTACION": "77",
+      "IDFESTACION": "5_77",
+      "DENOMINACION": "Acceso Renfe La Serna"
+    },
+    "geometry": {
+      "x": -3.792717454131695,
+      "y": 40.29663992807591
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_77_898",
+      "CODIGOESTACION": "77",
+      "IDFESTACION": "5_77",
+      "DENOMINACION": "Acceso Renfe La Serna"
+    },
+    "geometry": {
+      "x": -3.7925421213649178,
+      "y": 40.296921355878915
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_53_903",
+      "CODIGOESTACION": "53",
+      "IDFESTACION": "5_53",
+      "DENOMINACION": "Acceso Renfe Parla"
+    },
+    "geometry": {
+      "x": -3.7694614365648023,
+      "y": 40.24091801292662
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_53_904",
+      "CODIGOESTACION": "53",
+      "IDFESTACION": "5_53",
+      "DENOMINACION": "Acceso Renfe Parla"
+    },
+    "geometry": {
+      "x": -3.769287031353603,
+      "y": 40.2408699762439
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_25_914",
+      "CODIGOESTACION": "25",
+      "IDFESTACION": "5_25",
+      "DENOMINACION": "Acceso Renfe Delicias"
+    },
+    "geometry": {
+      "x": -3.6930377407096366,
+      "y": 40.40048873882693
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_57_915",
+      "CODIGOESTACION": "57",
+      "IDFESTACION": "5_57",
+      "DENOMINACION": "Acceso Renfe Pir\u00e1mides"
+    },
+    "geometry": {
+      "x": -3.71139861036238,
+      "y": 40.402478362282224
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_57_916",
+      "CODIGOESTACION": "57",
+      "IDFESTACION": "5_57",
+      "DENOMINACION": "Acceso Renfe Pir\u00e1mides"
+    },
+    "geometry": {
+      "x": -3.7113604787383427,
+      "y": 40.402537857594474
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_57_917",
+      "CODIGOESTACION": "57",
+      "IDFESTACION": "5_57",
+      "DENOMINACION": "Acceso Renfe Pir\u00e1mides"
+    },
+    "geometry": {
+      "x": -3.711373810713935,
+      "y": 40.40257728120907
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_8_918",
+      "CODIGOESTACION": "8",
+      "IDFESTACION": "5_8",
+      "DENOMINACION": "Acceso Renfe Aranjuez"
+    },
+    "geometry": {
+      "x": -3.6182235027593093,
+      "y": 40.03483281456033
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_81_949",
+      "CODIGOESTACION": "81",
+      "IDFESTACION": "5_81",
+      "DENOMINACION": "Torrej\u00f3n de Ardoz"
+    },
+    "geometry": {
+      "x": -3.4797088011162374,
+      "y": 40.45434928026808
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_38_962",
+      "CODIGOESTACION": "38",
+      "IDFESTACION": "5_38",
+      "DENOMINACION": "Guadalajara"
+    },
+    "geometry": {
+      "x": -3.182138347757665,
+      "y": 40.64404616336236
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_83_964",
+      "CODIGOESTACION": "83",
+      "IDFESTACION": "5_83",
+      "DENOMINACION": "Tres Cantos"
+    },
+    "geometry": {
+      "x": -3.715316276268217,
+      "y": 40.59851936164014
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_15_972",
+      "CODIGOESTACION": "15",
+      "IDFESTACION": "5_15",
+      "DENOMINACION": "Cantoblanco Universidad"
+    },
+    "geometry": {
+      "x": -3.7001013698830407,
+      "y": 40.54386948894571
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_96_991",
+      "CODIGOESTACION": "96",
+      "IDFESTACION": "5_96",
+      "DENOMINACION": "Las Zorreras"
+    },
+    "geometry": {
+      "x": -4.045938893268611,
+      "y": 40.60938045845687
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_96_992",
+      "CODIGOESTACION": "96",
+      "IDFESTACION": "5_96",
+      "DENOMINACION": "Las Zorreras"
+    },
+    "geometry": {
+      "x": -4.046495482692586,
+      "y": 40.60937303262731
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_96_993",
+      "CODIGOESTACION": "96",
+      "IDFESTACION": "5_96",
+      "DENOMINACION": "Las Zorreras"
+    },
+    "geometry": {
+      "x": -4.04647199302207,
+      "y": 40.609270755323415
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_96_994",
+      "CODIGOESTACION": "96",
+      "IDFESTACION": "5_96",
+      "DENOMINACION": "Las Zorreras"
+    },
+    "geometry": {
+      "x": -4.046434617957711,
+      "y": 40.609280627801745
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_23_996",
+      "CODIGOESTACION": "23",
+      "IDFESTACION": "5_23",
+      "DENOMINACION": "Cotos"
+    },
+    "geometry": {
+      "x": -3.9643463574620745,
+      "y": 40.82239500665469
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_26_851",
+      "CODIGOESTACION": "26",
+      "IDFESTACION": "5_26",
+      "DENOMINACION": "Acceso Renfe Doce de Octubre"
+    },
+    "geometry": {
+      "x": -3.698939882709812,
+      "y": 40.37923064845282
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_66_834",
+      "CODIGOESTACION": "66",
+      "IDFESTACION": "5_66",
+      "DENOMINACION": "Acceso Renfe Las Retamas"
+    },
+    "geometry": {
+      "x": -3.8421036443032683,
+      "y": 40.34191043293469
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_66_835",
+      "CODIGOESTACION": "66",
+      "IDFESTACION": "5_66",
+      "DENOMINACION": "Acceso Renfe Las Retamas"
+    },
+    "geometry": {
+      "x": -3.842679617682533,
+      "y": 40.34208527782188
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_26_852",
+      "CODIGOESTACION": "26",
+      "IDFESTACION": "5_26",
+      "DENOMINACION": "Acceso Renfe Doce de Octubre"
+    },
+    "geometry": {
+      "x": -3.6986366479061408,
+      "y": 40.378841556067094
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_52_853",
+      "CODIGOESTACION": "52",
+      "IDFESTACION": "5_52",
+      "DENOMINACION": "Acceso Renfe Orcasitas"
+    },
+    "geometry": {
+      "x": -3.704112814198069,
+      "y": 40.367063876774765
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_52_854",
+      "CODIGOESTACION": "52",
+      "IDFESTACION": "5_52",
+      "DENOMINACION": "Acceso Renfe Orcasitas"
+    },
+    "geometry": {
+      "x": -3.70482238500757,
+      "y": 40.366373061364705
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_62_855",
+      "CODIGOESTACION": "62",
+      "IDFESTACION": "5_62",
+      "DENOMINACION": "Acceso Renfe Puente Alcocer"
+    },
+    "geometry": {
+      "x": -3.705079212003828,
+      "y": 40.35037426493227
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_43_908",
+      "CODIGOESTACION": "43",
+      "IDFESTACION": "5_43",
+      "DENOMINACION": "Acceso Renfe Las Margaritas-Universidad"
+    },
+    "geometry": {
+      "x": -3.727188115930613,
+      "y": 40.32297185662414
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_43_909",
+      "CODIGOESTACION": "43",
+      "IDFESTACION": "5_43",
+      "DENOMINACION": "Acceso Renfe Las Margaritas-Universidad"
+    },
+    "geometry": {
+      "x": -3.727157013269122,
+      "y": 40.32306838999971
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_93_912",
+      "CODIGOESTACION": "93",
+      "IDFESTACION": "5_93",
+      "DENOMINACION": "Acceso Renfe Villaverde Bajo"
+    },
+    "geometry": {
+      "x": -3.6843055238572675,
+      "y": 40.35266376056449
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_93_913",
+      "CODIGOESTACION": "93",
+      "IDFESTACION": "5_93",
+      "DENOMINACION": "Acceso Renfe Villaverde Bajo"
+    },
+    "geometry": {
+      "x": -3.6842976224656203,
+      "y": 40.35275872048092
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_52_923",
+      "CODIGOESTACION": "52",
+      "IDFESTACION": "5_52",
+      "DENOMINACION": "Acceso Renfe Orcasitas"
+    },
+    "geometry": {
+      "x": -3.704078030771587,
+      "y": 40.367199498303094
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_56_924",
+      "CODIGOESTACION": "56",
+      "IDFESTACION": "5_56",
+      "DENOMINACION": "Pinto"
+    },
+    "geometry": {
+      "x": -3.703559911845475,
+      "y": 40.24278527310125
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_22_944",
+      "CODIGOESTACION": "22",
+      "IDFESTACION": "5_22",
+      "DENOMINACION": "Coslada"
+    },
+    "geometry": {
+      "x": -3.561280437298616,
+      "y": 40.423780060654146
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_22_945",
+      "CODIGOESTACION": "22",
+      "IDFESTACION": "5_22",
+      "DENOMINACION": "Coslada"
+    },
+    "geometry": {
+      "x": -3.561180405642716,
+      "y": 40.42388911366231
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_22_946",
+      "CODIGOESTACION": "22",
+      "IDFESTACION": "5_22",
+      "DENOMINACION": "Coslada"
+    },
+    "geometry": {
+      "x": -3.560805440842694,
+      "y": 40.42375378890617
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_12_960",
+      "CODIGOESTACION": "12",
+      "IDFESTACION": "5_12",
+      "DENOMINACION": "Azuqueca de Henares"
+    },
+    "geometry": {
+      "x": -3.265460570184245,
+      "y": 40.56112837382112
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_12_961",
+      "CODIGOESTACION": "12",
+      "IDFESTACION": "5_12",
+      "DENOMINACION": "Azuqueca de Henares"
+    },
+    "geometry": {
+      "x": -3.26559059213726,
+      "y": 40.56101382487639
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_37_965",
+      "CODIGOESTACION": "37",
+      "IDFESTACION": "5_37",
+      "DENOMINACION": "El Goloso"
+    },
+    "geometry": {
+      "x": -3.7138410471569743,
+      "y": 40.55876559441381
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_4_966",
+      "CODIGOESTACION": "4",
+      "IDFESTACION": "5_4",
+      "DENOMINACION": "Alcobendas"
+    },
+    "geometry": {
+      "x": -3.635100634315165,
+      "y": 40.54670578754628
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_4_967",
+      "CODIGOESTACION": "4",
+      "IDFESTACION": "5_4",
+      "DENOMINACION": "Alcobendas"
+    },
+    "geometry": {
+      "x": -3.6350436428353423,
+      "y": 40.54661388610078
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_4_968",
+      "CODIGOESTACION": "4",
+      "IDFESTACION": "5_4",
+      "DENOMINACION": "S.S. de los Reyes"
+    },
+    "geometry": {
+      "x": -3.6347918954342644,
+      "y": 40.54692813202489
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_4_969",
+      "CODIGOESTACION": "4",
+      "IDFESTACION": "5_4",
+      "DENOMINACION": "S.S. de los Reyes"
+    },
+    "geometry": {
+      "x": -3.634752530279468,
+      "y": 40.54687400955109
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_18_974",
+      "CODIGOESTACION": "18",
+      "IDFESTACION": "5_18",
+      "DENOMINACION": "Chamart\u00edn"
+    },
+    "geometry": {
+      "x": -3.682314895480353,
+      "y": 40.47221182840582
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_74_995",
+      "CODIGOESTACION": "74",
+      "IDFESTACION": "5_74",
+      "DENOMINACION": "San Yago"
+    },
+    "geometry": {
+      "x": -4.030964777339345,
+      "y": 40.6179038133853
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_9_1022",
+      "CODIGOESTACION": "9",
+      "IDFESTACION": "5_9",
+      "DENOMINACION": "Aravaca"
+    },
+    "geometry": {
+      "x": -3.785285234007315,
+      "y": 40.448406152487415
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_9_1023",
+      "CODIGOESTACION": "9",
+      "IDFESTACION": "5_9",
+      "DENOMINACION": "Aravaca"
+    },
+    "geometry": {
+      "x": -3.785323773043723,
+      "y": 40.44870704150983
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_65_1025",
+      "CODIGOESTACION": "65",
+      "IDFESTACION": "5_65",
+      "DENOMINACION": "Recoletos"
+    },
+    "geometry": {
+      "x": -3.690952537034461,
+      "y": 40.42335313203251
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_51_1026",
+      "CODIGOESTACION": "51",
+      "IDFESTACION": "5_51",
+      "DENOMINACION": "Nuevos Ministerios"
+    },
+    "geometry": {
+      "x": -3.692242032863165,
+      "y": 40.44656901260812
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_5_836",
+      "CODIGOESTACION": "5",
+      "IDFESTACION": "5_5",
+      "DENOMINACION": "Acceso Renfe Alcorc\u00f3n"
+    },
+    "geometry": {
+      "x": -3.8315621283049097,
+      "y": 40.35018795393909
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_49_832",
+      "CODIGOESTACION": "49",
+      "IDFESTACION": "5_49",
+      "DENOMINACION": "Acceso Renfe M\u00f3stoles-El Soto"
+    },
+    "geometry": {
+      "x": -3.882502128618545,
+      "y": 40.33102445198005
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_5_837",
+      "CODIGOESTACION": "5",
+      "IDFESTACION": "5_5",
+      "DENOMINACION": "Acceso Renfe Alcorc\u00f3n"
+    },
+    "geometry": {
+      "x": -3.831896609681694,
+      "y": 40.35002536855237
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_93_910",
+      "CODIGOESTACION": "93",
+      "IDFESTACION": "5_93",
+      "DENOMINACION": "Acceso Renfe Villaverde Bajo"
+    },
+    "geometry": {
+      "x": -3.6834085953359827,
+      "y": 40.35298754985545
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_72_839",
+      "CODIGOESTACION": "72",
+      "IDFESTACION": "5_72",
+      "DENOMINACION": "Acceso San Jos\u00e9 de Valderas"
+    },
+    "geometry": {
+      "x": -3.8154936162958517,
+      "y": 40.35649790472626
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_24_840",
+      "CODIGOESTACION": "24",
+      "IDFESTACION": "5_24",
+      "DENOMINACION": "Acceso Renfe Cuatro Vientos"
+    },
+    "geometry": {
+      "x": -3.792127916023244,
+      "y": 40.377489599000036
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_93_911",
+      "CODIGOESTACION": "93",
+      "IDFESTACION": "5_93",
+      "DENOMINACION": "Acceso Renfe Villaverde Bajo"
+    },
+    "geometry": {
+      "x": -3.683434530708765,
+      "y": 40.35276362109965
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_19_919",
+      "CODIGOESTACION": "19",
+      "IDFESTACION": "5_19",
+      "DENOMINACION": "Acceso Renfe Ciempozuelos"
+    },
+    "geometry": {
+      "x": -3.610185416013882,
+      "y": 40.159048744713566
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_70_925",
+      "CODIGOESTACION": "70",
+      "IDFESTACION": "5_70",
+      "DENOMINACION": "San Cristobal Industrial"
+    },
+    "geometry": {
+      "x": -3.699052132073817,
+      "y": 40.33182438911735
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_3_956",
+      "CODIGOESTACION": "3",
+      "IDFESTACION": "5_3",
+      "DENOMINACION": "Alcal\u00e1 de Henares Universidad"
+    },
+    "geometry": {
+      "x": -3.3356787520458817,
+      "y": 40.505182361828396
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_3_957",
+      "CODIGOESTACION": "3",
+      "IDFESTACION": "5_3",
+      "DENOMINACION": "Alacal\u00e1 de Henares Universidad"
+    },
+    "geometry": {
+      "x": -3.335419179107359,
+      "y": 40.50541530059093
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_3_958",
+      "CODIGOESTACION": "3",
+      "IDFESTACION": "5_3",
+      "DENOMINACION": "Alcal\u00e1 de Henares Universidad"
+    },
+    "geometry": {
+      "x": -3.3350966508266366,
+      "y": 40.50561156555466
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_45_959",
+      "CODIGOESTACION": "45",
+      "IDFESTACION": "5_45",
+      "DENOMINACION": "Meco"
+    },
+    "geometry": {
+      "x": -3.2986954135463518,
+      "y": 40.53468119217132
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_21_963",
+      "CODIGOESTACION": "21",
+      "IDFESTACION": "5_21",
+      "DENOMINACION": "Colmenar Viejo"
+    },
+    "geometry": {
+      "x": -3.776692800928455,
+      "y": 40.645237061575145
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_133_1070",
+      "CODIGOESTACION": "133",
+      "IDFESTACION": "5_133",
+      "DENOMINACION": "Avda. Fuente de la Mora"
+    },
+    "geometry": {
+      "x": -3.6632165506718564,
+      "y": 40.48560543989184
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_133_1071",
+      "CODIGOESTACION": "133",
+      "IDFESTACION": "5_133",
+      "DENOMINACION": "Ascensor"
+    },
+    "geometry": {
+      "x": -3.663053367435943,
+      "y": 40.48565358219114
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_133_1072",
+      "CODIGOESTACION": "133",
+      "IDFESTACION": "5_133",
+      "DENOMINACION": "Camino Fuente de la Mora"
+    },
+    "geometry": {
+      "x": -3.6631194986309525,
+      "y": 40.48461188714853
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_142_1073",
+      "CODIGOESTACION": "142",
+      "IDFESTACION": "5_142",
+      "DENOMINACION": "Aeropuerto T4"
+    },
+    "geometry": {
+      "x": -3.593016258206367,
+      "y": 40.49173725671862
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_122_1074",
+      "CODIGOESTACION": "122",
+      "IDFESTACION": "5_122",
+      "DENOMINACION": "RENFE Sol"
+    },
+    "geometry": {
+      "x": -3.7029868977036307,
+      "y": 40.41684854790841
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_143_1077",
+      "CODIGOESTACION": "143",
+      "IDFESTACION": "5_143",
+      "DENOMINACION": "Soto del Henares"
+    },
+    "geometry": {
+      "x": -3.441380492558193,
+      "y": 40.463187856118864
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_144_1078",
+      "CODIGOESTACION": "144",
+      "IDFESTACION": "5_144",
+      "DENOMINACION": "Acceso Norte (Izquierda)"
+    },
+    "geometry": {
+      "x": -3.6166661869181973,
+      "y": 40.48263408424855
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_144_1079",
+      "CODIGOESTACION": "144",
+      "IDFESTACION": "5_144",
+      "DENOMINACION": "Acceso Norte (Derecha)"
+    },
+    "geometry": {
+      "x": -3.616083332661292,
+      "y": 40.48264224397805
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_144_1080",
+      "CODIGOESTACION": "144",
+      "IDFESTACION": "5_144",
+      "DENOMINACION": "Ascensor Norte"
+    },
+    "geometry": {
+      "x": -3.616287516931561,
+      "y": 40.48251470733366
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_144_1081",
+      "CODIGOESTACION": "144",
+      "IDFESTACION": "5_144",
+      "DENOMINACION": "Ascensor Sur"
+    },
+    "geometry": {
+      "x": -3.616389108312646,
+      "y": 40.482033649805416
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_144_1082",
+      "CODIGOESTACION": "144",
+      "IDFESTACION": "5_144",
+      "DENOMINACION": "Acceso Sur (Izquierda)"
+    },
+    "geometry": {
+      "x": -3.616606632817788,
+      "y": 40.48191615490892
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "5_144_1083",
+      "CODIGOESTACION": "144",
+      "IDFESTACION": "5_144",
+      "DENOMINACION": "Acceso Sur (Derecha)"
+    },
+    "geometry": {
+      "x": -3.6160701050892947,
+      "y": 40.48191900976204
+    }
+  }
+]
+}

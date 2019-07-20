@@ -6,7 +6,7 @@
     <title>Centros educativos en Madrid</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
     <link rel="stylesheet" href="main.css"/>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
@@ -18,7 +18,8 @@
     <link rel="stylesheet" href="sidebar/leaflet-sidebar.css" />
     <script src="sidebar/leaflet-sidebar.js"></script>
 
-    <script src="geojson.js"></script>
+		<script src="geotransporte.js"></script>
+    <script src="geocentros.js"></script>
     <script src="extend.js"></script>
     <script src="main.js" defer="defer"></script>
 		<!-- Matomo -->
@@ -44,6 +45,7 @@
             <ul role="tablist">
                 <li title="Información"><a href="#home" role="tab"><i class="fa fa-info-circle"></i></a></li>
                 <li title="Filtros"><a href="#settings" role="tab"><i class="fa fa-gear"></i></a></li>
+								<li title="Transporte"><a href="#transporte" role="tab"><i class="fa fa-subway"></i></a></li>
 								<li title="Mandar mails" id="lkMessages"><a href="#messages" role="tab"><i class="fa fa-envelope"></i></a></li>
                 <li title="Tu lista" class="tulista"><a href="#lista" role="tab"><i class="fa fa-pencil-square-o"></i><span id="count">446</span></a></li>
                 <li title="Contacto, correciones y sugerencias"><a href="#contacto" role="tab"><i class="fa fa-question-circle"></i></a></li>
@@ -94,13 +96,7 @@
 												<a href="http://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm">El buscador de centros</a></i>
 											</li>
 											<li>
-													Y para determinar la distancia a la estación de transporte más cercana,
-													se han usado los datos de:
-													<ul>
-									        														<li><a href="https://crtm.maps.arcgis.com/home/item.html?id=5c7f2951962540d69ffe8f640d94c246">la red de Metro</a></li>
-																											<li><a href="https://crtm.maps.arcgis.com/home/item.html?id=1a25440bf66f499bae2657ec7fb40144">la red de Cercanias</a></li>
-																											<li><a href="https://crtm.maps.arcgis.com/home/item.html?id=aaed26cc0ff64b0c947ac0bc3e033196">la red de Metro ligero</a></li>
-																										</ul>
+												<a href="https://data-crtm.opendata.arcgis.com/">El portal de datos abiertos de CRTM</a>
 											</li>
 									</ul>
 									<p>
@@ -248,6 +244,61 @@
 									</p>
 								</div>
 					</div>
+					 <div class="sidebar-pane" id="transporte">
+					      <h1 class="sidebar-header">Transporte<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+								<div class="content">
+									<p>
+										<input type="checkbox" id="estaciones" />
+										<label for="estaciones">Mostrar estaciones de las lineas seleccionadas (*)</label>
+									</p>
+					        									<fieldset class="metro">
+										<legend>
+											Metro
+										</legend>
+																					<input type="checkbox" id="metro_1" /> <label for="metro_1">1</label></br>
+																					<input type="checkbox" id="metro_2" /> <label for="metro_2">2</label></br>
+																					<input type="checkbox" id="metro_3" /> <label for="metro_3">3</label></br>
+																					<input type="checkbox" id="metro_4" /> <label for="metro_4">4</label></br>
+																					<input type="checkbox" id="metro_5" /> <label for="metro_5">5</label></br>
+																					<input type="checkbox" id="metro_6" /> <label for="metro_6">6</label></br>
+																					<input type="checkbox" id="metro_7" /> <label for="metro_7">7</label></br>
+																					<input type="checkbox" id="metro_8" /> <label for="metro_8">8</label></br>
+																					<input type="checkbox" id="metro_9" /> <label for="metro_9">9</label></br>
+																					<input type="checkbox" id="metro_10" /> <label for="metro_10">10</label></br>
+																					<input type="checkbox" id="metro_11" /> <label for="metro_11">11</label></br>
+																					<input type="checkbox" id="metro_12" /> <label for="metro_12">12</label></br>
+																					<input type="checkbox" id="metro_R" /> <label for="metro_R">R</label></br>
+																			</fieldset>
+																		<fieldset class="cercanias">
+										<legend>
+											Cercanias
+										</legend>
+																					<input type="checkbox" id="cercanias_C1" /> <label for="cercanias_C1">C1</label></br>
+																					<input type="checkbox" id="cercanias_C2" /> <label for="cercanias_C2">C2</label></br>
+																					<input type="checkbox" id="cercanias_C3" /> <label for="cercanias_C3">C3</label></br>
+																					<input type="checkbox" id="cercanias_C4" /> <label for="cercanias_C4">C4</label></br>
+																					<input type="checkbox" id="cercanias_C5" /> <label for="cercanias_C5">C5</label></br>
+																					<input type="checkbox" id="cercanias_C7" /> <label for="cercanias_C7">C7</label></br>
+																					<input type="checkbox" id="cercanias_C8" /> <label for="cercanias_C8">C8</label></br>
+																					<input type="checkbox" id="cercanias_C9" /> <label for="cercanias_C9">C9</label></br>
+																					<input type="checkbox" id="cercanias_C10" /> <label for="cercanias_C10">C10</label></br>
+																			</fieldset>
+																		<fieldset class="metro_ligero">
+										<legend>
+											Metro ligero
+										</legend>
+																					<input type="checkbox" id="metro_ligero_ML1" /> <label for="metro_ligero_ML1">ML1</label></br>
+																					<input type="checkbox" id="metro_ligero_ML2" /> <label for="metro_ligero_ML2">ML2</label></br>
+																					<input type="checkbox" id="metro_ligero_ML3" /> <label for="metro_ligero_ML3">ML3</label></br>
+																					<input type="checkbox" id="metro_ligero_ML4" /> <label for="metro_ligero_ML4">ML4</label></br>
+																			</fieldset>
+																		<p>
+										(*) La ubicación de las estaciones es orientativa y puede haber otros
+										accesos que no esten representados.
+									</p>
+								</div>
+						</div>
+
         </div>
     </div>
 

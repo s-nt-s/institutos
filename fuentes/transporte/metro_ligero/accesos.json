@@ -1,0 +1,348 @@
+{
+"objectIdFieldName": "OBJECTID",
+"uniqueIdField": {
+  "name": "OBJECTID",
+  "isSystemMaintained": true
+},
+"globalIdFieldName": "",
+"geometryType": "esriGeometryPoint",
+"spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+},
+"fields": [
+  {
+    "name": "IDACCESO",
+    "type": "esriFieldTypeString",
+    "alias": "IDACCESO",
+    "sqlType": "sqlTypeOther",
+    "length": 50,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "CODIGOESTACION",
+    "type": "esriFieldTypeString",
+    "alias": "CODIGOESTACION",
+    "sqlType": "sqlTypeOther",
+    "length": 7,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "IDFESTACION",
+    "type": "esriFieldTypeString",
+    "alias": "IDFESTACION",
+    "sqlType": "sqlTypeOther",
+    "length": 48,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "DENOMINACION",
+    "type": "esriFieldTypeString",
+    "alias": "DENOMINACION",
+    "sqlType": "sqlTypeOther",
+    "length": 120,
+    "domain": null,
+    "defaultValue": null
+  }
+],
+"features": [
+  {
+    "attributes": {
+      "IDACCESO": "10_6_719",
+      "CODIGOESTACION": "6",
+      "IDFESTACION": "10_6",
+      "DENOMINACION": "Pr\u00edncipe Carlos"
+    },
+    "geometry": {
+      "x": -3.6556338708117218,
+      "y": 40.49354058024322
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_6_720",
+      "CODIGOESTACION": "6",
+      "IDFESTACION": "10_6",
+      "DENOMINACION": "Ascensor"
+    },
+    "geometry": {
+      "x": -3.655704449988634,
+      "y": 40.4935747426102
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_1_722",
+      "CODIGOESTACION": "1",
+      "IDFESTACION": "10_1",
+      "DENOMINACION": "Ascensor"
+    },
+    "geometry": {
+      "x": -3.6669416626153035,
+      "y": 40.4801531414943
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_1_721",
+      "CODIGOESTACION": "1",
+      "IDFESTACION": "10_1",
+      "DENOMINACION": "Arturo Soria"
+    },
+    "geometry": {
+      "x": -3.666844224868151,
+      "y": 40.48023219334973
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_2_723",
+      "CODIGOESTACION": "2",
+      "IDFESTACION": "10_2",
+      "DENOMINACION": "Avda. Fuente de la Mora"
+    },
+    "geometry": {
+      "x": -3.6631816336517855,
+      "y": 40.48561476902502
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_2_724",
+      "CODIGOESTACION": "2",
+      "IDFESTACION": "10_2",
+      "DENOMINACION": "Ascensor"
+    },
+    "geometry": {
+      "x": -3.6630223901381664,
+      "y": 40.48565548511978
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_2_725",
+      "CODIGOESTACION": "2",
+      "IDFESTACION": "10_2",
+      "DENOMINACION": "Camino Fuente de la Mora"
+    },
+    "geometry": {
+      "x": -3.6630833042145947,
+      "y": 40.48460885879765
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_2_726",
+      "CODIGOESTACION": "2",
+      "IDFESTACION": "10_2",
+      "DENOMINACION": "Ascensor"
+    },
+    "geometry": {
+      "x": -3.6630208718286057,
+      "y": 40.4846092160734
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_3_727",
+      "CODIGOESTACION": "3",
+      "IDFESTACION": "10_3",
+      "DENOMINACION": "Avda. Manoteras"
+    },
+    "geometry": {
+      "x": -3.66104801941646,
+      "y": 40.48740195241379
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_3_728",
+      "CODIGOESTACION": "3",
+      "IDFESTACION": "10_3",
+      "DENOMINACION": "Ascensor"
+    },
+    "geometry": {
+      "x": -3.6611558954061456,
+      "y": 40.487419212689915
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_7_729",
+      "CODIGOESTACION": "7",
+      "IDFESTACION": "10_7",
+      "DENOMINACION": "Mar\u00eda Tudor"
+    },
+    "geometry": {
+      "x": -3.6590666949995208,
+      "y": 40.49701404731607
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_7_730",
+      "CODIGOESTACION": "7",
+      "IDFESTACION": "10_7",
+      "DENOMINACION": "Ascensor"
+    },
+    "geometry": {
+      "x": -3.659047845487645,
+      "y": 40.4970778686826
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_7_731",
+      "CODIGOESTACION": "7",
+      "IDFESTACION": "10_7",
+      "DENOMINACION": "Catalina de Austria"
+    },
+    "geometry": {
+      "x": -3.6582003752472256,
+      "y": 40.49779104558099
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_4_732",
+      "CODIGOESTACION": "4",
+      "IDFESTACION": "10_4",
+      "DENOMINACION": "Pr\u00edncipe Carlos"
+    },
+    "geometry": {
+      "x": -3.6534977912586832,
+      "y": 40.48552465172435
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_5_733",
+      "CODIGOESTACION": "5",
+      "IDFESTACION": "10_5",
+      "DENOMINACION": "Pr\u00edncipe Carlos"
+    },
+    "geometry": {
+      "x": -3.6512583303384325,
+      "y": 40.48902524990812
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_8_734",
+      "CODIGOESTACION": "8",
+      "IDFESTACION": "10_8",
+      "DENOMINACION": "Palas de Rey"
+    },
+    "geometry": {
+      "x": -3.6650103230309394,
+      "y": 40.50545933363391
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_9_735",
+      "CODIGOESTACION": "9",
+      "IDFESTACION": "10_9",
+      "DENOMINACION": "Palas de Rey"
+    },
+    "geometry": {
+      "x": -3.6688399866597403,
+      "y": 40.50808268425184
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_29_739",
+      "CODIGOESTACION": "29",
+      "IDFESTACION": "10_29",
+      "DENOMINACION": "Montepr\u00edncipe"
+    },
+    "geometry": {
+      "x": -3.8358225177195084,
+      "y": 40.39787032594495
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_29_738",
+      "CODIGOESTACION": "29",
+      "IDFESTACION": "10_29",
+      "DENOMINACION": "Ascensor"
+    },
+    "geometry": {
+      "x": -3.8359178906047764,
+      "y": 40.397767139892245
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_10_740",
+      "CODIGOESTACION": "10",
+      "IDFESTACION": "10_10",
+      "DENOMINACION": "SIN NOMBRE"
+    },
+    "geometry": {
+      "x": -3.774786850395137,
+      "y": 40.396875211841284
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_14_808",
+      "CODIGOESTACION": "14",
+      "IDFESTACION": "10_14",
+      "DENOMINACION": "Somosaguas Sur"
+    },
+    "geometry": {
+      "x": -3.792624538086132,
+      "y": 40.41498672304658
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_14_809",
+      "CODIGOESTACION": "14",
+      "IDFESTACION": "10_14",
+      "DENOMINACION": "Ascensor"
+    },
+    "geometry": {
+      "x": -3.79263876387535,
+      "y": 40.41566835121283
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_21_810",
+      "CODIGOESTACION": "21",
+      "IDFESTACION": "10_21",
+      "DENOMINACION": "Avenida de Europa"
+    },
+    "geometry": {
+      "x": -3.793091539977091,
+      "y": 40.439142860509435
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_21_811",
+      "CODIGOESTACION": "21",
+      "IDFESTACION": "10_21",
+      "DENOMINACION": "Ascensor"
+    },
+    "geometry": {
+      "x": -3.793007387643106,
+      "y": 40.439528477943774
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_22_812",
+      "CODIGOESTACION": "22",
+      "IDFESTACION": "10_22",
+      "DENOMINACION": "Berna"
+    },
+    "geometry": {
+      "x": -3.7911594505378736,
+      "y": 40.44475845145665
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_22_813",
+      "CODIGOESTACION": "22",
+      "IDFESTACION": "10_22",
+      "DENOMINACION": "Ascensor"
+    },
+    "geometry": {
+      "x": -3.791157607219004,
+      "y": 40.44460114311959
+    }
+  },{
+    "attributes": {
+      "IDACCESO": "10_10_814",
+      "CODIGOESTACION": "10",
+      "IDFESTACION": "10_10",
+      "DENOMINACION": "Ascensor"
+    },
+    "geometry": {
+      "x": -3.774764416383601,
+      "y": 40.3968444178785
+    }
+  }
+]
+}

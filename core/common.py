@@ -139,7 +139,9 @@ def read_js(file, to_bunch=False):
 re_json1 = re.compile(r"^\[\s*{")
 re_json2 = re.compile(r" *}\s*\]$")
 re_json3 = re.compile(r"}\s*,\s*{")
-re_json4 = re.compile(r"^  ", re.MULTILINE)
+re_json4 = re.compile(r"\[\s*([^,\s]+)\s*,\s*([^,\s]+)\s*\]")
+re_json5 = re.compile(r"\[\s*([^,\s]+)\s*\]")
+re_json6 = re.compile(r"^  ", re.MULTILINE)
 
 
 def obj_to_js(data):
@@ -147,7 +149,9 @@ def obj_to_js(data):
     txt = re_json1.sub("[{", txt)
     txt = re_json2.sub("}]", txt)
     txt = re_json3.sub("},{", txt)
-    txt = re_json4.sub("", txt)
+    txt = re_json4.sub(r"[\1, \2]", txt)
+    txt = re_json5.sub(r"[\1]", txt)
+    txt = re_json6.sub("", txt)
     return txt
 
 

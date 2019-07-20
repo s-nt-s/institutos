@@ -1,0 +1,678 @@
+{
+"objectIdFieldName": "OBJECTID",
+"uniqueIdField": {
+  "name": "OBJECTID",
+  "isSystemMaintained": true
+},
+"globalIdFieldName": "",
+"geometryType": "esriGeometryPoint",
+"spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+},
+"fields": [
+  {
+    "name": "IDESTACION",
+    "type": "esriFieldTypeString",
+    "alias": "IDESTACION",
+    "sqlType": "sqlTypeOther",
+    "length": 50,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "CODIGOESTACION",
+    "type": "esriFieldTypeString",
+    "alias": "CODIGOESTACION",
+    "sqlType": "sqlTypeOther",
+    "length": 7,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "DENOMINACION",
+    "type": "esriFieldTypeString",
+    "alias": "DENOMINACION",
+    "sqlType": "sqlTypeOther",
+    "length": 240,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "CODIGOCTMESTACIONREDMETRO",
+    "type": "esriFieldTypeString",
+    "alias": "CODIGOCTMESTACIONREDMETRO",
+    "sqlType": "sqlTypeOther",
+    "length": 7,
+    "domain": null,
+    "defaultValue": null
+  }
+],
+"features": [
+  {
+    "attributes": {
+      "IDESTACION": "10_50",
+      "CODIGOESTACION": "50",
+      "DENOMINACION": "PLAZA DE TOROS",
+      "CODIGOCTMESTACIONREDMETRO": "50"
+    },
+    "geometry": {
+      "x": -3.7575609015840663,
+      "y": 40.24409801818806
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_56",
+      "CODIGOESTACION": "56",
+      "DENOMINACION": "REYES CATOLICOS",
+      "CODIGOCTMESTACIONREDMETRO": "56"
+    },
+    "geometry": {
+      "x": -3.7699971999585014,
+      "y": 40.23141199703029
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_3",
+      "CODIGOESTACION": "3",
+      "DENOMINACION": "VIRGEN DEL CORTIJO",
+      "CODIGOCTMESTACIONREDMETRO": "3"
+    },
+    "geometry": {
+      "x": -3.6609832927570727,
+      "y": 40.4873420302434
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_32",
+      "CODIGOESTACION": "32",
+      "DENOMINACION": "CANTABRIA",
+      "CODIGOCTMESTACIONREDMETRO": "32"
+    },
+    "geometry": {
+      "x": -3.8643907767295365,
+      "y": 40.39528970504359
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_36",
+      "CODIGOESTACION": "36",
+      "DENOMINACION": "SIGLO XXI",
+      "CODIGOCTMESTACIONREDMETRO": "36"
+    },
+    "geometry": {
+      "x": -3.8926349162345755,
+      "y": 40.40512936696954
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_26",
+      "CODIGOESTACION": "26",
+      "DENOMINACION": "JOSE ISBERT",
+      "CODIGOCTMESTACIONREDMETRO": "26"
+    },
+    "geometry": {
+      "x": -3.78993320989352,
+      "y": 40.39525430793817
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_12",
+      "CODIGOESTACION": "12",
+      "DENOMINACION": "COLONIA DE LOS ANGELES",
+      "CODIGOCTMESTACIONREDMETRO": "12"
+    },
+    "geometry": {
+      "x": -3.784404144259346,
+      "y": 40.407210936668534
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_21",
+      "CODIGOESTACION": "21",
+      "DENOMINACION": "AVENIDA DE EUROPA",
+      "CODIGOCTMESTACIONREDMETRO": "21"
+    },
+    "geometry": {
+      "x": -3.7930537034212537,
+      "y": 40.439305324940285
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_60",
+      "CODIGOESTACION": "60",
+      "DENOMINACION": "TIERRA NORTE",
+      "CODIGOCTMESTACIONREDMETRO": "60"
+    },
+    "geometry": {
+      "x": -3.754058822442964,
+      "y": 40.221948931796426
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_63",
+      "CODIGOESTACION": "63",
+      "DENOMINACION": "VENUS SUR",
+      "CODIGOCTMESTACIONREDMETRO": "63"
+    },
+    "geometry": {
+      "x": -3.7552177874919375,
+      "y": 40.22683345029126
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_67",
+      "CODIGOESTACION": "67",
+      "DENOMINACION": "JAIME I SUR",
+      "CODIGOCTMESTACIONREDMETRO": "67"
+    },
+    "geometry": {
+      "x": -3.752401511048391,
+      "y": 40.23469889745326
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_7",
+      "CODIGOESTACION": "7",
+      "DENOMINACION": "MARIA TUDOR",
+      "CODIGOCTMESTACIONREDMETRO": "7"
+    },
+    "geometry": {
+      "x": -3.6588853799792647,
+      "y": 40.49716632405361
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_9",
+      "CODIGOESTACION": "9",
+      "DENOMINACION": "LAS TABLAS",
+      "CODIGOCTMESTACIONREDMETRO": "9"
+    },
+    "geometry": {
+      "x": -3.6693204151581353,
+      "y": 40.508240003582365
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_10",
+      "CODIGOESTACION": "10",
+      "DENOMINACION": "COLONIA JARDIN",
+      "CODIGOCTMESTACIONREDMETRO": "10"
+    },
+    "geometry": {
+      "x": -3.7745642433959605,
+      "y": 40.3969798010123
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_14",
+      "CODIGOESTACION": "14",
+      "DENOMINACION": "SOMOSAGUAS SUR",
+      "CODIGOCTMESTACIONREDMETRO": "14"
+    },
+    "geometry": {
+      "x": -3.7925231412715257,
+      "y": 40.41536170760361
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_59",
+      "CODIGOESTACION": "59",
+      "DENOMINACION": "AVENIDA SISTEMA SOLAR",
+      "CODIGOCTMESTACIONREDMETRO": "59"
+    },
+    "geometry": {
+      "x": -3.760715819191075,
+      "y": 40.22342798706743
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_61",
+      "CODIGOESTACION": "61",
+      "DENOMINACION": "TIERRA SUR",
+      "CODIGOCTMESTACIONREDMETRO": "61"
+    },
+    "geometry": {
+      "x": -3.756745132307024,
+      "y": 40.222544049644526
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_62",
+      "CODIGOESTACION": "62",
+      "DENOMINACION": "VENUS NORTE",
+      "CODIGOCTMESTACIONREDMETRO": "62"
+    },
+    "geometry": {
+      "x": -3.752508114667538,
+      "y": 40.22626547769358
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_39",
+      "CODIGOESTACION": "39",
+      "DENOMINACION": "COCHERAS",
+      "CODIGOCTMESTACIONREDMETRO": "39"
+    },
+    "geometry": {
+      "x": -3.8038565358469474,
+      "y": 40.39687918616296
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_65",
+      "CODIGOESTACION": "65",
+      "DENOMINACION": "ESTRELLA POLAR SUR",
+      "CODIGOCTMESTACIONREDMETRO": "65"
+    },
+    "geometry": {
+      "x": -3.7538268121416807,
+      "y": 40.23071651919087
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_64",
+      "CODIGOESTACION": "64",
+      "DENOMINACION": "ESTRELLA POLAR NORTE",
+      "CODIGOCTMESTACIONREDMETRO": "64"
+    },
+    "geometry": {
+      "x": -3.7511169928205086,
+      "y": 40.23014851572438
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_66",
+      "CODIGOESTACION": "66",
+      "DENOMINACION": "JAIME I NORTE",
+      "CODIGOCTMESTACIONREDMETRO": "66"
+    },
+    "geometry": {
+      "x": -3.749691645546824,
+      "y": 40.23413987008551
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_68",
+      "CODIGOESTACION": "68",
+      "DENOMINACION": "POLIGONO INDUSTRIAL CIUDAD DE PARLA",
+      "CODIGOCTMESTACIONREDMETRO": "68"
+    },
+    "geometry": {
+      "x": -3.7504468712636876,
+      "y": 40.23866666373017
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_11",
+      "CODIGOESTACION": "11",
+      "DENOMINACION": "PRADO DE LA VEGA",
+      "CODIGOCTMESTACIONREDMETRO": "11"
+    },
+    "geometry": {
+      "x": -3.7812133471767897,
+      "y": 40.40229787315838
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_29",
+      "CODIGOESTACION": "29",
+      "DENOMINACION": "MONTEPRINCIPE",
+      "CODIGOCTMESTACIONREDMETRO": "29"
+    },
+    "geometry": {
+      "x": -3.835802277673375,
+      "y": 40.397923166947564
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_30",
+      "CODIGOESTACION": "30",
+      "DENOMINACION": "VENTORRO DEL CANO",
+      "CODIGOCTMESTACIONREDMETRO": "30"
+    },
+    "geometry": {
+      "x": -3.8381129120838877,
+      "y": 40.39420372181503
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_31",
+      "CODIGOESTACION": "31",
+      "DENOMINACION": "PRADO DEL ESPINO",
+      "CODIGOCTMESTACIONREDMETRO": "31"
+    },
+    "geometry": {
+      "x": -3.8477379086532,
+      "y": 40.3950165090596
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_33",
+      "CODIGOESTACION": "33",
+      "DENOMINACION": "FERIAL DE BOADILLA",
+      "CODIGOCTMESTACIONREDMETRO": "33"
+    },
+    "geometry": {
+      "x": -3.8793830198331847,
+      "y": 40.40196056002843
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_34",
+      "CODIGOESTACION": "34",
+      "DENOMINACION": "BOADILLA CENTRO",
+      "CODIGOCTMESTACIONREDMETRO": "34"
+    },
+    "geometry": {
+      "x": -3.8800395541430457,
+      "y": 40.407135778116874
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_35",
+      "CODIGOESTACION": "35",
+      "DENOMINACION": "NUEVO MUNDO",
+      "CODIGOCTMESTACIONREDMETRO": "35"
+    },
+    "geometry": {
+      "x": -3.885759333426689,
+      "y": 40.405641670253814
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_37",
+      "CODIGOESTACION": "37",
+      "DENOMINACION": "INFANTE DON LUIS",
+      "CODIGOCTMESTACIONREDMETRO": "37"
+    },
+    "geometry": {
+      "x": -3.8974068190206776,
+      "y": 40.40594831041859
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_38",
+      "CODIGOESTACION": "38",
+      "DENOMINACION": "PUERTA DE BOADILLA",
+      "CODIGOCTMESTACIONREDMETRO": "38"
+    },
+    "geometry": {
+      "x": -3.9037832476639047,
+      "y": 40.407772557615175
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_52",
+      "CODIGOESTACION": "52",
+      "DENOMINACION": "LA BALLENA",
+      "CODIGOCTMESTACIONREDMETRO": "52"
+    },
+    "geometry": {
+      "x": -3.7663527971077695,
+      "y": 40.24598619616603
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_25",
+      "CODIGOESTACION": "25",
+      "DENOMINACION": "CIUDAD DE LA IMAGEN",
+      "CODIGOCTMESTACIONREDMETRO": "25"
+    },
+    "geometry": {
+      "x": -3.783992204256198,
+      "y": 40.397087507472364
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_27",
+      "CODIGOESTACION": "27",
+      "DENOMINACION": "CIUDAD DEL CINE",
+      "CODIGOCTMESTACIONREDMETRO": "27"
+    },
+    "geometry": {
+      "x": -3.79556901678584,
+      "y": 40.394549038118356
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_28",
+      "CODIGOESTACION": "28",
+      "DENOMINACION": "RETAMARES",
+      "CODIGOCTMESTACIONREDMETRO": "28"
+    },
+    "geometry": {
+      "x": -3.816746127429235,
+      "y": 40.39871688431011
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_6",
+      "CODIGOESTACION": "6",
+      "DENOMINACION": "BLASCO IBA\u00d1EZ",
+      "CODIGOCTMESTACIONREDMETRO": "6"
+    },
+    "geometry": {
+      "x": -3.6558414213066546,
+      "y": 40.493677560974476
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_8",
+      "CODIGOESTACION": "8",
+      "DENOMINACION": "PALAS DE REY",
+      "CODIGOCTMESTACIONREDMETRO": "8"
+    },
+    "geometry": {
+      "x": -3.6650672950829484,
+      "y": 40.505435701499316
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_13",
+      "CODIGOESTACION": "13",
+      "DENOMINACION": "PRADO DEL REY",
+      "CODIGOCTMESTACIONREDMETRO": "13"
+    },
+    "geometry": {
+      "x": -3.7874826476955246,
+      "y": 40.41046934024675
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_15",
+      "CODIGOESTACION": "15",
+      "DENOMINACION": "SOMOSAGUAS CENTRO",
+      "CODIGOCTMESTACIONREDMETRO": "15"
+    },
+    "geometry": {
+      "x": -3.7987370106146594,
+      "y": 40.41936525515764
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_16",
+      "CODIGOESTACION": "16",
+      "DENOMINACION": "POZUELO OESTE",
+      "CODIGOCTMESTACIONREDMETRO": "16"
+    },
+    "geometry": {
+      "x": -3.8044743773209664,
+      "y": 40.42307328105899
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_18",
+      "CODIGOESTACION": "18",
+      "DENOMINACION": "BELGICA",
+      "CODIGOCTMESTACIONREDMETRO": "18"
+    },
+    "geometry": {
+      "x": -3.807546433880939,
+      "y": 40.43058344761212
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_19",
+      "CODIGOESTACION": "19",
+      "DENOMINACION": "DOS CASTILLAS",
+      "CODIGOCTMESTACIONREDMETRO": "19"
+    },
+    "geometry": {
+      "x": -3.801616011585034,
+      "y": 40.432534598923226
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_20",
+      "CODIGOESTACION": "20",
+      "DENOMINACION": "CAMPUS DE SOMOSAGUAS",
+      "CODIGOCTMESTACIONREDMETRO": "20"
+    },
+    "geometry": {
+      "x": -3.7952478043919546,
+      "y": 40.43338034165621
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_22",
+      "CODIGOESTACION": "22",
+      "DENOMINACION": "BERNA",
+      "CODIGOCTMESTACIONREDMETRO": "22"
+    },
+    "geometry": {
+      "x": -3.7911969441751623,
+      "y": 40.44486759437203
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_51",
+      "CODIGOESTACION": "51",
+      "DENOMINACION": "JULIO ROMERO DE TORRES",
+      "CODIGOCTMESTACIONREDMETRO": "51"
+    },
+    "geometry": {
+      "x": -3.7623246637682537,
+      "y": 40.24534608751485
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_54",
+      "CODIGOESTACION": "54",
+      "DENOMINACION": "IGLESIA CENTRO",
+      "CODIGOCTMESTACIONREDMETRO": "54"
+    },
+    "geometry": {
+      "x": -3.7705856605070727,
+      "y": 40.237705593014724
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_55",
+      "CODIGOESTACION": "55",
+      "DENOMINACION": "BULEVAR SUR",
+      "CODIGOCTMESTACIONREDMETRO": "55"
+    },
+    "geometry": {
+      "x": -3.772362275212961,
+      "y": 40.2347296984959
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_57",
+      "CODIGOESTACION": "57",
+      "DENOMINACION": "ISABEL II",
+      "CODIGOCTMESTACIONREDMETRO": "57"
+    },
+    "geometry": {
+      "x": -3.765080668058394,
+      "y": 40.23113825455702
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_58",
+      "CODIGOESTACION": "58",
+      "DENOMINACION": "PARQUE PARLA ESTE",
+      "CODIGOCTMESTACIONREDMETRO": "58"
+    },
+    "geometry": {
+      "x": -3.7614739646080433,
+      "y": 40.22816191400878
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_4",
+      "CODIGOESTACION": "4",
+      "DENOMINACION": "ANTONIO SAURA",
+      "CODIGOCTMESTACIONREDMETRO": "4"
+    },
+    "geometry": {
+      "x": -3.6535314820351035,
+      "y": 40.48545639949088
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_5",
+      "CODIGOESTACION": "5",
+      "DENOMINACION": "ALVAREZ DE VILLAAMIL",
+      "CODIGOCTMESTACIONREDMETRO": "5"
+    },
+    "geometry": {
+      "x": -3.6513597368705764,
+      "y": 40.489045209815714
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_23",
+      "CODIGOESTACION": "23",
+      "DENOMINACION": "ESTACION DE ARAVACA",
+      "CODIGOCTMESTACIONREDMETRO": "23"
+    },
+    "geometry": {
+      "x": -3.785907330284628,
+      "y": 40.44832706463439
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_53",
+      "CODIGOESTACION": "53",
+      "DENOMINACION": "PARLA CENTRO - BULEVAR NORTE",
+      "CODIGOCTMESTACIONREDMETRO": "53"
+    },
+    "geometry": {
+      "x": -3.7695390522093017,
+      "y": 40.240793734420016
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_24",
+      "CODIGOESTACION": "24",
+      "DENOMINACION": "COLONIA JARDIN",
+      "CODIGOCTMESTACIONREDMETRO": "10"
+    },
+    "geometry": {
+      "x": -3.7745053317114468,
+      "y": 40.39698019563343
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_2",
+      "CODIGOESTACION": "2",
+      "DENOMINACION": "FUENTE DE LA MORA",
+      "CODIGOCTMESTACIONREDMETRO": "2"
+    },
+    "geometry": {
+      "x": -3.6632475069131507,
+      "y": 40.484815572896466
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "10_1",
+      "CODIGOESTACION": "1",
+      "DENOMINACION": "PINAR DE CHAMARTIN",
+      "CODIGOCTMESTACIONREDMETRO": "1"
+    },
+    "geometry": {
+      "x": -3.6668353011014316,
+      "y": 40.48013731476615
+    }
+  }
+]
+}

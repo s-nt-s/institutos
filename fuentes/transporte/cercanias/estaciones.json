@@ -1,0 +1,1261 @@
+{
+"objectIdFieldName": "OBJECTID",
+"uniqueIdField": {
+  "name": "OBJECTID",
+  "isSystemMaintained": true
+},
+"globalIdFieldName": "",
+"geometryType": "esriGeometryPoint",
+"spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+},
+"fields": [
+  {
+    "name": "IDESTACION",
+    "type": "esriFieldTypeString",
+    "alias": "IDESTACION",
+    "sqlType": "sqlTypeOther",
+    "length": 50,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "CODIGOESTACION",
+    "type": "esriFieldTypeString",
+    "alias": "CODIGOESTACION",
+    "sqlType": "sqlTypeOther",
+    "length": 7,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "DENOMINACION",
+    "type": "esriFieldTypeString",
+    "alias": "DENOMINACION",
+    "sqlType": "sqlTypeOther",
+    "length": 240,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "CODIGOCTMESTACIONREDMETRO",
+    "type": "esriFieldTypeString",
+    "alias": "CODIGOCTMESTACIONREDMETRO",
+    "sqlType": "sqlTypeOther",
+    "length": 7,
+    "domain": null,
+    "defaultValue": null
+  }
+],
+"features": [
+  {
+    "attributes": {
+      "IDESTACION": "5_70",
+      "CODIGOESTACION": "70",
+      "DENOMINACION": "SAN CRISTOBAL INDUSTRIAL",
+      "CODIGOCTMESTACIONREDMETRO": "70"
+    },
+    "geometry": {
+      "x": -3.6987185311008686,
+      "y": 40.33190872697094
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_69",
+      "CODIGOESTACION": "69",
+      "DENOMINACION": "SAN CRISTOBAL DE LOS ANGELES",
+      "CODIGOCTMESTACIONREDMETRO": "69"
+    },
+    "geometry": {
+      "x": -3.68384596290414,
+      "y": 40.34236284744263
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_85",
+      "CODIGOESTACION": "85",
+      "DENOMINACION": "VALDELASFUENTES",
+      "CODIGOCTMESTACIONREDMETRO": "85"
+    },
+    "geometry": {
+      "x": -3.6543352951607724,
+      "y": 40.54744527679952
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_84",
+      "CODIGOESTACION": "84",
+      "DENOMINACION": "UNIVERSIDAD P. COMILLAS",
+      "CODIGOCTMESTACIONREDMETRO": "84"
+    },
+    "geometry": {
+      "x": -3.6833399320111733,
+      "y": 40.554060967974344
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_15",
+      "CODIGOESTACION": "15",
+      "DENOMINACION": "CANTOBLANCO UNIVERSIDAD",
+      "CODIGOCTMESTACIONREDMETRO": "15"
+    },
+    "geometry": {
+      "x": -3.700344071491926,
+      "y": 40.543783869078936
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_31",
+      "CODIGOESTACION": "31",
+      "DENOMINACION": "FUENCARRAL",
+      "CODIGOCTMESTACIONREDMETRO": "31"
+    },
+    "geometry": {
+      "x": -3.682336985855203,
+      "y": 40.501558787192785
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_3",
+      "CODIGOESTACION": "3",
+      "DENOMINACION": "ALCAL\u00c1 DE HENARES UNIVERSIDAD",
+      "CODIGOCTMESTACIONREDMETRO": "3"
+    },
+    "geometry": {
+      "x": -3.3354129781376396,
+      "y": 40.50533902956686
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_63",
+      "CODIGOESTACION": "63",
+      "DENOMINACION": "PUERTO NAVACERRADA",
+      "CODIGOCTMESTACIONREDMETRO": "63"
+    },
+    "geometry": {
+      "x": -4.004734713529762,
+      "y": 40.784409482292574
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_12",
+      "CODIGOESTACION": "12",
+      "DENOMINACION": "AZUQUECA",
+      "CODIGOCTMESTACIONREDMETRO": "12"
+    },
+    "geometry": {
+      "x": -3.265456215576288,
+      "y": 40.56102715789606
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_45",
+      "CODIGOESTACION": "45",
+      "DENOMINACION": "MECO",
+      "CODIGOCTMESTACIONREDMETRO": "45"
+    },
+    "geometry": {
+      "x": -3.2986555143752287,
+      "y": 40.53461610204914
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_42",
+      "CODIGOESTACION": "42",
+      "DENOMINACION": "MAJADAHONDA",
+      "CODIGOCTMESTACIONREDMETRO": "42"
+    },
+    "geometry": {
+      "x": -3.845342717612885,
+      "y": 40.47427810713918
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_13",
+      "CODIGOESTACION": "13",
+      "DENOMINACION": "BARRIAL-C.COM.POZUELO, EL",
+      "CODIGOCTMESTACIONREDMETRO": "13"
+    },
+    "geometry": {
+      "x": -3.8077378665593757,
+      "y": 40.46537297433995
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_44",
+      "CODIGOESTACION": "44",
+      "DENOMINACION": "MATAS, LAS",
+      "CODIGOCTMESTACIONREDMETRO": "44"
+    },
+    "geometry": {
+      "x": -3.896832146328076,
+      "y": 40.55251968297372
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_55",
+      "CODIGOESTACION": "55",
+      "DENOMINACION": "PINAR DE LAS ROZAS",
+      "CODIGOCTMESTACIONREDMETRO": "55"
+    },
+    "geometry": {
+      "x": -3.8821620895921325,
+      "y": 40.52230018361854
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_68",
+      "CODIGOESTACION": "68",
+      "DENOMINACION": "ROZAS, LAS",
+      "CODIGOCTMESTACIONREDMETRO": "68"
+    },
+    "geometry": {
+      "x": -3.868123357025702,
+      "y": 40.494231177075164
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_62",
+      "CODIGOESTACION": "62",
+      "DENOMINACION": "PUENTE ALCOCER",
+      "CODIGOCTMESTACIONREDMETRO": "62"
+    },
+    "geometry": {
+      "x": -3.7051605745241463,
+      "y": 40.35028341439216
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_59",
+      "CODIGOESTACION": "59",
+      "DENOMINACION": "POZO, EL",
+      "CODIGOCTMESTACIONREDMETRO": "59"
+    },
+    "geometry": {
+      "x": -3.656225994392958,
+      "y": 40.37590205182405
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_87",
+      "CODIGOESTACION": "87",
+      "DENOMINACION": "VALLECAS",
+      "CODIGOCTMESTACIONREDMETRO": "87"
+    },
+    "geometry": {
+      "x": -3.6245516982631125,
+      "y": 40.382213776952334
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_51",
+      "CODIGOESTACION": "51",
+      "DENOMINACION": "NUEVOS MINISTERIOS",
+      "CODIGOCTMESTACIONREDMETRO": "51"
+    },
+    "geometry": {
+      "x": -3.692344060487685,
+      "y": 40.44662158801666
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_92",
+      "CODIGOESTACION": "92",
+      "DENOMINACION": "VILLAVERDE ALTO",
+      "CODIGOCTMESTACIONREDMETRO": "92"
+    },
+    "geometry": {
+      "x": -3.711927945254937,
+      "y": 40.341226655804896
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_72",
+      "CODIGOESTACION": "72",
+      "DENOMINACION": "SAN JOSE DE VALDERAS",
+      "CODIGOCTMESTACIONREDMETRO": "72"
+    },
+    "geometry": {
+      "x": -3.81588428698701,
+      "y": 40.35653328667515
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_95",
+      "CODIGOESTACION": "95",
+      "DENOMINACION": "ZARZAQUEMADA",
+      "CODIGOCTMESTACIONREDMETRO": "95"
+    },
+    "geometry": {
+      "x": -3.7483034330063183,
+      "y": 40.34085438371625
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_65",
+      "CODIGOESTACION": "65",
+      "DENOMINACION": "RECOLETOS",
+      "CODIGOCTMESTACIONREDMETRO": "65"
+    },
+    "geometry": {
+      "x": -3.6908577595028156,
+      "y": 40.423409022018646
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_26",
+      "CODIGOESTACION": "26",
+      "DENOMINACION": "DOCE DE OCTUBRE",
+      "CODIGOCTMESTACIONREDMETRO": "26"
+    },
+    "geometry": {
+      "x": -3.698613514001805,
+      "y": 40.378955634845695
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_106",
+      "CODIGOESTACION": "106",
+      "DENOMINACION": "GARENA, LA",
+      "CODIGOCTMESTACIONREDMETRO": "106"
+    },
+    "geometry": {
+      "x": -3.3931687387899947,
+      "y": 40.480432511647656
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_71",
+      "CODIGOESTACION": "71",
+      "DENOMINACION": "SAN FERNANDO",
+      "CODIGOCTMESTACIONREDMETRO": "71"
+    },
+    "geometry": {
+      "x": -3.5338486098065465,
+      "y": 40.442660066138885
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_16",
+      "CODIGOESTACION": "16",
+      "DENOMINACION": "CERCEDILLA",
+      "CODIGOCTMESTACIONREDMETRO": "16"
+    },
+    "geometry": {
+      "x": -4.065904552006556,
+      "y": 40.73756597399377
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_11",
+      "CODIGOESTACION": "11",
+      "DENOMINACION": "ATOCHA",
+      "CODIGOCTMESTACIONREDMETRO": "11"
+    },
+    "geometry": {
+      "x": -3.6893018805661995,
+      "y": 40.40659004291427
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_115",
+      "CODIGOESTACION": "115",
+      "DENOMINACION": "LOSA-NAVAS DE RIOFRIO, LA",
+      "CODIGOCTMESTACIONREDMETRO": "115"
+    },
+    "geometry": {
+      "x": -4.141162890953474,
+      "y": 40.85665107237392
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_118",
+      "CODIGOESTACION": "118",
+      "DENOMINACION": "NAVALPERAL",
+      "CODIGOCTMESTACIONREDMETRO": "118"
+    },
+    "geometry": {
+      "x": -4.408118503271216,
+      "y": 40.59065173665099
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_82",
+      "CODIGOESTACION": "82",
+      "DENOMINACION": "TORRELODONES",
+      "CODIGOCTMESTACIONREDMETRO": "82"
+    },
+    "geometry": {
+      "x": -3.956537627791868,
+      "y": 40.57451260297521
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_113",
+      "CODIGOESTACION": "113",
+      "DENOMINACION": "ESPINAR, EL",
+      "CODIGOCTMESTACIONREDMETRO": "113"
+    },
+    "geometry": {
+      "x": -4.189529649248478,
+      "y": 40.74083011441822
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_23",
+      "CODIGOESTACION": "23",
+      "DENOMINACION": "COTOS",
+      "CODIGOCTMESTACIONREDMETRO": "23"
+    },
+    "geometry": {
+      "x": -3.9645203402910556,
+      "y": 40.8222598992008
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_104",
+      "CODIGOESTACION": "104",
+      "DENOMINACION": "HUMANES",
+      "CODIGOCTMESTACIONREDMETRO": "104"
+    },
+    "geometry": {
+      "x": -3.828465169614716,
+      "y": 40.25564582892282
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_52",
+      "CODIGOESTACION": "52",
+      "DENOMINACION": "ORCASITAS",
+      "CODIGOCTMESTACIONREDMETRO": "52"
+    },
+    "geometry": {
+      "x": -3.7044165807754013,
+      "y": 40.36690522861348
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_77",
+      "CODIGOESTACION": "77",
+      "DENOMINACION": "SERNA, LA",
+      "CODIGOCTMESTACIONREDMETRO": "77"
+    },
+    "geometry": {
+      "x": -3.792475502161728,
+      "y": 40.296721776526496
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_36",
+      "CODIGOESTACION": "36",
+      "DENOMINACION": "GETAFE SECTOR 3",
+      "CODIGOCTMESTACIONREDMETRO": "36"
+    },
+    "geometry": {
+      "x": -3.7373414868572663,
+      "y": 40.28824383694636
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_43",
+      "CODIGOESTACION": "43",
+      "DENOMINACION": "MARGARITAS-UNIVERSIDAD, LAS",
+      "CODIGOCTMESTACIONREDMETRO": "43"
+    },
+    "geometry": {
+      "x": -3.727373655673288,
+      "y": 40.32304243289471
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_93",
+      "CODIGOESTACION": "93",
+      "DENOMINACION": "VILLAVERDE BAJO",
+      "CODIGOCTMESTACIONREDMETRO": "93"
+    },
+    "geometry": {
+      "x": -3.683982812990118,
+      "y": 40.35263918258443
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_91",
+      "CODIGOESTACION": "91",
+      "DENOMINACION": "VILLALBA",
+      "CODIGOCTMESTACIONREDMETRO": "91"
+    },
+    "geometry": {
+      "x": -4.008095253759601,
+      "y": 40.62636567831688
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_97",
+      "CODIGOESTACION": "97",
+      "DENOMINACION": "AVILA",
+      "CODIGOCTMESTACIONREDMETRO": "97"
+    },
+    "geometry": {
+      "x": -4.661639982501449,
+      "y": 40.65840311556913
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_98",
+      "CODIGOESTACION": "98",
+      "DENOMINACION": "ARCOS DE JALON",
+      "CODIGOCTMESTACIONREDMETRO": "98"
+    },
+    "geometry": {
+      "x": -2.2462421047078647,
+      "y": 41.16696086015844
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_99",
+      "CODIGOESTACION": "99",
+      "DENOMINACION": "SEGOVIA",
+      "CODIGOCTMESTACIONREDMETRO": "99"
+    },
+    "geometry": {
+      "x": -4.14771685537438,
+      "y": 40.91259864556036
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_100",
+      "CODIGOESTACION": "100",
+      "DENOMINACION": "SIG\u00dcENZA",
+      "CODIGOCTMESTACIONREDMETRO": "100"
+    },
+    "geometry": {
+      "x": -2.6295464703774805,
+      "y": 41.10100440503282
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_101",
+      "CODIGOESTACION": "101",
+      "DENOMINACION": "TOLEDO",
+      "CODIGOCTMESTACIONREDMETRO": "101"
+    },
+    "geometry": {
+      "x": -3.9949218139119744,
+      "y": 39.86912925133928
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_142",
+      "CODIGOESTACION": "142",
+      "DENOMINACION": "AEROPUERTO T4",
+      "CODIGOCTMESTACIONREDMETRO": "142"
+    },
+    "geometry": {
+      "x": -3.5933314614818523,
+      "y": 40.491767525223615
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_121",
+      "CODIGOESTACION": "121",
+      "DENOMINACION": "MEDINA DEL CAMPO",
+      "CODIGOCTMESTACIONREDMETRO": "121"
+    },
+    "geometry": {
+      "x": -4.909882606961599,
+      "y": 41.317328742187044
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_18",
+      "CODIGOESTACION": "18",
+      "DENOMINACION": "CHAMARTIN",
+      "CODIGOCTMESTACIONREDMETRO": "18"
+    },
+    "geometry": {
+      "x": -3.6824722795015585,
+      "y": 40.47210382407379
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_90",
+      "CODIGOESTACION": "90",
+      "DENOMINACION": "VICALVARO",
+      "CODIGOCTMESTACIONREDMETRO": "90"
+    },
+    "geometry": {
+      "x": -3.5959286284884584,
+      "y": 40.40131734435834
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_114",
+      "CODIGOESTACION": "114",
+      "DENOMINACION": "OTERO-HERREROS",
+      "CODIGOCTMESTACIONREDMETRO": "114"
+    },
+    "geometry": {
+      "x": -4.203546590546729,
+      "y": 40.80092312883338
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_30",
+      "CODIGOESTACION": "30",
+      "DENOMINACION": "FANJUL",
+      "CODIGOCTMESTACIONREDMETRO": "30"
+    },
+    "geometry": {
+      "x": -3.7685641486773345,
+      "y": 40.38365125020966
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_40",
+      "CODIGOESTACION": "40",
+      "DENOMINACION": "LAGUNA",
+      "CODIGOCTMESTACIONREDMETRO": "40"
+    },
+    "geometry": {
+      "x": -3.7442211893173547,
+      "y": 40.39917601043924
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_58",
+      "CODIGOESTACION": "58",
+      "DENOMINACION": "PITIS",
+      "CODIGOCTMESTACIONREDMETRO": "58"
+    },
+    "geometry": {
+      "x": -3.725841256099918,
+      "y": 40.49510377341926
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_22",
+      "CODIGOESTACION": "22",
+      "DENOMINACION": "COSLADA",
+      "CODIGOCTMESTACIONREDMETRO": "22"
+    },
+    "geometry": {
+      "x": -3.561136198051036,
+      "y": 40.4237352848222
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_41",
+      "CODIGOESTACION": "41",
+      "DENOMINACION": "LEGANES",
+      "CODIGOCTMESTACIONREDMETRO": "41"
+    },
+    "geometry": {
+      "x": -3.7714809408526055,
+      "y": 40.32898560482768
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_5",
+      "CODIGOESTACION": "5",
+      "DENOMINACION": "ALCORCON",
+      "CODIGOCTMESTACIONREDMETRO": "5"
+    },
+    "geometry": {
+      "x": -3.8317318629241592,
+      "y": 40.35008229363389
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_48",
+      "CODIGOESTACION": "48",
+      "DENOMINACION": "MOSTOLES",
+      "CODIGOCTMESTACIONREDMETRO": "48"
+    },
+    "geometry": {
+      "x": -3.863492377242899,
+      "y": 40.32850297480789
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_32",
+      "CODIGOESTACION": "32",
+      "DENOMINACION": "FUENLABRADA",
+      "CODIGOCTMESTACIONREDMETRO": "32"
+    },
+    "geometry": {
+      "x": -3.7988540076525013,
+      "y": 40.282677332269344
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_9",
+      "CODIGOESTACION": "9",
+      "DENOMINACION": "ARAVACA",
+      "CODIGOCTMESTACIONREDMETRO": "9"
+    },
+    "geometry": {
+      "x": -3.785858255907962,
+      "y": 40.448328064034044
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_24",
+      "CODIGOESTACION": "24",
+      "DENOMINACION": "CUATRO VIENTOS",
+      "CODIGOCTMESTACIONREDMETRO": "24"
+    },
+    "geometry": {
+      "x": -3.7914347761850924,
+      "y": 40.377706008573774
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_25",
+      "CODIGOESTACION": "25",
+      "DENOMINACION": "DELICIAS",
+      "CODIGOCTMESTACIONREDMETRO": "25"
+    },
+    "geometry": {
+      "x": -3.6927678828593677,
+      "y": 40.40036973531985
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_57",
+      "CODIGOESTACION": "57",
+      "DENOMINACION": "PIRAMIDES",
+      "CODIGOCTMESTACIONREDMETRO": "57"
+    },
+    "geometry": {
+      "x": -3.711340410728227,
+      "y": 40.4025952660783
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_8",
+      "CODIGOESTACION": "8",
+      "DENOMINACION": "ARANJUEZ",
+      "CODIGOCTMESTACIONREDMETRO": "8"
+    },
+    "geometry": {
+      "x": -3.618308442123163,
+      "y": 40.03482994225127
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_19",
+      "CODIGOESTACION": "19",
+      "DENOMINACION": "CIEMPOZUELOS",
+      "CODIGOCTMESTACIONREDMETRO": "19"
+    },
+    "geometry": {
+      "x": -3.6100279137781817,
+      "y": 40.15906287710526
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_86",
+      "CODIGOESTACION": "86",
+      "DENOMINACION": "VALDEMORO",
+      "CODIGOCTMESTACIONREDMETRO": "86"
+    },
+    "geometry": {
+      "x": -3.664815856051736,
+      "y": 40.196042129028015
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_56",
+      "CODIGOESTACION": "56",
+      "DENOMINACION": "PINTO",
+      "CODIGOCTMESTACIONREDMETRO": "56"
+    },
+    "geometry": {
+      "x": -3.7037375583151633,
+      "y": 40.24279049500308
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_60",
+      "CODIGOESTACION": "60",
+      "DENOMINACION": "POZUELO",
+      "CODIGOCTMESTACIONREDMETRO": "60"
+    },
+    "geometry": {
+      "x": -3.800119397166743,
+      "y": 40.44726854001386
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_117",
+      "CODIGOESTACION": "117",
+      "DENOMINACION": "NAVAS DEL MARQUES, LAS",
+      "CODIGOCTMESTACIONREDMETRO": "117"
+    },
+    "geometry": {
+      "x": -4.361471082721285,
+      "y": 40.58922916124944
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_116",
+      "CODIGOESTACION": "116",
+      "DENOMINACION": "AREVALO",
+      "CODIGOCTMESTACIONREDMETRO": "116"
+    },
+    "geometry": {
+      "x": -4.702398131313356,
+      "y": 41.04814021869751
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_35",
+      "CODIGOESTACION": "35",
+      "DENOMINACION": "GETAFE INDUSTRIAL",
+      "CODIGOCTMESTACIONREDMETRO": "35"
+    },
+    "geometry": {
+      "x": -3.707694127991331,
+      "y": 40.30547693004687
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_1",
+      "CODIGOESTACION": "1",
+      "DENOMINACION": "AGUILAS, LAS",
+      "CODIGOCTMESTACIONREDMETRO": "1"
+    },
+    "geometry": {
+      "x": -3.7802731532655143,
+      "y": 40.38118814924765
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_4",
+      "CODIGOESTACION": "4",
+      "DENOMINACION": "ALCOBENDAS-S.S. DE LOS REYES",
+      "CODIGOCTMESTACIONREDMETRO": "4"
+    },
+    "geometry": {
+      "x": -3.6351867666972373,
+      "y": 40.546567955020784
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_74",
+      "CODIGOESTACION": "74",
+      "DENOMINACION": "SAN YAGO",
+      "CODIGOCTMESTACIONREDMETRO": "74"
+    },
+    "geometry": {
+      "x": -4.031107448146834,
+      "y": 40.61786503227284
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_111",
+      "CODIGOESTACION": "111",
+      "DENOMINACION": "VALLADOLID",
+      "CODIGOCTMESTACIONREDMETRO": "111"
+    },
+    "geometry": {
+      "x": -4.727004936862865,
+      "y": 41.64216731746721
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_38",
+      "CODIGOESTACION": "38",
+      "DENOMINACION": "GUADALAJARA",
+      "CODIGOCTMESTACIONREDMETRO": "38"
+    },
+    "geometry": {
+      "x": -3.182390038872053,
+      "y": 40.64408262467805
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_21",
+      "CODIGOESTACION": "21",
+      "DENOMINACION": "COLMENAR VIEJO",
+      "CODIGOCTMESTACIONREDMETRO": "21"
+    },
+    "geometry": {
+      "x": -3.7757317315743495,
+      "y": 40.64497079617606
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_83",
+      "CODIGOESTACION": "83",
+      "DENOMINACION": "TRES CANTOS",
+      "CODIGOCTMESTACIONREDMETRO": "83"
+    },
+    "geometry": {
+      "x": -3.7156442112225907,
+      "y": 40.598439940505514
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_37",
+      "CODIGOESTACION": "37",
+      "DENOMINACION": "GOLOSO, EL",
+      "CODIGOCTMESTACIONREDMETRO": "37"
+    },
+    "geometry": {
+      "x": -3.7140709351633476,
+      "y": 40.55857253266775
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_64",
+      "CODIGOESTACION": "64",
+      "DENOMINACION": "RAMON Y CAJAL",
+      "CODIGOCTMESTACIONREDMETRO": "64"
+    },
+    "geometry": {
+      "x": -3.6947336373996733,
+      "y": 40.48824112422756
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_76",
+      "CODIGOESTACION": "76",
+      "DENOMINACION": "SANTA MARIA DE LA ALAMEDA",
+      "CODIGOCTMESTACIONREDMETRO": "76"
+    },
+    "geometry": {
+      "x": -4.269331271759277,
+      "y": 40.5689235750668
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_67",
+      "CODIGOESTACION": "67",
+      "DENOMINACION": "ROBLEDO DE CHAVELA",
+      "CODIGOCTMESTACIONREDMETRO": "67"
+    },
+    "geometry": {
+      "x": -4.246711422023363,
+      "y": 40.520781785428944
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_96",
+      "CODIGOESTACION": "96",
+      "DENOMINACION": "ZORRERAS, LAS",
+      "CODIGOCTMESTACIONREDMETRO": "96"
+    },
+    "geometry": {
+      "x": -4.046055117096076,
+      "y": 40.60941277462957
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_61",
+      "CODIGOESTACION": "61",
+      "DENOMINACION": "PRINCIPE PIO",
+      "CODIGOCTMESTACIONREDMETRO": "61"
+    },
+    "geometry": {
+      "x": -3.720261210541075,
+      "y": 40.42107161661653
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_133",
+      "CODIGOESTACION": "133",
+      "DENOMINACION": "FUENTE DE LA MORA",
+      "CODIGOCTMESTACIONREDMETRO": "133"
+    },
+    "geometry": {
+      "x": -3.6628230519246796,
+      "y": 40.48474516788659
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_112",
+      "CODIGOESTACION": "112",
+      "DENOMINACION": "ARIZA",
+      "CODIGOCTMESTACIONREDMETRO": "112"
+    },
+    "geometry": {
+      "x": -2.059538736968694,
+      "y": 41.3096104579267
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_66",
+      "CODIGOESTACION": "66",
+      "DENOMINACION": "RETAMAS, LAS",
+      "CODIGOCTMESTACIONREDMETRO": "66"
+    },
+    "geometry": {
+      "x": -3.8424209576101513,
+      "y": 40.341892138264384
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_94",
+      "CODIGOESTACION": "94",
+      "DENOMINACION": "ZARZALEJO",
+      "CODIGOCTMESTACIONREDMETRO": "94"
+    },
+    "geometry": {
+      "x": -4.158169621701023,
+      "y": 40.53871801981312
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_20",
+      "CODIGOESTACION": "20",
+      "DENOMINACION": "COLLADO MEDIANO",
+      "CODIGOCTMESTACIONREDMETRO": "20"
+    },
+    "geometry": {
+      "x": -4.035874643306193,
+      "y": 40.69275542082084
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_47",
+      "CODIGOESTACION": "47",
+      "DENOMINACION": "MOLINOS, LOS",
+      "CODIGOCTMESTACIONREDMETRO": "47"
+    },
+    "geometry": {
+      "x": -4.066809246647322,
+      "y": 40.707344052274486
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_6",
+      "CODIGOESTACION": "6",
+      "DENOMINACION": "ALPEDRETE",
+      "CODIGOCTMESTACIONREDMETRO": "6"
+    },
+    "geometry": {
+      "x": -4.035058751030537,
+      "y": 40.65816295137058
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_50",
+      "CODIGOESTACION": "50",
+      "DENOMINACION": "NEGRALES, LOS",
+      "CODIGOCTMESTACIONREDMETRO": "50"
+    },
+    "geometry": {
+      "x": -4.021894427639783,
+      "y": 40.63857653148875
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_33",
+      "CODIGOESTACION": "33",
+      "DENOMINACION": "GALAPAGAR-LA NAVATA",
+      "CODIGOCTMESTACIONREDMETRO": "33"
+    },
+    "geometry": {
+      "x": -3.9818493912420383,
+      "y": 40.60011360959742
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_10",
+      "CODIGOESTACION": "10",
+      "DENOMINACION": "ASAMBLEA DE MADRID-ENTREVIAS",
+      "CODIGOCTMESTACIONREDMETRO": "10"
+    },
+    "geometry": {
+      "x": -3.6680040064114587,
+      "y": 40.381671489835824
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_75",
+      "CODIGOESTACION": "75",
+      "DENOMINACION": "SANTA EUGENIA",
+      "CODIGOCTMESTACIONREDMETRO": "75"
+    },
+    "geometry": {
+      "x": -3.609063931707459,
+      "y": 40.38698557495151
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_2",
+      "CODIGOESTACION": "2",
+      "DENOMINACION": "ALCAL\u00c1 DE HENARES",
+      "CODIGOCTMESTACIONREDMETRO": "2"
+    },
+    "geometry": {
+      "x": -3.3663356703140543,
+      "y": 40.48903027574293
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_81",
+      "CODIGOESTACION": "81",
+      "DENOMINACION": "TORREJON DE ARDOZ",
+      "CODIGOCTMESTACIONREDMETRO": "81"
+    },
+    "geometry": {
+      "x": -3.4798198074479614,
+      "y": 40.454601488963675
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_120",
+      "CODIGOESTACION": "120",
+      "DENOMINACION": "GUIMORCONDO",
+      "CODIGOCTMESTACIONREDMETRO": "120"
+    },
+    "geometry": {
+      "x": -4.614997005936353,
+      "y": 40.64900268763059
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_7",
+      "CODIGOESTACION": "7",
+      "DENOMINACION": "ALUCHE",
+      "CODIGOCTMESTACIONREDMETRO": "7"
+    },
+    "geometry": {
+      "x": -3.760744561479337,
+      "y": 40.38562662647004
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_28",
+      "CODIGOESTACION": "28",
+      "DENOMINACION": "EMBAJADORES",
+      "CODIGOCTMESTACIONREDMETRO": "28"
+    },
+    "geometry": {
+      "x": -3.7026243551753044,
+      "y": 40.40512522945995
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_53",
+      "CODIGOESTACION": "53",
+      "DENOMINACION": "PARLA",
+      "CODIGOCTMESTACIONREDMETRO": "53"
+    },
+    "geometry": {
+      "x": -3.7693629409269445,
+      "y": 40.2407668404867
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_29",
+      "CODIGOESTACION": "29",
+      "DENOMINACION": "ESCORIAL, EL",
+      "CODIGOCTMESTACIONREDMETRO": "29"
+    },
+    "geometry": {
+      "x": -4.132330676958178,
+      "y": 40.585267152336165
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_46",
+      "CODIGOESTACION": "46",
+      "DENOMINACION": "MENDEZ ALVARO",
+      "CODIGOCTMESTACIONREDMETRO": "46"
+    },
+    "geometry": {
+      "x": -3.678079183668188,
+      "y": 40.39537834958871
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_105",
+      "CODIGOESTACION": "105",
+      "DENOMINACION": "PARQUE POLVORANCA",
+      "CODIGOCTMESTACIONREDMETRO": "105"
+    },
+    "geometry": {
+      "x": -3.7833438840071927,
+      "y": 40.31250410240478
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_49",
+      "CODIGOESTACION": "49",
+      "DENOMINACION": "MOSTOLES EL SOTO",
+      "CODIGOCTMESTACIONREDMETRO": "49"
+    },
+    "geometry": {
+      "x": -3.8823370560330543,
+      "y": 40.33089245033729
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_122",
+      "CODIGOESTACION": "122",
+      "DENOMINACION": "SOL",
+      "CODIGOCTMESTACIONREDMETRO": "122"
+    },
+    "geometry": {
+      "x": -3.7030944599344315,
+      "y": 40.41684551005024
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_103",
+      "CODIGOESTACION": "103",
+      "DENOMINACION": "CASAR, EL",
+      "CODIGOCTMESTACIONREDMETRO": "103"
+    },
+    "geometry": {
+      "x": -3.7098354105204603,
+      "y": 40.31846615191219
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_34",
+      "CODIGOESTACION": "34",
+      "DENOMINACION": "GETAFE CENTRO",
+      "CODIGOCTMESTACIONREDMETRO": "34"
+    },
+    "geometry": {
+      "x": -3.7339417780875457,
+      "y": 40.31009561550418
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_119",
+      "CODIGOESTACION": "119",
+      "DENOMINACION": "HERRADON-LA CANADA",
+      "CODIGOCTMESTACIONREDMETRO": "119"
+    },
+    "geometry": {
+      "x": -4.495047356134345,
+      "y": 40.599252311956825
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_143",
+      "CODIGOESTACION": "143",
+      "DENOMINACION": "SOTO DEL HENARES",
+      "CODIGOCTMESTACIONREDMETRO": "143"
+    },
+    "geometry": {
+      "x": -3.4413394419542906,
+      "y": 40.463527941834286
+    }
+  },{
+    "attributes": {
+      "IDESTACION": "5_144",
+      "CODIGOESTACION": "144",
+      "DENOMINACION": "VALDEBEBAS",
+      "CODIGOCTMESTACIONREDMETRO": "144"
+    },
+    "geometry": {
+      "x": -3.6164246781344764,
+      "y": 40.482301536325956
+    }
+  }
+]
+}

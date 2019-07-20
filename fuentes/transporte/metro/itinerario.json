@@ -1,0 +1,4162 @@
+{
+"objectIdFieldName": "OBJECTID",
+"uniqueIdField": {
+  "name": "OBJECTID",
+  "isSystemMaintained": true
+},
+"globalIdFieldName": "",
+"fields": [
+  {
+    "name": "NUMEROLINEAUSUARIO",
+    "type": "esriFieldTypeString",
+    "alias": "NUMEROLINEAUSUARIO",
+    "sqlType": "sqlTypeOther",
+    "length": 8,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "CODIGOGESTIONLINEA",
+    "type": "esriFieldTypeString",
+    "alias": "CODIGOGESTIONLINEA",
+    "sqlType": "sqlTypeOther",
+    "length": 10,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "CODIGOESTACION",
+    "type": "esriFieldTypeString",
+    "alias": "CODIGOESTACION",
+    "sqlType": "sqlTypeOther",
+    "length": 7,
+    "domain": null,
+    "defaultValue": null
+  },{
+    "name": "DENOMINACION",
+    "type": "esriFieldTypeString",
+    "alias": "DENOMINACION",
+    "sqlType": "sqlTypeOther",
+    "length": 240,
+    "domain": null,
+    "defaultValue": null
+  }
+],
+"features": [
+  {
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "278",
+      "DENOMINACION": "LA GRANJA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "278",
+      "DENOMINACION": "LA GRANJA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "279",
+      "DENOMINACION": "LA MORALEJA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "279",
+      "DENOMINACION": "LA MORALEJA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "280",
+      "DENOMINACION": "MARQUES DE LA VALDAVIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "280",
+      "DENOMINACION": "MARQUES DE LA VALDAVIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "281",
+      "DENOMINACION": "MANUEL DE FALLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "281",
+      "DENOMINACION": "MANUEL DE FALLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "204",
+      "DENOMINACION": "JOAQUIN VILUMBRALES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "204",
+      "DENOMINACION": "JOAQUIN VILUMBRALES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "205",
+      "DENOMINACION": "PUERTA DEL SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "205",
+      "DENOMINACION": "PUERTA DEL SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "209",
+      "DENOMINACION": "PUERTA DEL SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "209",
+      "DENOMINACION": "PUERTA DEL SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "209",
+      "DENOMINACION": "PUERTA DEL SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "209",
+      "DENOMINACION": "PUERTA DEL SUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "210",
+      "DENOMINACION": "PARQUE LISBOA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "210",
+      "DENOMINACION": "PARQUE LISBOA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "211",
+      "DENOMINACION": "ALCORCON CENTRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "211",
+      "DENOMINACION": "ALCORCON CENTRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "212",
+      "DENOMINACION": "PARQUE OESTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "212",
+      "DENOMINACION": "PARQUE OESTE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9B",
+      "CODIGOGESTIONLINEA": "092",
+      "CODIGOESTACION": "186",
+      "DENOMINACION": "ARGANDA DEL REY"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9B",
+      "CODIGOGESTIONLINEA": "092",
+      "CODIGOESTACION": "186",
+      "DENOMINACION": "ARGANDA DEL REY"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9B",
+      "CODIGOGESTIONLINEA": "092",
+      "CODIGOESTACION": "185",
+      "DENOMINACION": "LA POVEDA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9B",
+      "CODIGOGESTIONLINEA": "092",
+      "CODIGOESTACION": "185",
+      "DENOMINACION": "LA POVEDA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "287",
+      "DENOMINACION": "BARRIO DEL PUERTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "287",
+      "DENOMINACION": "BARRIO DEL PUERTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "288",
+      "DENOMINACION": "COSLADA CENTRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "288",
+      "DENOMINACION": "COSLADA CENTRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "289",
+      "DENOMINACION": "LA RAMBLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "289",
+      "DENOMINACION": "LA RAMBLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "296",
+      "DENOMINACION": "HOSPITAL DEL HENARES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "296",
+      "DENOMINACION": "HOSPITAL DEL HENARES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "218",
+      "DENOMINACION": "LORANCA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "218",
+      "DENOMINACION": "LORANCA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "219",
+      "DENOMINACION": "HOSPITAL DE FUENLABRADA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "219",
+      "DENOMINACION": "HOSPITAL DE FUENLABRADA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "220",
+      "DENOMINACION": "PARQUE EUROPA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "220",
+      "DENOMINACION": "PARQUE EUROPA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "221",
+      "DENOMINACION": "FUENLABRADA CENTRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "221",
+      "DENOMINACION": "FUENLABRADA CENTRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "222",
+      "DENOMINACION": "PARQUE DE LOS ESTADOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "222",
+      "DENOMINACION": "PARQUE DE LOS ESTADOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "223",
+      "DENOMINACION": "ARROYO CULEBRO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "223",
+      "DENOMINACION": "ARROYO CULEBRO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "224",
+      "DENOMINACION": "CONSERVATORIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "224",
+      "DENOMINACION": "CONSERVATORIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "225",
+      "DENOMINACION": "ALONSO DE MENDOZA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "225",
+      "DENOMINACION": "ALONSO DE MENDOZA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "226",
+      "DENOMINACION": "GETAFE CENTRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "226",
+      "DENOMINACION": "GETAFE CENTRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "227",
+      "DENOMINACION": "JUAN DE LA CIERVA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "227",
+      "DENOMINACION": "JUAN DE LA CIERVA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "228",
+      "DENOMINACION": "EL CASAR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "228",
+      "DENOMINACION": "EL CASAR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "229",
+      "DENOMINACION": "LOS ESPARTALES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "229",
+      "DENOMINACION": "LOS ESPARTALES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "230",
+      "DENOMINACION": "EL BERCIAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "230",
+      "DENOMINACION": "EL BERCIAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "231",
+      "DENOMINACION": "EL CARRASCAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "231",
+      "DENOMINACION": "EL CARRASCAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "232",
+      "DENOMINACION": "JULIAN BESTEIRO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "232",
+      "DENOMINACION": "JULIAN BESTEIRO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "233",
+      "DENOMINACION": "CASA DEL RELOJ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "233",
+      "DENOMINACION": "CASA DEL RELOJ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "234",
+      "DENOMINACION": "HOSPITAL SEVERO OCHOA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "234",
+      "DENOMINACION": "HOSPITAL SEVERO OCHOA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "235",
+      "DENOMINACION": "LEGANES CENTRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "235",
+      "DENOMINACION": "LEGANES CENTRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "236",
+      "DENOMINACION": "SAN NICASIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "236",
+      "DENOMINACION": "SAN NICASIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "305",
+      "DENOMINACION": "LA FORTUNA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "305",
+      "DENOMINACION": "LA FORTUNA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "25",
+      "DENOMINACION": "SIERRA DE GUADALUPE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "25",
+      "DENOMINACION": "SIERRA DE GUADALUPE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "26",
+      "DENOMINACION": "VILLA DE VALLECAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "26",
+      "DENOMINACION": "VILLA DE VALLECAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "145",
+      "DENOMINACION": "ISLAS FILIPINAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "145",
+      "DENOMINACION": "ISLAS FILIPINAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "146",
+      "DENOMINACION": "GUZMAN EL BUENO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "146",
+      "DENOMINACION": "GUZMAN EL BUENO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "147",
+      "DENOMINACION": "FRANCOS RODRIGUEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "147",
+      "DENOMINACION": "FRANCOS RODRIGUEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "149",
+      "DENOMINACION": "ANTONIO MACHADO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "149",
+      "DENOMINACION": "ANTONIO MACHADO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "150",
+      "DENOMINACION": "PE\u00d1AGRANDE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "150",
+      "DENOMINACION": "PE\u00d1AGRANDE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "152",
+      "DENOMINACION": "LACOMA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "152",
+      "DENOMINACION": "LACOMA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "154",
+      "DENOMINACION": "PITIS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "154",
+      "DENOMINACION": "PITIS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "27",
+      "DENOMINACION": "CONGOSTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "27",
+      "DENOMINACION": "CONGOSTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "74",
+      "DENOMINACION": "CANILLEJAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "74",
+      "DENOMINACION": "CANILLEJAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "75",
+      "DENOMINACION": "TORRE ARIAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "75",
+      "DENOMINACION": "TORRE ARIAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "76",
+      "DENOMINACION": "SUANZES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "76",
+      "DENOMINACION": "SUANZES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "77",
+      "DENOMINACION": "CIUDAD LINEAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "77",
+      "DENOMINACION": "CIUDAD LINEAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "78",
+      "DENOMINACION": "PUEBLO NUEVO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "78",
+      "DENOMINACION": "PUEBLO NUEVO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "79",
+      "DENOMINACION": "QUINTANA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "79",
+      "DENOMINACION": "QUINTANA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "80",
+      "DENOMINACION": "EL CARMEN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "80",
+      "DENOMINACION": "EL CARMEN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "81",
+      "DENOMINACION": "VENTAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "81",
+      "DENOMINACION": "VENTAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "83",
+      "DENOMINACION": "NU\u00d1EZ DE BALBOA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "83",
+      "DENOMINACION": "NU\u00d1EZ DE BALBOA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "84",
+      "DENOMINACION": "RUBEN DARIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "84",
+      "DENOMINACION": "RUBEN DARIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "85",
+      "DENOMINACION": "ALONSO MARTINEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "85",
+      "DENOMINACION": "ALONSO MARTINEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "86",
+      "DENOMINACION": "CHUECA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "86",
+      "DENOMINACION": "CHUECA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "87",
+      "DENOMINACION": "GRAN VIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "87",
+      "DENOMINACION": "GRAN VIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "44",
+      "DENOMINACION": "DELICIAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "44",
+      "DENOMINACION": "DELICIAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "45",
+      "DENOMINACION": "PALOS DE LA FRONTERA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "45",
+      "DENOMINACION": "PALOS DE LA FRONTERA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "46",
+      "DENOMINACION": "EMBAJADORES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "46",
+      "DENOMINACION": "EMBAJADORES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "48",
+      "DENOMINACION": "SOL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "48",
+      "DENOMINACION": "SOL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "49",
+      "DENOMINACION": "CALLAO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "49",
+      "DENOMINACION": "CALLAO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "51",
+      "DENOMINACION": "VENTURA RODRIGUEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "51",
+      "DENOMINACION": "VENTURA RODRIGUEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "43",
+      "DENOMINACION": "LEGAZPI"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "43",
+      "DENOMINACION": "LEGAZPI"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "53",
+      "DENOMINACION": "MONCLOA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "53",
+      "DENOMINACION": "MONCLOA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "54",
+      "DENOMINACION": "ARG\u00dcELLES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "54",
+      "DENOMINACION": "ARG\u00dcELLES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "56",
+      "DENOMINACION": "BILBAO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "56",
+      "DENOMINACION": "BILBAO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "57",
+      "DENOMINACION": "ALONSO MARTINEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "57",
+      "DENOMINACION": "ALONSO MARTINEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "59",
+      "DENOMINACION": "SERRANO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "59",
+      "DENOMINACION": "SERRANO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "36",
+      "DENOMINACION": "OPERA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "36",
+      "DENOMINACION": "OPERA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "22",
+      "DENOMINACION": "BUENOS AIRES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "22",
+      "DENOMINACION": "BUENOS AIRES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "24",
+      "DENOMINACION": "MIGUEL HERNANDEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "24",
+      "DENOMINACION": "MIGUEL HERNANDEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "38",
+      "DENOMINACION": "NOVICIADO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "38",
+      "DENOMINACION": "NOVICIADO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "39",
+      "DENOMINACION": "SAN BERNARDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "39",
+      "DENOMINACION": "SAN BERNARDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "41",
+      "DENOMINACION": "CANAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "41",
+      "DENOMINACION": "CANAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "28",
+      "DENOMINACION": "VENTAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "28",
+      "DENOMINACION": "VENTAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "29",
+      "DENOMINACION": "MANUEL BECERRA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "29",
+      "DENOMINACION": "MANUEL BECERRA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "31",
+      "DENOMINACION": "PRINCIPE DE VERGARA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "31",
+      "DENOMINACION": "PRINCIPE DE VERGARA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "32",
+      "DENOMINACION": "RETIRO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "32",
+      "DENOMINACION": "RETIRO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "35",
+      "DENOMINACION": "SOL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "35",
+      "DENOMINACION": "SOL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "R",
+      "CODIGOGESTIONLINEA": "ROP",
+      "CODIGOESTACION": "238",
+      "DENOMINACION": "PRINCIPE PIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "R",
+      "CODIGOGESTIONLINEA": "ROP",
+      "CODIGOESTACION": "238",
+      "DENOMINACION": "PRINCIPE PIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "1",
+      "DENOMINACION": "PLAZA DE CASTILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "1",
+      "DENOMINACION": "PLAZA DE CASTILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "2",
+      "DENOMINACION": "VALDEACEDERAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "2",
+      "DENOMINACION": "VALDEACEDERAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "4",
+      "DENOMINACION": "ESTRECHO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "4",
+      "DENOMINACION": "ESTRECHO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "6",
+      "DENOMINACION": "CUATRO CAMINOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "6",
+      "DENOMINACION": "CUATRO CAMINOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "7",
+      "DENOMINACION": "RIOS ROSAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "7",
+      "DENOMINACION": "RIOS ROSAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "9",
+      "DENOMINACION": "BILBAO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "9",
+      "DENOMINACION": "BILBAO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "10",
+      "DENOMINACION": "TRIBUNAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "10",
+      "DENOMINACION": "TRIBUNAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "11",
+      "DENOMINACION": "GRAN VIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "11",
+      "DENOMINACION": "GRAN VIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "12",
+      "DENOMINACION": "SOL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "12",
+      "DENOMINACION": "SOL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "13",
+      "DENOMINACION": "TIRSO DE MOLINA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "13",
+      "DENOMINACION": "TIRSO DE MOLINA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "14",
+      "DENOMINACION": "ANTON MARTIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "14",
+      "DENOMINACION": "ANTON MARTIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "15",
+      "DENOMINACION": "ATOCHA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "15",
+      "DENOMINACION": "ATOCHA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "16",
+      "DENOMINACION": "ATOCHA RENFE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "16",
+      "DENOMINACION": "ATOCHA RENFE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "17",
+      "DENOMINACION": "MENENDEZ PELAYO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "17",
+      "DENOMINACION": "MENENDEZ PELAYO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "18",
+      "DENOMINACION": "PACIFICO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "18",
+      "DENOMINACION": "PACIFICO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "19",
+      "DENOMINACION": "PUENTE DE VALLECAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "19",
+      "DENOMINACION": "PUENTE DE VALLECAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "197",
+      "DENOMINACION": "PLAZA DE ESPA\u00d1A"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "197",
+      "DENOMINACION": "PLAZA DE ESPA\u00d1A"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "198",
+      "DENOMINACION": "PRINCIPE PIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "198",
+      "DENOMINACION": "PRINCIPE PIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "199",
+      "DENOMINACION": "LAGO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "199",
+      "DENOMINACION": "LAGO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "200",
+      "DENOMINACION": "BATAN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "200",
+      "DENOMINACION": "BATAN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "201",
+      "DENOMINACION": "CASA DE CAMPO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "201",
+      "DENOMINACION": "CASA DE CAMPO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "202",
+      "DENOMINACION": "COLONIA JARDIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "202",
+      "DENOMINACION": "COLONIA JARDIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "206",
+      "DENOMINACION": "PLAZA ELIPTICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "206",
+      "DENOMINACION": "PLAZA ELIPTICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "207",
+      "DENOMINACION": "ABRANTES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "207",
+      "DENOMINACION": "ABRANTES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "208",
+      "DENOMINACION": "PAN BENDITO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "208",
+      "DENOMINACION": "PAN BENDITO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "193",
+      "DENOMINACION": "NUEVOS MINISTERIOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "193",
+      "DENOMINACION": "NUEVOS MINISTERIOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "194",
+      "DENOMINACION": "GREGORIO MARA\u00d1ON"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "194",
+      "DENOMINACION": "GREGORIO MARA\u00d1ON"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "195",
+      "DENOMINACION": "ALONSO MARTINEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "195",
+      "DENOMINACION": "ALONSO MARTINEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "196",
+      "DENOMINACION": "TRIBUNAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "196",
+      "DENOMINACION": "TRIBUNAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "162",
+      "DENOMINACION": "BARRIO DEL PILAR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "162",
+      "DENOMINACION": "BARRIO DEL PILAR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "163",
+      "DENOMINACION": "VENTILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "163",
+      "DENOMINACION": "VENTILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "164",
+      "DENOMINACION": "PLAZA DE CASTILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "164",
+      "DENOMINACION": "PLAZA DE CASTILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "165",
+      "DENOMINACION": "DUQUE DE PASTRANA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "165",
+      "DENOMINACION": "DUQUE DE PASTRANA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "166",
+      "DENOMINACION": "PIO XII"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "166",
+      "DENOMINACION": "PIO XII"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "167",
+      "DENOMINACION": "COLOMBIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "167",
+      "DENOMINACION": "COLOMBIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "168",
+      "DENOMINACION": "CONCHA ESPINA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "168",
+      "DENOMINACION": "CONCHA ESPINA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "169",
+      "DENOMINACION": "CRUZ DEL RAYO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "169",
+      "DENOMINACION": "CRUZ DEL RAYO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "170",
+      "DENOMINACION": "AVENIDA DE AMERICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "170",
+      "DENOMINACION": "AVENIDA DE AMERICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "172",
+      "DENOMINACION": "PRINCIPE DE VERGARA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "172",
+      "DENOMINACION": "PRINCIPE DE VERGARA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "173",
+      "DENOMINACION": "IBIZA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "173",
+      "DENOMINACION": "IBIZA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "174",
+      "DENOMINACION": "SAINZ DE BARANDA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "174",
+      "DENOMINACION": "SAINZ DE BARANDA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "175",
+      "DENOMINACION": "ESTRELLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "175",
+      "DENOMINACION": "ESTRELLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "176",
+      "DENOMINACION": "VINATEROS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "176",
+      "DENOMINACION": "VINATEROS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "177",
+      "DENOMINACION": "ARTILLEROS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "177",
+      "DENOMINACION": "ARTILLEROS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "178",
+      "DENOMINACION": "PAVONES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "178",
+      "DENOMINACION": "PAVONES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "179",
+      "DENOMINACION": "VALDEBERNARDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "179",
+      "DENOMINACION": "VALDEBERNARDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "180",
+      "DENOMINACION": "VICALVARO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "180",
+      "DENOMINACION": "VICALVARO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "181",
+      "DENOMINACION": "SAN CIPRIANO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "181",
+      "DENOMINACION": "SAN CIPRIANO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9B",
+      "CODIGOGESTIONLINEA": "092",
+      "CODIGOESTACION": "182",
+      "DENOMINACION": "PUERTA DE ARGANDA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9B",
+      "CODIGOGESTIONLINEA": "092",
+      "CODIGOESTACION": "182",
+      "DENOMINACION": "PUERTA DE ARGANDA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "182",
+      "DENOMINACION": "PUERTA DE ARGANDA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "182",
+      "DENOMINACION": "PUERTA DE ARGANDA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "187",
+      "DENOMINACION": "FUENCARRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "187",
+      "DENOMINACION": "FUENCARRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "188",
+      "DENOMINACION": "BEGO\u00d1A"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "188",
+      "DENOMINACION": "BEGO\u00d1A"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "189",
+      "DENOMINACION": "CHAMARTIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "189",
+      "DENOMINACION": "CHAMARTIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "191",
+      "DENOMINACION": "CUZCO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "191",
+      "DENOMINACION": "CUZCO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "192",
+      "DENOMINACION": "SANTIAGO BERNABEU"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "192",
+      "DENOMINACION": "SANTIAGO BERNABEU"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "122",
+      "DENOMINACION": "GUZMAN EL BUENO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "122",
+      "DENOMINACION": "GUZMAN EL BUENO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "121",
+      "DENOMINACION": "CUATRO CAMINOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "121",
+      "DENOMINACION": "CUATRO CAMINOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "123",
+      "DENOMINACION": "METROPOLITANO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "123",
+      "DENOMINACION": "METROPOLITANO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "125",
+      "DENOMINACION": "MONCLOA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "125",
+      "DENOMINACION": "MONCLOA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "126",
+      "DENOMINACION": "ARG\u00dcELLES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "126",
+      "DENOMINACION": "ARG\u00dcELLES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "127",
+      "DENOMINACION": "PRINCIPE PIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "127",
+      "DENOMINACION": "PRINCIPE PIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "128",
+      "DENOMINACION": "PUERTA DEL ANGEL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "128",
+      "DENOMINACION": "PUERTA DEL ANGEL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "129",
+      "DENOMINACION": "ALTO DE EXTREMADURA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "129",
+      "DENOMINACION": "ALTO DE EXTREMADURA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "130",
+      "DENOMINACION": "LUCERO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "130",
+      "DENOMINACION": "LUCERO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "132",
+      "DENOMINACION": "LAS MUSAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "132",
+      "DENOMINACION": "LAS MUSAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "133",
+      "DENOMINACION": "SAN BLAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "133",
+      "DENOMINACION": "SAN BLAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "134",
+      "DENOMINACION": "SIMANCAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "134",
+      "DENOMINACION": "SIMANCAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "136",
+      "DENOMINACION": "ASCAO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "136",
+      "DENOMINACION": "ASCAO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "137",
+      "DENOMINACION": "PUEBLO NUEVO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "137",
+      "DENOMINACION": "PUEBLO NUEVO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "139",
+      "DENOMINACION": "PARQUE DE LAS AVENIDAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "139",
+      "DENOMINACION": "PARQUE DE LAS AVENIDAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "140",
+      "DENOMINACION": "CARTAGENA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "140",
+      "DENOMINACION": "CARTAGENA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "141",
+      "DENOMINACION": "AVENIDA DE AMERICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "141",
+      "DENOMINACION": "AVENIDA DE AMERICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "144",
+      "DENOMINACION": "CANAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "144",
+      "DENOMINACION": "CANAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "158",
+      "DENOMINACION": "CAMPO DE LAS NACIONES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "158",
+      "DENOMINACION": "CAMPO DE LAS NACIONES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "161",
+      "DENOMINACION": "HERRERA ORIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "161",
+      "DENOMINACION": "HERRERA ORIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "89",
+      "DENOMINACION": "OPERA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "89",
+      "DENOMINACION": "OPERA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "91",
+      "DENOMINACION": "PUERTA DE TOLEDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "91",
+      "DENOMINACION": "PUERTA DE TOLEDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "104",
+      "DENOMINACION": "LAGUNA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "104",
+      "DENOMINACION": "LAGUNA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "104",
+      "DENOMINACION": "LAGUNA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "104",
+      "DENOMINACION": "LAGUNA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "105",
+      "DENOMINACION": "CARPETANA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "105",
+      "DENOMINACION": "CARPETANA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "107",
+      "DENOMINACION": "OPA\u00d1EL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "107",
+      "DENOMINACION": "OPA\u00d1EL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "108",
+      "DENOMINACION": "PLAZA ELIPTICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "108",
+      "DENOMINACION": "PLAZA ELIPTICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "110",
+      "DENOMINACION": "LEGAZPI"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "110",
+      "DENOMINACION": "LEGAZPI"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "111",
+      "DENOMINACION": "MENDEZ ALVARO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "111",
+      "DENOMINACION": "MENDEZ ALVARO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "112",
+      "DENOMINACION": "PACIFICO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "112",
+      "DENOMINACION": "PACIFICO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "113",
+      "DENOMINACION": "CONDE DE CASAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "113",
+      "DENOMINACION": "CONDE DE CASAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "93",
+      "DENOMINACION": "PIRAMIDES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "93",
+      "DENOMINACION": "PIRAMIDES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "94",
+      "DENOMINACION": "MARQUES DE VADILLO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "94",
+      "DENOMINACION": "MARQUES DE VADILLO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "95",
+      "DENOMINACION": "URGEL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "95",
+      "DENOMINACION": "URGEL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "96",
+      "DENOMINACION": "OPORTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "96",
+      "DENOMINACION": "OPORTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "97",
+      "DENOMINACION": "VISTA ALEGRE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "97",
+      "DENOMINACION": "VISTA ALEGRE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "98",
+      "DENOMINACION": "CARABANCHEL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "98",
+      "DENOMINACION": "CARABANCHEL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "115",
+      "DENOMINACION": "O'DONNELL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "115",
+      "DENOMINACION": "O'DONNELL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "116",
+      "DENOMINACION": "MANUEL BECERRA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "116",
+      "DENOMINACION": "MANUEL BECERRA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "117",
+      "DENOMINACION": "DIEGO DE LEON"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "117",
+      "DENOMINACION": "DIEGO DE LEON"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "118",
+      "DENOMINACION": "AVENIDA DE AMERICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "118",
+      "DENOMINACION": "AVENIDA DE AMERICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "119",
+      "DENOMINACION": "REPUBLICA ARGENTINA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "119",
+      "DENOMINACION": "REPUBLICA ARGENTINA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "120",
+      "DENOMINACION": "NUEVOS MINISTERIOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "120",
+      "DENOMINACION": "NUEVOS MINISTERIOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "61",
+      "DENOMINACION": "GOYA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "61",
+      "DENOMINACION": "GOYA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "60",
+      "DENOMINACION": "VELAZQUEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "60",
+      "DENOMINACION": "VELAZQUEZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "62",
+      "DENOMINACION": "LISTA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "62",
+      "DENOMINACION": "LISTA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "63",
+      "DENOMINACION": "DIEGO DE LEON"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "63",
+      "DENOMINACION": "DIEGO DE LEON"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "64",
+      "DENOMINACION": "AVENIDA DE AMERICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "64",
+      "DENOMINACION": "AVENIDA DE AMERICA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "65",
+      "DENOMINACION": "PROSPERIDAD"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "65",
+      "DENOMINACION": "PROSPERIDAD"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "66",
+      "DENOMINACION": "ALFONSO XIII"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "66",
+      "DENOMINACION": "ALFONSO XIII"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "68",
+      "DENOMINACION": "ARTURO SORIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "68",
+      "DENOMINACION": "ARTURO SORIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "69",
+      "DENOMINACION": "ESPERANZA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "69",
+      "DENOMINACION": "ESPERANZA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "70",
+      "DENOMINACION": "CANILLAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "70",
+      "DENOMINACION": "CANILLAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "71",
+      "DENOMINACION": "MAR DE CRISTAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "71",
+      "DENOMINACION": "MAR DE CRISTAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "72",
+      "DENOMINACION": "SAN LORENZO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "72",
+      "DENOMINACION": "SAN LORENZO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "73",
+      "DENOMINACION": "PARQUE DE SANTA MARIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "73",
+      "DENOMINACION": "PARQUE DE SANTA MARIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "47",
+      "DENOMINACION": "LAVAPIES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "47",
+      "DENOMINACION": "LAVAPIES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "50",
+      "DENOMINACION": "PLAZA DE ESPA\u00d1A"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "50",
+      "DENOMINACION": "PLAZA DE ESPA\u00d1A"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "55",
+      "DENOMINACION": "SAN BERNARDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "55",
+      "DENOMINACION": "SAN BERNARDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "58",
+      "DENOMINACION": "COLON"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "58",
+      "DENOMINACION": "COLON"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "20",
+      "DENOMINACION": "NUEVA NUMANCIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "20",
+      "DENOMINACION": "NUEVA NUMANCIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "23",
+      "DENOMINACION": "ALTO DEL ARENAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "23",
+      "DENOMINACION": "ALTO DEL ARENAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "37",
+      "DENOMINACION": "SANTO DOMINGO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "37",
+      "DENOMINACION": "SANTO DOMINGO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "40",
+      "DENOMINACION": "QUEVEDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "40",
+      "DENOMINACION": "QUEVEDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "42",
+      "DENOMINACION": "CUATRO CAMINOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "42",
+      "DENOMINACION": "CUATRO CAMINOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "30",
+      "DENOMINACION": "GOYA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "30",
+      "DENOMINACION": "GOYA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "33",
+      "DENOMINACION": "BANCO DE ESPA\u00d1A"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "33",
+      "DENOMINACION": "BANCO DE ESPA\u00d1A"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "34",
+      "DENOMINACION": "SEVILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "34",
+      "DENOMINACION": "SEVILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "R",
+      "CODIGOGESTIONLINEA": "ROP",
+      "CODIGOESTACION": "237",
+      "DENOMINACION": "OPERA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "R",
+      "CODIGOGESTIONLINEA": "ROP",
+      "CODIGOESTACION": "237",
+      "DENOMINACION": "OPERA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "3",
+      "DENOMINACION": "TETUAN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "3",
+      "DENOMINACION": "TETUAN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "5",
+      "DENOMINACION": "ALVARADO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "5",
+      "DENOMINACION": "ALVARADO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "8",
+      "DENOMINACION": "IGLESIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "8",
+      "DENOMINACION": "IGLESIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "159",
+      "DENOMINACION": "AEROPUERTO T1 T2 T3"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "159",
+      "DENOMINACION": "AEROPUERTO T1 T2 T3"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "160",
+      "DENOMINACION": "BARAJAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "160",
+      "DENOMINACION": "BARAJAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "99",
+      "DENOMINACION": "EUGENIA DE MONTIJO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "99",
+      "DENOMINACION": "EUGENIA DE MONTIJO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "21",
+      "DENOMINACION": "PORTAZGO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "21",
+      "DENOMINACION": "PORTAZGO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "52",
+      "DENOMINACION": "ARG\u00dcELLES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "52",
+      "DENOMINACION": "ARG\u00dcELLES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "67",
+      "DENOMINACION": "AVENIDA DE LA PAZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "67",
+      "DENOMINACION": "AVENIDA DE LA PAZ"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "82",
+      "DENOMINACION": "DIEGO DE LEON"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "82",
+      "DENOMINACION": "DIEGO DE LEON"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "88",
+      "DENOMINACION": "CALLAO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "88",
+      "DENOMINACION": "CALLAO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "114",
+      "DENOMINACION": "SAINZ DE BARANDA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "114",
+      "DENOMINACION": "SAINZ DE BARANDA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "124",
+      "DENOMINACION": "CIUDAD UNIVERSITARIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "124",
+      "DENOMINACION": "CIUDAD UNIVERSITARIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "143",
+      "DENOMINACION": "ALONSO CANO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "143",
+      "DENOMINACION": "ALONSO CANO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "171",
+      "DENOMINACION": "NU\u00d1EZ DE BALBOA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "171",
+      "DENOMINACION": "NU\u00d1EZ DE BALBOA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "190",
+      "DENOMINACION": "PLAZA DE CASTILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "190",
+      "DENOMINACION": "PLAZA DE CASTILLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "135",
+      "DENOMINACION": "GARCIA NOBLEJAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "135",
+      "DENOMINACION": "GARCIA NOBLEJAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "138",
+      "DENOMINACION": "BARRIO DE LA CONCEPCION"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "138",
+      "DENOMINACION": "BARRIO DE LA CONCEPCION"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "142",
+      "DENOMINACION": "GREGORIO MARA\u00d1ON"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "142",
+      "DENOMINACION": "GREGORIO MARA\u00d1ON"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "157",
+      "DENOMINACION": "MAR DE CRISTAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "157",
+      "DENOMINACION": "MAR DE CRISTAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "100",
+      "DENOMINACION": "ALUCHE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "100",
+      "DENOMINACION": "ALUCHE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "90",
+      "DENOMINACION": "LA LATINA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "90",
+      "DENOMINACION": "LA LATINA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "92",
+      "DENOMINACION": "ACACIAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "92",
+      "DENOMINACION": "ACACIAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "106",
+      "DENOMINACION": "OPORTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "106",
+      "DENOMINACION": "OPORTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "109",
+      "DENOMINACION": "USERA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "109",
+      "DENOMINACION": "USERA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "151",
+      "DENOMINACION": "AVDA. DE LA ILUSTRACION"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "151",
+      "DENOMINACION": "AVDA. DE LA ILUSTRACION"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "156",
+      "DENOMINACION": "COLOMBIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "156",
+      "DENOMINACION": "COLOMBIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "148",
+      "DENOMINACION": "VALDEZARZA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "148",
+      "DENOMINACION": "VALDEZARZA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "155",
+      "DENOMINACION": "NUEVOS MINISTERIOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "155",
+      "DENOMINACION": "NUEVOS MINISTERIOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "101",
+      "DENOMINACION": "EMPALME"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "101",
+      "DENOMINACION": "EMPALME"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "102",
+      "DENOMINACION": "CAMPAMENTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "102",
+      "DENOMINACION": "CAMPAMENTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "103",
+      "DENOMINACION": "CASA DE CAMPO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "103",
+      "DENOMINACION": "CASA DE CAMPO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "203",
+      "DENOMINACION": "CUATRO VIENTOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "203",
+      "DENOMINACION": "CUATRO VIENTOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "295",
+      "DENOMINACION": "VALDECARROS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "295",
+      "DENOMINACION": "VALDECARROS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "258",
+      "DENOMINACION": "PINAR DEL REY"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "258",
+      "DENOMINACION": "PINAR DEL REY"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "262",
+      "DENOMINACION": "BAMBU"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "262",
+      "DENOMINACION": "BAMBU"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "263",
+      "DENOMINACION": "PINAR DE CHAMARTIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "263",
+      "DENOMINACION": "PINAR DE CHAMARTIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "260",
+      "DENOMINACION": "LA ELIPA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "260",
+      "DENOMINACION": "LA ELIPA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "264",
+      "DENOMINACION": "HORTALEZA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "264",
+      "DENOMINACION": "HORTALEZA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "265",
+      "DENOMINACION": "MANOTERAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "265",
+      "DENOMINACION": "MANOTERAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "266",
+      "DENOMINACION": "PINAR DE CHAMARTIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "4",
+      "CODIGOGESTIONLINEA": "004",
+      "CODIGOESTACION": "266",
+      "DENOMINACION": "PINAR DE CHAMARTIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "286",
+      "DENOMINACION": "ESTADIO OLIMPICO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7a",
+      "CODIGOGESTIONLINEA": "071",
+      "CODIGOESTACION": "286",
+      "DENOMINACION": "ESTADIO OLIMPICO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "286",
+      "DENOMINACION": "ESTADIO OLIMPICO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "286",
+      "DENOMINACION": "ESTADIO OLIMPICO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "274",
+      "DENOMINACION": "TRES OLIVOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "274",
+      "DENOMINACION": "TRES OLIVOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "274",
+      "DENOMINACION": "TRES OLIVOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "274",
+      "DENOMINACION": "TRES OLIVOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "275",
+      "DENOMINACION": "MONTECARMELO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "275",
+      "DENOMINACION": "MONTECARMELO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "276",
+      "DENOMINACION": "LAS TABLAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "276",
+      "DENOMINACION": "LAS TABLAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "277",
+      "DENOMINACION": "RONDA DE LA COMUNICACION"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "277",
+      "DENOMINACION": "RONDA DE LA COMUNICACION"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "257",
+      "DENOMINACION": "AVIACION ESPA\u00d1OLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10a",
+      "CODIGOGESTIONLINEA": "101",
+      "CODIGOESTACION": "257",
+      "DENOMINACION": "AVIACION ESPA\u00d1OLA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "285",
+      "DENOMINACION": "AEROPUERTO T4"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "8",
+      "CODIGOGESTIONLINEA": "008",
+      "CODIGOESTACION": "285",
+      "DENOMINACION": "AEROPUERTO T4"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "261",
+      "DENOMINACION": "CHAMARTIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "261",
+      "DENOMINACION": "CHAMARTIN"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "252",
+      "DENOMINACION": "ALAMEDA DE OSUNA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "252",
+      "DENOMINACION": "ALAMEDA DE OSUNA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "253",
+      "DENOMINACION": "EL CAPRICHO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "5",
+      "CODIGOGESTIONLINEA": "005",
+      "CODIGOESTACION": "253",
+      "DENOMINACION": "EL CAPRICHO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "254",
+      "DENOMINACION": "SAN FRANCISCO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "254",
+      "DENOMINACION": "SAN FRANCISCO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "255",
+      "DENOMINACION": "CARABANCHEL ALTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "255",
+      "DENOMINACION": "CARABANCHEL ALTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "256",
+      "DENOMINACION": "LA PESETA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "11",
+      "CODIGOGESTIONLINEA": "011",
+      "CODIGOESTACION": "256",
+      "DENOMINACION": "LA PESETA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "267",
+      "DENOMINACION": "ALMENDRALES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "267",
+      "DENOMINACION": "ALMENDRALES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "268",
+      "DENOMINACION": "HOSPITAL 12 DE OCTUBRE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "268",
+      "DENOMINACION": "HOSPITAL 12 DE OCTUBRE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "269",
+      "DENOMINACION": "SAN FERMIN-ORCASUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "269",
+      "DENOMINACION": "SAN FERMIN-ORCASUR"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "270",
+      "DENOMINACION": "CIUDAD DE LOS ANGELES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "270",
+      "DENOMINACION": "CIUDAD DE LOS ANGELES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "271",
+      "DENOMINACION": "VILLAVERDE BAJO CRUCE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "271",
+      "DENOMINACION": "VILLAVERDE BAJO CRUCE"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "272",
+      "DENOMINACION": "SAN CRISTOBAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "272",
+      "DENOMINACION": "SAN CRISTOBAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "273",
+      "DENOMINACION": "VILLAVERDE ALTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "3",
+      "CODIGOGESTIONLINEA": "003",
+      "CODIGOESTACION": "273",
+      "DENOMINACION": "VILLAVERDE ALTO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "293",
+      "DENOMINACION": "LA GAVIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "293",
+      "DENOMINACION": "LA GAVIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "294",
+      "DENOMINACION": "LAS SUERTES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "1",
+      "CODIGOGESTIONLINEA": "001",
+      "CODIGOESTACION": "294",
+      "DENOMINACION": "LAS SUERTES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-1",
+      "CODIGOGESTIONLINEA": "061",
+      "CODIGOESTACION": "259",
+      "DENOMINACION": "ARGANZUELA-PLANETARIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "6-2",
+      "CODIGOGESTIONLINEA": "062",
+      "CODIGOESTACION": "259",
+      "DENOMINACION": "ARGANZUELA-PLANETARIO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "322",
+      "DENOMINACION": "LA ALMUDENA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "322",
+      "DENOMINACION": "LA ALMUDENA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "323",
+      "DENOMINACION": "ALSACIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "323",
+      "DENOMINACION": "ALSACIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "324",
+      "DENOMINACION": "AVENIDA DE GUADALAJARA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "324",
+      "DENOMINACION": "AVENIDA DE GUADALAJARA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "325",
+      "DENOMINACION": "LAS ROSAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "2",
+      "CODIGOGESTIONLINEA": "002",
+      "CODIGOESTACION": "325",
+      "DENOMINACION": "LAS ROSAS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "326",
+      "DENOMINACION": "MIRASIERRA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "326",
+      "DENOMINACION": "MIRASIERRA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "345",
+      "DENOMINACION": "PACO DE LUCIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9A",
+      "CODIGOGESTIONLINEA": "091",
+      "CODIGOESTACION": "345",
+      "DENOMINACION": "PACO DE LUCIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "216",
+      "DENOMINACION": "HOSPITAL DE MOSTOLES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "216",
+      "DENOMINACION": "HOSPITAL DE MOSTOLES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "217",
+      "DENOMINACION": "MANUELA MALASA\u00d1A"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "217",
+      "DENOMINACION": "MANUELA MALASA\u00d1A"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "213",
+      "DENOMINACION": "UNIVERSIDAD REY JUAN CARLOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "213",
+      "DENOMINACION": "UNIVERSIDAD REY JUAN CARLOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "214",
+      "DENOMINACION": "MOSTOLES CENTRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "214",
+      "DENOMINACION": "MOSTOLES CENTRAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-2",
+      "CODIGOGESTIONLINEA": "122",
+      "CODIGOESTACION": "215",
+      "DENOMINACION": "PRADILLO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "12-1",
+      "CODIGOGESTIONLINEA": "121",
+      "CODIGOESTACION": "215",
+      "DENOMINACION": "PRADILLO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9B",
+      "CODIGOGESTIONLINEA": "092",
+      "CODIGOESTACION": "183",
+      "DENOMINACION": "RIVAS URBANIZACIONES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9B",
+      "CODIGOGESTIONLINEA": "092",
+      "CODIGOESTACION": "183",
+      "DENOMINACION": "RIVAS URBANIZACIONES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9B",
+      "CODIGOGESTIONLINEA": "092",
+      "CODIGOESTACION": "184",
+      "DENOMINACION": "RIVAS VACIAMADRID"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9B",
+      "CODIGOGESTIONLINEA": "092",
+      "CODIGOESTACION": "184",
+      "DENOMINACION": "RIVAS VACIAMADRID"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9B",
+      "CODIGOGESTIONLINEA": "092",
+      "CODIGOESTACION": "300",
+      "DENOMINACION": "RIVAS FUTURA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "9B",
+      "CODIGOGESTIONLINEA": "092",
+      "CODIGOESTACION": "300",
+      "DENOMINACION": "RIVAS FUTURA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "290",
+      "DENOMINACION": "SAN FERNANDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "290",
+      "DENOMINACION": "SAN FERNANDO"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "291",
+      "DENOMINACION": "JARAMA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "291",
+      "DENOMINACION": "JARAMA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "292",
+      "DENOMINACION": "HENARES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "7b",
+      "CODIGOGESTIONLINEA": "072",
+      "CODIGOESTACION": "292",
+      "DENOMINACION": "HENARES"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "282",
+      "DENOMINACION": "BAUNATAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "282",
+      "DENOMINACION": "BAUNATAL"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "283",
+      "DENOMINACION": "REYES CATOLICOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "283",
+      "DENOMINACION": "REYES CATOLICOS"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "284",
+      "DENOMINACION": "HOSPITAL INFANTA SOFIA"
+    }
+  },{
+    "attributes": {
+      "NUMEROLINEAUSUARIO": "10b",
+      "CODIGOGESTIONLINEA": "102",
+      "CODIGOESTACION": "284",
+      "DENOMINACION": "HOSPITAL INFANTA SOFIA"
+    }
+  }
+]
+}

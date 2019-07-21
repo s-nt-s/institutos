@@ -334,12 +334,16 @@ var sidebar = L.control.sidebar('sidebar').addTo(mymap);
 
 $("#transporte input").bind("click keypress change", function() {
     if(transpo_layer) mymap.removeLayer(transpo_layer)
+    transpo_layer=null;
+    if($("#transporte fieldset input:checked").length==0) return;
     transpo_layer = get_transpo_layer();
     mymap.addLayer(transpo_layer);
 }).change();
 
 $("div.filter input").bind("click keypress change", function() {
     if(centros_layer) mymap.removeLayer(centros_layer)
+    centros_layer=null;
+    //if($("#settings fieldset input:checked").length==0 && $("#kms").val().length==0) return;
     centros_layer = get_centros_layer();
     mymap.addLayer(centros_layer);
     var estadistica=get_estadistica();

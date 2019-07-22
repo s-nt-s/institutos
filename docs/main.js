@@ -266,8 +266,8 @@ function get_transpo_layer() {
         var i;
         txt=[]
         for (i=0;i<p.lineas.length; i++) {
-          var ln=p.lineas[i]
-          txt.push(ln[1])
+          var ln=p.lineas[i];
+          txt.push(ln[1]);
         }
         if (txt.length==1) txt="Linea "+txt[0];
         else txt = "Lineas "+txt.join(", ");
@@ -286,7 +286,7 @@ function get_transpo_layer() {
         for (i=0;i<p.lineas.length; i++) {
           var ln=p.lineas[i]
           var id = "#"+ln[0]+"_"+ln[1];
-          return $(id).is(":checked");
+          if($(id).is(":checked")) return true;
         }
       }
       return false;

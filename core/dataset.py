@@ -506,6 +506,8 @@ class Dataset():
                 nombre=a["DENOMINACION"]
                 if k=="cercanias" and nombre=="ATOCHA":
                     nombre="ATOCHA RENFE"
+                elif k=="cercanias" and nombre=="GETAFE CENTRO":
+                    nombre="GETAFE CENTRAL"
                 elif k=="metro_ligero" and nombre=="ESTACION DE ARAVACA":
                     nombre="ARAVACA"
                 dt = meta.get(codigo, {"nombres":set(), "lineas":set()})

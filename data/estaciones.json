@@ -701,10 +701,11 @@
     ["metro", 5]
   ]
 },{
-  "lat": 40.30992790904166,
-  "lon": -3.734025028929001,
+  "lat": 40.31001176227292,
+  "lon": -3.7339834035082733,
   "nombre": "Getafe Central",
   "lineas": [
+    ["cercanias", "C4"],
     ["metro", 12]
   ]
 },{
@@ -2352,13 +2353,6 @@
   "nombre": "Casar, el",
   "lineas": [
     ["cercanias", "C3"]
-  ]
-},{
-  "lat": 40.31009561550418,
-  "lon": -3.7339417780875457,
-  "nombre": "Getafe Centro",
-  "lineas": [
-    ["cercanias", "C4"]
   ]
 },{
   "lat": 40.463527941834286,

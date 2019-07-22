@@ -9155,6 +9155,30 @@
     "ESO (LOE-LOMCE)"
   ]
 },{
+  "id": 28066065,
+  "dat": "Capital",
+  "nombre": "SAGRADO CORAZON DE JESUS",
+  "direccion": "Carretera De Colmenar Viejo , Km. 13,500 28049 Madrid",
+  "telefono": 914650640,
+  "mail": "crei.scorazon.madrid@educa.madrid.org",
+  "latlon": "40.528308163087395,-3.690124154090882",
+  "nocturno": null,
+  "dificultad": false,
+  "adaptado": false,
+  "excelencia": false,
+  "tecnico": false,
+  "bilingue": false,
+  "url": "http://www.educa.madrid.org/crei.scorazon.madrid",
+  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28066065",
+  "tipo": "039",
+  "status_web": 200,
+  "min_distance": 1923.6754241159877,
+  "etapas": [
+    "ESO (LOE-LOMCE)",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+    "ESO para personas adultas (LOE-LOMCE)"
+  ]
+},{
   "id": 28067628,
   "dat": "Sur",
   "nombre": "CALDERON DE LA BARCA",

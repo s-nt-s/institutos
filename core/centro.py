@@ -36,6 +36,8 @@ def get_abr(t):
         return "SIES"
     if t == "070":
         return "CEIPS"
+    if t == "039":
+        return "CREI"
     return None
 
 def status_web(url):

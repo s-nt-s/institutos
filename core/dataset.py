@@ -299,7 +299,7 @@ class Dataset():
     def centro_ok(self):
         col = set()
         # 036 Aulas hospitalarias no son elegibles por concurso
-        for cod in "016 017 031 035 042 047 070".split():
+        for cod in "016 017 031 035 039 042 047 070".split():
             aux = self.get_centrosid(cdGenerico=cod)
             col = col.union(aux)
         return col

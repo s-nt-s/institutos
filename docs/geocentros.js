@@ -14232,6 +14232,43 @@ var geocentros = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28066065,
+        "dat": "Capital",
+        "nombre": "<span title='Centro regional de ense\u00f1anzas integradas'>CREI</span> Sagrado Corazon de Jesus",
+        "direccion": "Carretera De Colmenar Viejo , Km. 13,500 28049 Madrid",
+        "telefono": 914650640,
+        "mail": "crei.scorazon.madrid@educa.madrid.org",
+        "latlon": "40.528308163087395,-3.690124154090882",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/crei.scorazon.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28066065",
+        "tipo": "039",
+        "status_web": 200,
+        "min_distance": 1923.6754241159877,
+        "etapas": [
+          "ESO (LOE-LOMCE)",
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
+          "ESO para personas adultas (LOE-LOMCE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.690124154090882,
+          40.528308163087395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28067628,
         "dat": "Sur",
         "nombre": "<span title='Instituto de educaci\u00f3n secundaria'>IES</span> Calderon de la Barca",

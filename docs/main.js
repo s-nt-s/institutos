@@ -194,7 +194,10 @@ function make_filter(f, layer) {
     })
     if (c.nocturno.length != ok) return false;
   }
-  if (c.etapas && c.etapas.length && $("#etapas input").not(":checked").length) {
+  if (c.etapas==null || c.etapas.length==0) {
+    if (!$("#etNull").is(":checked")) return false;
+  }
+  else if ($("#etapas input").not("#etNull").not(":checked").length) {
     var ok=0;
     var or_ok=false;
     $("#etapas input:checked").each(function(){

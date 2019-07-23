@@ -110,6 +110,11 @@ lgd = [colors.dificultad, colors.nocturno, colors.default]
 lgd = lgd + [color_to_url(c, None) for c in lgd]
 mail = [c.mail for c in d.centros if c.mail]
 
+notlatlon=[]
+for c in d.centros:
+    if not c.latlon:
+        notlatlon.append((c.id, parse_nombre(c.nombre), c.info))
+
 j2 = Jnj2("template/", "docs/")
 j2.save(
     "index.html",
@@ -120,5 +125,7 @@ j2.save(
     indice=d.indice,
     mails=";".join(mail),
     count=len(d.centros),
-    transporte=d.transporte
+    transporte=d.transporte,
+    notlatlon=notlatlon,
+    sin_etapas=len([c for c in d.centros if not c.etapas])>0
 )

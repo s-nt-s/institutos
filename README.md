@@ -44,16 +44,6 @@ y que (en caso de que este la información disponible) ofrezcan al menos alguna 
 * Educación Especial ESO (Adaptac. LOE)
 * Español para inmigrantes
 * Formación Profesional Básica (LOE-LOMCE)
-* Programas de Transición a la Vida Adulta (Adaptac. LOE)
-
-A excepción de los siguientes que han tenido que ser descartados por no tener cooredandas geográficas:
-
-* [28700362 Equipo General Alcorcon](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700362)
-* [28700404 Equipo General Leganés](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700404)
-* [28700428 Equipo General Navalcarnero](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700428)
-* [28700672 Equipo Atencion Temprana Navalcarnero](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700672)
-* [28700702 E.a.temprana Coslada-san Fernando](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700702)
-* [28700908 Equipo Atencion Temprana Alcorcon](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700908)
 
 # Iconos
 
@@ -68,9 +58,7 @@ bilingüismo, excelencia o innovación tecnológica
 
 # Resultado
 
-El mapa se puede ver aquí:
-* [s-nt-s.github.io/institutos-map](https://s-nt-s.github.io/institutos-map/), o aquí
-* [drive.google.com/open?id=10lr9woDJ97rnLvmRb-5OAY31cYUkjORC](https://drive.google.com/open?id=10lr9woDJ97rnLvmRb-5OAY31cYUkjORC)
+El mapa se puede ver aquí [institutos.ml](https://institutos.ml)
 
 # Contactar con los centros
 

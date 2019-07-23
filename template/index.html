@@ -124,6 +124,17 @@
 										<li>{{etapa}}</li>
 									{% endfor %}
 									</ul>
+
+									{% if notlatlon %}
+									<p>
+										A excepción de los siguientes que han tenido que ser descartados por no tener cooredandas geográficas:
+									</p>
+									<ul>
+										{% for id, nombre, info in notlatlon %}
+											<li><a href="{{info}}">{{id}} {{nombre}}</a></li>
+										{% endfor %}
+									</ul>
+									{% endif %}
 								</div>
 	            </div>
             <div class="sidebar-pane" id="settings">
@@ -157,6 +168,9 @@
 					        {% for text in etapas %}
 										  <input title='{{text}}' id="et{{loop.index}}" type="checkbox" checked="checked"/> <label for="et{{loop.index}}">{{text}}</label><br/>
 									{% endfor %}
+									{% if sin_etapas %}
+											<input title='Centros sin información sobre etapas educativas' id="etNull" type="checkbox" checked="checked"/> <label for="etNull"><em>Centros sin información sobre etapas educativas</em></label><br/>
+									{% endif %}
                 </fieldset>
                 <fieldset id="comunicacion">
                   <legend>Transporte</legend>

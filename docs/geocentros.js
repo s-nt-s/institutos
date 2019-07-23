@@ -16747,7 +16747,7 @@ var geocentros = {
       "properties": {
         "id": 28700180,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Tetuan-fuencarral",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Tetuan-fuencarral",
         "direccion": "Calle De Ribadavia, 20 28029 Madrid",
         "telefono": 917321892,
         "mail": "eoep.tetuan.madrid@educa.madrid.org",
@@ -16780,7 +16780,7 @@ var geocentros = {
       "properties": {
         "id": 28700192,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Moncloa-chamber\u00ed",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Moncloa-chamber\u00ed",
         "direccion": "Calle De Guzm\u00e1n El Bueno, 92 28003 Madrid",
         "telefono": 915338835,
         "mail": "eoep.moncloa.madrid@educa.madrid.org",
@@ -16813,7 +16813,7 @@ var geocentros = {
       "properties": {
         "id": 28700209,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Centro-arganzuela",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Centro-arganzuela",
         "direccion": "Calle De Fortuny, 24 28010 Madrid",
         "telefono": 913914321,
         "mail": "eoep.arganzuela.madrid@educa.madrid.org",
@@ -16846,7 +16846,7 @@ var geocentros = {
       "properties": {
         "id": 28700210,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Latina",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Latina",
         "direccion": "Calle De Tembleque, 58 28024 Madrid",
         "telefono": 917172806,
         "mail": "eoep.latina.madrid@educa.madrid.org",
@@ -16879,7 +16879,7 @@ var geocentros = {
       "properties": {
         "id": 28700222,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Carabanchel",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Carabanchel",
         "direccion": "Avenida De Nuestra Se\u00f1ora De Valvanera, 120 28047 Madrid",
         "telefono": 914617089,
         "mail": "eoep.carabanchel.madrid@educa.madrid.org",
@@ -16912,7 +16912,7 @@ var geocentros = {
       "properties": {
         "id": 28700234,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Villaverde-usera",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Villaverde-usera",
         "direccion": "Calle De Fernando Ortiz, S/n 28041 Madrid",
         "telefono": 913173334,
         "mail": "eoep.villaverde.madrid@educa.madrid.org",
@@ -16945,7 +16945,7 @@ var geocentros = {
       "properties": {
         "id": 28700246,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Puente Vallecas",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Puente Vallecas",
         "direccion": "Plaza De Sierra Ministra, 3 28053 Madrid",
         "telefono": 914772358,
         "mail": "eoep.puentevallecas.madrid@educa.madrid.org",
@@ -16978,7 +16978,7 @@ var geocentros = {
       "properties": {
         "id": 28700258,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo Gral. Moratalaz-villa de Vallecas",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Moratalaz-villa de Vallecas",
         "direccion": "Calle De Pico De Los Artilleros, 123 28030 Madrid",
         "telefono": 917732533,
         "mail": "eoep.moratalaz.madrid@educa.madrid.org",
@@ -17011,7 +17011,7 @@ var geocentros = {
       "properties": {
         "id": 28700261,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo Gral. San Blas-vicalvaro-c.lineal",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> San Blas-vicalvaro-c.lineal",
         "direccion": "Avenida Canillejas A Vicalvaro, 82 28022 Madrid",
         "telefono": 913069365,
         "mail": "eoep.sanblas.madrid@educa.madrid.org",
@@ -17044,7 +17044,7 @@ var geocentros = {
       "properties": {
         "id": 28700283,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Hortaleza-barajas",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Hortaleza-barajas",
         "direccion": "Carretera De Canillas, 51 28043 Madrid",
         "telefono": 917592462,
         "mail": "eoep.hortaleza.madrid@educa.madrid.org",
@@ -17077,7 +17077,7 @@ var geocentros = {
       "properties": {
         "id": 28700295,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo Gral. Retiro-salamanca-chamartin",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Retiro-salamanca-chamartin",
         "direccion": "Calle De P\u00edo Baroja, 4 28009 Madrid",
         "telefono": 915733932,
         "mail": "eoep.retiro.madrid@educa.madrid.org",
@@ -17110,7 +17110,7 @@ var geocentros = {
       "properties": {
         "id": 28700313,
         "dat": "Este",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Alcala de Henares",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Alcala de Henares",
         "direccion": "Calle Entrepe\u00f1as, 2 28802 Alcal\u00e1 de Henares",
         "telefono": 918814145,
         "mail": "eoep.alcala@educa.madrid.org",
@@ -17143,7 +17143,7 @@ var geocentros = {
       "properties": {
         "id": 28700325,
         "dat": "Este",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Rivas-arganda",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Rivas-arganda",
         "direccion": "Calle De Los Picos De Urbi\u00f3n, S/n 28522 Rivas-Vaciamadrid",
         "telefono": 914990324,
         "mail": "eoep.arganda@educa.madrid.org",
@@ -17176,7 +17176,7 @@ var geocentros = {
       "properties": {
         "id": 28700337,
         "dat": "Este",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Coslada",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Coslada",
         "direccion": "Calle De La Virgen De La Cabeza, 2 28821 Coslada",
         "telefono": 916733312,
         "mail": "eoep.coslada@educa.madrid.org",
@@ -17209,7 +17209,7 @@ var geocentros = {
       "properties": {
         "id": 28700350,
         "dat": "Este",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General de Torrej\u00f3n de Ardoz",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> de Torrej\u00f3n de Ardoz",
         "direccion": "Avenida Constituci\u00f3n, 9 28850 Torrej\u00f3n de Ardoz",
         "telefono": 916565381,
         "mail": "eoep.torrejondeardoz@educa.madrid.org",
@@ -17242,7 +17242,7 @@ var geocentros = {
       "properties": {
         "id": 28700374,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Aranjuez",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Aranjuez",
         "direccion": "Calle De Postas, 86 28300 Aranjuez",
         "telefono": 918915537,
         "mail": "eoep.aranjuez@educa.madrid.org",
@@ -17275,7 +17275,7 @@ var geocentros = {
       "properties": {
         "id": 28700386,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Fuenlabrada",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Fuenlabrada",
         "direccion": "Calle Logro\u00f1o, 2 28941 Fuenlabrada",
         "telefono": 916063733,
         "mail": "eoep.fuenlabrada@educa.madrid.org",
@@ -17308,7 +17308,7 @@ var geocentros = {
       "properties": {
         "id": 28700398,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Getafe",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Getafe",
         "direccion": "Calle Montserrat Caball\u00e9, 2 28903 Getafe",
         "telefono": 916832149,
         "mail": "eoep.getafe@educa.madrid.org",
@@ -17341,7 +17341,7 @@ var geocentros = {
       "properties": {
         "id": 28700416,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Mostoles",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Mostoles",
         "direccion": "Calle Par\u00eds, 9 28938 M\u00f3stoles",
         "telefono": 916183200,
         "mail": "eoep.mostoles@educa.madrid.org",
@@ -17374,7 +17374,7 @@ var geocentros = {
       "properties": {
         "id": 28700431,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Parla",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Parla",
         "direccion": "Calle Pintor Rosales, 1-b 28982 Parla",
         "telefono": 916980604,
         "mail": "eoep.parla@educa.madrid.org",
@@ -17407,7 +17407,7 @@ var geocentros = {
       "properties": {
         "id": 28700441,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General S.mart\u00edn de Valdeiglesias",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> S.mart\u00edn de Valdeiglesias",
         "direccion": "Calle De La Fuente, 4 28680 San Mart\u00edn de Valdeiglesias",
         "telefono": 918612329,
         "mail": "eoep.sanmartindevaldeiglesias@educa.madrid.org",
@@ -17440,7 +17440,7 @@ var geocentros = {
       "properties": {
         "id": 28700453,
         "dat": "Oeste",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Collado Villalba",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Collado Villalba",
         "direccion": "Calle Isla De S\u00e1lvora, 155 28400 Collado Villalba",
         "telefono": 918492789,
         "mail": "eoep.colladovillalba@educa.madrid.org",
@@ -17473,7 +17473,7 @@ var geocentros = {
       "properties": {
         "id": 28700465,
         "dat": "Oeste",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Pozuelo de Alarc\u00f3n",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Pozuelo de Alarc\u00f3n",
         "direccion": "Avenida Monte, 2 28223 Pozuelo de Alarc\u00f3n",
         "telefono": 913515364,
         "mail": "eoep.pozuelodealarcon@educa.madrid.org",
@@ -17506,7 +17506,7 @@ var geocentros = {
       "properties": {
         "id": 28700477,
         "dat": "Oeste",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Valdemorillo-el Escorial",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Valdemorillo-el Escorial",
         "direccion": "Camino M\u00f3stoles, 1 28691 Villanueva de la Ca\u00f1ada",
         "telefono": 918157488,
         "mail": "eoep.villanuevadelacanada@educa.madrid.org",
@@ -17539,7 +17539,7 @@ var geocentros = {
       "properties": {
         "id": 28700489,
         "dat": "Norte",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Alcobendas",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Alcobendas",
         "direccion": "Calle Del Fuego, 73 28100 Alcobendas",
         "telefono": 916616555,
         "mail": "eoep.alcobendas@educa.madrid.org",
@@ -17572,7 +17572,7 @@ var geocentros = {
       "properties": {
         "id": 28700490,
         "dat": "Norte",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Colmenar Viejo",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Colmenar Viejo",
         "direccion": "Calle De Carlos Arag\u00f3n Cancela, 5 28770 Colmenar Viejo",
         "telefono": 918457789,
         "mail": "eoep.colmenarviejo@educa.madrid.org",
@@ -17605,7 +17605,7 @@ var geocentros = {
       "properties": {
         "id": 28700507,
         "dat": "Norte",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General la Cabrera",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> la Cabrera",
         "direccion": "Calle De Carlos Ruiz, 2 28751 Cabrera, La",
         "telefono": 918688403,
         "mail": "eoep.lacabrera@educa.madrid.org",
@@ -17638,7 +17638,7 @@ var geocentros = {
       "properties": {
         "id": 28700520,
         "dat": "Este",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Villarejo de Salvan\u00e9s",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Villarejo de Salvan\u00e9s",
         "direccion": "Calle De San Jos\u00e9, 2 28590 Villarejo de Salvan\u00e9s",
         "telefono": 918745196,
         "mail": "eoep.villarejo@educa.madrid.org",
@@ -17671,7 +17671,7 @@ var geocentros = {
       "properties": {
         "id": 28700532,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Hortaleza",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Hortaleza",
         "direccion": "Calle Del Mar Caspio, 6 28033 Madrid",
         "telefono": 913817347,
         "mail": "eoep.at.hortaleza@educa.madrid.org",
@@ -17704,7 +17704,7 @@ var geocentros = {
       "properties": {
         "id": 28700544,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> E. a. Temprana Latina-carabanchel-centro",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Latina-carabanchel-centro",
         "direccion": "Calle De Tembleque, 58 28024 Madrid",
         "telefono": 910692826,
         "mail": "eoep.at.latina@educa.madrid.org",
@@ -17737,7 +17737,7 @@ var geocentros = {
       "properties": {
         "id": 28700556,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Puente Vallecas",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Puente Vallecas",
         "direccion": "Calle De Luis Mar\u00edn, 1 28038 Madrid",
         "telefono": 913039979,
         "mail": "eoep.at.puentevallecas@educa.madrid.org",
@@ -17770,7 +17770,7 @@ var geocentros = {
       "properties": {
         "id": 28700568,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana San Blas",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana San Blas",
         "direccion": "Avenida Canillejas A Vicalvaro, 82 28022 Madrid",
         "telefono": 913066418,
         "mail": "eoep.at.sanblas@educa.madrid.org",
@@ -17803,7 +17803,7 @@ var geocentros = {
       "properties": {
         "id": 28700571,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Tetuan",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Tetuan",
         "direccion": "Calle De Las Magnolias, 82 28029 Madrid",
         "telefono": 913232231,
         "mail": "eoep.at.tetuan@educa.madrid.org",
@@ -17836,7 +17836,7 @@ var geocentros = {
       "properties": {
         "id": 28700581,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> E. a. Temprana Moratalaz-villa Vallecas",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Moratalaz-villa Vallecas",
         "direccion": "Calle Del Pico De Los Artilleros, 123 28030 Madrid",
         "telefono": 917513136,
         "mail": "eoep.at.villavallecas@educa.madrid.org",
@@ -17869,7 +17869,7 @@ var geocentros = {
       "properties": {
         "id": 28700593,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Villaverde",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Villaverde",
         "direccion": "Calle Del Consenso, 10 28041 Madrid",
         "telefono": 913176966,
         "mail": "eoep.at.villaverde@educa.madrid.org",
@@ -17902,7 +17902,7 @@ var geocentros = {
       "properties": {
         "id": 28700601,
         "dat": "Norte",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Eq. Aten. Temprana Alcobendas-s.s. Reyes",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Alcobendas-s.s. Reyes",
         "direccion": "Avenida De Rosa Luxemburgo, S/n 28700 San Sebasti\u00e1n de los Reyes",
         "telefono": 916541814,
         "mail": "eoep.at.sansebastian@educa.madrid.org",
@@ -17935,7 +17935,7 @@ var geocentros = {
       "properties": {
         "id": 28700611,
         "dat": "Norte",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Eq. Aten.temprana la Cabrera-lozoyuela",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana la Cabrera-lozoyuela",
         "direccion": "Calle De Carlos Ruiz, 8 28751 Cabrera, La",
         "telefono": 918688470,
         "mail": "eoep.at.lacabrera@educa.madrid.org",
@@ -17968,7 +17968,7 @@ var geocentros = {
       "properties": {
         "id": 28700623,
         "dat": "Norte",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Eq. At.temp. Colmenar Viejo-tres Cantos",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Colmenar Viejo-tres Cantos",
         "direccion": "Calle Del Viento, 4 28760 Tres Cantos",
         "telefono": 912938199,
         "mail": "eoep.at.colmenarviejo@educa.madrid.org",
@@ -18001,7 +18001,7 @@ var geocentros = {
       "properties": {
         "id": 28700635,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Fuenlabrada",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Fuenlabrada",
         "direccion": "Calle Logro\u00f1o, 2 28941 Fuenlabrada",
         "telefono": 916065751,
         "mail": "eoep.at.fuenlabrada@educa.madrid.org",
@@ -18034,7 +18034,7 @@ var geocentros = {
       "properties": {
         "id": 28700647,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Getafe",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Getafe",
         "direccion": "Calle Montserrat Caball\u00e9, 2 28903 Getafe",
         "telefono": 916832147,
         "mail": "eoep.at.getafe@educa.madrid.org",
@@ -18067,7 +18067,7 @@ var geocentros = {
       "properties": {
         "id": 28700659,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Leganes",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Leganes",
         "direccion": "Avenida De La Mancha, 2 28915 Legan\u00e9s",
         "telefono": 916802436,
         "mail": "eoep.at.leganes@educa.madrid.org",
@@ -18100,7 +18100,7 @@ var geocentros = {
       "properties": {
         "id": 28700660,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Mostoles",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Mostoles",
         "direccion": "Calle Par\u00eds, 9 28938 M\u00f3stoles",
         "telefono": 916480067,
         "mail": "eoep.at.mostoles@educa.madrid.org",
@@ -18133,7 +18133,7 @@ var geocentros = {
       "properties": {
         "id": 28700684,
         "dat": "Este",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Alcala de Henares",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Alcala de Henares",
         "direccion": "Calle Entrepe\u00f1as, 2 28802 Alcal\u00e1 de Henares",
         "telefono": 918836280,
         "mail": "eoep.at.alcala@educa.madrid.org",
@@ -18166,7 +18166,7 @@ var geocentros = {
       "properties": {
         "id": 28700696,
         "dat": "Este",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Arganda del Rey",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Arganda del Rey",
         "direccion": "Avenida De La Azucarera, 2 28500 Arganda del Rey",
         "telefono": 918353921,
         "mail": "eoep.at.arganda@educa.madrid.org",
@@ -18199,7 +18199,7 @@ var geocentros = {
       "properties": {
         "id": 28700714,
         "dat": "Oeste",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Torrelodones",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Torrelodones",
         "direccion": "Carretera De Torrelodones, 35 28250 Torrelodones",
         "telefono": 918592894,
         "mail": "eoep.at.torrelodones@educa.madrid.org",
@@ -18232,7 +18232,7 @@ var geocentros = {
       "properties": {
         "id": 28700726,
         "dat": "Oeste",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo At. Temp. Villanueva de la Ca\u00f1ada",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Villanueva de la Ca\u00f1ada",
         "direccion": "Camino M\u00f3stoles, 1 28691 Villanueva de la Ca\u00f1ada",
         "telefono": 918155276,
         "mail": "eoep.at.villanuevadelacanada@educa.madrid.org",
@@ -18331,7 +18331,7 @@ var geocentros = {
       "properties": {
         "id": 28700751,
         "dat": "Capital",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Espec\u00edfica'>EOEP</span> E.e. Alteraciones Graves Desarrollo",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Espec\u00edfica'>EOEP</span> Especifico Alteraciones Graves Desarrollo",
         "direccion": "Avenida De Canillejas A Vic\u00e1lvaro, 82 28022 Madrid",
         "telefono": 915547737,
         "mail": "eoep.alteracionesdesarrollo.madrid@educa.madrid.org",
@@ -18397,7 +18397,7 @@ var geocentros = {
       "properties": {
         "id": 28700787,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Parla",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Parla",
         "direccion": "Calle Pintor Rosales, S/n 28982 Parla",
         "telefono": 916052082,
         "mail": "eoep.at.parla@educa.madrid.org",
@@ -18430,7 +18430,7 @@ var geocentros = {
       "properties": {
         "id": 28700911,
         "dat": "Oeste",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Pozuelo de Alarcon",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Pozuelo de Alarcon",
         "direccion": "Avenida Del Monte, 2 28223 Pozuelo de Alarc\u00f3n",
         "telefono": 917992735,
         "mail": "eoep.at.pozuelodealarcon@educa.madrid.org",
@@ -18463,7 +18463,7 @@ var geocentros = {
       "properties": {
         "id": 28700921,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Aranjuez",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana Aranjuez",
         "direccion": "Calle Del Hospital, 3 28300 Aranjuez",
         "telefono": 918754257,
         "mail": "eoep.at.aranjuez@educa.madrid.org",
@@ -18496,7 +18496,7 @@ var geocentros = {
       "properties": {
         "id": 28700994,
         "dat": "Oeste",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General de las Rozas",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> de las Rozas",
         "direccion": "Camino Perales, S/n 28232 Rozas de Madrid, Las",
         "telefono": 916403970,
         "mail": "eoep.lasrozas@educa.madrid.org",
@@ -18529,7 +18529,7 @@ var geocentros = {
       "properties": {
         "id": 28701007,
         "dat": "Oeste",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General de Guadarrama",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> de Guadarrama",
         "direccion": "Calle Gustavo Adolfo B\u00e9cquer, 1 28440 Guadarrama",
         "telefono": 918542279,
         "mail": "eoep.guadarrama@educa.madrid.org",
@@ -18562,7 +18562,7 @@ var geocentros = {
       "properties": {
         "id": 28701019,
         "dat": "Sur",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Eoep de At.tna S.mart\u00edn Valdeiglesias",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Atencion Temprana S.mart\u00edn Valdeiglesias",
         "direccion": "Calle De La Fuente, 4 28680 San Mart\u00edn de Valdeiglesias",
         "telefono": 918610839,
         "mail": "eoep.at.sanmartindevaldeiglesias@educa.madrid.org",
@@ -18595,7 +18595,7 @@ var geocentros = {
       "properties": {
         "id": 28701044,
         "dat": "Norte",
-        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General s. Sebastian de los Reyes",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> s. Sebastian de los Reyes",
         "direccion": "Avenida De Ram\u00f3n Y Cajal, 5 28703 San Sebasti\u00e1n de los Reyes",
         "telefono": 916636481,
         "mail": "eoep.sansebastian@educa.madrid.org",

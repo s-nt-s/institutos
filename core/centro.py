@@ -22,8 +22,10 @@ re_title = re.compile("<title[^>]*>(.*?)</title>", re.IGNORECASE | re.DOTALL)
 htmlp = HTMLParser()
 
 def get_abr(t):
-    if t in ("016", "017", "068"):
+    if t in ("016", "017"):
         return "CI"
+    if t == "068":
+        return "CIFP"
     if t == "031":
         return "CEPA"
     if t == "035":

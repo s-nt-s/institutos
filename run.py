@@ -118,7 +118,7 @@ for c in d.centros:
 j2 = Jnj2("template/", "docs/")
 j2.save(
     "index.html",
-    tipos=ok_tipos,
+    tipos=sorted(ok_tipos.items(), key=lambda x: (x[1], x[0])),
     etapas=sorted(ok_etapas),
     nocturnos=sorted(nocturnos),
     lgd=lgd,

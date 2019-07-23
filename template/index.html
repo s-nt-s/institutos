@@ -113,7 +113,7 @@
 										aquellos que son de alguno de los siguientes tipos:
 									</p>
 									<ul>
-					        {% for key, text in tipos.items() %}
+					        {% for key, text in tipos %}
 										<li>{{text}}</li>
 									{% endfor %}
 									</ul>
@@ -153,7 +153,7 @@
                 </p-->
                 <fieldset id="tipos">
                   <legend>Tipos</legend>
-					        {% for key, text in tipos.items() %}
+					        {% for key, text in tipos %}
 										<input title="{{text}}" id="t{{key}}" type="checkbox" checked="checked"/> <label for="t{{key}}">{{text}}</label><br/>
 									{% endfor %}
                 </fieldset>

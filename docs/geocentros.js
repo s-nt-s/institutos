@@ -15148,7 +15148,7 @@ var geocentros = {
       "properties": {
         "id": 28069431,
         "dat": "Sur",
-        "nombre": "<span title='Centro integrado de formaci\u00f3n profesional'>CI</span> Escuela de Hosteleria y Turismo Simone Ortega",
+        "nombre": "<span title='Centro integrado de formaci\u00f3n profesional'>CIFP</span> Escuela de Hosteleria y Turismo Simone Ortega",
         "direccion": "Calle Del Pintor Vel\u00e1zquez, 64 28935 M\u00f3stoles",
         "telefono": 916183177,
         "mail": "cifp.simoneortega.mostoles@educa.madrid.org",

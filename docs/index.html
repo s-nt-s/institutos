@@ -31,6 +31,7 @@
     <script src="main.js" defer="defer"></script>
 		<!-- Matomo -->
 		<script type="text/javascript">
+		if (document.location.hostname=="institutos.ml") {
 		  var _paq = window._paq || [];
 		  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
 		  _paq.push(['trackPageView']);
@@ -42,6 +43,7 @@
 		    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
 		    g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.matomo.cloud/institutosml.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
 		  })();
+		}
 		</script>
 		<!-- End Matomo Code -->
 	</head>

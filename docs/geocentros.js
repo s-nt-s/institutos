@@ -21,7 +21,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000029",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 9323.391568135932,
+        "min_distance": 9290.310366614081,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -133,7 +133,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000522",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 430.80845425648175,
+        "min_distance": 406.69439262484275,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -395,7 +395,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001848",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 3779.681365868176,
+        "min_distance": 124.26017039123157,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -1232,7 +1232,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018368",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 216.57893445543706,
+        "min_distance": 195.43398548601735,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -1343,7 +1343,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018460",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 631.6850648666439,
+        "min_distance": 621.6868584349173,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -1640,7 +1640,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020119",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 526.7663546903696,
+        "min_distance": 519.5523590082307,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -1821,7 +1821,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020570",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 267.0907736526581,
+        "min_distance": 261.3166934287436,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
@@ -1857,7 +1857,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020582",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 472.22730203142703,
+        "min_distance": 461.2352182396704,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -2042,7 +2042,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020727",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 204.45270727509953,
+        "min_distance": 149.1755004554626,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -2568,7 +2568,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021161",
         "tipo": "020",
         "status_web": 200,
-        "min_distance": 595.3448863946106,
+        "min_distance": 559.4212132031108,
         "etapas": [
           "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
           "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
@@ -2891,7 +2891,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023194",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 677.8572263250678,
+        "min_distance": 662.3250758553046,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -3033,7 +3033,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28023741",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 913.6558574745914,
+        "min_distance": 324.2018804896577,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -3107,7 +3107,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28024290",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 317.696689868483,
+        "min_distance": 314.3146661014755,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -3258,7 +3258,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025129",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 28421.524958730864,
+        "min_distance": 28386.02183080529,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -3365,7 +3365,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025828",
         "tipo": "042",
         "status_web": 404,
-        "min_distance": 355.1552562158394,
+        "min_distance": 349.332996777458,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -3476,7 +3476,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028076",
         "tipo": "020",
         "status_web": 200,
-        "min_distance": 1080.3163913658275,
+        "min_distance": 1079.5524759718728,
         "etapas": [
           "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
           "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
@@ -3512,7 +3512,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028301",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1270.7905862939524,
+        "min_distance": 1245.1343944130222,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -3548,7 +3548,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028350",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 299.279369391325,
+        "min_distance": 299.01496841270904,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -3623,7 +3623,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028404",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 621.3417069660919,
+        "min_distance": 601.9525172535779,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -3770,7 +3770,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028465",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 344.1924465327732,
+        "min_distance": 300.9072711758786,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -3842,7 +3842,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028568",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 344.5847518786235,
+        "min_distance": 342.3071272918274,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -3878,7 +3878,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028571",
         "tipo": "042",
         "status_web": 404,
-        "min_distance": 554.0630655627801,
+        "min_distance": 546.1709417574809,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -4032,7 +4032,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28029241",
         "tipo": "020",
         "status_web": 200,
-        "min_distance": 691.506225880564,
+        "min_distance": 675.6315130097892,
         "etapas": [
           "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
           "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
@@ -4178,7 +4178,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030125",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 409.1662177481777,
+        "min_distance": 380.2489642752808,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
@@ -4216,7 +4216,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030137",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 106.55810177923897,
+        "min_distance": 71.16126310321806,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -4288,7 +4288,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030150",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 90.11475835920587,
+        "min_distance": 85.04153419592518,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -4360,7 +4360,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030174",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 705.8166447431189,
+        "min_distance": 695.9356084466071,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -4432,7 +4432,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030204",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 833.3984172431296,
+        "min_distance": 783.340049528347,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
@@ -4469,7 +4469,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030216",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 1353.6492159992185,
+        "min_distance": 317.4567867417598,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -4689,7 +4689,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030927",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 339.02948536893797,
+        "min_distance": 335.008370415839,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -5049,7 +5049,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032501",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 1960.84004427564,
+        "min_distance": 1959.89597604777,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -5088,7 +5088,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032559",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 1657.4723813554394,
+        "min_distance": 620.930447336774,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -5162,7 +5162,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033321",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 368.5590921721772,
+        "min_distance": 357.06847025245173,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
@@ -5273,7 +5273,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033539",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 330.85951395080065,
+        "min_distance": 311.0813899972161,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -5345,7 +5345,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033564",
         "tipo": "020",
         "status_web": 200,
-        "min_distance": 1593.2423235296742,
+        "min_distance": 559.9568954249909,
         "etapas": [
           "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
           "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
@@ -5598,7 +5598,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035342",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1907.9998138223316,
+        "min_distance": 1873.2089744054765,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -5888,7 +5888,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036991",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 2383.6159810857557,
+        "min_distance": 2327.6175787762218,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -5997,7 +5997,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037028",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 372.44803232868924,
+        "min_distance": 335.2458503029495,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -6034,7 +6034,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037031",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 408.6791695478786,
+        "min_distance": 396.311909592506,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -6142,7 +6142,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037065",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 302.09246900302514,
+        "min_distance": 299.90815636619794,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -6215,7 +6215,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037089",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1926.9893618354245,
+        "min_distance": 1906.4111881284107,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -6324,7 +6324,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037818",
         "tipo": "020",
         "status_web": 200,
-        "min_distance": 122.23764320952321,
+        "min_distance": 107.95856065575606,
         "etapas": [
           "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
           "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
@@ -6360,7 +6360,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037892",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 478.34470213196437,
+        "min_distance": 472.9693899556855,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
@@ -6397,7 +6397,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038070",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 508.15797563641405,
+        "min_distance": 502.7204389498144,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -6539,7 +6539,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038306",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1038.9387291229507,
+        "min_distance": 1019.7242197296714,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -6575,7 +6575,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038355",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 103.6264066179083,
+        "min_distance": 103.39422333538306,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -6611,7 +6611,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038367",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 515.6641508241521,
+        "min_distance": 500.37130675186194,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -6681,7 +6681,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038422",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 783.0003157286119,
+        "min_distance": 761.8237330904009,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -6716,7 +6716,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038446",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 664.7547832122473,
+        "min_distance": 664.5097292712328,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -6826,7 +6826,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038641",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 1637.0563919247948,
+        "min_distance": 1628.8255428895623,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
@@ -7044,7 +7044,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038847",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 584.2692382225181,
+        "min_distance": 578.9217323847097,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -7153,7 +7153,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038872",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 550.0064026617273,
+        "min_distance": 547.7174798273577,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -7261,7 +7261,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038902",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 583.0434511073144,
+        "min_distance": 203.17141656297983,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -7298,7 +7298,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038914",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1868.6635283919225,
+        "min_distance": 1396.0578457568724,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -7443,7 +7443,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039128",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1083.3573260668875,
+        "min_distance": 1071.804731191518,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -7918,7 +7918,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039864",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 944.8370228078484,
+        "min_distance": 925.9776945568398,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -7955,7 +7955,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039876",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 406.03924991940295,
+        "min_distance": 262.4663408809047,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -7991,7 +7991,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039888",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 272.08509234262726,
+        "min_distance": 255.08880021068663,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -8064,7 +8064,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039943",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 1321.8407910989945,
+        "min_distance": 1312.1563736993835,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -8100,7 +8100,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039992",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 151.03019540556073,
+        "min_distance": 130.7034310928468,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -8136,7 +8136,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040003",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 177.2390669838134,
+        "min_distance": 145.78316889386733,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -8243,7 +8243,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040660",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 722.9557718940263,
+        "min_distance": 711.1454953480202,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -8316,7 +8316,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040684",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 16826.903783061243,
+        "min_distance": 16813.80068721611,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -8424,7 +8424,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040714",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 4564.7397707449345,
+        "min_distance": 4549.072007038953,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -8461,7 +8461,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040738",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1109.0880601116162,
+        "min_distance": 1090.9664210489593,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -8533,7 +8533,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040751",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 571.7917395029965,
+        "min_distance": 562.1859553941002,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -8569,7 +8569,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040775",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 2239.140541730542,
+        "min_distance": 790.6431587892178,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -8678,7 +8678,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040994",
         "tipo": "020",
         "status_web": 200,
-        "min_distance": 1870.2739491245122,
+        "min_distance": 1849.375229385583,
         "etapas": [
           "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
           "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
@@ -8788,7 +8788,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041378",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 3991.748498652173,
+        "min_distance": 168.26407050130692,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -8824,7 +8824,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041381",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 28341.602370113014,
+        "min_distance": 28327.22331204611,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -8934,7 +8934,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041433",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 288.91373246994175,
+        "min_distance": 282.9646558826152,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -9042,7 +9042,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041482",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 528.6897892897458,
+        "min_distance": 511.58554805733746,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -9078,7 +9078,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041494",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 555.8233583970011,
+        "min_distance": 485.0687231219257,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -9513,7 +9513,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042073",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 2129.3748063361686,
+        "min_distance": 2122.460852584175,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -9549,7 +9549,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042085",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 938.7483821990626,
+        "min_distance": 923.345428586767,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -9949,7 +9949,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042671",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1072.5268867097607,
+        "min_distance": 1021.9029733949809,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -10209,7 +10209,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042954",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 590.7955986459591,
+        "min_distance": 576.3872951792656,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
@@ -10247,7 +10247,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042981",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1377.9304808748461,
+        "min_distance": 1345.6181336803904,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -10393,7 +10393,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043235",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 306.62771100989886,
+        "min_distance": 297.5728806582582,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
@@ -10430,7 +10430,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043259",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 532.8708641295746,
+        "min_distance": 487.27511619630945,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
@@ -10649,7 +10649,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044549",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 5029.62098846973,
+        "min_distance": 4915.689375034715,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)"
@@ -10685,7 +10685,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044562",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 9249.251207216297,
+        "min_distance": 9237.195245514044,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
@@ -10831,7 +10831,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044720",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 822.4802689963384,
+        "min_distance": 669.2030537365389,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -10867,7 +10867,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044744",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1033.9754926897122,
+        "min_distance": 1008.3335200924271,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -10903,7 +10903,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044756",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1250.7241662136303,
+        "min_distance": 1157.8737348407767,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -10940,7 +10940,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044768",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 7232.619720089609,
+        "min_distance": 7224.3900161489555,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -10977,7 +10977,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044896",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 28474.463988845557,
+        "min_distance": 28438.840593808185,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
@@ -11163,7 +11163,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045050",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1064.6518901514532,
+        "min_distance": 1050.4940890646121,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -11423,7 +11423,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045347",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 344.08748665047375,
+        "min_distance": 320.61212055638674,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
@@ -11645,7 +11645,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045426",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 606.2725256055794,
+        "min_distance": 402.38101135747036,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
@@ -11978,7 +11978,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045669",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 6564.469197196761,
+        "min_distance": 6556.791338557616,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)"
@@ -12014,7 +12014,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045773",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 9671.695671546411,
+        "min_distance": 9659.613366856502,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -12122,7 +12122,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045839",
         "tipo": "042",
         "status_web": 991,
-        "min_distance": 8851.48570957296,
+        "min_distance": 8849.34667373191,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -12266,7 +12266,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046251",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 7404.119316603868,
+        "min_distance": 7390.180552903621,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -12373,7 +12373,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046285",
         "tipo": "047",
         "status_web": 200,
-        "min_distance": 19160.399926730577,
+        "min_distance": 19147.8402835469,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -12443,7 +12443,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046303",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 11507.58332250576,
+        "min_distance": 9303.373688848496,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -12700,7 +12700,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046522",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1729.9342673151693,
+        "min_distance": 1723.1517464888482,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -12810,7 +12810,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048476",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 215.92163152437826,
+        "min_distance": 204.16307623297573,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -12882,7 +12882,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050537",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 13648.242589087848,
+        "min_distance": 8348.578208681562,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -13170,7 +13170,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056424",
         "tipo": "035",
         "status_web": 999,
-        "min_distance": 2715.1184986953363,
+        "min_distance": 2707.2972027885016,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)"
@@ -13278,7 +13278,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056451",
         "tipo": "035",
         "status_web": 999,
-        "min_distance": 11521.174399994416,
+        "min_distance": 11516.367226711056,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)"
@@ -13314,7 +13314,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057076",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 2567.3368883047788,
+        "min_distance": 2545.748240306757,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -13349,7 +13349,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057088",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 12684.654236180626,
+        "min_distance": 8890.408853229297,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -13384,7 +13384,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057180",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 831.1771157036698,
+        "min_distance": 575.1243056029114,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -13420,7 +13420,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057209",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 4818.2142153641735,
+        "min_distance": 4805.588969664259,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -13492,7 +13492,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057222",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 5427.180530914002,
+        "min_distance": 5308.43350965151,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -13564,7 +13564,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057660",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 1950.797532470038,
+        "min_distance": 1888.8799472148557,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
@@ -13601,7 +13601,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057672",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 2281.515789860651,
+        "min_distance": 2272.8406224200576,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
@@ -13638,7 +13638,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057684",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 266.6806779367532,
+        "min_distance": 263.47454375049404,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
           "Desarrollo Personal",
@@ -13856,7 +13856,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058627",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1095.342831793527,
+        "min_distance": 1080.040048319276,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -13929,7 +13929,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058640",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 5008.030308634107,
+        "min_distance": 456.69135836676753,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -13966,7 +13966,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058652",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 2759.3527325002865,
+        "min_distance": 2750.595759406618,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -14074,7 +14074,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058688",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 6058.455216997934,
+        "min_distance": 5009.817773716041,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -14182,7 +14182,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059371",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 12659.209796985768,
+        "min_distance": 9832.845713020459,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
@@ -14256,7 +14256,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28059395",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 1077.3088417693268,
+        "min_distance": 1055.8056626528157,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
@@ -14399,7 +14399,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060373",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1845.0639723958109,
+        "min_distance": 1833.466576134952,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -14435,7 +14435,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060385",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 9244.718758611389,
+        "min_distance": 9208.354987544088,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -14580,7 +14580,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060971",
         "tipo": "031",
         "status_web": 200,
-        "min_distance": 556.5528455033066,
+        "min_distance": 544.8704335554853,
         "etapas": [
           "Desarrollo Personal",
           "ESO para personas adultas (LOE-LOMCE)",
@@ -14760,7 +14760,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28063799",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 137.36747766751438,
+        "min_distance": 128.49568096588888,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -14795,7 +14795,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064007",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1586.850785776636,
+        "min_distance": 1574.5828307613488,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -14831,7 +14831,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064044",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 16666.683953965025,
+        "min_distance": 16660.667718210632,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -14936,7 +14936,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065644",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 592.4232012070771,
+        "min_distance": 580.6003545956784,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -15006,7 +15006,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28065841",
         "tipo": "047",
         "status_web": 200,
-        "min_distance": 7203.89520113645,
+        "min_distance": 7198.289120816002,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -15185,7 +15185,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069431",
         "tipo": "068",
         "status_web": 999,
-        "min_distance": 741.1545783113874,
+        "min_distance": 725.6941718594561,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -15256,7 +15256,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069844",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 157.80630839623964,
+        "min_distance": 146.9118621482775,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -15398,7 +15398,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070974",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 2015.0483150216196,
+        "min_distance": 65.18823012762057,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -15579,7 +15579,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073872",
         "tipo": "070",
         "status_web": 200,
-        "min_distance": 21279.890829713837,
+        "min_distance": 21254.76803787576,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -15762,7 +15762,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074244",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 275.0357184480845,
+        "min_distance": 262.55110306527337,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -15838,7 +15838,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074670",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 957.2699886506117,
+        "min_distance": 904.089694445766,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -15874,7 +15874,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074852",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 1118.3386694260234,
+        "min_distance": 1068.475154741505,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -16161,7 +16161,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076381",
         "tipo": "047",
         "status_web": 200,
-        "min_distance": 8983.6102318304,
+        "min_distance": 8949.412679264806,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -16232,7 +16232,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077491",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 2042.5502675803502,
+        "min_distance": 2042.3352608701991,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -16373,7 +16373,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077971",
         "tipo": "042",
         "status_web": 200,
-        "min_distance": 558.1227448464633,
+        "min_distance": 551.930472591467,
         "etapas": [
           "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
         ],
@@ -16408,7 +16408,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078031",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 6541.628365335974,
+        "min_distance": 834.6693188965182,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato"
@@ -16444,7 +16444,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078043",
         "tipo": "047",
         "status_web": 999,
-        "min_distance": 854.8561743039214,
+        "min_distance": 839.0109273878969,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -16479,7 +16479,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078547",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 1384.4544714656324,
+        "min_distance": 1383.937657699231,
         "etapas": [
           "ESO (LOE-LOMCE)"
         ],
@@ -16828,7 +16828,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700209",
         "tipo": "206",
         "status_web": 200,
-        "min_distance": 106.55810177923897,
+        "min_distance": 71.16126310321806,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -17026,7 +17026,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700261",
         "tipo": "206",
         "status_web": 200,
-        "min_distance": 350.98861072362416,
+        "min_distance": 349.7817789572002,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -17158,7 +17158,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700325",
         "tipo": "206",
         "status_web": 999,
-        "min_distance": 1944.5984943841029,
+        "min_distance": 1882.8702393286949,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -17356,7 +17356,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700416",
         "tipo": "206",
         "status_web": 200,
-        "min_distance": 727.0474796235499,
+        "min_distance": 721.1883186401416,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -17389,7 +17389,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700431",
         "tipo": "206",
         "status_web": 200,
-        "min_distance": 772.5752285890111,
+        "min_distance": 210.78945166546296,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -17455,7 +17455,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700453",
         "tipo": "206",
         "status_web": 999,
-        "min_distance": 1009.6068574175304,
+        "min_distance": 994.8152123212268,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -17488,7 +17488,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700465",
         "tipo": "206",
         "status_web": 200,
-        "min_distance": 313.6649115408246,
+        "min_distance": 310.2397549624599,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -17521,7 +17521,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700477",
         "tipo": "206",
         "status_web": 999,
-        "min_distance": 12595.611954833763,
+        "min_distance": 9206.614026737203,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -17554,7 +17554,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700489",
         "tipo": "206",
         "status_web": 200,
-        "min_distance": 86.56476513810661,
+        "min_distance": 81.48071110064977,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -17620,7 +17620,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700507",
         "tipo": "206",
         "status_web": 404,
-        "min_distance": 27845.446569533957,
+        "min_distance": 27831.671129278126,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -17785,7 +17785,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700568",
         "tipo": "205",
         "status_web": 200,
-        "min_distance": 527.8960741487829,
+        "min_distance": 482.2777910476996,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -17950,7 +17950,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700611",
         "tipo": "205",
         "status_web": 999,
-        "min_distance": 27973.95645788942,
+        "min_distance": 27959.968296498828,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -18214,7 +18214,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700714",
         "tipo": "205",
         "status_web": 999,
-        "min_distance": 326.76892020275915,
+        "min_distance": 304.9170000944422,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -18247,7 +18247,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700726",
         "tipo": "205",
         "status_web": 999,
-        "min_distance": 12595.611954833763,
+        "min_distance": 9206.614026737203,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -18379,7 +18379,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700763",
         "tipo": "204",
         "status_web": 200,
-        "min_distance": 272.627789938023,
+        "min_distance": 268.15036367099816,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -18412,7 +18412,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700787",
         "tipo": "205",
         "status_web": 200,
-        "min_distance": 772.5752285890111,
+        "min_distance": 210.78945166546296,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -18445,7 +18445,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700911",
         "tipo": "205",
         "status_web": 200,
-        "min_distance": 1855.6089350944812,
+        "min_distance": 1229.5672180955935,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
@@ -18544,7 +18544,7 @@ var geocentros = {
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28701007",
         "tipo": "206",
         "status_web": 200,
-        "min_distance": 4703.551829429771,
+        "min_distance": 4688.067571113051,
         "etapas": null,
         "color": "green",
         "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"

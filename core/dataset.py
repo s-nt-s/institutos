@@ -450,7 +450,7 @@ class Dataset():
         if not latlon:
             return None
         lat, lon = tuple(map(float, latlon.split(",")))
-        distances = [geopy.distance.vincenty((lat, lon), (e["lat"], e["lon"])).m for e in self.accesos]
+        distances = [geopy.distance.vincenty((lat, lon), (e["lat"], e["lon"])).m for e in self.accesos + self.estaciones]
         return min(distances)
 
     @property

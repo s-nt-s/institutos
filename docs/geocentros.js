@@ -2267,7 +2267,7 @@ var geocentros = {
         "url": "https://www.iesisabellacatolica.es",
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020909",
         "tipo": "042",
-        "status_web": 999,
+        "status_web": 200,
         "min_distance": 311.1945201815447,
         "etapas": [
           "ESO (LOE-LOMCE)",

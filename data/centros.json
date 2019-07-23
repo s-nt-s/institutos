@@ -4763,7 +4763,7 @@
   "direccion": "Carretera De Somontes Al Palacio De La Quinta, 1 28048 Madrid",
   "telefono": 913760579,
   "mail": "cpee.laquinta.madrid@educa.madrid.org",
-  "latlon": "40.493204509905496,-3.751233953491326",
+  "latlon": "40.505511544888975,-3.7381786108016968",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -4774,7 +4774,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039116",
   "tipo": "020",
   "status_web": 200,
-  "min_distance": 2146.1585464794903,
+  "min_distance": 1531.4190919598364,
   "etapas": [
     "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"

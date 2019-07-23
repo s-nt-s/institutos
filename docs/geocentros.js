@@ -235,6 +235,42 @@ var geocentros = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28001642,
+        "dat": "Sur",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Principe de Asturias",
+        "direccion": "Calle Zorzales, 11 28300 Aranjuez",
+        "telefono": 918915378,
+        "mail": "cpee.principedeasturias.aranjuez@educa.madrid.org",
+        "latlon": "40.02967983971913,-3.610747102593498",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.principedeasturias.aranjuez",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001642",
+        "tipo": "020",
+        "status_web": 404,
+        "min_distance": 857.0819517434782,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.610747102593498,
+          40.02967983971913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28001678,
         "dat": "Norte",
         "nombre": "<span title='Instituto de educaci\u00f3n secundaria'>IES</span> Jorge Manrique",
@@ -957,6 +993,78 @@ var geocentros = {
         "coordinates": [
           -3.703123026033552,
           40.40593182151002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28005428,
+        "dat": "Capital",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Fray Pedro Ponce de Leon",
+        "direccion": "Calle De Los Y\u00e9benes, 76 28047 Madrid",
+        "telefono": 917178866,
+        "mail": "cpee.poncedeleon.madrid@educa.madrid.org",
+        "latlon": "40.393745927031304,-3.7526961064248527",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.poncedeleon.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28005428",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 909.4970903220042,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7526961064248527,
+          40.393745927031304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28005556,
+        "dat": "Capital",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Maria Soriano",
+        "direccion": "Avenida De La Peseta, 30 28054 Madrid",
+        "telefono": 914624600,
+        "mail": "cpee.mariasoriano.madrid@educa.madrid.org",
+        "latlon": "40.36263416258842,-3.7615245053137265",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.mariasoriano.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28005556",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 413.9014746753174,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7615245053137265,
+          40.36263416258842
         ]
       }
     },
@@ -2407,6 +2515,114 @@ var geocentros = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28021151,
+        "dat": "Capital",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Princesa Sofia",
+        "direccion": "Carretera De Canillas, 51 28043 Madrid",
+        "telefono": 913883106,
+        "mail": "cpee.princesasofia.madrid@educa.madrid.org",
+        "latlon": "40.46402691997831,-3.645000687264647",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.princesasofia.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021151",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 499.7683923287525,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.645000687264647,
+          40.46402691997831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28021161,
+        "dat": "Capital",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Francisco del Pozo",
+        "direccion": "Callejon De D\u00f3mine, 6 28034 Madrid",
+        "telefono": 913584287,
+        "mail": "cpee.franciscodelpozo.madrid@educa.madrid.org",
+        "latlon": "40.494265897756165,-3.686320138399717",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.franciscodelpozo.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021161",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 595.3448863946106,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.686320138399717,
+          40.494265897756165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28021173,
+        "dat": "Capital",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Fundacion Goyeneche",
+        "direccion": "Calle De Arcos De Jal\u00f3n, 22 28037 Madrid",
+        "telefono": 913240763,
+        "mail": "cpee.goyeneche.madrid@educa.madrid.org",
+        "latlon": "40.420861205258916,-3.621048445197596",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.goyeneche.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021173",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 306.1900408895065,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.621048445197596,
+          40.420861205258916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28021252,
         "dat": "Capital",
         "nombre": "<span title='Instituto de educaci\u00f3n secundaria'>IES</span> Pacifico",
@@ -3243,6 +3459,42 @@ var geocentros = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28028076,
+        "dat": "Norte",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Vicente Ferrer",
+        "direccion": "Calle Emilia Pardo Baz\u00e1n, 1 28702 San Sebasti\u00e1n de los Reyes",
+        "telefono": 916510025,
+        "mail": "cpee.vicenteferrer.sansebastian@educa.madrid.org",
+        "latlon": "40.56020219766039,-3.6241888726924416",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.vicenteferrer.sansebastian",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028076",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 1080.3163913658275,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6241888726924416,
+          40.56020219766039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28028301,
         "dat": "Este",
         "nombre": "<span title='Instituto de educaci\u00f3n secundaria'>IES</span> Arquitecto Pedro Gumiel",
@@ -3757,6 +4009,78 @@ var geocentros = {
         "coordinates": [
           -4.125047839436019,
           40.602524795331206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28029241,
+        "dat": "Capital",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Vallecas",
+        "direccion": "Avenida Mediterr\u00e1neo (avda.del Campus Sur) 28031 Madrid",
+        "telefono": 913313135,
+        "mail": "cpee.vallecas.madrid@educa.madrid.org",
+        "latlon": "40.38830832490217,-3.6316593513412028",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/web/cpee.vallecas.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28029241",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 691.506225880564,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6316593513412028,
+          40.38830832490217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28029664,
+        "dat": "Capital",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Inmaculada Concepcion",
+        "direccion": "Calle De Salda\u00f1a, 30 28019 Madrid",
+        "telefono": 914715093,
+        "mail": "cpee.inmaculadaconcepcion.madrid@educa.madrid.org",
+        "latlon": "40.39002495218443,-3.725968112428334",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.inmaculadaconcepcion.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28029664",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 296.24405832727945,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.725968112428334,
+          40.39002495218443
         ]
       }
     },
@@ -4896,6 +5220,42 @@ var geocentros = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28033515,
+        "dat": "Este",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Pablo Picasso",
+        "direccion": "Avenida De Castilla, 29 28804 Alcal\u00e1 de Henares",
+        "telefono": 918884094,
+        "mail": "cpee.picasso.alcala@educa.madrid.org",
+        "latlon": "40.48575177829447,-3.348394060321482",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.picasso.alcala",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033515",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 1518.077514401071,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.348394060321482,
+          40.48575177829447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28033539,
         "dat": "Capital",
         "nombre": "<span title='Instituto de educaci\u00f3n secundaria'>IES</span> Alameda de Osuna",
@@ -4962,6 +5322,42 @@ var geocentros = {
         "coordinates": [
           -3.86503548278007,
           40.312852190458514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28033564,
+        "dat": "Sur",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Maria Montessori",
+        "direccion": "Avenida De Am\u00e9rica, 49 28983 Parla",
+        "telefono": 916054622,
+        "mail": "cpee.montessori.parla@educa.madrid.org",
+        "latlon": "40.22656383360258,-3.7678499605742517",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.montessori.parla",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033564",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 1593.2423235296742,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7678499605742517,
+          40.22656383360258
         ]
       }
     },
@@ -5221,6 +5617,78 @@ var geocentros = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28036309,
+        "dat": "Sur",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Severo Ochoa",
+        "direccion": "Calle De Los Robles, 4 28922 Alcorc\u00f3n",
+        "telefono": 916442117,
+        "mail": "cpee.severoochoa.alcorcon@educa.madrid.org",
+        "latlon": "40.33936478687163,-3.838248406476153",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.severoochoa.alcorcon",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036309",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 432.67375336159733,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.838248406476153,
+          40.33936478687163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28036310,
+        "dat": "Sur",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Miguel de Unamuno",
+        "direccion": "Calle Del Gran Capit\u00e1n, 19 28933 M\u00f3stoles",
+        "telefono": 916183969,
+        "mail": "cpee.unamuno.mostoles@educa.madrid.org",
+        "latlon": "40.33275333238371,-3.8734005550050026",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.unamuno.mostoles",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036310",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 245.61715136795334,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8734005550050026,
+          40.33275333238371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28036656,
         "dat": "Este",
         "nombre": "<span title='Centro de educaci\u00f3n de personas adultas'>CEPA</span> San Fernando de Henares",
@@ -5287,6 +5755,42 @@ var geocentros = {
         "coordinates": [
           -3.802856596147892,
           40.280624478323006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28036942,
+        "dat": "Capital",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Infanta Elena",
+        "direccion": "Avenida De Badajoz, 76 28027 Madrid",
+        "telefono": 914038345,
+        "mail": "cpee.infantaelena.madrid@educa.madrid.org",
+        "latlon": "40.44359425626262,-3.649911066710693",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.infantaelena.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036942",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 511.1593913345193,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.649911066710693,
+          40.44359425626262
         ]
       }
     },
@@ -5725,6 +6229,114 @@ var geocentros = {
         "coordinates": [
           -3.935504896417915,
           40.580640207455666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28037387,
+        "dat": "Capital",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Joan Miro",
+        "direccion": "Avenida De Los Poblados, 183 28041 Madrid",
+        "telefono": 913173341,
+        "mail": "cpee.joanmiro.madrid@educa.madrid.org",
+        "latlon": "40.37108751560067,-3.696765296482086",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.joanmiro.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037387",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 226.14880228333075,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.696765296482086,
+          40.37108751560067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28037624,
+        "dat": "Sur",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Alfonso X el Sabio",
+        "direccion": "Avenida De Portugal, 21 28916 Legan\u00e9s",
+        "telefono": 916865475,
+        "mail": "cpee.alfonsodecimo.leganes@educa.madrid.org",
+        "latlon": "40.33817771792772,-3.743048214217978",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.alfonsodecimo.leganes",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037624",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 278.90022683418715,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.743048214217978,
+          40.33817771792772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28037818,
+        "dat": "Este",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Guadarrama",
+        "direccion": "Avenida De Espa\u00f1a, S/n 28821 Coslada",
+        "telefono": 916712793,
+        "mail": "cpee.guadarrama.coslada@educa.madrid.org",
+        "latlon": "40.42281591983523,-3.5703901415771746",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.guadarrama.coslada",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037818",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 122.23764320952321,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5703901415771746,
+          40.42281591983523
         ]
       }
     },
@@ -6778,6 +7390,42 @@ var geocentros = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28039116,
+        "dat": "Capital",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> La Quinta",
+        "direccion": "Carretera De Somontes Al Palacio De La Quinta, 1 28048 Madrid",
+        "telefono": 913760579,
+        "mail": "cpee.laquinta.madrid@educa.madrid.org",
+        "latlon": "40.493204509905496,-3.751233953491326",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.laquinta.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039116",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 2146.1585464794903,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.751233953491326,
+          40.493204509905496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28039128,
         "dat": "Oeste",
         "nombre": "<span title='Instituto de educaci\u00f3n secundaria'>IES</span> Maria de Zayas y Sotomayor",
@@ -6807,6 +7455,78 @@ var geocentros = {
         "coordinates": [
           -3.8575564005667924,
           40.47676212902768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28039323,
+        "dat": "Sur",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Juan XXIII",
+        "direccion": "Avenida De Las Comarcas, 2 28941 Fuenlabrada",
+        "telefono": 916151198,
+        "mail": "cpee.juanveintitres.fuenlabrada@educa.madrid.org",
+        "latlon": "40.297150611027256,-3.795839642208543",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.juanveintitres.fuenlabrada",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039323",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 271.44658377954346,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.795839642208543,
+          40.297150611027256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28039335,
+        "dat": "Oeste",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Pe\u00f1alara",
+        "direccion": "Calle Dehesa Boyal, S/n 28400 Collado Villalba",
+        "telefono": 918511641,
+        "mail": "cpee.penalara.colladovillalba@educa.madrid.org",
+        "latlon": "40.638977897904056,-4.0002013332257444",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.penalara.colladovillalba",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039335",
+        "tipo": "020",
+        "status_web": 991,
+        "min_distance": 1543.277162949931,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0002013332257444,
+          40.638977897904056
         ]
       }
     },
@@ -7935,6 +8655,42 @@ var geocentros = {
         "coordinates": [
           -3.6180706937215583,
           40.54355087413264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28040994,
+        "dat": "Norte",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Miguel Hernandez",
+        "direccion": "Calle De Mariano Prados, 6 28770 Colmenar Viejo",
+        "telefono": 918462581,
+        "mail": "cpee.miguelhernandez.colmenarviejo@educa.madrid.org",
+        "latlon": "40.658989062969006,-3.7639263645147136",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.miguelhernandez.colmenarviejo",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040994",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 1870.2739491245122,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7639263645147136,
+          40.658989062969006
         ]
       }
     },
@@ -12976,6 +13732,42 @@ var geocentros = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28058585,
+        "dat": "Oeste",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Monte Abantos",
+        "direccion": "Avenida Esparta, 56 28232 Rozas de Madrid, Las",
+        "telefono": 916402419,
+        "mail": "cpee.monteabantos.lasrozas@educa.madrid.org",
+        "latlon": "40.520925551402016,-3.902186944881886",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.monteabantos.lasrozas",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058585",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 1691.5548465012998,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.902186944881886,
+          40.520925551402016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28058603,
         "dat": "Capital",
         "nombre": "<span title='Instituto de educaci\u00f3n secundaria'>IES</span> Numancia",
@@ -14376,6 +15168,77 @@ var geocentros = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28069431,
+        "dat": "Sur",
+        "nombre": "<span title='Centro integrado de formaci\u00f3n profesional'>CI</span> Escuela de Hosteleria y Turismo Simone Ortega",
+        "direccion": "Calle Del Pintor Vel\u00e1zquez, 64 28935 M\u00f3stoles",
+        "telefono": 916183177,
+        "mail": "cifp.simoneortega.mostoles@educa.madrid.org",
+        "latlon": "40.32090250592373,-3.8810513484370266",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cifp.simoneortega.mostoles",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069431",
+        "tipo": "068",
+        "status_web": 999,
+        "min_distance": 741.1545783113874,
+        "etapas": [
+          "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8810513484370266,
+          40.32090250592373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28069704,
+        "dat": "Sur",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Sor Juana Ines de la Cruz",
+        "direccion": "Calle De Reinosa, 26 28942 Fuenlabrada",
+        "telefono": 916856829,
+        "mail": "cpee.sorjuanainesdelacruz.fuenlabrada@educa.madrid.org",
+        "latlon": "40.299709362464746,-3.8062241097761698",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.sorjuanainesdelacruz.fuenlabrada",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069704",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 1197.8649646673257,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8062241097761698,
+          40.299709362464746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28069844,
         "dat": "Sur",
         "nombre": "<span title='Instituto de educaci\u00f3n secundaria'>IES</span> Jimena Menendez Pidal",
@@ -15173,6 +16036,42 @@ var geocentros = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28076319,
+        "dat": "Sur",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Santiago Ramon y Cajal",
+        "direccion": "Avenida Vereda Del Camuerzo 28905 Getafe",
+        "telefono": 606728808,
+        "mail": "cpee.ramonycajal.getafe@educa.madrid.org",
+        "latlon": "40.299434740058004,-3.7422588205041243",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.ramonycajal.getafe",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28076319",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 492.24655808228255,
+        "etapas": [
+          "Educaci\u00f3n Especial B\u00e1sica Obligatoria (Adaptac. LOE)",
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7422588205041243,
+          40.299434740058004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28076368,
         "dat": "Capital",
         "nombre": "<span title='Instituto de educaci\u00f3n secundaria'>IES</span> Alfredo Kraus",
@@ -15634,6 +16533,42 @@ var geocentros = {
     {
       "type": "Feature",
       "properties": {
+        "id": 28078560,
+        "dat": "Este",
+        "nombre": "<span title='Colegio de educaci\u00f3n especial'>CEE</span> Rosa Parks",
+        "direccion": "Avenida De Berl\u00edn, 24 28822 Coslada",
+        "telefono": 914851631,
+        "mail": "cpee.rosaparks.coslada@educa.madrid.org",
+        "latlon": "40.416314270936795,-3.545535803167304",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/cpee.rosaparks.coslada",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078560",
+        "tipo": "020",
+        "status_web": 200,
+        "min_distance": 914.1899082528029,
+        "etapas": [
+          "Programas de Transici\u00f3n a la Vida Adulta (Adaptac. LOE)",
+          "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+        ],
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.545535803167304,
+          40.416314270936795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 28079357,
         "dat": "Capital",
         "nombre": "<span title='Instituto de educaci\u00f3n secundaria'>IES</span> Jane Goodall",
@@ -15804,6 +16739,1887 @@ var geocentros = {
         "coordinates": [
           -3.445974315349398,
           40.45048882230604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700180,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Tetuan-fuencarral",
+        "direccion": "Calle De Ribadavia, 20 28029 Madrid",
+        "telefono": 917321892,
+        "mail": "eoep.tetuan.madrid@educa.madrid.org",
+        "latlon": "40.472533122607395,-3.704855368293887",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.tetuan.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700180",
+        "tipo": "206",
+        "status_web": 999,
+        "min_distance": 432.2884535812175,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.704855368293887,
+          40.472533122607395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700192,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Moncloa-chamber\u00ed",
+        "direccion": "Calle De Guzm\u00e1n El Bueno, 92 28003 Madrid",
+        "telefono": 915338835,
+        "mail": "eoep.moncloa.madrid@educa.madrid.org",
+        "latlon": "40.439531091525545,-3.7126108402555245",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.moncloa.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700192",
+        "tipo": "206",
+        "status_web": 999,
+        "min_distance": 57.02208165960311,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7126108402555245,
+          40.439531091525545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700209,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Centro-arganzuela",
+        "direccion": "Calle De Fortuny, 24 28010 Madrid",
+        "telefono": 913914321,
+        "mail": "eoep.arganzuela.madrid@educa.madrid.org",
+        "latlon": "40.4337594258703,-3.6898309692897224",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.arganzuela.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700209",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 106.55810177923897,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.689730969289722,
+          40.4337594258703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700210,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Latina",
+        "direccion": "Calle De Tembleque, 58 28024 Madrid",
+        "telefono": 917172806,
+        "mail": "eoep.latina.madrid@educa.madrid.org",
+        "latlon": "40.395129548304375,-3.761525220052866",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.latina.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700210",
+        "tipo": "206",
+        "status_web": 999,
+        "min_distance": 560.4950724432514,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.761525220052866,
+          40.395129548304375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700222,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Carabanchel",
+        "direccion": "Avenida De Nuestra Se\u00f1ora De Valvanera, 120 28047 Madrid",
+        "telefono": 914617089,
+        "mail": "eoep.carabanchel.madrid@educa.madrid.org",
+        "latlon": "40.39345343663153,-3.7407922804101834",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.carabanchel.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700222",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 23.25330439366866,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7407922804101834,
+          40.39345343663153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700234,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Villaverde-usera",
+        "direccion": "Calle De Fernando Ortiz, S/n 28041 Madrid",
+        "telefono": 913173334,
+        "mail": "eoep.villaverde.madrid@educa.madrid.org",
+        "latlon": "40.36752050104364,-3.7026294609600283",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.villaverde.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700234",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 128.09291287130344,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7026294609600283,
+          40.36752050104364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700246,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Puente Vallecas",
+        "direccion": "Plaza De Sierra Ministra, 3 28053 Madrid",
+        "telefono": 914772358,
+        "mail": "eoep.puentevallecas.madrid@educa.madrid.org",
+        "latlon": "40.39360347238918,-3.662626918171975",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.puentevallecas.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700246",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 196.23319627761032,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.662626918171975,
+          40.39360347238918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700258,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo Gral. Moratalaz-villa de Vallecas",
+        "direccion": "Calle De Pico De Los Artilleros, 123 28030 Madrid",
+        "telefono": 917732533,
+        "mail": "eoep.moratalaz.madrid@educa.madrid.org",
+        "latlon": "40.401528013554206,-3.6424711651868344",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.moratalaz.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700258",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 397.58164122636106,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6424711651868344,
+          40.401528013554206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700261,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo Gral. San Blas-vicalvaro-c.lineal",
+        "direccion": "Avenida Canillejas A Vicalvaro, 82 28022 Madrid",
+        "telefono": 913069365,
+        "mail": "eoep.sanblas.madrid@educa.madrid.org",
+        "latlon": "40.42548081338295,-3.6129805281949428",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.sanblas.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700261",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 350.98861072362416,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6129805281949428,
+          40.42548081338295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700283,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Hortaleza-barajas",
+        "direccion": "Carretera De Canillas, 51 28043 Madrid",
+        "telefono": 917592462,
+        "mail": "eoep.hortaleza.madrid@educa.madrid.org",
+        "latlon": "40.46402691997831,-3.645000687264647",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.hortaleza.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700283",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 499.7683923287525,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6449006872646468,
+          40.46402691997831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700295,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo Gral. Retiro-salamanca-chamartin",
+        "direccion": "Calle De P\u00edo Baroja, 4 28009 Madrid",
+        "telefono": 915733932,
+        "mail": "eoep.retiro.madrid@educa.madrid.org",
+        "latlon": "40.414598333925476,-3.674407139545942",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.retiro.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700295",
+        "tipo": "206",
+        "status_web": 999,
+        "min_distance": 396.190029080401,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.674407139545942,
+          40.414598333925476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700313,
+        "dat": "Este",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Alcala de Henares",
+        "direccion": "Calle Entrepe\u00f1as, 2 28802 Alcal\u00e1 de Henares",
+        "telefono": 918814145,
+        "mail": "eoep.alcala@educa.madrid.org",
+        "latlon": "40.46976402551922,-3.3649086702435698",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.alcala",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700313",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 2130.9380011024696,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3649086702435698,
+          40.46976402551922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700325,
+        "dat": "Este",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Rivas-arganda",
+        "direccion": "Calle De Los Picos De Urbi\u00f3n, S/n 28522 Rivas-Vaciamadrid",
+        "telefono": 914990324,
+        "mail": "eoep.arganda@educa.madrid.org",
+        "latlon": "40.37369729827874,-3.527039936697009",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.arganda",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700325",
+        "tipo": "206",
+        "status_web": 999,
+        "min_distance": 1944.5984943841029,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.527039936697009,
+          40.37369729827874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700337,
+        "dat": "Este",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Coslada",
+        "direccion": "Calle De La Virgen De La Cabeza, 2 28821 Coslada",
+        "telefono": 916733312,
+        "mail": "eoep.coslada@educa.madrid.org",
+        "latlon": "40.42727999537469,-3.5694493901914393",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.coslada",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700337",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 507.3107203616978,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5694493901914393,
+          40.42727999537469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700350,
+        "dat": "Este",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General de Torrej\u00f3n de Ardoz",
+        "direccion": "Avenida Constituci\u00f3n, 9 28850 Torrej\u00f3n de Ardoz",
+        "telefono": 916565381,
+        "mail": "eoep.torrejondeardoz@educa.madrid.org",
+        "latlon": "40.45574183973614,-3.4816968320155652",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.torrejondeardoz",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700350",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 187.13552380798774,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.481596832015565,
+          40.45574183973614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700374,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Aranjuez",
+        "direccion": "Calle De Postas, 86 28300 Aranjuez",
+        "telefono": 918915537,
+        "mail": "eoep.aranjuez@educa.madrid.org",
+        "latlon": "40.02911597313379,-3.6048821431453484",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.aranjuez",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700374",
+        "tipo": "206",
+        "status_web": 404,
+        "min_distance": 1303.7099599974752,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6048821431453484,
+          40.02911597313379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700386,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Fuenlabrada",
+        "direccion": "Calle Logro\u00f1o, 2 28941 Fuenlabrada",
+        "telefono": 916063733,
+        "mail": "eoep.fuenlabrada@educa.madrid.org",
+        "latlon": "40.2936379031953,-3.80093989197129",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.fuenlabrada",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700386",
+        "tipo": "206",
+        "status_web": 999,
+        "min_distance": 774.5185151626915,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80093989197129,
+          40.2936379031953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700398,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Getafe",
+        "direccion": "Calle Montserrat Caball\u00e9, 2 28903 Getafe",
+        "telefono": 916832149,
+        "mail": "eoep.getafe@educa.madrid.org",
+        "latlon": "40.3186734814727,-3.723084722442568",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.getafe",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700398",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 591.1374910586038,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.723084722442568,
+          40.3186734814727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700416,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Mostoles",
+        "direccion": "Calle Par\u00eds, 9 28938 M\u00f3stoles",
+        "telefono": 916183200,
+        "mail": "eoep.mostoles@educa.madrid.org",
+        "latlon": "40.31529972269545,-3.861806680116853",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.mostoles",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700416",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 727.0474796235499,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.861806680116853,
+          40.31529972269545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700431,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Parla",
+        "direccion": "Calle Pintor Rosales, 1-b 28982 Parla",
+        "telefono": 916980604,
+        "mail": "eoep.parla@educa.madrid.org",
+        "latlon": "40.24373547790152,-3.7610134286775163",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.parla",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700431",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 772.5752285890111,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7610134286775163,
+          40.24373547790152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700441,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General S.mart\u00edn de Valdeiglesias",
+        "direccion": "Calle De La Fuente, 4 28680 San Mart\u00edn de Valdeiglesias",
+        "telefono": 918612329,
+        "mail": "eoep.sanmartindevaldeiglesias@educa.madrid.org",
+        "latlon": "40.363563981238535,-4.398077003486334",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.sanmartindevaldeiglesias",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700441",
+        "tipo": "206",
+        "status_web": 999,
+        "min_distance": 21661.57383021332,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.397977003486334,
+          40.363563981238535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700453,
+        "dat": "Oeste",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Collado Villalba",
+        "direccion": "Calle Isla De S\u00e1lvora, 155 28400 Collado Villalba",
+        "telefono": 918492789,
+        "mail": "eoep.colladovillalba@educa.madrid.org",
+        "latlon": "40.6219913422059,-4.018355807719083",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.colladovillalba",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700453",
+        "tipo": "206",
+        "status_web": 999,
+        "min_distance": 1009.6068574175304,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.018355807719083,
+          40.6219913422059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700465,
+        "dat": "Oeste",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Pozuelo de Alarc\u00f3n",
+        "direccion": "Avenida Monte, 2 28223 Pozuelo de Alarc\u00f3n",
+        "telefono": 913515364,
+        "mail": "eoep.pozuelodealarcon@educa.madrid.org",
+        "latlon": "40.44992123953401,-3.7989716296474807",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.pozuelodealarcon",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700465",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 313.6649115408246,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7989716296474807,
+          40.44992123953401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700477,
+        "dat": "Oeste",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Valdemorillo-el Escorial",
+        "direccion": "Camino M\u00f3stoles, 1 28691 Villanueva de la Ca\u00f1ada",
+        "telefono": 918157488,
+        "mail": "eoep.villanuevadelacanada@educa.madrid.org",
+        "latlon": "40.443993757370706,-4.001373113020472",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.villanuevadelacanada",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700477",
+        "tipo": "206",
+        "status_web": 999,
+        "min_distance": 12595.611954833763,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.001373113020472,
+          40.443993757370706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700489,
+        "dat": "Norte",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Alcobendas",
+        "direccion": "Calle Del Fuego, 73 28100 Alcobendas",
+        "telefono": 916616555,
+        "mail": "eoep.alcobendas@educa.madrid.org",
+        "latlon": "40.54674109731865,-3.6361214939136297",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.alcobendas",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700489",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 86.56476513810661,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6361214939136297,
+          40.54674109731865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700490,
+        "dat": "Norte",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Colmenar Viejo",
+        "direccion": "Calle De Carlos Arag\u00f3n Cancela, 5 28770 Colmenar Viejo",
+        "telefono": 918457789,
+        "mail": "eoep.colmenarviejo@educa.madrid.org",
+        "latlon": "40.6483381166928,-3.7778440747072306",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.colmenarviejo",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700490",
+        "tipo": "206",
+        "status_web": 999,
+        "min_distance": 357.8664838282098,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7778440747072306,
+          40.6483381166928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700507,
+        "dat": "Norte",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General la Cabrera",
+        "direccion": "Calle De Carlos Ruiz, 2 28751 Cabrera, La",
+        "telefono": 918688403,
+        "mail": "eoep.lacabrera@educa.madrid.org",
+        "latlon": "40.8639264160189,-3.615367712968329",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.lacabrera",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700507",
+        "tipo": "206",
+        "status_web": 404,
+        "min_distance": 27845.446569533957,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.615367712968329,
+          40.8639264160189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700520,
+        "dat": "Este",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General Villarejo de Salvan\u00e9s",
+        "direccion": "Calle De San Jos\u00e9, 2 28590 Villarejo de Salvan\u00e9s",
+        "telefono": 918745196,
+        "mail": "eoep.villarejo@educa.madrid.org",
+        "latlon": "40.167459008326844,-3.274326165956729",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.villarejo",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700520",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 21105.612931229232,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.274326165956729,
+          40.167459008326844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700532,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Hortaleza",
+        "direccion": "Calle Del Mar Caspio, 6 28033 Madrid",
+        "telefono": 913817347,
+        "mail": "eoep.at.hortaleza@educa.madrid.org",
+        "latlon": "40.47322671418134,-3.64630377307555",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.hortaleza",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700532",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 430.48957000096914,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64630377307555,
+          40.47322671418134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700544,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> E. a. Temprana Latina-carabanchel-centro",
+        "direccion": "Calle De Tembleque, 58 28024 Madrid",
+        "telefono": 910692826,
+        "mail": "eoep.at.latina@educa.madrid.org",
+        "latlon": "40.39517427933383,-3.7615728561598853",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.latina",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700544",
+        "tipo": "205",
+        "status_web": 404,
+        "min_distance": 556.918468498115,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7615728561598853,
+          40.39517427933383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700556,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Puente Vallecas",
+        "direccion": "Calle De Luis Mar\u00edn, 1 28038 Madrid",
+        "telefono": 913039979,
+        "mail": "eoep.at.puentevallecas@educa.madrid.org",
+        "latlon": "40.39269476531155,-3.6383928852119363",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.puentevallecas",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700556",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 584.9518474590197,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6383928852119363,
+          40.39269476531155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700568,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana San Blas",
+        "direccion": "Avenida Canillejas A Vicalvaro, 82 28022 Madrid",
+        "telefono": 913066418,
+        "mail": "eoep.at.sanblas@educa.madrid.org",
+        "latlon": "40.437326010622265,-3.6081596876739583",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.sanblas",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700568",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 527.8960741487829,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6081596876739583,
+          40.437326010622265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700571,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Tetuan",
+        "direccion": "Calle De Las Magnolias, 82 28029 Madrid",
+        "telefono": 913232231,
+        "mail": "eoep.at.tetuan@educa.madrid.org",
+        "latlon": "40.4707529439803,-3.6908345885894764",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.tetuan",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700571",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 408.15819413840023,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6908345885894764,
+          40.4707529439803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700581,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> E. a. Temprana Moratalaz-villa Vallecas",
+        "direccion": "Calle Del Pico De Los Artilleros, 123 28030 Madrid",
+        "telefono": 917513136,
+        "mail": "eoep.at.villavallecas@educa.madrid.org",
+        "latlon": "40.401528013554206,-3.6424711651868344",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.villavallecas",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700581",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 397.58164122636106,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6423711651868342,
+          40.401528013554206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700593,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Villaverde",
+        "direccion": "Calle Del Consenso, 10 28041 Madrid",
+        "telefono": 913176966,
+        "mail": "eoep.at.villaverde@educa.madrid.org",
+        "latlon": "40.3597532108319,-3.6863791388977156",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.villaverde",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700593",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 558.3048402341353,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6863791388977156,
+          40.3597532108319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700601,
+        "dat": "Norte",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Eq. Aten. Temprana Alcobendas-s.s. Reyes",
+        "direccion": "Avenida De Rosa Luxemburgo, S/n 28700 San Sebasti\u00e1n de los Reyes",
+        "telefono": 916541814,
+        "mail": "eoep.at.sansebastian@educa.madrid.org",
+        "latlon": "40.55411234942143,-3.6324590055927923",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.sansebastian",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700601",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 222.9773195160323,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6324590055927923,
+          40.55411234942143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700611,
+        "dat": "Norte",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Eq. Aten.temprana la Cabrera-lozoyuela",
+        "direccion": "Calle De Carlos Ruiz, 8 28751 Cabrera, La",
+        "telefono": 918688470,
+        "mail": "eoep.at.lacabrera@educa.madrid.org",
+        "latlon": "40.86462785915431,-3.613902832714608",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.lacabrera",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700611",
+        "tipo": "205",
+        "status_web": 999,
+        "min_distance": 27973.95645788942,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.613902832714608,
+          40.86462785915431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700623,
+        "dat": "Norte",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Eq. At.temp. Colmenar Viejo-tres Cantos",
+        "direccion": "Calle Del Viento, 4 28760 Tres Cantos",
+        "telefono": 912938199,
+        "mail": "eoep.at.colmenarviejo@educa.madrid.org",
+        "latlon": "40.59961241707399,-3.7148280659310875",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.colmenarviejo",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700623",
+        "tipo": "205",
+        "status_web": 403,
+        "min_distance": 128.2210889466935,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7148280659310875,
+          40.59961241707399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700635,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Fuenlabrada",
+        "direccion": "Calle Logro\u00f1o, 2 28941 Fuenlabrada",
+        "telefono": 916065751,
+        "mail": "eoep.at.fuenlabrada@educa.madrid.org",
+        "latlon": "40.2936379031953,-3.80093989197129",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.fuenlabrada",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700635",
+        "tipo": "205",
+        "status_web": 404,
+        "min_distance": 774.5185151626915,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8008398919712896,
+          40.2936379031953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700647,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Getafe",
+        "direccion": "Calle Montserrat Caball\u00e9, 2 28903 Getafe",
+        "telefono": 916832147,
+        "mail": "eoep.at.getafe@educa.madrid.org",
+        "latlon": "40.3186734814727,-3.723084722442568",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.getafe",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700647",
+        "tipo": "205",
+        "status_web": 999,
+        "min_distance": 591.1374910586038,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.722984722442568,
+          40.3186734814727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700659,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Leganes",
+        "direccion": "Avenida De La Mancha, 2 28915 Legan\u00e9s",
+        "telefono": 916802436,
+        "mail": "eoep.at.leganes@educa.madrid.org",
+        "latlon": "40.32893465431703,-3.7569078435309136",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.leganes",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700659",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 319.3501456887259,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7569078435309136,
+          40.32893465431703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700660,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Mostoles",
+        "direccion": "Calle Par\u00eds, 9 28938 M\u00f3stoles",
+        "telefono": 916480067,
+        "mail": "eoep.at.mostoles@educa.madrid.org",
+        "latlon": "40.3266193969949,-3.8539345538092413",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.mostoles",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700660",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 835.4449101012196,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8539345538092413,
+          40.3266193969949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700684,
+        "dat": "Este",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Alcala de Henares",
+        "direccion": "Calle Entrepe\u00f1as, 2 28802 Alcal\u00e1 de Henares",
+        "telefono": 918836280,
+        "mail": "eoep.at.alcala@educa.madrid.org",
+        "latlon": "40.46976402551922,-3.3649086702435698",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.alcala",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700684",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 2130.9380011024696,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3648086702435696,
+          40.46976402551922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700696,
+        "dat": "Este",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Arganda del Rey",
+        "direccion": "Avenida De La Azucarera, 2 28500 Arganda del Rey",
+        "telefono": 918353921,
+        "mail": "eoep.at.arganda@educa.madrid.org",
+        "latlon": "40.31838670960817,-3.480307323654234",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.arganda",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700696",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 217.27324620932387,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.480307323654234,
+          40.31838670960817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700714,
+        "dat": "Oeste",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Torrelodones",
+        "direccion": "Carretera De Torrelodones, 35 28250 Torrelodones",
+        "telefono": 918592894,
+        "mail": "eoep.at.torrelodones@educa.madrid.org",
+        "latlon": "40.5741373560414,-3.952970348217057",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.torrelodones",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700714",
+        "tipo": "205",
+        "status_web": 999,
+        "min_distance": 326.76892020275915,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.952970348217057,
+          40.5741373560414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700726,
+        "dat": "Oeste",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo At. Temp. Villanueva de la Ca\u00f1ada",
+        "direccion": "Camino M\u00f3stoles, 1 28691 Villanueva de la Ca\u00f1ada",
+        "telefono": 918155276,
+        "mail": "eoep.at.villanuevadelacanada@educa.madrid.org",
+        "latlon": "40.443993757370706,-4.001373113020472",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.villanuevadelacanada",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700726",
+        "tipo": "205",
+        "status_web": 999,
+        "min_distance": 12595.611954833763,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.001273113020472,
+          40.443993757370706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700738,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Espec\u00edfica'>EOEP</span> Deficiencias Visuales",
+        "direccion": "Avenida De Canillejas A Vic\u00e1lvaro, 82 28022 Madrid",
+        "telefono": 913506288,
+        "mail": "eoep.visuales.madrid@educa.madrid.org",
+        "latlon": "40.424918397531414,-3.6120087830754275",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.visuales.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700738",
+        "tipo": "204",
+        "status_web": 200,
+        "min_distance": 274.48627142510475,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6120087830754275,
+          40.424918397531414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700741,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Espec\u00edfica'>EOEP</span> Deficiencias Auditivas",
+        "direccion": "Avenida Canillejas A Vicalvaro, 82 28022 Madrid",
+        "telefono": 917601521,
+        "mail": "eoep.auditivas.madrid@educa.madrid.org",
+        "latlon": "40.4246122949539,-3.611970643918711",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.auditivas.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700741",
+        "tipo": "204",
+        "status_web": 200,
+        "min_distance": 240.35559192896451,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.611970643918711,
+          40.4246122949539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700751,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Espec\u00edfica'>EOEP</span> E.e. Alteraciones Graves Desarrollo",
+        "direccion": "Avenida De Canillejas A Vic\u00e1lvaro, 82 28022 Madrid",
+        "telefono": 915547737,
+        "mail": "eoep.alteracionesdesarrollo.madrid@educa.madrid.org",
+        "latlon": "40.424918397531414,-3.6120087830754275",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.alteracionesdesarrollo.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700751",
+        "tipo": "204",
+        "status_web": 200,
+        "min_distance": 274.48627142510475,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6119087830754273,
+          40.424918397531414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700763,
+        "dat": "Capital",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Espec\u00edfica'>EOEP</span> Deficiencias Motoricas",
+        "direccion": "Avenida Canillejas A Vicalvaro, 82 28022 Madrid",
+        "telefono": 913060730,
+        "mail": "eoep.motoricas.madrid@educa.madrid.org",
+        "latlon": "40.42473379359412,-3.6128440757472275",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.motoricas.madrid",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700763",
+        "tipo": "204",
+        "status_web": 200,
+        "min_distance": 272.627789938023,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6128440757472275,
+          40.42473379359412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700787,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Parla",
+        "direccion": "Calle Pintor Rosales, S/n 28982 Parla",
+        "telefono": 916052082,
+        "mail": "eoep.at.parla@educa.madrid.org",
+        "latlon": "40.24373547790152,-3.7610134286775163",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.parla",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700787",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 772.5752285890111,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.760913428677516,
+          40.24373547790152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700911,
+        "dat": "Oeste",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Pozuelo de Alarcon",
+        "direccion": "Avenida Del Monte, 2 28223 Pozuelo de Alarc\u00f3n",
+        "telefono": 917992735,
+        "mail": "eoep.at.pozuelodealarcon@educa.madrid.org",
+        "latlon": "40.43793881795407,-3.8183783691328963",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.pozuelodealarcon",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700911",
+        "tipo": "205",
+        "status_web": 200,
+        "min_distance": 1855.6089350944812,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8183783691328963,
+          40.43793881795407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700921,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Equipo Atencion Temprana Aranjuez",
+        "direccion": "Calle Del Hospital, 3 28300 Aranjuez",
+        "telefono": 918754257,
+        "mail": "eoep.at.aranjuez@educa.madrid.org",
+        "latlon": "40.03008966923522,-3.6012926954001263",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.aranjuez",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700921",
+        "tipo": "205",
+        "status_web": 404,
+        "min_distance": 1538.0789771391153,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6012926954001263,
+          40.03008966923522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28700994,
+        "dat": "Oeste",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General de las Rozas",
+        "direccion": "Camino Perales, S/n 28232 Rozas de Madrid, Las",
+        "telefono": 916403970,
+        "mail": "eoep.lasrozas@educa.madrid.org",
+        "latlon": "40.52661140352908,-3.9202908852500027",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.lasrozas",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700994",
+        "tipo": "206",
+        "status_web": 999,
+        "min_distance": 3252.010389332621,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9202908852500027,
+          40.52661140352908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28701007,
+        "dat": "Oeste",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General de Guadarrama",
+        "direccion": "Calle Gustavo Adolfo B\u00e9cquer, 1 28440 Guadarrama",
+        "telefono": 918542279,
+        "mail": "eoep.guadarrama@educa.madrid.org",
+        "latlon": "40.66755003096872,-4.089110016183546",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.guadarrama",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28701007",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 4703.551829429771,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.089110016183546,
+          40.66755003096872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28701019,
+        "dat": "Sur",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. Atenci\u00f3n temprana'>EOEP</span> Eoep de At.tna S.mart\u00edn Valdeiglesias",
+        "direccion": "Calle De La Fuente, 4 28680 San Mart\u00edn de Valdeiglesias",
+        "telefono": 918610839,
+        "mail": "eoep.at.sanmartindevaldeiglesias@educa.madrid.org",
+        "latlon": "40.363563981238535,-4.398077003486334",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.at.sanmartindevaldeiglesias",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28701019",
+        "tipo": "205",
+        "status_web": 999,
+        "min_distance": 21661.57383021332,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.397877003486334,
+          40.363563981238535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28701044,
+        "dat": "Norte",
+        "nombre": "<span title='Equipos de orientaci\u00f3n educativa y psicopedag\u00f3gica. General'>EOEP</span> Equipo General s. Sebastian de los Reyes",
+        "direccion": "Avenida De Ram\u00f3n Y Cajal, 5 28703 San Sebasti\u00e1n de los Reyes",
+        "telefono": 916636481,
+        "mail": "eoep.sansebastian@educa.madrid.org",
+        "latlon": "40.544455161716286,-3.6207951260768545",
+        "nocturno": null,
+        "dificultad": false,
+        "adaptado": false,
+        "excelencia": false,
+        "tecnico": false,
+        "bilingue": false,
+        "url": "http://www.educa.madrid.org/eoep.sansebastian",
+        "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28701044",
+        "tipo": "206",
+        "status_web": 200,
+        "min_distance": 682.908541403931,
+        "etapas": null,
+        "color": "green",
+        "icon": "https://maps.google.com/mapfiles/ms/micons/green.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6207951260768545,
+          40.544455161716286
         ]
       }
     }

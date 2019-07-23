@@ -29,6 +29,13 @@ def parse_etapas(etapas):
 
 def parse_tipo(name):
     name = name.capitalize()
+    phrase = name.split(". ")
+    if len(phrase)>0:
+        for i, p in enumerate(phrase[1:]):
+            phrase[i+1]=p.capitalize()
+        name = ". ".join(phrase)
+    if name.endswith("."):
+        name=name[:-1]
     for p in ("Centros públicos ", "Centro público "):
         if name.startswith(p):
             name = "Centro "+name[len(p):]

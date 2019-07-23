@@ -60,6 +60,8 @@ def get_num_linea(tipo, codigolinea, numerolinea):
     return cod
 
 class Dataset():
+    TIPOS_OK = "016 017 020 031 035 039 042 047 068 070 204 205 206".split()
+
     def __init__(self, *args, **kargs):
         self.indice = mkBunch("fuentes/indice.yml")
         self.fuentes = mkBunch("fuentes/fuentes.yml") or Bunch()
@@ -118,6 +120,7 @@ class Dataset():
                 dir = None
             extra = get_data(id)
             etapas = extra.get("etapas")
+            exist_etapas = etapas and len(etapas)>0
             excluir=[]
             if etapas:
                 for e in etapas_ban:
@@ -125,7 +128,7 @@ class Dataset():
                         excluir.append(e)
                         etapas.remove(e)
             tipo=self.centro_tipo.get(id) or i["TIPO DE CENTRO"]
-            if not etapas and tipo!="036":
+            if exist_etapas and not etapas:
                 excluidos[(tipo, extra.get("info"))]=excluir
                 continue
             arreglo = self.arreglos.get(id, {})
@@ -166,6 +169,38 @@ class Dataset():
                     print(" ", ex)
         return centros
 
+    def centros_candidatos(self):
+        candi = self.convocatoria.split("Anexo 12 Institutos de Enseñanza Secundaria, Secciones y Colegios que imparten Enseñanza Secundaria Obligatoria", 1)
+        candi = candi[-1]
+        candi = candi.split("ANEXO 13 INSTITUTOS DE ENSEÑANZA SECUNDARIA BILINGÚES Y COLEGIOS QUE", 1)
+        candi = candi[0]
+        candi = re_centro.findall(candi)
+        candi = set(int(d) for d in candi)
+        cuerpos = re.findall(r"\bCu:\s*(\d+)", self.asignacion)
+        destinos = re.findall(r"\bDestino actual:([\s\d]+)", self.asignacion)
+        for c, d in zip(cuerpos, destinos):
+            c = int(c)
+            d = d.strip()
+            if c == 590 and d:
+                candi.add(int(d))
+        tipos={}
+        for c in self.dwn_and_read("fuentes/csv/centros.csv"):
+            if c["CODIGO CENTRO"] in candi:
+                id = c["CODIGO CENTRO"]
+                tipo = self.centro_tipo.get(id)
+                col = tipos.get(tipo, [])
+                col.append(str(id))
+                tipos[tipo]=col
+        for t, v in sorted(tipos.items()):
+            # if t in Dataset.TIPOS_OK:
+            #     continue
+            print(t, self.tipos[t])
+            print("  ", ", ".join(v))
+        # for t in Dataset.TIPOS_OK:
+        #      if t not in tipos:
+        #          print(t, self.tipos[t])
+
+
     @property
     @TxtCache(file="fuentes/pdf/vacantes.txt")
     def vacantes(self):
@@ -185,6 +220,15 @@ class Dataset():
         self.fuentes.convocatoria = "http://www.bocm.es/" + bocm.lower()
         return get_pdf(url)
         # return self.fuentes.convocatoria
+
+    @property
+    @TxtCache(file="fuentes/pdf/asignacion.txt")
+    def asignacion(self):
+        soup = get_soup(self.indice.asignacion)
+        td = soup.find("td", text=re.compile(r"\s*Listado\s*alfab.*tico\s*de\s*participantes\.\s*"))
+        url = td.parent.find("a").attrs["href"]
+        self.fuentes.asignacion = url
+        return get_pdf(url)
 
     @property
     @TxtCache(file="fuentes/pdf/anexo29.txt")
@@ -299,13 +343,10 @@ class Dataset():
     def centro_ok(self):
         col = set()
         # 036 Aulas hospitalarias no son elegibles por concurso
-        for cod in "016 017 031 035 039 042 047 070".split():
+        for cod in Dataset.TIPOS_OK:
             aux = self.get_centrosid(cdGenerico=cod)
             col = col.union(aux)
         return col
-        convo = re_centro.findall(self.convocatoria)
-        convo = set(int(d) for d in convo)
-        return col.intersection(convo)
 
     @property
     @lru_cache(maxsize=None)
@@ -356,6 +397,7 @@ class Dataset():
 
     @property
     def geocentros(self):
+        coordinates=set()
         geojson = {'type':'FeatureCollection', 'features':[]}
         for c in self.centros:
             if not c.latlon:
@@ -365,7 +407,10 @@ class Dataset():
                        'geometry':{'type':'Point',
                                    'coordinates':[]}}
             lat, lon = tuple(map(float, c.latlon.split(",")))
-            feature['geometry']['coordinates'] = [lon,lat]
+            while (lon, lat) in coordinates:
+                lon = lon + 0.0001
+            feature['geometry']['coordinates'] = (lon, lat)
+            coordinates.add(feature['geometry']['coordinates'])
             properties = feature['properties']
             for k, v in copy.deepcopy(c).items():
                 properties[k] = v

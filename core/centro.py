@@ -22,7 +22,7 @@ re_title = re.compile("<title[^>]*>(.*?)</title>", re.IGNORECASE | re.DOTALL)
 htmlp = HTMLParser()
 
 def get_abr(t):
-    if t in ("016", "017"):
+    if t in ("016", "017", "068"):
         return "CI"
     if t == "031":
         return "CEPA"
@@ -38,6 +38,10 @@ def get_abr(t):
         return "CEIPS"
     if t == "039":
         return "CREI"
+    if t == "020":
+        return "CEE"
+    if t in ("205", "204", "206"):
+        return "EOEP"
     return None
 
 def status_web(url):

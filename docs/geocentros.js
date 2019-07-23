@@ -2254,7 +2254,7 @@ var geocentros = {
         "direccion": "Calle De Alfonso Xii, 3 28014 Madrid",
         "telefono": 915277878,
         "mail": "ies.isabellacatolica.madrid@educa.madrid.org",
-        "latlon": "40.40951712958399,-3.688192672587283",
+        "latlon": "40.40836177466556,-3.6849689483642583",
         "nocturno": [
           "Ciencias (LOE-LOMCE)",
           "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -2264,11 +2264,11 @@ var geocentros = {
         "excelencia": false,
         "tecnico": false,
         "bilingue": true,
-        "url": "http://www.educa.madrid.org/ies.isabellacatolica.madrid",
+        "url": "https://www.iesisabellacatolica.es",
         "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020909",
         "tipo": "042",
         "status_web": 999,
-        "min_distance": 232.6805210170436,
+        "min_distance": 311.1945201815447,
         "etapas": [
           "ESO (LOE-LOMCE)",
           "Bachillerato",
@@ -2280,8 +2280,8 @@ var geocentros = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.688192672587283,
-          40.40951712958399
+          -3.6849689483642583,
+          40.40836177466556
         ]
       }
     },

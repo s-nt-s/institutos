@@ -58,7 +58,7 @@ bilingüismo, excelencia o innovación tecnológica
 
 # Resultado
 
-El mapa se puede ver aquí [institutos.ml](https://institutos.ml)
+El mapa se puede ver aquí: [institutos.ml](https://institutos.ml).
 
 # Contactar con los centros
 

@@ -5,11 +5,10 @@ from core.common import create_script
 from core.confmap import (color_to_url, colors, etapas_ban, parse_nombre,
                           parse_tipo)
 from core.dataset import Dataset
-from core.j2 import Jnj2, post_parse, toTag
+from core.j2 import Jnj2, toTag
 from core.map import Map
-from core.parsemd import parsemd
-from core.readme import readme
 import bs4
+import re
 
 d = Dataset()
 d.unzip()
@@ -113,8 +112,8 @@ create_script("docs/geotransporte.js", geotransporte=d.geotransporte)
 lgd = [colors.dificultad, colors.nocturno, colors.default]
 lgd = lgd + [color_to_url(c, None) for c in lgd]
 
-j2 = Jnj2("template/", "docs/", post=post_parse)
-j2.save(
+jHtml = Jnj2("template/", "docs/", post=lambda x, **kargs: re.sub(r"<br/>(\s*</)", r"\1", x).strip())
+jHtml.save(
     "index.html",
     tipos=sorted(ok_tipos.items(), key=lambda x: (x[1], x[0])),
     etapas=sorted(ok_etapas),
@@ -128,5 +127,8 @@ j2.save(
     sin_etapas=len([c for c in d.centros if not c.etapas]) > 0,
     parse=create_notas
 )
-
-parsemd("template/README.md", "README.md", readme)
+jMd = Jnj2("template/", "./", post=lambda x, **kargs: re.sub(r"\n\s*\n\s*\n", r"\n\n", x).strip())
+jMd.save(
+    "README.md",
+    **jHtml.lastArgs
+)

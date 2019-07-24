@@ -6,10 +6,6 @@ import re
 
 re_br=re.compile(r"<br/>(\s*</)")
 
-def post_parse(html, **kwargs):
-    html = re_br.sub(r"\1", html)
-    return html
-
 def toTag(html, *args):
     if len(args)>0:
         html = html.format(*args)
@@ -24,8 +20,10 @@ class Jnj2():
         self.destino = destino
         self.pre = pre
         self.post = post
+        self.lastArgs = None
 
     def save(self, template, destino=None, parse=None, **kwargs):
+        self.lastArgs = kwargs
         if destino is None:
             destino = template
         out = self.j2_env.get_template(template)

@@ -494,7 +494,7 @@ class Dataset():
         return data
 
     @lru_cache(maxsize=None)
-    @ParamJsonCache(file="fuentes/transporte/{0}/{1}.json", reload=True)
+    @ParamJsonCache(file="fuentes/transporte/{0}/{1}.json", reload=False)
     def get_transporte_info(self, tipo, field):
         prm = self.indice.transporte.api.default.copy()
         for k, v in self.indice.transporte.api[field].items():
@@ -508,7 +508,7 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    @JsonCache(file="data/accesos.json", reload=True)
+    @JsonCache(file="data/accesos.json", reload=False)
     def accesos(self):
         data = {}
         for k in self.indice.transporte.redes.keys():
@@ -557,7 +557,7 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    @JsonCache(file="data/estaciones.json", reload=True)
+    @JsonCache(file="data/estaciones.json", reload=False)
     def estaciones(self):
         data = {}
         for k in self.indice.transporte.redes.keys():
@@ -631,7 +631,7 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    @JsonCache(file="data/transporte.json", reload=True)
+    @JsonCache(file="data/transporte.json", reload=False)
     def transporte(self):
         datas = {}
         for k in self.indice.transporte.redes.keys():
@@ -677,7 +677,7 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    def geotransporte(self, reload=True):
+    def geotransporte(self):
         geojson = {'type': 'FeatureCollection', 'features': []}
         item = {'type': 'Feature',
                 'properties': {},
@@ -688,7 +688,7 @@ class Dataset():
                 for key, tp in l["trips"].items():
                     pr = copy.deepcopy(l)
                     del pr["trips"]
-                    pr["shape_id"] = key
+                    del pr["codigos"]
                     ln = copy.deepcopy(item)
                     ln['properties'] = pr
                     for lat, lon in tp:

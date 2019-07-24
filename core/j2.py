@@ -1,7 +1,14 @@
 import os
 
 from jinja2 import Environment, FileSystemLoader
+import bs4
+import re
 
+re_br=re.compile(r"<br/>(\s*</)")
+
+def post_parse(html, **kwargs):
+    html = re_br.sub(r"\1", html)
+    return html
 
 class Jnj2():
 
@@ -11,6 +18,7 @@ class Jnj2():
         self.destino = destino
         self.pre = pre
         self.post = post
+        print(self.post)
 
     def save(self, template, destino=None, parse=None, **kwargs):
         if destino is None:

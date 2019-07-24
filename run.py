@@ -5,7 +5,7 @@ from core.common import create_script
 from core.confmap import (color_to_url, colors, etapas_ban, parse_nombre,
                           parse_tipo)
 from core.dataset import Dataset
-from core.j2 import Jnj2
+from core.j2 import Jnj2, post_parse
 from core.map import Map
 from core.parsemd import parsemd
 from core.readme import readme
@@ -123,7 +123,7 @@ create_script("docs/geotransporte.js", geotransporte=d.geotransporte)
 lgd = [colors.dificultad, colors.nocturno, colors.default]
 lgd = lgd + [color_to_url(c, None) for c in lgd]
 
-j2 = Jnj2("template/", "docs/")
+j2 = Jnj2("template/", "docs/", post=post_parse)
 j2.save(
     "index.html",
     tipos=sorted(ok_tipos.items(), key=lambda x: (x[1], x[0])),

@@ -3,19 +3,16 @@ import os
 import re
 import subprocess
 import sys
-from urllib.parse import urljoin
-
 import zipfile as zipfilelib
+from io import BytesIO
+from math import atan2, cos, radians, sin, sqrt
+from urllib.parse import urljoin
 
 import bs4
 import requests
 import yaml
 from bunch import Bunch
 
-from io import BytesIO
-from zipfile import ZipFile
-import urllib.request
-from math import sin, cos, sqrt, atan2, radians
 
 def unzip(target, *urls):
     if os.path.isdir(target):
@@ -160,6 +157,7 @@ def save_js(file, data):
     with open(file, "w") as f:
         f.write(txt)
 
+
 def to_num(st, coma=False):
     s = st.strip() if st else None
     if s is None:
@@ -176,9 +174,10 @@ def to_num(st, coma=False):
         pass
     return st
 
+
 def read_csv(file, start=0, where=None, null=None, separator=";", parse=None, encoding=None):
     if parse is None:
-        parse = lambda x: x
+        def parse(x): return x
     head = None
     with open(file, "r", encoding=encoding) as f:
         for i, l in enumerate(f.readlines()):
@@ -206,6 +205,7 @@ def read_csv(file, start=0, where=None, null=None, separator=";", parse=None, en
                                 if v in null:
                                     o[k] = None
                         yield o
+
 
 def create_script(file, **kargv):
     with open(file, "w") as f:

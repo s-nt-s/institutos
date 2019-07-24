@@ -1,16 +1,16 @@
 import re
+from contextlib import closing
+from html.parser import HTMLParser
 
 import bs4
 import requests
 import simplekml
+import urllib3
 import utm
-from html.parser import HTMLParser
-from contextlib import closing
 
 from .common import get_soup
 from .utm_to_geo import utm_to_geo
 
-import urllib3
 urllib3.disable_warnings()
 
 re_sp = re.compile(r"\s+", re.MULTILINE | re.UNICODE)
@@ -20,6 +20,7 @@ re_minusculas = re.compile(r"[a-z]")
 re_nocturno = re.compile(r".*\bnocturno\b.*")
 re_title = re.compile("<title[^>]*>(.*?)</title>", re.IGNORECASE | re.DOTALL)
 htmlp = HTMLParser()
+
 
 def get_abr(t):
     if t in ("016", "017"):
@@ -46,6 +47,7 @@ def get_abr(t):
         return "EOEP"
     return None
 
+
 def status_web(url):
     buffer = ""
     try:
@@ -65,6 +67,7 @@ def status_web(url):
         return 991
     return 200
 
+
 def get_text(n, index=0):
     if type(n) is list:
         n = n[index]
@@ -83,7 +86,7 @@ def get_data(ctr):
         d1 = get_data2(ctr)
     url = d1.get("url")
     if url:
-        d1["status_web"]=status_web(url)
+        d1["status_web"] = status_web(url)
     return d1
 
 
@@ -122,17 +125,17 @@ def get_data1(ctr):
                         for n in soup.findAll(text=re_nocturno)]
     if len(data["nocturno"]) == 0:
         data["nocturno"] = None
-    etapas=[]
-    txt_especial="Educación Especial (Adaptac.LOE)"
-    txt_especial_obli="Educación Básica Obligatoria (Adaptac. LOE)"
-    etapa_especial=[]
-    etapa_especial_obli=[]
+    etapas = []
+    txt_especial = "Educación Especial (Adaptac.LOE)"
+    txt_especial_obli = "Educación Básica Obligatoria (Adaptac. LOE)"
+    etapa_especial = []
+    etapa_especial_obli = []
     for tr in soup.select("#capaEtapasContent tr"):
         td = tr.find("td")
         txt = get_text(td)
         if txt and txt != "Etapa":
             txt = txt.replace("Educación Secundaria Obligatoria", "ESO")
-            lv=0
+            lv = 0
             cls = td.attrs["class"]
             if isinstance(cls, str):
                 cls = cls.split()
@@ -141,21 +144,22 @@ def get_data1(ctr):
                     cl = cl[1:]
                     if cl.isdigit():
                         lv = int(cl)
-            if lv==0:
+            if lv == 0:
                 etapas.append(txt)
-            elif len(etapas)>0 and etapas[-1]==txt_especial:
-                if lv==40:
+            elif len(etapas) > 0 and etapas[-1] == txt_especial:
+                if lv == 40:
                     etapa_especial.append(txt)
-                elif lv==60 and len(etapa_especial)>0 and etapa_especial[-1]==txt_especial_obli:
+                elif lv == 60 and len(etapa_especial) > 0 and etapa_especial[-1] == txt_especial_obli:
                     etapa_especial_obli.append(txt)
-    if len(etapa_especial)>0:
+    if len(etapa_especial) > 0:
         etapas.remove(txt_especial)
-        if len(etapa_especial_obli)>0:
+        if len(etapa_especial_obli) > 0:
             etapa_especial.remove(txt_especial_obli)
             for et in etapa_especial_obli:
                 if "-" in et:
                     et = et.split("-", 1)[-1].strip()
-                etapa_especial.append(txt_especial_obli.replace("Básica Obligatoria", et))
+                etapa_especial.append(
+                    txt_especial_obli.replace("Básica Obligatoria", et))
         for et in etapa_especial:
             et = et.replace("Educación ", "Educación Especial ")
             etapas.append(et)

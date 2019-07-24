@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
 import textwrap
 
-from core.confmap import color_to_url, colors, parse_nombre, parse_tipo, etapas_ban
-from core.dataset import Dataset
-from core.parsemd import parsemd
+from .confmap import color_to_url, colors, etapas_ban, parse_nombre, parse_tipo
+from .dataset import Dataset
 
 d = Dataset()
 
@@ -11,7 +9,7 @@ d = Dataset()
 def _readme(key):
     i = d.indice
     if key == "datos":
-        transporte=''
+        transporte = ''
         return '''
             * [La última convocatoría]({0})
             * [El anexo 29]({1})
@@ -47,22 +45,20 @@ def _readme(key):
             bilingüismo, excelencia o innovación tecnológica
         '''.format(*lgd)
     if key == "enlaces_mail":
-        mail = [c.mail for c in d.centros if c.mail]
+        mail = sorted([c.mail for c in d.centros if c.mail])
         return "mailto:?bcc="+";".join(mail)+"&subject=Consulta%20en%20relacción%20al%20concurso%20de%20traslados"
     if key == "etapas":
-        etapas=set()
+        etapas = set()
         for c in d.centros:
             for e in (c.etapas or []):
                 etapas.add(e)
-        s=""
+        s = ""
         for e in sorted(etapas):
-            s=s +"\n* "+e
+            s = s + "\n* "+e
         return s.strip()
+
 
 def readme(mtch):
     key = mtch.group(1)
     s = _readme(key)
     return textwrap.dedent(s).strip()
-
-
-parsemd("template/README.md", "README.md", readme)

@@ -64,7 +64,7 @@ class JsonCache(Cache):
 
     def save(self, data, *args, **kargs):
         if isinstance(data, set):
-            data=list(sorted(data))
+            data = list(sorted(data))
         save_js(self.file, data)
 
 
@@ -93,6 +93,7 @@ class ListCache(Cache):
                 if i > 0:
                     f.write("\n")
                 f.write(str(l))
+
 
 class ParamJsonCache(JsonCache):
     def __init__(self, *args, **kargv):

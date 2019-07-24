@@ -8,7 +8,7 @@ profesores de enseñanza secundaria, en la Comunidad de Madrid.
 
 Los datos que se han usado han sido:
 
-* [La última convocatoría]({{indice.convocatoria}})
+* [La última convocatoria]({{indice.convocatoria}}) y [asignación de plazas]({{indice.asignacion}})
 * [El anexo 29]({{indice.anexo29}})
 * [El buscador de centros]({{indice.centros}})
 * [El portal de datos abiertos de CRTM]({{indice.transporte.opendata}})

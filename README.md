@@ -8,7 +8,7 @@ profesores de enseñanza secundaria, en la Comunidad de Madrid.
 
 Los datos que se han usado han sido:
 
-* [La última convocatoría](http://www.madrid.org/cs/Satellite?c=EDRH_Generico_FA&cid=1354540246227&pagename=PortalEducacionRRHH%2FEDRH_Generico_FA%2FEDRH_generico)
+* [La última convocatoria](http://www.madrid.org/cs/Satellite?c=EDRH_Generico_FA&cid=1354540246227&pagename=PortalEducacionRRHH%2FEDRH_Generico_FA%2FEDRH_generico) y [asignación de plazas](http://www.madrid.org/cs/Satellite?c=EDRH_Generico_FA&cid=1354576342904&pagename=PortalEducacionRRHH%2FEDRH_Generico_FA%2FEDRH_generico)
 * [El anexo 29](http://www.madrid.org/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-disposition&blobheadername2=cadena&blobheadervalue1=filename%3DAnexo+29.pdf&blobheadervalue2=language%3Des%26site%3DPortalEducacionRRHH&blobkey=id&blobtable=MungoBlobs&blobwhere=1310723140345&ssbinary=true)
 * [El buscador de centros](http://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm)
 * [El portal de datos abiertos de CRTM](https://data-crtm.opendata.arcgis.com/)

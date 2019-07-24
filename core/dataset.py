@@ -4,9 +4,8 @@ from functools import lru_cache
 
 import geopy.distance
 import requests
-from arcgis.gis import GIS
 from bunch import Bunch
-from shapely.geometry import LineString, MultiPolygon, Point, Polygon, shape
+from shapely.geometry import LineString, Polygon
 
 from .centro import get_abr, get_data
 from .common import (get_km, get_pdf, get_soup, mkBunch, mkBunchParse,

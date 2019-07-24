@@ -10,6 +10,12 @@ def post_parse(html, **kwargs):
     html = re_br.sub(r"\1", html)
     return html
 
+def toTag(html, *args):
+    if len(args)>0:
+        html = html.format(*args)
+    tag = bs4.BeautifulSoup(html, 'html.parser')
+    return tag
+
 class Jnj2():
 
     def __init__(self, origen, destino, pre=None, post=None):
@@ -18,7 +24,6 @@ class Jnj2():
         self.destino = destino
         self.pre = pre
         self.post = post
-        print(self.post)
 
     def save(self, template, destino=None, parse=None, **kwargs):
         if destino is None:

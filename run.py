@@ -5,7 +5,7 @@ from core.common import create_script
 from core.confmap import (color_to_url, colors, etapas_ban, parse_nombre,
                           parse_tipo)
 from core.dataset import Dataset
-from core.j2 import Jnj2, post_parse
+from core.j2 import Jnj2, post_parse, toTag
 from core.map import Map
 from core.parsemd import parsemd
 from core.readme import readme
@@ -65,19 +65,11 @@ if len(latlon) > 0:
                 print(" ", c.direccion)
                 print(" ", c.info)
 
-def create_sup(soup, n, title=None):
-    sup = soup.new_tag("sup")
-    a = soup.new_tag("a")
-    a.string=str(n)
-    a.attrs["href"]="#nota"+str(n)
-    a.attrs["target"]="_self"
-    if title:
-        if title.endswith("."):
-            title=title[:-1]
+def create_sup(n, title):
+    if title.endswith("."):
+        title=title[:-1]
         title = bs4.BeautifulSoup(title,'html.parser').get_text()
-        sup.attrs["title"]=title
-    sup.append(a)
-    return sup
+    return toTag('<sup title="{1}"><a href="#nota{0}" target="_self">{0}</a></sup>', n, title)
 
 def get_checks(soup, pre, *args):
     for t in args:
@@ -93,25 +85,23 @@ def create_notas(html, **kargv):
     for inp, lab in get_checks(soup, "t", "036"):
         notas[num]="Este tipo de centro no sale en los concursos, solo es accesible via comisión de servicios."
         del inp.attrs["checked"]
-        lab.append(create_sup(soup, num, title=notas[num]))
+        lab.append(create_sup(num, notas[num]))
     num=len(notas)+1
     for inp, lab in get_checks(soup, "t", "204", "205", "206"):
         notas[num]="Parece que este tipo de centro solo es para la especialidad 018. Si no es así avisame con un <a href='https://github.com/s-nt-s/institutos-map/issues'>issue</a>."
         del inp.attrs["checked"]
-        lab.append(create_sup(soup, num, title=notas[num]))
+        lab.append(create_sup(num, notas[num]))
     if notas:
-        nt = bs4.BeautifulSoup('''
+        nt = toTag('''
         <fieldset>
             <legend>Notas</legend>
             <ol>
             </ol>
         </fieldset>
-        ''', 'html.parser')
+        '''.lstrip())
         ul = nt.find("ol")
         for num, txt in sorted(notas.items()):
-            li = bs4.BeautifulSoup('''
-                <li id="nota{0}">{1}</li>
-            '''.format(num, txt), 'html.parser')
+            li = toTag('<li id="nota{0}">{1}</li>\n', num, txt)
             ul.append(li)
         div = soup.select("#settings div.content")[0]
         div.append(nt)

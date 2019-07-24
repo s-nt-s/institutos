@@ -1,16 +1,18 @@
 import os
-
-from jinja2 import Environment, FileSystemLoader
-import bs4
 import re
 
-re_br=re.compile(r"<br/>(\s*</)")
+import bs4
+from jinja2 import Environment, FileSystemLoader
+
+re_br = re.compile(r"<br/>(\s*</)")
+
 
 def toTag(html, *args):
-    if len(args)>0:
+    if len(args) > 0:
         html = html.format(*args)
     tag = bs4.BeautifulSoup(html, 'html.parser')
     return tag
+
 
 class Jnj2():
 

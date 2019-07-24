@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 
 
+import re
+
+import bs4
+
 from core.common import create_script
 from core.confmap import (color_to_url, colors, etapas_ban, parse_nombre,
                           parse_tipo)
 from core.dataset import Dataset
 from core.j2 import Jnj2, toTag
-from core.map import Map
-import bs4
-import re
 
 d = Dataset()
 d.unzip()
@@ -21,7 +22,7 @@ nocturnos = set()
 notlatlon = []
 mails = []
 for c in d.centros:
-    ok_tipos[c.tipo]=parse_tipo(d.tipos[c.tipo])
+    ok_tipos[c.tipo] = parse_tipo(d.tipos[c.tipo])
     if c.etapas:
         etapas = etapas.union(set(c.etapas))
     if c.mail:
@@ -64,27 +65,31 @@ if len(latlon) > 0:
                 print(" ", c.direccion)
                 print(" ", c.info)
 
+
 def get_checks(soup, pre, *args):
     for t in args:
         id = pre+t
         inp = soup.find("input", id=id)
         if inp:
-            yield inp, soup.find("label", attrs={"for":id})
+            yield inp, soup.find("label", attrs={"for": id})
+
 
 def create_notas(html, **kargv):
-    notas={}
+    notas = {}
     soup = bs4.BeautifulSoup(html, 'lxml')
-    num=len(notas)+1
+    num = len(notas)+1
     for inp, lab in get_checks(soup, "t", "036"):
-        notas[num]="Este tipo de centro no sale en los concursos, solo es accesible via comisión de servicios."
+        notas[num] = "Este tipo de centro no sale en los concursos, solo es accesible via comisión de servicios."
         del inp.attrs["checked"]
-        sup = toTag('<sup title="{1}"><a href="#nota{0}" target="_self">{0}</a></sup>', num, notas[num][:-1])
+        sup = toTag(
+            '<sup title="{1}"><a href="#nota{0}" target="_self">{0}</a></sup>', num, notas[num][:-1])
         lab.append(sup)
-    num=len(notas)+1
+    num = len(notas)+1
     for inp, lab in get_checks(soup, "t", "204", "205", "206"):
-        notas[num]="Parece que este tipo de centro solo es para la especialidad 018. Si no es así avisame con un <a href='https://github.com/s-nt-s/institutos-map/issues'>issue</a>."
+        notas[num] = "Parece que este tipo de centro solo es para la especialidad 018. Si no es así avisame con un <a href='https://github.com/s-nt-s/institutos-map/issues'>issue</a>."
         del inp.attrs["checked"]
-        sup = toTag('<sup title="{1}"><a href="#nota{0}" target="_self">{0}</a></sup>', num, notas[num].split(".")[0])
+        sup = toTag(
+            '<sup title="{1}"><a href="#nota{0}" target="_self">{0}</a></sup>', num, notas[num].split(".")[0])
         lab.append(sup)
     if notas:
         nt = toTag('''
@@ -102,13 +107,15 @@ def create_notas(html, **kargv):
         div.append(nt)
     return str(soup)
 
+
 create_script("docs/geocentros.js", geocentros=d.geocentros)
 create_script("docs/geotransporte.js", geotransporte=d.geotransporte)
 
 lgd = [colors.dificultad, colors.nocturno, colors.default]
 lgd = lgd + [color_to_url(c, None) for c in lgd]
 
-jHtml = Jnj2("template/", "docs/", post=lambda x, **kargs: re.sub(r"<br/>(\s*</)", r"\1", x).strip())
+jHtml = Jnj2("template/", "docs/", post=lambda x, **
+             kargs: re.sub(r"<br/>(\s*</)", r"\1", x).strip())
 jHtml.save(
     "index.html",
     tipos=sorted(ok_tipos.items(), key=lambda x: (x[1], x[0])),
@@ -123,7 +130,8 @@ jHtml.save(
     sin_etapas=len([c for c in d.centros if not c.etapas]) > 0,
     parse=create_notas
 )
-jMd = Jnj2("template/", "./", post=lambda x, **kargs: re.sub(r"\n\s*\n\s*\n", r"\n\n", x).strip())
+jMd = Jnj2("template/", "./", post=lambda x, **
+           kargs: re.sub(r"\n\s*\n\s*\n", r"\n\n", x).strip())
 jMd.save(
     "README.md",
     **jHtml.lastArgs

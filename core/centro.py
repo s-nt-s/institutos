@@ -2,11 +2,8 @@ import re
 from contextlib import closing
 from html.parser import HTMLParser
 
-import bs4
 import requests
-import simplekml
 import urllib3
-import utm
 
 from .common import get_soup
 from .utm_to_geo import utm_to_geo

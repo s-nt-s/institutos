@@ -76,9 +76,11 @@ def get_data(ctr):
     ctr = str(ctr)
     d1 = get_data1(ctr)
     if d1 is not None:
-        if not d1.get("latlon"):
-            d2 = get_data2(ctr)
-            d1["latlon"] = d2.get("latlon")
+        d2 = None
+        for k in ("latlon", "direccion", "mail"):
+            if not d1.get(k):
+                d2 = d2 or get_data2(ctr)
+                d1[k] = d2.get(k)
     else:
         d1 = get_data2(ctr)
     url = d1.get("url")
@@ -115,6 +117,7 @@ def get_data1(ctr):
     data["tipo"] = data["tlGenericoCentro"]
     data["nombre"] = data["tlNombreCentro"].title()
     data["url"] = data.get("tlWeb")
+    data["mail"] = data.get("tlMail")
     data["dat"] = data.get("tlAreaTerritorial")
     data["info"] = url
     # tipos_des[data["TIPO"]]=data["tlGenericoExt"].capitalize()
@@ -190,6 +193,9 @@ def get_data2(ctr):
 
     if soup.find("div", attrs={"data-title": "IES"}):
         data["tipo"] = "IES"
+
+    data["mail"] = soup.find(text=re.compile(
+        r"\s*Email\s*", re.MULTILINE)).findParent("li").find("a").get_text().strip()
 
     data["DAT"] = ""
     data["info"] = url

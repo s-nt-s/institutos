@@ -141,7 +141,7 @@ class Dataset():
                 nombre=i["CENTRO"],
                 direccion=dir,
                 telefono=i["TELEFONO"],
-                mail=extra.get("tlMail"),
+                mail=extra.get("mail"),
                 latlon=latlon,
                 nocturno=extra.get("nocturno"),
                 dificultad=id in self.dificultad,

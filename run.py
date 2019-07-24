@@ -69,7 +69,7 @@ def create_sup(soup, n, title=None):
     sup = soup.new_tag("sup")
     a = soup.new_tag("a")
     a.string=str(n)
-    a.attrs["href"]="#n"+str(n)
+    a.attrs["href"]="#nota"+str(n)
     a.attrs["target"]="_self"
     if title:
         if title.endswith("."):
@@ -110,7 +110,7 @@ def create_notas(html, **kargv):
         ul = nt.find("ol")
         for num, txt in sorted(notas.items()):
             li = bs4.BeautifulSoup('''
-                <li id="n{0}">{1}</li>
+                <li id="nota{0}">{1}</li>
             '''.format(num, txt), 'html.parser')
             ul.append(li)
         div = soup.select("#settings div.content")[0]

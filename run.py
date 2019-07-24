@@ -64,12 +64,6 @@ if len(latlon) > 0:
                 print(" ", c.direccion)
                 print(" ", c.info)
 
-def create_sup(n, title):
-    if title.endswith("."):
-        title=title[:-1]
-        title = bs4.BeautifulSoup(title,'html.parser').get_text()
-    return toTag('<sup title="{1}"><a href="#nota{0}" target="_self">{0}</a></sup>', n, title)
-
 def get_checks(soup, pre, *args):
     for t in args:
         id = pre+t
@@ -84,12 +78,14 @@ def create_notas(html, **kargv):
     for inp, lab in get_checks(soup, "t", "036"):
         notas[num]="Este tipo de centro no sale en los concursos, solo es accesible via comisión de servicios."
         del inp.attrs["checked"]
-        lab.append(create_sup(num, notas[num]))
+        sup = toTag('<sup title="{1}"><a href="#nota{0}" target="_self">{0}</a></sup>', num, notas[num][:-1])
+        lab.append(sup)
     num=len(notas)+1
     for inp, lab in get_checks(soup, "t", "204", "205", "206"):
         notas[num]="Parece que este tipo de centro solo es para la especialidad 018. Si no es así avisame con un <a href='https://github.com/s-nt-s/institutos-map/issues'>issue</a>."
         del inp.attrs["checked"]
-        lab.append(create_sup(num, notas[num]))
+        sup = toTag('<sup title="{1}"><a href="#nota{0}" target="_self">{0}</a></sup>', num, notas[num].split(".")[0])
+        lab.append(sup)
     if notas:
         nt = toTag('''
         <fieldset>

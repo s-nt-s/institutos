@@ -63,7 +63,7 @@ def get_num_linea(tipo, codigolinea, numerolinea):
 
 
 class Dataset():
-    TIPOS_OK = "016 017 020 031 035 039 042 047 068 070 204 205 206".split()
+    TIPOS_OK = "016 017 020 031 035 036 039 042 047 068 070 204 205 206".split()
 
     def __init__(self, *args, **kargs):
         self.indice = mkBunch("fuentes/indice.yml")

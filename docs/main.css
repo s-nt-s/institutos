@@ -27,7 +27,7 @@ div.sidebar-pane input[type=number] {
 fieldset {
   margin-top: 16px;
 }
-div.content ul {
+div.content ul,  div.content ol {
   padding-left: 20px;
 }
 ul.listCentros {
@@ -53,8 +53,6 @@ ul.listCentros li > span {
 }
 
 
-ul.leyenda {
-}
 ul.leyenda li {
   margin-top: 5px;
   margin-bottom: 5px;
@@ -120,4 +118,16 @@ a[disabled=disabled] {
 }
 #transporte div.content fieldset + p {
   clear: both;
+}
+sup {
+  margin-left: 0.3em;
+}
+sup, sup a {
+  cursor: help;
+}
+sup a {
+  text-decoration: none;
+}
+ol {
+  
 }

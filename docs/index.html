@@ -1,36 +1,30 @@
 <!DOCTYPE html>
 <html lang="es">
-	<head>
-		<base target="_blank" />
-    <meta charset="UTF-8">
-    <title>Centros educativos en Madrid</title>
-		<script type="text/javascript">
+<head>
+<base target="_blank"/>
+<meta charset="utf-8"/>
+<title>Centros educativos en Madrid</title>
+<script type="text/javascript">
 			if (document.location.protocol && document.location.hostname && document.location.protocol.startsWith("http")) {
 				if (document.location.hostname!="institutos.ml") {
 					window.location.replace("https://institutos.ml");
 				}
 			}
 		</script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-
-    <link rel="stylesheet" href="main.css"/>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
-    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-    crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
-    integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
-    crossorigin=""></script>
-    <link rel="stylesheet" href="sidebar/leaflet-sidebar.css" />
-    <script src="sidebar/leaflet-sidebar.js"></script>
-
-		<script src="geotransporte.js"></script>
-    <script src="geocentros.js"></script>
-    <script src="extend.js"></script>
-    <script src="main.js" defer="defer"></script>
-		<!-- Matomo -->
-		<script type="text/javascript">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="main.css" rel="stylesheet"/>
+<link crossorigin="" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" rel="stylesheet"/>
+<script crossorigin="" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
+<link href="sidebar/leaflet-sidebar.css" rel="stylesheet"/>
+<script src="sidebar/leaflet-sidebar.js"></script>
+<script src="geotransporte.js"></script>
+<script src="geocentros.js"></script>
+<script src="extend.js"></script>
+<script defer="defer" src="main.js"></script>
+<!-- Matomo -->
+<script type="text/javascript">
 		if (document.location.hostname=="institutos.ml") {
 		  var _paq = window._paq || [];
 		  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
@@ -45,288 +39,285 @@
 		  })();
 		}
 		</script>
-		<!-- End Matomo Code -->
-	</head>
-	<body>
-		<div id="sidebar" class="sidebar collapsed">
-        <!-- Nav tabs -->
-        <div class="sidebar-tabs">
-            <ul role="tablist">
-                <li title="Información"><a href="#home" role="tab"><i class="fa fa-info-circle"></i></a></li>
-                <li title="Filtros"><a href="#settings" role="tab"><i class="fa fa-gear"></i></a></li>
-								<li title="Transporte"><a href="#transporte" role="tab"><i class="fa fa-subway"></i></a></li>
-								<li title="Mandar mails" id="lkMessages"><a href="#messages" role="tab"><i class="fa fa-envelope"></i></a></li>
-                <li title="Tu lista" class="tulista"><a href="#lista" role="tab"><i class="fa fa-pencil-square-o"></i><span id="count">523</span></a></li>
-                <li title="Contacto, correciones y sugerencias"><a href="#contacto" role="tab"><i class="fa fa-question-circle"></i></a></li>
-								<li title="Descarga tu lista"><a id="download" data-href="data:text/plain;charset=utf-8," href="data:text/plain;charset=utf-8," download="centros.txt" role="tab"><i class="fa fa fa-cloud-download"></i></a></li>
-            </ul>
-
-            <ul role="tablist">
-                <li title="GitHub"><a href="https://github.com/s-nt-s/institutos-map" role="tab" target="_blank"><i class="fa fa-github"></i></a></li>
-            </ul>
-        </div>
-
-        <!-- Tab panes -->
-        <div class="sidebar-content">
-            <div class="sidebar-pane" id="home">
-                <h1 class="sidebar-header">
+<!-- End Matomo Code -->
+</head>
+<body>
+<div class="sidebar collapsed" id="sidebar">
+<!-- Nav tabs -->
+<div class="sidebar-tabs">
+<ul role="tablist">
+<li title="Información"><a href="#home" role="tab"><i class="fa fa-info-circle"></i></a></li>
+<li title="Filtros"><a href="#settings" role="tab"><i class="fa fa-gear"></i></a></li>
+<li title="Transporte"><a href="#transporte" role="tab"><i class="fa fa-subway"></i></a></li>
+<li id="lkMessages" title="Mandar mails"><a href="#messages" role="tab"><i class="fa fa-envelope"></i></a></li>
+<li class="tulista" title="Tu lista"><a href="#lista" role="tab"><i class="fa fa-pencil-square-o"></i><span id="count">536</span></a></li>
+<li title="Contacto, correciones y sugerencias"><a href="#contacto" role="tab"><i class="fa fa-question-circle"></i></a></li>
+<li title="Descarga tu lista"><a data-href="data:text/plain;charset=utf-8," download="centros.txt" href="data:text/plain;charset=utf-8," id="download" role="tab"><i class="fa fa fa-cloud-download"></i></a></li>
+</ul>
+<ul role="tablist">
+<li title="GitHub"><a href="https://github.com/s-nt-s/institutos-map" role="tab" target="_blank"><i class="fa fa-github"></i></a></li>
+</ul>
+</div>
+<!-- Tab panes -->
+<div class="sidebar-content">
+<div class="sidebar-pane" id="home">
+<h1 class="sidebar-header">
                     Información
                     <span class="sidebar-close"><i class="fa fa-caret-left"></i></span>
-                </h1>
-								<div class="content">
-									<h2>Leyenda</h2>
-									<p>Se han usado los siguientes iconos para dar información extra:</p>
-									<ul class="leyenda">
-										<li class="liimg"><img atl="red" src="https://maps.google.com/mapfiles/ms/micons/red.png"/> <span>Centro de especial dificultad</span></li>
-										<li class="liimg"><img atl="blue" src="https://maps.google.com/mapfiles/ms/micons/blue.png"/> <span>Centro con turnos nocturnos</span></li>
-										<li class="liimg"><img atl="green" src="https://maps.google.com/mapfiles/ms/micons/green.png"/> <span>Color por defecto</span></li>
-									  <li>Y las mismas marcas pero con un punto negro en el centro
+</h1>
+<div class="content">
+<h2>Leyenda</h2>
+<p>Se han usado los siguientes iconos para dar información extra:</p>
+<ul class="leyenda">
+<li class="liimg"><img atl="red" src="https://maps.google.com/mapfiles/ms/micons/red.png"/> <span>Centro de especial dificultad</span></li>
+<li class="liimg"><img atl="blue" src="https://maps.google.com/mapfiles/ms/micons/blue.png"/> <span>Centro con turnos nocturnos</span></li>
+<li class="liimg"><img atl="green" src="https://maps.google.com/mapfiles/ms/micons/green.png"/> <span>Color por defecto</span></li>
+<li>Y las mismas marcas pero con un punto negro en el centro
 										cuando además se da alguna característica especial como
 										bilingüismo, excelencia o innovación tecnológica</li>
-										<li>Cada marca es sustituida por una chincheta
+<li>Cada marca es sustituida por una chincheta
 											cuando se selecciona, y por un circulo pequeño cuando
 											se descarta</li>
-									</ul>
-									<h2>Objetivo</h2>
-									<p>El objetivo de este mapa es ayudar a elegir destino
+</ul>
+<h2>Objetivo</h2>
+<p>El objetivo de este mapa es ayudar a elegir destino
 										a los funcionarios de carrera o interinos del cuerpo 0590,
 										profesores de enseñanza secundaria, en la Comunidad de Madrid.
 										</p>
-									<h2>Fuentes</h2>
-									<p>Para ello se han usado las siguientes fuentes:</p>
-									<ul>
-								      <li>
-												<a href="http://www.madrid.org/cs/Satellite?c=EDRH_Generico_FA&cid=1354540246227&pagename=PortalEducacionRRHH%2FEDRH_Generico_FA%2FEDRH_generico">La última convocatoría</a></i>
-											</li>
-								      <li>
-												<a href="http://www.madrid.org/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-disposition&blobheadername2=cadena&blobheadervalue1=filename%3DAnexo+29.pdf&blobheadervalue2=language%3Des%26site%3DPortalEducacionRRHH&blobkey=id&blobtable=MungoBlobs&blobwhere=1310723140345&ssbinary=true">El anexo 29</a></i>
-											</li>
-								      <li>
-												<a href="http://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm">El buscador de centros</a></i>
-											</li>
-											<li>
-												<a href="https://data-crtm.opendata.arcgis.com/">El portal de datos abiertos de CRTM</a>
-											</li>
-									</ul>
-									<p>
+<h2>Fuentes</h2>
+<p>Para ello se han usado las siguientes fuentes:</p>
+<ul>
+<li>
+<a href="http://www.madrid.org/cs/Satellite?c=EDRH_Generico_FA&amp;cid=1354540246227&amp;pagename=PortalEducacionRRHH%2FEDRH_Generico_FA%2FEDRH_generico">La última convocatoría</a>
+</li>
+<li>
+<a href="http://www.madrid.org/cs/Satellite?blobcol=urldata&amp;blobheader=application%2Fpdf&amp;blobheadername1=Content-disposition&amp;blobheadername2=cadena&amp;blobheadervalue1=filename%3DAnexo+29.pdf&amp;blobheadervalue2=language%3Des%26site%3DPortalEducacionRRHH&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1310723140345&amp;ssbinary=true">El anexo 29</a>
+</li>
+<li>
+<a href="http://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm">El buscador de centros</a>
+</li>
+<li>
+<a href="https://data-crtm.opendata.arcgis.com/">El portal de datos abiertos de CRTM</a>
+</li>
+</ul>
+<p>
 										De todos los centros que devuelve <a href="http://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm">el buscador</a> solo se muestran
 										aquellos que son de alguno de los siguientes tipos:
 									</p>
-									<ul>
-					        										<li>Centro de educación adultos establecimientos penitenciarios</li>
-																			<li>Centro de educación de personas adultas</li>
-																			<li>Centro integrado de enseñanzas artísticas elementales y profesionales de música, educación primaria y secundaria</li>
-																			<li>Centro integrado de enseñanzas artísticas profesionales de música y educación secundaria</li>
-																			<li>Centro integrado de formación profesional</li>
-																			<li>Centro regional de enseñanzas integradas</li>
-																			<li>Colegio de educación especial</li>
-																			<li>Colegio de educación infantil, primaria y secundaria</li>
-																			<li>Equipos de orientación educativa y psicopedagógica. Atención temprana</li>
-																			<li>Equipos de orientación educativa y psicopedagógica. Específica</li>
-																			<li>Equipos de orientación educativa y psicopedagógica. General</li>
-																			<li>Instituto de educación secundaria</li>
-																			<li>Sección de instituto de educación secundaria</li>
-																		</ul>
-									<p>
+<ul>
+<li>Aulas hospitalarias</li>
+<li>Centro de educación adultos establecimientos penitenciarios</li>
+<li>Centro de educación de personas adultas</li>
+<li>Centro integrado de enseñanzas artísticas elementales y profesionales de música, educación primaria y secundaria</li>
+<li>Centro integrado de enseñanzas artísticas profesionales de música y educación secundaria</li>
+<li>Centro integrado de formación profesional</li>
+<li>Centro regional de enseñanzas integradas</li>
+<li>Colegio de educación especial</li>
+<li>Colegio de educación infantil, primaria y secundaria</li>
+<li>Equipos de orientación educativa y psicopedagógica. Atención temprana</li>
+<li>Equipos de orientación educativa y psicopedagógica. Específica</li>
+<li>Equipos de orientación educativa y psicopedagógica. General</li>
+<li>Instituto de educación secundaria</li>
+<li>Sección de instituto de educación secundaria</li>
+</ul>
+<p>
 										y que (en caso de que este la información disponible) ofrezcan al menos alguna de estas etapas educativas:									</p>
-									<ul>
-					        										<li>"Bachibac" Programa doble titulación Bachiller-Baccalaureat</li>
-																			<li>Bachillerato</li>
-																			<li>Curso preparatorio prueba de acceso Grado Superior (LOE)</li>
-																			<li>Desarrollo Personal</li>
-																			<li>ESO (LOE-LOMCE)</li>
-																			<li>ESO para personas adultas (LOE-LOMCE)</li>
-																			<li>Educación Especial Básica Obligatoria (Adaptac. LOE)</li>
-																			<li>Educación Especial ESO (Adaptac. LOE)</li>
-																			<li>Español para inmigrantes</li>
-																			<li>Formación Profesional Básica (LOE-LOMCE)</li>
-																		</ul>
-
-																	</div>
-	            </div>
-            <div class="sidebar-pane" id="settings">
-                <h1 class="sidebar-header">Filtros<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
-                <div class="content filter">
-									<p>
+<ul>
+<li>"Bachibac" Programa doble titulación Bachiller-Baccalaureat</li>
+<li>Bachillerato</li>
+<li>Curso preparatorio prueba de acceso Grado Superior (LOE)</li>
+<li>Desarrollo Personal</li>
+<li>ESO (LOE-LOMCE)</li>
+<li>ESO para personas adultas (LOE-LOMCE)</li>
+<li>Educación Especial Básica Obligatoria (Adaptac. LOE)</li>
+<li>Educación Especial ESO (Adaptac. LOE)</li>
+<li>Español para inmigrantes</li>
+<li>Formación Profesional Básica (LOE-LOMCE)</li>
+</ul>
+</div>
+</div>
+<div class="sidebar-pane" id="settings">
+<h1 class="sidebar-header">Filtros<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+<div class="content filter">
+<p>
 										Los centros seleccionados siempre apareceran, independiemtemente del filtro definido en esta sección.
 									</p>
-									<!--p>
+<!--p>
                   <label for="siempre">Mostrar siempre</label>: <input type="text" id="siempre" pattern="[0-9 ]+" title="Escriba aquí los códigos de los centros que quiere que se muestren independientemente de los filtros" placeholder="Escriba aquí los códigos de los centros que quiere que se muestren independientemente de los filtros"/>
                 </p>
                 <p>
                   <label for="nunca">Ocultar siempre</label>: <input type="text" id="nunca" pattern="[0-9 ]+" title="Escriba aquí los códigos de los centros que quiere que no se muestren independientemente de los filtros" placeholder="Escriba aquí los códigos de los centros que quiere que no se muestren independientemente de los filtros"/>
                 </p-->
-                <fieldset id="tipos">
-                  <legend>Tipos</legend>
-					        										<input title="Centro de educación adultos establecimientos penitenciarios" id="t035" type="checkbox" checked="checked"/> <label for="t035">Centro de educación adultos establecimientos penitenciarios</label><br/>
-																			<input title="Centro de educación de personas adultas" id="t031" type="checkbox" checked="checked"/> <label for="t031">Centro de educación de personas adultas</label><br/>
-																			<input title="Centro integrado de enseñanzas artísticas elementales y profesionales de música, educación primaria y secundaria" id="t016" type="checkbox" checked="checked"/> <label for="t016">Centro integrado de enseñanzas artísticas elementales y profesionales de música, educación primaria y secundaria</label><br/>
-																			<input title="Centro integrado de enseñanzas artísticas profesionales de música y educación secundaria" id="t017" type="checkbox" checked="checked"/> <label for="t017">Centro integrado de enseñanzas artísticas profesionales de música y educación secundaria</label><br/>
-																			<input title="Centro integrado de formación profesional" id="t068" type="checkbox" checked="checked"/> <label for="t068">Centro integrado de formación profesional</label><br/>
-																			<input title="Centro regional de enseñanzas integradas" id="t039" type="checkbox" checked="checked"/> <label for="t039">Centro regional de enseñanzas integradas</label><br/>
-																			<input title="Colegio de educación especial" id="t020" type="checkbox" checked="checked"/> <label for="t020">Colegio de educación especial</label><br/>
-																			<input title="Colegio de educación infantil, primaria y secundaria" id="t070" type="checkbox" checked="checked"/> <label for="t070">Colegio de educación infantil, primaria y secundaria</label><br/>
-																			<input title="Equipos de orientación educativa y psicopedagógica. Atención temprana" id="t205" type="checkbox" checked="checked"/> <label for="t205">Equipos de orientación educativa y psicopedagógica. Atención temprana</label><br/>
-																			<input title="Equipos de orientación educativa y psicopedagógica. Específica" id="t204" type="checkbox" checked="checked"/> <label for="t204">Equipos de orientación educativa y psicopedagógica. Específica</label><br/>
-																			<input title="Equipos de orientación educativa y psicopedagógica. General" id="t206" type="checkbox" checked="checked"/> <label for="t206">Equipos de orientación educativa y psicopedagógica. General</label><br/>
-																			<input title="Instituto de educación secundaria" id="t042" type="checkbox" checked="checked"/> <label for="t042">Instituto de educación secundaria</label><br/>
-																			<input title="Sección de instituto de educación secundaria" id="t047" type="checkbox" checked="checked"/> <label for="t047">Sección de instituto de educación secundaria</label><br/>
-									                </fieldset>
-                <fieldset id="nocturnos">
-                  <legend>Nocturnos en</legend>
-					        										  <input title="Artes (LOE-LOMCE)" id="n1" type="checkbox" checked="checked"/> <label for="n1">Artes (LOE-LOMCE)</label><br/>
-																			  <input title="Ciencias (LOE-LOMCE)" id="n2" type="checkbox" checked="checked"/> <label for="n2">Ciencias (LOE-LOMCE)</label><br/>
-																			  <input title="Humanidades y Ciencias Sociales (LOE-LOMCE)" id="n3" type="checkbox" checked="checked"/> <label for="n3">Humanidades y Ciencias Sociales (LOE-LOMCE)</label><br/>
-									                </fieldset>
-                <fieldset id="etapas">
-                  <legend>Etapas eductativas</legend>
-					        										  <input title='"Bachibac" Programa doble titulación Bachiller-Baccalaureat' id="et1" type="checkbox" checked="checked"/> <label for="et1">"Bachibac" Programa doble titulación Bachiller-Baccalaureat</label><br/>
-																			  <input title='Bachillerato' id="et2" type="checkbox" checked="checked"/> <label for="et2">Bachillerato</label><br/>
-																			  <input title='Curso preparatorio prueba de acceso Grado Superior (LOE)' id="et3" type="checkbox" checked="checked"/> <label for="et3">Curso preparatorio prueba de acceso Grado Superior (LOE)</label><br/>
-																			  <input title='Desarrollo Personal' id="et4" type="checkbox" checked="checked"/> <label for="et4">Desarrollo Personal</label><br/>
-																			  <input title='ESO (LOE-LOMCE)' id="et5" type="checkbox" checked="checked"/> <label for="et5">ESO (LOE-LOMCE)</label><br/>
-																			  <input title='ESO para personas adultas (LOE-LOMCE)' id="et6" type="checkbox" checked="checked"/> <label for="et6">ESO para personas adultas (LOE-LOMCE)</label><br/>
-																			  <input title='Educación Especial Básica Obligatoria (Adaptac. LOE)' id="et7" type="checkbox" checked="checked"/> <label for="et7">Educación Especial Básica Obligatoria (Adaptac. LOE)</label><br/>
-																			  <input title='Educación Especial ESO (Adaptac. LOE)' id="et8" type="checkbox" checked="checked"/> <label for="et8">Educación Especial ESO (Adaptac. LOE)</label><br/>
-																			  <input title='Español para inmigrantes' id="et9" type="checkbox" checked="checked"/> <label for="et9">Español para inmigrantes</label><br/>
-																			  <input title='Formación Profesional Básica (LOE-LOMCE)' id="et10" type="checkbox" checked="checked"/> <label for="et10">Formación Profesional Básica (LOE-LOMCE)</label><br/>
-																													<input title='Centros sin información sobre etapas educativas' id="etNull" type="checkbox" checked="checked"/> <label for="etNull"><em>Centros sin información sobre etapas educativas</em></label><br/>
-									                </fieldset>
-                <fieldset id="comunicacion">
-                  <legend>Transporte</legend>
-									<label for="kms">Mostrar solo centros a menos de </label> <input type="number" id="kms" pattern="[0-9]+" title="Deje vacio el campo para no filtrar" width="2em"/>
-									<label for="kms">metros de una estación de metro, metro ligero o cercanias</label>
-                </fieldset>
-                <fieldset id="otros">
-                  <legend>Otras condiciones especiales</legend>
-										  <input id="dificultad" type="checkbox" checked="checked" title="Centro de especial dificultad"/> <label for="dificultad">Centro de especial dificultad</label><br/>
-										  <input id="excelencia" type="checkbox" checked="checked" title="Centro o aula de excelencia"/> <label for="excelencia">Centro o aula de excelencia</label><br/>
-											<input id="bilingue" type="checkbox" checked="checked" title="Bilingüismo o sección de idioma"/> <label for="bilingue">Bilingüismo o sección de idioma</label><br/>
-											<input id="tecnico" type="checkbox" checked="checked" title="Instituto de innovación tecnológica"/> <label for="tecnico">Instituto de innovación tecnológica</label>
-                </fieldset>
-                </div>
-            </div>
+<fieldset id="tipos">
+<legend>Tipos</legend>
+<input id="t036" title="Aulas hospitalarias" type="checkbox"/> <label for="t036">Aulas hospitalarias<sup title="Este tipo de centro no sale en los concursos, solo es accesible via comisión de servicios"><a href="#n1" target="_self">1</a></sup></label><br/>
+<input checked="checked" id="t035" title="Centro de educación adultos establecimientos penitenciarios" type="checkbox"/> <label for="t035">Centro de educación adultos establecimientos penitenciarios</label><br/>
+<input checked="checked" id="t031" title="Centro de educación de personas adultas" type="checkbox"/> <label for="t031">Centro de educación de personas adultas</label><br/>
+<input checked="checked" id="t016" title="Centro integrado de enseñanzas artísticas elementales y profesionales de música, educación primaria y secundaria" type="checkbox"/> <label for="t016">Centro integrado de enseñanzas artísticas elementales y profesionales de música, educación primaria y secundaria</label><br/>
+<input checked="checked" id="t017" title="Centro integrado de enseñanzas artísticas profesionales de música y educación secundaria" type="checkbox"/> <label for="t017">Centro integrado de enseñanzas artísticas profesionales de música y educación secundaria</label><br/>
+<input checked="checked" id="t068" title="Centro integrado de formación profesional" type="checkbox"/> <label for="t068">Centro integrado de formación profesional</label><br/>
+<input checked="checked" id="t039" title="Centro regional de enseñanzas integradas" type="checkbox"/> <label for="t039">Centro regional de enseñanzas integradas</label><br/>
+<input checked="checked" id="t020" title="Colegio de educación especial" type="checkbox"/> <label for="t020">Colegio de educación especial</label><br/>
+<input checked="checked" id="t070" title="Colegio de educación infantil, primaria y secundaria" type="checkbox"/> <label for="t070">Colegio de educación infantil, primaria y secundaria</label><br/>
+<input id="t205" title="Equipos de orientación educativa y psicopedagógica. Atención temprana" type="checkbox"/> <label for="t205">Equipos de orientación educativa y psicopedagógica. Atención temprana<sup title="Parece que este tipo de centro solo es para la especialidad 018. Si no es así avisame con un issue"><a href="#n2" target="_self">2</a></sup></label><br/>
+<input id="t204" title="Equipos de orientación educativa y psicopedagógica. Específica" type="checkbox"/> <label for="t204">Equipos de orientación educativa y psicopedagógica. Específica<sup title="Parece que este tipo de centro solo es para la especialidad 018. Si no es así avisame con un issue"><a href="#n2" target="_self">2</a></sup></label><br/>
+<input id="t206" title="Equipos de orientación educativa y psicopedagógica. General" type="checkbox"/> <label for="t206">Equipos de orientación educativa y psicopedagógica. General<sup title="Parece que este tipo de centro solo es para la especialidad 018. Si no es así avisame con un issue"><a href="#n2" target="_self">2</a></sup></label><br/>
+<input checked="checked" id="t042" title="Instituto de educación secundaria" type="checkbox"/> <label for="t042">Instituto de educación secundaria</label><br/>
+<input checked="checked" id="t047" title="Sección de instituto de educación secundaria" type="checkbox"/> <label for="t047">Sección de instituto de educación secundaria</label><br/>
+</fieldset>
+<fieldset id="nocturnos">
+<legend>Nocturnos en</legend>
+<input checked="checked" id="n1" title="Artes (LOE-LOMCE)" type="checkbox"/> <label for="n1">Artes (LOE-LOMCE)</label><br/>
+<input checked="checked" id="n2" title="Ciencias (LOE-LOMCE)" type="checkbox"/> <label for="n2">Ciencias (LOE-LOMCE)</label><br/>
+<input checked="checked" id="n3" title="Humanidades y Ciencias Sociales (LOE-LOMCE)" type="checkbox"/> <label for="n3">Humanidades y Ciencias Sociales (LOE-LOMCE)</label><br/>
+</fieldset>
+<fieldset id="etapas">
+<legend>Etapas eductativas</legend>
+<input checked="checked" id="et1" title='"Bachibac" Programa doble titulación Bachiller-Baccalaureat' type="checkbox"/> <label for="et1">"Bachibac" Programa doble titulación Bachiller-Baccalaureat</label><br/>
+<input checked="checked" id="et2" title="Bachillerato" type="checkbox"/> <label for="et2">Bachillerato</label><br/>
+<input checked="checked" id="et3" title="Curso preparatorio prueba de acceso Grado Superior (LOE)" type="checkbox"/> <label for="et3">Curso preparatorio prueba de acceso Grado Superior (LOE)</label><br/>
+<input checked="checked" id="et4" title="Desarrollo Personal" type="checkbox"/> <label for="et4">Desarrollo Personal</label><br/>
+<input checked="checked" id="et5" title="ESO (LOE-LOMCE)" type="checkbox"/> <label for="et5">ESO (LOE-LOMCE)</label><br/>
+<input checked="checked" id="et6" title="ESO para personas adultas (LOE-LOMCE)" type="checkbox"/> <label for="et6">ESO para personas adultas (LOE-LOMCE)</label><br/>
+<input checked="checked" id="et7" title="Educación Especial Básica Obligatoria (Adaptac. LOE)" type="checkbox"/> <label for="et7">Educación Especial Básica Obligatoria (Adaptac. LOE)</label><br/>
+<input checked="checked" id="et8" title="Educación Especial ESO (Adaptac. LOE)" type="checkbox"/> <label for="et8">Educación Especial ESO (Adaptac. LOE)</label><br/>
+<input checked="checked" id="et9" title="Español para inmigrantes" type="checkbox"/> <label for="et9">Español para inmigrantes</label><br/>
+<input checked="checked" id="et10" title="Formación Profesional Básica (LOE-LOMCE)" type="checkbox"/> <label for="et10">Formación Profesional Básica (LOE-LOMCE)</label><br/>
+<input checked="checked" id="etNull" title="Centros sin información sobre etapas educativas" type="checkbox"/> <label for="etNull"><em>Centros sin información sobre etapas educativas</em></label><br/>
+</fieldset>
+<fieldset id="comunicacion">
+<legend>Transporte</legend>
+<label for="kms">Mostrar solo centros a menos de </label> <input id="kms" pattern="[0-9]+" title="Deje vacio el campo para no filtrar" type="number" width="2em"/>
+<label for="kms">metros de una estación de metro, metro ligero o cercanias</label>
+</fieldset>
+<fieldset id="otros">
+<legend>Otras condiciones especiales</legend>
+<input checked="checked" id="dificultad" title="Centro de especial dificultad" type="checkbox"/> <label for="dificultad">Centro de especial dificultad</label><br/>
+<input checked="checked" id="excelencia" title="Centro o aula de excelencia" type="checkbox"/> <label for="excelencia">Centro o aula de excelencia</label><br/>
+<input checked="checked" id="bilingue" title="Bilingüismo o sección de idioma" type="checkbox"/> <label for="bilingue">Bilingüismo o sección de idioma</label><br/>
+<input checked="checked" id="tecnico" title="Instituto de innovación tecnológica" type="checkbox"/> <label for="tecnico">Instituto de innovación tecnológica</label>
+</fieldset>
 
-						 <div class="sidebar-pane" id="messages">
-						      <h1 class="sidebar-header">Mandar un mail<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
-									<div class="content">
-										<p>
+<fieldset>
+<legend>Notas</legend>
+<ol>
+
+<li id="n1">Este tipo de centro no sale en los concursos, solo es accesible via comisión de servicios.</li>
+
+<li id="n2">Parece que este tipo de centro solo es para la especialidad 018. Si no es así avisame con un <a href="https://github.com/s-nt-s/institutos-map/issues">issue</a>.</li>
+</ol>
+</fieldset>
+</div>
+</div>
+<div class="sidebar-pane" id="messages">
+<h1 class="sidebar-header">Mandar un mail<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+<div class="content">
+<p>
 											Puedes mandar un correo electrónico a todos los centros que se estan motrando en el mapa
-											<a id="maillink" data-href="mailto:?subject=Consulta%20en%20relación%20al%20concurso%20de%20traslados&" href="mailto:?subject=Consulta%20en%20relacción%20al%20concurso%20de%20traslados&bcc=cepa.alborada.navalcarnero@educa.madrid.org;cepa.alcala@educa.madrid.org;cepa.alcorcon@educa.madrid.org;cepa.alonsoquijano.valdemoro@educa.madrid.org;cepa.aluche.madrid@educa.madrid.org;cepa.aranjuez@educa.madrid.org;cepa.arganda@educa.madrid.org;cepa.arganzuela.madrid@educa.madrid.org;cepa.buitrago@educa.madrid.org;cepa.canillejas.madrid@educa.madrid.org;cepa.centro.madrid@educa.madrid.org;cepa.cidcampeador.madrid@educa.madrid.org;cepa.ciudadlineal.madrid@educa.madrid.org;cepa.claracampoamor.alcala@educa.madrid.org;cepa.colladovillalba@educa.madrid.org;cepa.colmenarviejo@educa.madrid.org;cepa.coslada@educa.madrid.org;cepa.daoizyvelarde.madrid@educa.madrid.org;cepa.dulcechacon.aranjuez@educa.madrid.org;cepa.dulcechacon.madrid@educa.madrid.org;cepa.elmolar@educa.madrid.org;cepa.entrevias.madrid@educa.madrid.org;cepa.fuencarral.madrid@educa.madrid.org;cepa.fuenlabrada@educa.madrid.org;cepa.galapagar@educa.madrid.org;cepa.getafe@educa.madrid.org;cepa.gloriafuertes.navalcarnero@educa.madrid.org;cepa.joaquinsorolla.madrid@educa.madrid.org;cepa.josehierro.alcala@educa.madrid.org;cepa.laalbufera.madrid@educa.madrid.org;cepa.lamesta.villanuevadelacanada@educa.madrid.org;cepa.lasrosas.madrid@educa.madrid.org;cepa.lasrozas@educa.madrid.org;cepa.leganes@educa.madrid.org;cepa.losrosales.madrid@educa.madrid.org;cepa.mancomunidadsuroeste.grinon@educa.madrid.org;cepa.maramarillo.madrid@educa.madrid.org;cepa.mariovargasllosa.majadahonda@educa.madrid.org;cepa.moncloa.madrid@educa.madrid.org;cepa.moratalaz.madrid@educa.madrid.org;cepa.mostoles@educa.madrid.org;cepa.oporto.madrid@educa.madrid.org;cepa.orcasitas.madrid@educa.madrid.org;cepa.pabloguzman.madrid@educa.madrid.org;cepa.panbendito.madrid@educa.madrid.org;cepa.paracuellos@educa.madrid.org;cepa.parla@educa.madrid.org;cepa.pinto@educa.madrid.org;cepa.pozuelodealarcon@educa.madrid.org;cepa.rivas@educa.madrid.org;cepa.sampedro.madrid@educa.madrid.org;cepa.sanfernandodehenares@educa.madrid.org;cepa.sanlorenzo@educa.madrid.org;cepa.sanmartindelavega@educa.madrid.org;cepa.sanmartindevaldeiglesias@educa.madrid.org;cepa.sansebastian@educa.madrid.org;cepa.sierradeguadarrama.colladomediano@educa.madrid.org;cepa.tetuan.madrid@educa.madrid.org;cepa.torrejondeardoz@educa.madrid.org;cepa.torrelaguna@educa.madrid.org;cepa.torrelodones@educa.madrid.org;cepa.torresdelaalameda@educa.madrid.org;cepa.valdemoro@educa.madrid.org;cepa.vallecas.madrid@educa.madrid.org;cepa.vicalvaro.madrid@educa.madrid.org;cepa.villarejodesalvanes@educa.madrid.org;cepa.villaverde.madrid@educa.madrid.org;cepa.vistaalegre.madrid@educa.madrid.org;cepa.yucatan.soto@educa.madrid.org;cifp.simoneortega.mostoles@educa.madrid.org;cim.morenotorroba.madrid@educa.madrid.org;cim.sanlorenzo@educa.madrid.org;cp.adolfosuarez.madrid@educa.madrid.org;cp.beethoven.torrejondeardoz@educa.madrid.org;cp.cervantes.alcorcon@educa.madrid.org;cp.cervantes.valdilecha@educa.madrid.org;cp.elcantizal.lasrozas@educa.madrid.org;cp.elencinar.torrelodones@educa.madrid.org;cp.eugeniomuro.cadalso@educa.madrid.org;cp.garcialorca.camarma@educa.madrid.org;cp.goyeneche.nuevobaztan@educa.madrid.org;cp.isabellacatolica.navas@educa.madrid.org;cp.juanramonjimenez.becerril@educa.madrid.org;cp.losangeles.pozuelodealarcon@educa.madrid.org;cp.maestrorodrigo.aranjuez@educa.madrid.org;cp.mariamoliner.villanuevadelacanada@educa.madrid.org;cp.martinagarcia.fuenteelsaz@educa.madrid.org;cp.principedonfelipe.boadilla@educa.madrid.org;cp.principesdeasturias.pozuelodealarcon@educa.madrid.org;cp.puertadelasierra.venturada@educa.madrid.org;cp.salvadordali.fuenlabrada@educa.madrid.org;cp.sanblas.ajalvir@educa.madrid.org;cp.sansebastian.elboalo@educa.madrid.org;cp.santoangeldelaguarda.chapineria@educa.madrid.org;cp.santodomingo.algete@educa.madrid.org;cp.suarezsomonte.cenicientos@educa.madrid.org;cp.velazquez.fuenlabrada@educa.madrid.org;cp.vicentealeixandre.miraflores@educa.madrid.org;cp.villadecobena.cobena@educa.madrid.org;cpee.alfonsodecimo.leganes@educa.madrid.org;cpee.franciscodelpozo.madrid@educa.madrid.org;cpee.goyeneche.madrid@educa.madrid.org;cpee.guadarrama.coslada@educa.madrid.org;cpee.infantaelena.madrid@educa.madrid.org;cpee.inmaculadaconcepcion.madrid@educa.madrid.org;cpee.joanmiro.madrid@educa.madrid.org;cpee.juanveintitres.fuenlabrada@educa.madrid.org;cpee.laquinta.madrid@educa.madrid.org;cpee.mariasoriano.madrid@educa.madrid.org;cpee.miguelhernandez.colmenarviejo@educa.madrid.org;cpee.monteabantos.lasrozas@educa.madrid.org;cpee.montessori.parla@educa.madrid.org;cpee.penalara.colladovillalba@educa.madrid.org;cpee.picasso.alcala@educa.madrid.org;cpee.poncedeleon.madrid@educa.madrid.org;cpee.princesasofia.madrid@educa.madrid.org;cpee.principedeasturias.aranjuez@educa.madrid.org;cpee.ramonycajal.getafe@educa.madrid.org;cpee.rosaparks.coslada@educa.madrid.org;cpee.severoochoa.alcorcon@educa.madrid.org;cpee.sorjuanainesdelacruz.fuenlabrada@educa.madrid.org;cpee.unamuno.mostoles@educa.madrid.org;cpee.vallecas.madrid@educa.madrid.org;cpee.vicenteferrer.sansebastian@educa.madrid.org;crei.scorazon.madrid@educa.madrid.org;eoep.alcala@educa.madrid.org;eoep.alcobendas@educa.madrid.org;eoep.alcorcon@educa.madrid.org;eoep.alteracionesdesarrollo.madrid@educa.madrid.org;eoep.aranjuez@educa.madrid.org;eoep.arganda@educa.madrid.org;eoep.arganzuela.madrid@educa.madrid.org;eoep.at.alcala@educa.madrid.org;eoep.at.alcorcon@educa.madrid.org;eoep.at.aranjuez@educa.madrid.org;eoep.at.arganda@educa.madrid.org;eoep.at.colmenarviejo@educa.madrid.org;eoep.at.fuenlabrada@educa.madrid.org;eoep.at.getafe@educa.madrid.org;eoep.at.hortaleza@educa.madrid.org;eoep.at.lacabrera@educa.madrid.org;eoep.at.latina@educa.madrid.org;eoep.at.leganes@educa.madrid.org;eoep.at.mostoles@educa.madrid.org;eoep.at.navalcarnero@educa.madrid.org;eoep.at.parla@educa.madrid.org;eoep.at.pozuelodealarcon@educa.madrid.org;eoep.at.puentevallecas@educa.madrid.org;eoep.at.sanblas@educa.madrid.org;eoep.at.sanfernando@educa.madrid.org;eoep.at.sanmartindevaldeiglesias@educa.madrid.org;eoep.at.sansebastian@educa.madrid.org;eoep.at.tetuan@educa.madrid.org;eoep.at.torrelodones@educa.madrid.org;eoep.at.villanuevadelacanada@educa.madrid.org;eoep.at.villavallecas@educa.madrid.org;eoep.at.villaverde@educa.madrid.org;eoep.auditivas.madrid@educa.madrid.org;eoep.carabanchel.madrid@educa.madrid.org;eoep.colladovillalba@educa.madrid.org;eoep.colmenarviejo@educa.madrid.org;eoep.coslada@educa.madrid.org;eoep.fuenlabrada@educa.madrid.org;eoep.getafe@educa.madrid.org;eoep.guadarrama@educa.madrid.org;eoep.hortaleza.madrid@educa.madrid.org;eoep.lacabrera@educa.madrid.org;eoep.lasrozas@educa.madrid.org;eoep.latina.madrid@educa.madrid.org;eoep.leganes@educa.madrid.org;eoep.moncloa.madrid@educa.madrid.org;eoep.moratalaz.madrid@educa.madrid.org;eoep.mostoles@educa.madrid.org;eoep.motoricas.madrid@educa.madrid.org;eoep.navalcarnero@educa.madrid.org;eoep.parla@educa.madrid.org;eoep.pozuelodealarcon@educa.madrid.org;eoep.puentevallecas.madrid@educa.madrid.org;eoep.retiro.madrid@educa.madrid.org;eoep.sanblas.madrid@educa.madrid.org;eoep.sanmartindevaldeiglesias@educa.madrid.org;eoep.sansebastian@educa.madrid.org;eoep.tetuan.madrid@educa.madrid.org;eoep.torrejondeardoz@educa.madrid.org;eoep.villanuevadelacanada@educa.madrid.org;eoep.villarejo@educa.madrid.org;eoep.villaverde.madrid@educa.madrid.org;eoep.visuales.madrid@educa.madrid.org;ies.adolfosuarez.paracuellos@educa.madrid.org;ies.africa.fuenlabrada@educa.madrid.org;ies.agora.alcobendas@educa.madrid.org;ies.alamedadeosuna.madrid@educa.madrid.org;ies.alarnes.getafe@educa.madrid.org;ies.albeniz.alcala@educa.madrid.org;ies.albeniz.leganes@educa.madrid.org;ies.alberti.coslada@educa.madrid.org;ies.aldebaran.alcobendas@educa.madrid.org;ies.alfonsomoreno.brunete@educa.madrid.org;ies.alfredokraus.madrid@educa.madrid.org;ies.alkalanahar.alcala@educa.madrid.org;ies.almudena.madrid@educa.madrid.org;ies.alonsodeavellan.alcala@educa.madrid.org;ies.alonsoquijano.alcala@educa.madrid.org;ies.alpajes.aranjuez@educa.madrid.org;ies.alpedrete.alpedrete@educa.madrid.org;ies.alsatt.algete@educa.madrid.org;ies.altair.getafe@educa.madrid.org;ies.altojarama.torrelaguna@educa.madrid.org;ies.anafrank.madrid@educa.madrid.org;ies.anammatute.velilla@educa.madrid.org;ies.angelcorella.colmenarviejo@educa.madrid.org;ies.angelysern.navalcarnero@educa.madrid.org;ies.anselmolorenzo.sanmartindelavega@educa.madrid.org;ies.antares.rivas@educa.madrid.org;ies.antoniodenebrija.mostoles@educa.madrid.org;ies.antoniodomingue.madrid@educa.madrid.org;ies.antoniogala.mostoles@educa.madrid.org;ies.antoniogaudi.coslada@educa.madrid.org;ies.antoniolopez.trescantos@educa.madrid.org;ies.antoniolopezgarcia.getafe@educa.madrid.org;ies.arciprestedehita.madrid@educa.madrid.org;ies.arquitectopedro.alcala@educa.madrid.org;ies.arquitectoperid.leganes@educa.madrid.org;ies.arquitectoventurarodriguez.boadilla@educa.madrid.org;ies.arturosoria.madrid@educa.madrid.org;ies.atenea.alcala@educa.madrid.org;ies.atenea.sansebastian@educa.madrid.org;ies.avalon.valdemoro@educa.madrid.org;ies.avenidadelostor.madrid@educa.madrid.org;ies.barajas.madrid@educa.madrid.org;ies.barriodebilbao.madrid@educa.madrid.org;ies.barrioloranca.fuenlabrada@educa.madrid.org;ies.barriosimancas.madrid@educa.madrid.org;ies.beatrizgalindo.madrid@educa.madrid.org;ies.becquer.algete@educa.madrid.org;ies.benjaminrua.mostoles@educa.madrid.org;ies.blasdeotero.madrid@educa.madrid.org;ies.burgoiecheverria.lasrozas@educa.madrid.org;ies.butarque.leganes@educa.madrid.org;ies.calatalifa.villaviciosa@educa.madrid.org;ies.calderon.pinto@educa.madrid.org;ies.calderondelabar.madrid@educa.madrid.org;ies.camilojosecela.pozuelodealarcon@educa.madrid.org;ies.canadareal.galapagar@educa.madrid.org;ies.cardenalcisnero.alcala@educa.madrid.org;ies.cardenalcisnero.madrid@educa.madrid.org;ies.cardenalherrera.madrid@educa.madrid.org;ies.carlosbousono.majadahonda@educa.madrid.org;ies.carlostercero.madrid@educa.madrid.org;ies.carmenconde.lasrozas@educa.madrid.org;ies.carmenmartingai.moralzarzal@educa.madrid.org;ies.carmenmartingai.navalcarnero@educa.madrid.org;ies.carobaroja.fuenlabrada@educa.madrid.org;ies.carpediem.chinchon@educa.madrid.org;ies.carpediem.fuenlabrada@educa.madrid.org;ies.celestinomutis.madrid@educa.madrid.org;ies.cervantes.madrid@educa.madrid.org;ies.cervantes.mostoles@educa.madrid.org;ies.churriguera.leganes@educa.madrid.org;ies.ciudaddejaen.madrid@educa.madrid.org;ies.ciudaddelosangeles.madrid@educa.madrid.org;ies.ciudaddelospoetas.madrid@educa.madrid.org;ies.ciudadescolar.madrid@educa.madrid.org;ies.claracampoamor.mostoles@educa.madrid.org;ies.colmenarejo@educa.madrid.org;ies.complutense.alcala@educa.madrid.org;ies.condedeorgaz.madrid@educa.madrid.org;ies.cortesdecadiz.elmolar@educa.madrid.org;ies.damasoalonso.madrid@educa.madrid.org;ies.delibes.madrid@educa.madrid.org;ies.delibes.mejorada@educa.madrid.org;ies.dionisioaguado.fuenlabrada@educa.madrid.org;ies.doloresibarruri.fuenlabrada@educa.madrid.org;ies.domenicoscarlat.aranjuez@educa.madrid.org;ies.donpelayo.villalbilla@educa.madrid.org;ies.duquederivas.rivas@educa.madrid.org;ies.eijogaray.madrid@educa.madrid.org;ies.elalamo.elalamo@educa.madrid.org;ies.elcanaveral.mostoles@educa.madrid.org;ies.elcarrascal.arganda@educa.madrid.org;ies.elescorial.elescorial@educa.madrid.org;ies.elespinillo.madrid@educa.madrid.org;ies.elisasorianofischer.getafe@educa.madrid.org;ies.elolivo.parla@educa.madrid.org;ies.elpinar.alcorcon@educa.madrid.org;ies.emiliocastelar.madrid@educa.madrid.org;ies.emperatrizmaria.madrid@educa.madrid.org;ies.europa.mostoles@educa.madrid.org;ies.europa.rivas@educa.madrid.org;ies.federicamontsen.fuenlabrada@educa.madrid.org;ies.felipesegundo.madrid@educa.madrid.org;ies.felipetrigo.mostoles@educa.madrid.org;ies.fernangomez.humanes@educa.madrid.org;ies.forges.madrid@educa.madrid.org;ies.fortuny.madrid@educa.madrid.org;ies.franciscoayala.hoyodemanzanares@educa.madrid.org;ies.franciscoayala.madrid@educa.madrid.org;ies.franciscoumbral.ciempozuelos@educa.madrid.org;ies.gabrielamistral.arroyomolinos@educa.madrid.org;ies.gabrielcisneros.mostoles@educa.madrid.org;ies.galileogalilei.alcorcon@educa.madrid.org;ies.garciaberlanga.coslada@educa.madrid.org;ies.garcialorca.lasrozas@educa.madrid.org;ies.garciamarquez.leganes@educa.madrid.org;ies.garciamarquez.madrid@educa.madrid.org;ies.garciamorato.madrid@educa.madrid.org;ies.gasparsanz.meco@educa.madrid.org;ies.gerardodiego.pozuelodealarcon@educa.madrid.org;ies.ginerdelosrios.alcobendas@educa.madrid.org;ies.gomezmoreno.madrid@educa.madrid.org;ies.gongora.torrejondeardoz@educa.madrid.org;ies.gonzaloanes.colladomediano@educa.madrid.org;ies.gonzalochacon.arroyomolinos@educa.madrid.org;ies.goya.madrid@educa.madrid.org;ies.grancapitan.madrid@educa.madrid.org;ies.grandecovian.arganda@educa.madrid.org;ies.gregoriomaranon.madrid@educa.madrid.org;ies.grinon.grinon@educa.madrid.org;ies.guadarrama@educa.madrid.org;ies.hosteleria.alcala@educa.madrid.org;ies.hosteleria.madrid@educa.madrid.org;ies.humanejos.parla@educa.madrid.org;ies.humanes.humanes@educa.madrid.org;ies.icaro.getafe@educa.madrid.org;ies.ignacioaldecoa.getafe@educa.madrid.org;ies.ignacioellacuria.alcala@educa.madrid.org;ies.infantaelena.galapagar@educa.madrid.org;ies.isaacperal.torrejondeardoz@educa.madrid.org;ies.isabellacatolica.boadilla@educa.madrid.org;ies.isabellacatolica.madrid@educa.madrid.org;ies.isidradeguzman.alcala@educa.madrid.org;ies.islasfilipinas.madrid@educa.madrid.org;ies.itaca.alcorcon@educa.madrid.org;ies.iturralde.madrid@educa.madrid.org;ies.jaimeferran.colladovillalba@educa.madrid.org;ies.jaimeferran.sanfernando@educa.madrid.org;ies.jaimevera.madrid@educa.madrid.org;ies.jimenamenendezpidal.fuenlabrada@educa.madrid.org;ies.joanmiro.sansebastian@educa.madrid.org;ies.joaquinaraujo.fuenlabrada@educa.madrid.org;ies.joaquinrodrigo.madrid@educa.madrid.org;ies.joaquinturina.madrid@educa.madrid.org;ies.jorgeguillen.alcorcon@educa.madrid.org;ies.jorgemanrique.trescantos@educa.madrid.org;ies.josefinaaldecoa.alcorcon@educa.madrid.org;ies.josegarcianieto.lasrozas@educa.madrid.org;ies.josehierro.getafe@educa.madrid.org;ies.josesaramago.arganda@educa.madrid.org;ies.josesaramago.majadahonda@educa.madrid.org;ies.jovellanos.fuenlabrada@educa.madrid.org;ies.juanadecastilla.madrid@educa.madrid.org;ies.juanbautistamonegro.torrejondeardoz@educa.madrid.org;ies.juancarlosprimero.ciempozuelos@educa.madrid.org;ies.juandeherrera.sanlorenzo@educa.madrid.org;ies.juandelacierva.madrid@educa.madrid.org;ies.juandemairena.sansebastian@educa.madrid.org;ies.juandevillanuev.madrid@educa.madrid.org;ies.juangris.mostoles@educa.madrid.org;ies.juanramonjimenez.madrid@educa.madrid.org;ies.juliopalacios.sansebastian@educa.madrid.org;ies.julioverne.leganes@educa.madrid.org;ies.laarboleda.alcorcon@educa.madrid.org;ies.lacabrera@educa.madrid.org;ies.ladehesilla.cercedilla@educa.madrid.org;ies.laestrella.madrid@educa.madrid.org;ies.lafortuna.leganes@educa.madrid.org;ies.lagunadejoatzel.getafe@educa.madrid.org;ies.lalaguna.parla@educa.madrid.org;ies.lapaloma.madrid@educa.madrid.org;ies.lapaz.alcobendas@educa.madrid.org;ies.lapoveda.arganda@educa.madrid.org;ies.larra.madrid@educa.madrid.org;ies.lasamericas.parla@educa.madrid.org;ies.lascanteras.colladovillalba@educa.madrid.org;ies.lasencinas.villanuevadelacanada@educa.madrid.org;ies.lasenda.getafe@educa.madrid.org;ies.laserna.fuenlabrada@educa.madrid.org;ies.laslagunas.rivas@educa.madrid.org;ies.lasmusas.madrid@educa.madrid.org;ies.lasveredillas.torrejondeardoz@educa.madrid.org;ies.lazarocardenas.colladovillalba@educa.madrid.org;ies.lazarocarreter.alcala@educa.madrid.org;ies.leonardodavinci.madrid@educa.madrid.org;ies.leonardodavinci.majadahonda@educa.madrid.org;ies.leonfelipe.getafe@educa.madrid.org;ies.leonfelipe.torrejondeardoz@educa.madrid.org;ies.lopedevega.madrid@educa.madrid.org;ies.lopezaranguren.fuenlabrada@educa.madrid.org;ies.loscastillos.alcorcon@educa.madrid.org;ies.losolivos.mejorada@educa.madrid.org;ies.losrosales.mostoles@educa.madrid.org;ies.luisbraille.coslada@educa.madrid.org;ies.luisbunuel.alcorcon@educa.madrid.org;ies.luisbunuel.mostoles@educa.madrid.org;ies.luisgarciaberlanga.guadalix@educa.madrid.org;ies.luisvives.leganes@educa.madrid.org;ies.machado.alcala@educa.madrid.org;ies.madridsur.madrid@educa.madrid.org;ies.maestrojmleonet.villadelprado@educa.madrid.org;ies.maestromatiasbravo.valdemoro@educa.madrid.org;ies.magerit.madrid@educa.madrid.org;ies.malalayousafzai.madrid@educa.madrid.org;ies.malasana.mostoles@educa.madrid.org;ies.manueldefalla.coslada@educa.madrid.org;ies.manueldefalla.mostoles@educa.madrid.org;ies.manuelelkinpatarroyo.parla@educa.madrid.org;ies.manuelfragairibarne.madrid@educa.madrid.org;ies.maranon.alcala@educa.madrid.org;ies.margaritasalas.majadahonda@educa.madrid.org;ies.mariademolina.madrid@educa.madrid.org;ies.mariadezayas.majadahonda@educa.madrid.org;ies.mariaguerrero.colladovillalba@educa.madrid.org;ies.mariamoliner.coslada@educa.madrid.org;ies.marianapineda.madrid@educa.madrid.org;ies.mariarodrigo.madrid@educa.madrid.org;ies.mariazambrano.leganes@educa.madrid.org;ies.marquesdesantil.colmenarviejo@educa.madrid.org;ies.marquesdesuanze.madrid@educa.madrid.org;ies.mateoaleman.alcala@educa.madrid.org;ies.maximotrueba.boadilla@educa.madrid.org;ies.menendezpelayo.getafe@educa.madrid.org;ies.miguelcatalan.coslada@educa.madrid.org;ies.migueldecervantes.daganzo@educa.madrid.org;ies.migueldelibes.torrejondelacalzada@educa.madrid.org;ies.miguelhernandez.mostoles@educa.madrid.org;ies.mirasierra.madrid@educa.madrid.org;ies.narcismonturiol.parla@educa.madrid.org;ies.neilarmstrong.valdemoro@educa.madrid.org;ies.neruda.leganes@educa.madrid.org;ies.newton.madrid@educa.madrid.org;ies.nicolascopernico.parla@educa.madrid.org;ies.numancia.madrid@educa.madrid.org;ies.ortegaygasset.madrid@educa.madrid.org;ies.pacifico.madrid@educa.madrid.org;ies.palasatenea.torrejondeardoz@educa.madrid.org;ies.palomerasvallecas.madrid@educa.madrid.org;ies.parquealuche.madrid@educa.madrid.org;ies.parquelisboa.alcorcon@educa.madrid.org;ies.pedrodetolosa.sanmartindevaldeiglesias@educa.madrid.org;ies.pedroduque.leganes@educa.madrid.org;ies.pedrosalinas.madrid@educa.madrid.org;ies.picasso.pinto@educa.madrid.org;ies.piobaroja.madrid@educa.madrid.org;ies.pradodesantodomingo.alcorcon@educa.madrid.org;ies.pradolongo.madrid@educa.madrid.org;ies.principefelipe.madrid@educa.madrid.org;ies.profesorjulioperez.rivas@educa.madrid.org;ies.puigadam.getafe@educa.madrid.org;ies.quevedo.madrid@educa.madrid.org;ies.rafaelfruhbeckdeburgos.leganes@educa.madrid.org;ies.ramirodemaeztu.madrid@educa.madrid.org;ies.ramonycajal.madrid@educa.madrid.org;ies.rayuela.mostoles@educa.madrid.org;ies.renacimiento.madrid@educa.madrid.org;ies.reyfernando.sanfernando@educa.madrid.org;ies.reypastor.madrid@educa.madrid.org;ies.rodriguezdevalcarcel.madrid@educa.madrid.org;ies.rosachacel.colmenarviejo@educa.madrid.org;ies.rosachacel.madrid@educa.madrid.org;ies.sabinofernandezcampo.robledo@educa.madrid.org;ies.salvadorallende.fuenlabrada@educa.madrid.org;ies.salvadordali.leganes@educa.madrid.org;ies.salvadordali.madrid@educa.madrid.org;ies.sampedro.trescantos@educa.madrid.org;ies.sanagustin.sanagustin@educa.madrid.org;ies.sanblas.madrid@educa.madrid.org;ies.sancristobal.madrid@educa.madrid.org;ies.sanfernando.madrid@educa.madrid.org;ies.sanisidoro.madrid@educa.madrid.org;ies.sanisidro.madrid@educa.madrid.org;ies.sanjuanbautista.madrid@educa.madrid.org;ies.sanjuandelacruz.pozuelodealarcon@educa.madrid.org;ies.sanmateo.madrid@educa.madrid.org;ies.sannicasio.leganes@educa.madrid.org;ies.santaengracia.madrid@educa.madrid.org;ies.santaeugenia.madrid@educa.madrid.org;ies.santamarca.madrid@educa.madrid.org;ies.santateresa.madrid@educa.madrid.org;ies.santiagorusinol.aranjuez@educa.madrid.org;ies.satafi.getafe@educa.madrid.org;ies.sendagaliana.torres@educa.madrid.org;ies.severoochoa.alcobendas@educa.madrid.org;ies.sevillalanueva.sevilla@educa.madrid.org;ies.sierradeguadarrama.soto@educa.madrid.org;ies.sigloveintiuno.leganes@educa.madrid.org;ies.simoneveil.paracuellos@educa.madrid.org;ies.tetuan.madrid@educa.madrid.org;ies.tiernogalvan.leganes@educa.madrid.org;ies.tiernogalvan.madrid@educa.madrid.org;ies.tiernogalvan.parla@educa.madrid.org;ies.tirsodemolina.madrid@educa.madrid.org;ies.tomasyvaliente.madrid@educa.madrid.org;ies.torrenteballest.sansebastian@educa.madrid.org;ies.uno.lasrozas@educa.madrid.org;ies.valdebernardo.madrid@educa.madrid.org;ies.vallecasuno.madrid@educa.madrid.org;ies.valleinclan.torrejondeardoz@educa.madrid.org;ies.valmayor.valdemorillo@educa.madrid.org;ies.vegadeljarama.sanfernando@educa.madrid.org;ies.velazquez.mostoles@educa.madrid.org;ies.velazquez.torrelodones@educa.madrid.org;ies.vicentealeixand.pinto@educa.madrid.org;ies.victoria.villarejo@educa.madrid.org;ies.victoriakent.fuenlabrada@educa.madrid.org;ies.victoriakent.torrejondeardoz@educa.madrid.org;ies.villablanca.madrid@educa.madrid.org;ies.villadevaldemoro.valdemoro@educa.madrid.org;ies.villadevallecas.madrid@educa.madrid.org;ies.villanuevadelpardillo@educa.madrid.org;ies.villarejo@educa.madrid.org;ies.villaverde.madrid@educa.madrid.org;ies.vistaalegre.madrid@educa.madrid.org;sies.africa.moraleja@educa.madrid.org;sies.alcobendasv.alcobendas@educa.madrid.org;sies.anselmolorenzo.morata@educa.madrid.org;sies.carpediem.colmenardeoreja@educa.madrid.org;sies.humanes.cubasdelasagra@educa.madrid.org;sies.jlsampedro.trescantos@educa.madrid.org;sies.lapoveda.camporeal@educa.madrid.org;sies.luisdegongora.loeches@educa.madrid.org">pulsando en
+											<a data-href="mailto:?subject=Consulta%20en%20relación%20al%20concurso%20de%20traslados&amp;" href="mailto:?subject=Consulta%20en%20relacción%20al%20concurso%20de%20traslados&amp;bcc=ah.docedeoctubre.madrid@educa.madrid.org;ah.fuenlabrada.fuenlabrada@educa.madrid.org;ah.fundaciondealcorcon.alcorcon@educa.madrid.org;ah.hgdemostoles.mostoles@educa.madrid.org;ah.hugetafe.getafe@educa.madrid.org;ah.lapaz.madrid@educa.madrid.org;ah.principedeasturias.alcala@educa.madrid.org;ah.puertadehierro.majadahonda@educa.madrid.org;ah.ramonycajal.madrid@educa.madrid.org;ah.severoochoa.leganes@educa.madrid.org;cepa.alborada.navalcarnero@educa.madrid.org;cepa.alcala@educa.madrid.org;cepa.alcorcon@educa.madrid.org;cepa.alonsoquijano.valdemoro@educa.madrid.org;cepa.aluche.madrid@educa.madrid.org;cepa.aranjuez@educa.madrid.org;cepa.arganda@educa.madrid.org;cepa.arganzuela.madrid@educa.madrid.org;cepa.buitrago@educa.madrid.org;cepa.canillejas.madrid@educa.madrid.org;cepa.centro.madrid@educa.madrid.org;cepa.cidcampeador.madrid@educa.madrid.org;cepa.ciudadlineal.madrid@educa.madrid.org;cepa.claracampoamor.alcala@educa.madrid.org;cepa.colladovillalba@educa.madrid.org;cepa.colmenarviejo@educa.madrid.org;cepa.coslada@educa.madrid.org;cepa.daoizyvelarde.madrid@educa.madrid.org;cepa.dulcechacon.aranjuez@educa.madrid.org;cepa.dulcechacon.madrid@educa.madrid.org;cepa.elmolar@educa.madrid.org;cepa.entrevias.madrid@educa.madrid.org;cepa.fuencarral.madrid@educa.madrid.org;cepa.fuenlabrada@educa.madrid.org;cepa.galapagar@educa.madrid.org;cepa.getafe@educa.madrid.org;cepa.gloriafuertes.navalcarnero@educa.madrid.org;cepa.joaquinsorolla.madrid@educa.madrid.org;cepa.josehierro.alcala@educa.madrid.org;cepa.laalbufera.madrid@educa.madrid.org;cepa.lamesta.villanuevadelacanada@educa.madrid.org;cepa.lasrosas.madrid@educa.madrid.org;cepa.lasrozas@educa.madrid.org;cepa.leganes@educa.madrid.org;cepa.losrosales.madrid@educa.madrid.org;cepa.mancomunidadsuroeste.grinon@educa.madrid.org;cepa.maramarillo.madrid@educa.madrid.org;cepa.mariovargasllosa.majadahonda@educa.madrid.org;cepa.moncloa.madrid@educa.madrid.org;cepa.moratalaz.madrid@educa.madrid.org;cepa.mostoles@educa.madrid.org;cepa.oporto.madrid@educa.madrid.org;cepa.orcasitas.madrid@educa.madrid.org;cepa.pabloguzman.madrid@educa.madrid.org;cepa.panbendito.madrid@educa.madrid.org;cepa.paracuellos@educa.madrid.org;cepa.parla@educa.madrid.org;cepa.pinto@educa.madrid.org;cepa.pozuelodealarcon@educa.madrid.org;cepa.rivas@educa.madrid.org;cepa.sampedro.madrid@educa.madrid.org;cepa.sanfernandodehenares@educa.madrid.org;cepa.sanlorenzo@educa.madrid.org;cepa.sanmartindelavega@educa.madrid.org;cepa.sanmartindevaldeiglesias@educa.madrid.org;cepa.sansebastian@educa.madrid.org;cepa.sierradeguadarrama.colladomediano@educa.madrid.org;cepa.tetuan.madrid@educa.madrid.org;cepa.torrejondeardoz@educa.madrid.org;cepa.torrelaguna@educa.madrid.org;cepa.torrelodones@educa.madrid.org;cepa.torresdelaalameda@educa.madrid.org;cepa.valdemoro@educa.madrid.org;cepa.vallecas.madrid@educa.madrid.org;cepa.vicalvaro.madrid@educa.madrid.org;cepa.villarejodesalvanes@educa.madrid.org;cepa.villaverde.madrid@educa.madrid.org;cepa.vistaalegre.madrid@educa.madrid.org;cepa.yucatan.soto@educa.madrid.org;cifp.simoneortega.mostoles@educa.madrid.org;cim.morenotorroba.madrid@educa.madrid.org;cim.sanlorenzo@educa.madrid.org;cp.adolfosuarez.madrid@educa.madrid.org;cp.beethoven.torrejondeardoz@educa.madrid.org;cp.cervantes.alcorcon@educa.madrid.org;cp.cervantes.valdilecha@educa.madrid.org;cp.elcantizal.lasrozas@educa.madrid.org;cp.elencinar.torrelodones@educa.madrid.org;cp.eugeniomuro.cadalso@educa.madrid.org;cp.garcialorca.camarma@educa.madrid.org;cp.goyeneche.nuevobaztan@educa.madrid.org;cp.isabellacatolica.navas@educa.madrid.org;cp.juanramonjimenez.becerril@educa.madrid.org;cp.losangeles.pozuelodealarcon@educa.madrid.org;cp.maestrorodrigo.aranjuez@educa.madrid.org;cp.mariamoliner.villanuevadelacanada@educa.madrid.org;cp.martinagarcia.fuenteelsaz@educa.madrid.org;cp.principedonfelipe.boadilla@educa.madrid.org;cp.principesdeasturias.pozuelodealarcon@educa.madrid.org;cp.puertadelasierra.venturada@educa.madrid.org;cp.salvadordali.fuenlabrada@educa.madrid.org;cp.sanblas.ajalvir@educa.madrid.org;cp.sansebastian.elboalo@educa.madrid.org;cp.santoangeldelaguarda.chapineria@educa.madrid.org;cp.santodomingo.algete@educa.madrid.org;cp.suarezsomonte.cenicientos@educa.madrid.org;cp.velazquez.fuenlabrada@educa.madrid.org;cp.vicentealeixandre.miraflores@educa.madrid.org;cp.villadecobena.cobena@educa.madrid.org;cpee.alfonsodecimo.leganes@educa.madrid.org;cpee.franciscodelpozo.madrid@educa.madrid.org;cpee.goyeneche.madrid@educa.madrid.org;cpee.guadarrama.coslada@educa.madrid.org;cpee.hospitalclinico.madrid@educa.madrid.org;cpee.hospitalmaranon.madrid@educa.madrid.org;cpee.hospitalninojesus.madrid@educa.madrid.org;cpee.infantaelena.madrid@educa.madrid.org;cpee.inmaculadaconcepcion.madrid@educa.madrid.org;cpee.joanmiro.madrid@educa.madrid.org;cpee.juanveintitres.fuenlabrada@educa.madrid.org;cpee.laquinta.madrid@educa.madrid.org;cpee.mariasoriano.madrid@educa.madrid.org;cpee.miguelhernandez.colmenarviejo@educa.madrid.org;cpee.monteabantos.lasrozas@educa.madrid.org;cpee.montessori.parla@educa.madrid.org;cpee.penalara.colladovillalba@educa.madrid.org;cpee.picasso.alcala@educa.madrid.org;cpee.poncedeleon.madrid@educa.madrid.org;cpee.princesasofia.madrid@educa.madrid.org;cpee.principedeasturias.aranjuez@educa.madrid.org;cpee.ramonycajal.getafe@educa.madrid.org;cpee.rosaparks.coslada@educa.madrid.org;cpee.severoochoa.alcorcon@educa.madrid.org;cpee.sorjuanainesdelacruz.fuenlabrada@educa.madrid.org;cpee.unamuno.mostoles@educa.madrid.org;cpee.vallecas.madrid@educa.madrid.org;cpee.vicenteferrer.sansebastian@educa.madrid.org;crei.scorazon.madrid@educa.madrid.org;eoep.alcala@educa.madrid.org;eoep.alcobendas@educa.madrid.org;eoep.alcorcon@educa.madrid.org;eoep.alteracionesdesarrollo.madrid@educa.madrid.org;eoep.aranjuez@educa.madrid.org;eoep.arganda@educa.madrid.org;eoep.arganzuela.madrid@educa.madrid.org;eoep.at.alcala@educa.madrid.org;eoep.at.alcorcon@educa.madrid.org;eoep.at.aranjuez@educa.madrid.org;eoep.at.arganda@educa.madrid.org;eoep.at.colmenarviejo@educa.madrid.org;eoep.at.fuenlabrada@educa.madrid.org;eoep.at.getafe@educa.madrid.org;eoep.at.hortaleza@educa.madrid.org;eoep.at.lacabrera@educa.madrid.org;eoep.at.latina@educa.madrid.org;eoep.at.leganes@educa.madrid.org;eoep.at.mostoles@educa.madrid.org;eoep.at.navalcarnero@educa.madrid.org;eoep.at.parla@educa.madrid.org;eoep.at.pozuelodealarcon@educa.madrid.org;eoep.at.puentevallecas@educa.madrid.org;eoep.at.sanblas@educa.madrid.org;eoep.at.sanfernando@educa.madrid.org;eoep.at.sanmartindevaldeiglesias@educa.madrid.org;eoep.at.sansebastian@educa.madrid.org;eoep.at.tetuan@educa.madrid.org;eoep.at.torrelodones@educa.madrid.org;eoep.at.villanuevadelacanada@educa.madrid.org;eoep.at.villavallecas@educa.madrid.org;eoep.at.villaverde@educa.madrid.org;eoep.auditivas.madrid@educa.madrid.org;eoep.carabanchel.madrid@educa.madrid.org;eoep.colladovillalba@educa.madrid.org;eoep.colmenarviejo@educa.madrid.org;eoep.coslada@educa.madrid.org;eoep.fuenlabrada@educa.madrid.org;eoep.getafe@educa.madrid.org;eoep.guadarrama@educa.madrid.org;eoep.hortaleza.madrid@educa.madrid.org;eoep.lacabrera@educa.madrid.org;eoep.lasrozas@educa.madrid.org;eoep.latina.madrid@educa.madrid.org;eoep.leganes@educa.madrid.org;eoep.moncloa.madrid@educa.madrid.org;eoep.moratalaz.madrid@educa.madrid.org;eoep.mostoles@educa.madrid.org;eoep.motoricas.madrid@educa.madrid.org;eoep.navalcarnero@educa.madrid.org;eoep.parla@educa.madrid.org;eoep.pozuelodealarcon@educa.madrid.org;eoep.puentevallecas.madrid@educa.madrid.org;eoep.retiro.madrid@educa.madrid.org;eoep.sanblas.madrid@educa.madrid.org;eoep.sanmartindevaldeiglesias@educa.madrid.org;eoep.sansebastian@educa.madrid.org;eoep.tetuan.madrid@educa.madrid.org;eoep.torrejondeardoz@educa.madrid.org;eoep.villanuevadelacanada@educa.madrid.org;eoep.villarejo@educa.madrid.org;eoep.villaverde.madrid@educa.madrid.org;eoep.visuales.madrid@educa.madrid.org;ies.adolfosuarez.paracuellos@educa.madrid.org;ies.africa.fuenlabrada@educa.madrid.org;ies.agora.alcobendas@educa.madrid.org;ies.alamedadeosuna.madrid@educa.madrid.org;ies.alarnes.getafe@educa.madrid.org;ies.albeniz.alcala@educa.madrid.org;ies.albeniz.leganes@educa.madrid.org;ies.alberti.coslada@educa.madrid.org;ies.aldebaran.alcobendas@educa.madrid.org;ies.alfonsomoreno.brunete@educa.madrid.org;ies.alfredokraus.madrid@educa.madrid.org;ies.alkalanahar.alcala@educa.madrid.org;ies.almudena.madrid@educa.madrid.org;ies.alonsodeavellan.alcala@educa.madrid.org;ies.alonsoquijano.alcala@educa.madrid.org;ies.alpajes.aranjuez@educa.madrid.org;ies.alpedrete.alpedrete@educa.madrid.org;ies.alsatt.algete@educa.madrid.org;ies.altair.getafe@educa.madrid.org;ies.altojarama.torrelaguna@educa.madrid.org;ies.anafrank.madrid@educa.madrid.org;ies.anammatute.velilla@educa.madrid.org;ies.angelcorella.colmenarviejo@educa.madrid.org;ies.angelysern.navalcarnero@educa.madrid.org;ies.anselmolorenzo.sanmartindelavega@educa.madrid.org;ies.antares.rivas@educa.madrid.org;ies.antoniodenebrija.mostoles@educa.madrid.org;ies.antoniodomingue.madrid@educa.madrid.org;ies.antoniogala.mostoles@educa.madrid.org;ies.antoniogaudi.coslada@educa.madrid.org;ies.antoniolopez.trescantos@educa.madrid.org;ies.antoniolopezgarcia.getafe@educa.madrid.org;ies.arciprestedehita.madrid@educa.madrid.org;ies.arquitectopedro.alcala@educa.madrid.org;ies.arquitectoperid.leganes@educa.madrid.org;ies.arquitectoventurarodriguez.boadilla@educa.madrid.org;ies.arturosoria.madrid@educa.madrid.org;ies.atenea.alcala@educa.madrid.org;ies.atenea.sansebastian@educa.madrid.org;ies.avalon.valdemoro@educa.madrid.org;ies.avenidadelostor.madrid@educa.madrid.org;ies.barajas.madrid@educa.madrid.org;ies.barriodebilbao.madrid@educa.madrid.org;ies.barrioloranca.fuenlabrada@educa.madrid.org;ies.barriosimancas.madrid@educa.madrid.org;ies.beatrizgalindo.madrid@educa.madrid.org;ies.becquer.algete@educa.madrid.org;ies.benjaminrua.mostoles@educa.madrid.org;ies.blasdeotero.madrid@educa.madrid.org;ies.burgoiecheverria.lasrozas@educa.madrid.org;ies.butarque.leganes@educa.madrid.org;ies.calatalifa.villaviciosa@educa.madrid.org;ies.calderon.pinto@educa.madrid.org;ies.calderondelabar.madrid@educa.madrid.org;ies.camilojosecela.pozuelodealarcon@educa.madrid.org;ies.canadareal.galapagar@educa.madrid.org;ies.cardenalcisnero.alcala@educa.madrid.org;ies.cardenalcisnero.madrid@educa.madrid.org;ies.cardenalherrera.madrid@educa.madrid.org;ies.carlosbousono.majadahonda@educa.madrid.org;ies.carlostercero.madrid@educa.madrid.org;ies.carmenconde.lasrozas@educa.madrid.org;ies.carmenmartingai.moralzarzal@educa.madrid.org;ies.carmenmartingai.navalcarnero@educa.madrid.org;ies.carobaroja.fuenlabrada@educa.madrid.org;ies.carpediem.chinchon@educa.madrid.org;ies.carpediem.fuenlabrada@educa.madrid.org;ies.celestinomutis.madrid@educa.madrid.org;ies.cervantes.madrid@educa.madrid.org;ies.cervantes.mostoles@educa.madrid.org;ies.churriguera.leganes@educa.madrid.org;ies.ciudaddejaen.madrid@educa.madrid.org;ies.ciudaddelosangeles.madrid@educa.madrid.org;ies.ciudaddelospoetas.madrid@educa.madrid.org;ies.ciudadescolar.madrid@educa.madrid.org;ies.claracampoamor.mostoles@educa.madrid.org;ies.colmenarejo@educa.madrid.org;ies.complutense.alcala@educa.madrid.org;ies.condedeorgaz.madrid@educa.madrid.org;ies.cortesdecadiz.elmolar@educa.madrid.org;ies.damasoalonso.madrid@educa.madrid.org;ies.delibes.madrid@educa.madrid.org;ies.delibes.mejorada@educa.madrid.org;ies.dionisioaguado.fuenlabrada@educa.madrid.org;ies.doloresibarruri.fuenlabrada@educa.madrid.org;ies.domenicoscarlat.aranjuez@educa.madrid.org;ies.donpelayo.villalbilla@educa.madrid.org;ies.duquederivas.rivas@educa.madrid.org;ies.eijogaray.madrid@educa.madrid.org;ies.elalamo.elalamo@educa.madrid.org;ies.elcanaveral.mostoles@educa.madrid.org;ies.elcarrascal.arganda@educa.madrid.org;ies.elescorial.elescorial@educa.madrid.org;ies.elespinillo.madrid@educa.madrid.org;ies.elisasorianofischer.getafe@educa.madrid.org;ies.elolivo.parla@educa.madrid.org;ies.elpinar.alcorcon@educa.madrid.org;ies.emiliocastelar.madrid@educa.madrid.org;ies.emperatrizmaria.madrid@educa.madrid.org;ies.europa.mostoles@educa.madrid.org;ies.europa.rivas@educa.madrid.org;ies.federicamontsen.fuenlabrada@educa.madrid.org;ies.felipesegundo.madrid@educa.madrid.org;ies.felipetrigo.mostoles@educa.madrid.org;ies.fernangomez.humanes@educa.madrid.org;ies.forges.madrid@educa.madrid.org;ies.fortuny.madrid@educa.madrid.org;ies.franciscoayala.hoyodemanzanares@educa.madrid.org;ies.franciscoayala.madrid@educa.madrid.org;ies.franciscoumbral.ciempozuelos@educa.madrid.org;ies.gabrielamistral.arroyomolinos@educa.madrid.org;ies.gabrielcisneros.mostoles@educa.madrid.org;ies.galileogalilei.alcorcon@educa.madrid.org;ies.garciaberlanga.coslada@educa.madrid.org;ies.garcialorca.lasrozas@educa.madrid.org;ies.garciamarquez.leganes@educa.madrid.org;ies.garciamarquez.madrid@educa.madrid.org;ies.garciamorato.madrid@educa.madrid.org;ies.gasparsanz.meco@educa.madrid.org;ies.gerardodiego.pozuelodealarcon@educa.madrid.org;ies.ginerdelosrios.alcobendas@educa.madrid.org;ies.gomezmoreno.madrid@educa.madrid.org;ies.gongora.torrejondeardoz@educa.madrid.org;ies.gonzaloanes.colladomediano@educa.madrid.org;ies.gonzalochacon.arroyomolinos@educa.madrid.org;ies.goya.madrid@educa.madrid.org;ies.grancapitan.madrid@educa.madrid.org;ies.grandecovian.arganda@educa.madrid.org;ies.gregoriomaranon.madrid@educa.madrid.org;ies.grinon.grinon@educa.madrid.org;ies.guadarrama@educa.madrid.org;ies.hosteleria.alcala@educa.madrid.org;ies.hosteleria.madrid@educa.madrid.org;ies.humanejos.parla@educa.madrid.org;ies.humanes.humanes@educa.madrid.org;ies.icaro.getafe@educa.madrid.org;ies.ignacioaldecoa.getafe@educa.madrid.org;ies.ignacioellacuria.alcala@educa.madrid.org;ies.infantaelena.galapagar@educa.madrid.org;ies.isaacperal.torrejondeardoz@educa.madrid.org;ies.isabellacatolica.boadilla@educa.madrid.org;ies.isabellacatolica.madrid@educa.madrid.org;ies.isidradeguzman.alcala@educa.madrid.org;ies.islasfilipinas.madrid@educa.madrid.org;ies.itaca.alcorcon@educa.madrid.org;ies.iturralde.madrid@educa.madrid.org;ies.jaimeferran.colladovillalba@educa.madrid.org;ies.jaimeferran.sanfernando@educa.madrid.org;ies.jaimevera.madrid@educa.madrid.org;ies.jimenamenendezpidal.fuenlabrada@educa.madrid.org;ies.joanmiro.sansebastian@educa.madrid.org;ies.joaquinaraujo.fuenlabrada@educa.madrid.org;ies.joaquinrodrigo.madrid@educa.madrid.org;ies.joaquinturina.madrid@educa.madrid.org;ies.jorgeguillen.alcorcon@educa.madrid.org;ies.jorgemanrique.trescantos@educa.madrid.org;ies.josefinaaldecoa.alcorcon@educa.madrid.org;ies.josegarcianieto.lasrozas@educa.madrid.org;ies.josehierro.getafe@educa.madrid.org;ies.josesaramago.arganda@educa.madrid.org;ies.josesaramago.majadahonda@educa.madrid.org;ies.jovellanos.fuenlabrada@educa.madrid.org;ies.juanadecastilla.madrid@educa.madrid.org;ies.juanbautistamonegro.torrejondeardoz@educa.madrid.org;ies.juancarlosprimero.ciempozuelos@educa.madrid.org;ies.juandeherrera.sanlorenzo@educa.madrid.org;ies.juandelacierva.madrid@educa.madrid.org;ies.juandemairena.sansebastian@educa.madrid.org;ies.juandevillanuev.madrid@educa.madrid.org;ies.juangris.mostoles@educa.madrid.org;ies.juanramonjimenez.madrid@educa.madrid.org;ies.juliopalacios.sansebastian@educa.madrid.org;ies.julioverne.leganes@educa.madrid.org;ies.laarboleda.alcorcon@educa.madrid.org;ies.lacabrera@educa.madrid.org;ies.ladehesilla.cercedilla@educa.madrid.org;ies.laestrella.madrid@educa.madrid.org;ies.lafortuna.leganes@educa.madrid.org;ies.lagunadejoatzel.getafe@educa.madrid.org;ies.lalaguna.parla@educa.madrid.org;ies.lapaloma.madrid@educa.madrid.org;ies.lapaz.alcobendas@educa.madrid.org;ies.lapoveda.arganda@educa.madrid.org;ies.larra.madrid@educa.madrid.org;ies.lasamericas.parla@educa.madrid.org;ies.lascanteras.colladovillalba@educa.madrid.org;ies.lasencinas.villanuevadelacanada@educa.madrid.org;ies.lasenda.getafe@educa.madrid.org;ies.laserna.fuenlabrada@educa.madrid.org;ies.laslagunas.rivas@educa.madrid.org;ies.lasmusas.madrid@educa.madrid.org;ies.lasveredillas.torrejondeardoz@educa.madrid.org;ies.lazarocardenas.colladovillalba@educa.madrid.org;ies.lazarocarreter.alcala@educa.madrid.org;ies.leonardodavinci.madrid@educa.madrid.org;ies.leonardodavinci.majadahonda@educa.madrid.org;ies.leonfelipe.getafe@educa.madrid.org;ies.leonfelipe.torrejondeardoz@educa.madrid.org;ies.lopedevega.madrid@educa.madrid.org;ies.lopezaranguren.fuenlabrada@educa.madrid.org;ies.loscastillos.alcorcon@educa.madrid.org;ies.losolivos.mejorada@educa.madrid.org;ies.losrosales.mostoles@educa.madrid.org;ies.luisbraille.coslada@educa.madrid.org;ies.luisbunuel.alcorcon@educa.madrid.org;ies.luisbunuel.mostoles@educa.madrid.org;ies.luisgarciaberlanga.guadalix@educa.madrid.org;ies.luisvives.leganes@educa.madrid.org;ies.machado.alcala@educa.madrid.org;ies.madridsur.madrid@educa.madrid.org;ies.maestrojmleonet.villadelprado@educa.madrid.org;ies.maestromatiasbravo.valdemoro@educa.madrid.org;ies.magerit.madrid@educa.madrid.org;ies.malalayousafzai.madrid@educa.madrid.org;ies.malasana.mostoles@educa.madrid.org;ies.manueldefalla.coslada@educa.madrid.org;ies.manueldefalla.mostoles@educa.madrid.org;ies.manuelelkinpatarroyo.parla@educa.madrid.org;ies.manuelfragairibarne.madrid@educa.madrid.org;ies.maranon.alcala@educa.madrid.org;ies.margaritasalas.majadahonda@educa.madrid.org;ies.mariademolina.madrid@educa.madrid.org;ies.mariadezayas.majadahonda@educa.madrid.org;ies.mariaguerrero.colladovillalba@educa.madrid.org;ies.mariamoliner.coslada@educa.madrid.org;ies.marianapineda.madrid@educa.madrid.org;ies.mariarodrigo.madrid@educa.madrid.org;ies.mariazambrano.leganes@educa.madrid.org;ies.marquesdesantil.colmenarviejo@educa.madrid.org;ies.marquesdesuanze.madrid@educa.madrid.org;ies.mateoaleman.alcala@educa.madrid.org;ies.maximotrueba.boadilla@educa.madrid.org;ies.menendezpelayo.getafe@educa.madrid.org;ies.miguelcatalan.coslada@educa.madrid.org;ies.migueldecervantes.daganzo@educa.madrid.org;ies.migueldelibes.torrejondelacalzada@educa.madrid.org;ies.miguelhernandez.mostoles@educa.madrid.org;ies.mirasierra.madrid@educa.madrid.org;ies.narcismonturiol.parla@educa.madrid.org;ies.neilarmstrong.valdemoro@educa.madrid.org;ies.neruda.leganes@educa.madrid.org;ies.newton.madrid@educa.madrid.org;ies.nicolascopernico.parla@educa.madrid.org;ies.numancia.madrid@educa.madrid.org;ies.ortegaygasset.madrid@educa.madrid.org;ies.pacifico.madrid@educa.madrid.org;ies.palasatenea.torrejondeardoz@educa.madrid.org;ies.palomerasvallecas.madrid@educa.madrid.org;ies.parquealuche.madrid@educa.madrid.org;ies.parquelisboa.alcorcon@educa.madrid.org;ies.pedrodetolosa.sanmartindevaldeiglesias@educa.madrid.org;ies.pedroduque.leganes@educa.madrid.org;ies.pedrosalinas.madrid@educa.madrid.org;ies.picasso.pinto@educa.madrid.org;ies.piobaroja.madrid@educa.madrid.org;ies.pradodesantodomingo.alcorcon@educa.madrid.org;ies.pradolongo.madrid@educa.madrid.org;ies.principefelipe.madrid@educa.madrid.org;ies.profesorjulioperez.rivas@educa.madrid.org;ies.puigadam.getafe@educa.madrid.org;ies.quevedo.madrid@educa.madrid.org;ies.rafaelfruhbeckdeburgos.leganes@educa.madrid.org;ies.ramirodemaeztu.madrid@educa.madrid.org;ies.ramonycajal.madrid@educa.madrid.org;ies.rayuela.mostoles@educa.madrid.org;ies.renacimiento.madrid@educa.madrid.org;ies.reyfernando.sanfernando@educa.madrid.org;ies.reypastor.madrid@educa.madrid.org;ies.rodriguezdevalcarcel.madrid@educa.madrid.org;ies.rosachacel.colmenarviejo@educa.madrid.org;ies.rosachacel.madrid@educa.madrid.org;ies.sabinofernandezcampo.robledo@educa.madrid.org;ies.salvadorallende.fuenlabrada@educa.madrid.org;ies.salvadordali.leganes@educa.madrid.org;ies.salvadordali.madrid@educa.madrid.org;ies.sampedro.trescantos@educa.madrid.org;ies.sanagustin.sanagustin@educa.madrid.org;ies.sanblas.madrid@educa.madrid.org;ies.sancristobal.madrid@educa.madrid.org;ies.sanfernando.madrid@educa.madrid.org;ies.sanisidoro.madrid@educa.madrid.org;ies.sanisidro.madrid@educa.madrid.org;ies.sanjuanbautista.madrid@educa.madrid.org;ies.sanjuandelacruz.pozuelodealarcon@educa.madrid.org;ies.sanmateo.madrid@educa.madrid.org;ies.sannicasio.leganes@educa.madrid.org;ies.santaengracia.madrid@educa.madrid.org;ies.santaeugenia.madrid@educa.madrid.org;ies.santamarca.madrid@educa.madrid.org;ies.santateresa.madrid@educa.madrid.org;ies.santiagorusinol.aranjuez@educa.madrid.org;ies.satafi.getafe@educa.madrid.org;ies.sendagaliana.torres@educa.madrid.org;ies.severoochoa.alcobendas@educa.madrid.org;ies.sevillalanueva.sevilla@educa.madrid.org;ies.sierradeguadarrama.soto@educa.madrid.org;ies.sigloveintiuno.leganes@educa.madrid.org;ies.simoneveil.paracuellos@educa.madrid.org;ies.tetuan.madrid@educa.madrid.org;ies.tiernogalvan.leganes@educa.madrid.org;ies.tiernogalvan.madrid@educa.madrid.org;ies.tiernogalvan.parla@educa.madrid.org;ies.tirsodemolina.madrid@educa.madrid.org;ies.tomasyvaliente.madrid@educa.madrid.org;ies.torrenteballest.sansebastian@educa.madrid.org;ies.uno.lasrozas@educa.madrid.org;ies.valdebernardo.madrid@educa.madrid.org;ies.vallecasuno.madrid@educa.madrid.org;ies.valleinclan.torrejondeardoz@educa.madrid.org;ies.valmayor.valdemorillo@educa.madrid.org;ies.vegadeljarama.sanfernando@educa.madrid.org;ies.velazquez.mostoles@educa.madrid.org;ies.velazquez.torrelodones@educa.madrid.org;ies.vicentealeixand.pinto@educa.madrid.org;ies.victoria.villarejo@educa.madrid.org;ies.victoriakent.fuenlabrada@educa.madrid.org;ies.victoriakent.torrejondeardoz@educa.madrid.org;ies.villablanca.madrid@educa.madrid.org;ies.villadevaldemoro.valdemoro@educa.madrid.org;ies.villadevallecas.madrid@educa.madrid.org;ies.villanuevadelpardillo@educa.madrid.org;ies.villarejo@educa.madrid.org;ies.villaverde.madrid@educa.madrid.org;ies.vistaalegre.madrid@educa.madrid.org;sies.africa.moraleja@educa.madrid.org;sies.alcobendasv.alcobendas@educa.madrid.org;sies.anselmolorenzo.morata@educa.madrid.org;sies.carpediem.colmenardeoreja@educa.madrid.org;sies.humanes.cubasdelasagra@educa.madrid.org;sies.jlsampedro.trescantos@educa.madrid.org;sies.lapoveda.camporeal@educa.madrid.org;sies.luisdegongora.loeches@educa.madrid.org" id="maillink">pulsando en
 												este enlace</a>
-										</p>
-										<p>
+</p>
+<p>
 											También puedes mandar mails desde la pestaña <i class="fa fa-pencil-square-o"></i> Lista.
 										</p>
-									</div>
-						</div>
-
-						 <div class="sidebar-pane" id="lista">
-						      <h1 class="sidebar-header">Tu lista<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
-									<div class="content">
-										<p>
+</div>
+</div>
+<div class="sidebar-pane" id="lista">
+<h1 class="sidebar-header">Tu lista<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+<div class="content">
+<p>
 											Para ordenar los centros por cercania a un punto geográfico haz click en el lugar deseado sobre el mapa mientras pulsas la tecla <b>Control</b>.
 										</p>
-										<h2>Centros seleccionados</h2>
-										<div id="cSel">
-
-										</div>
-										<h2>Centros visibles</h2>
-										<div id="cShw">
-
-										</div>
-										<h2>Centros ocultos</h2>
-										<div id="cHdn">
-
-										</div>
-										<h2>Centros descartados</h2>
-										<div id="cDsc">
-
-										</div>
-									</div>
-						</div>
-
-
-					 <div class="sidebar-pane" id="contacto">
-					      <h1 class="sidebar-header">Contacto<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
-								<div class="content">
-									<p>
-						      <svg height="32" class="octicon octicon-law license-summary-octicon float-left mr-2" viewBox="0 0 14 16" version="1.1" width="28" aria-hidden="true"><path fill-rule="evenodd" d="M7 4c-.83 0-1.5-.67-1.5-1.5S6.17 1 7 1s1.5.67 1.5 1.5S7.83 4 7 4zm7 6c0 1.11-.89 2-2 2h-1c-1.11 0-2-.89-2-2l2-4h-1c-.55 0-1-.45-1-1H8v8c.42 0 1 .45 1 1h1c.42 0 1 .45 1 1H3c0-.55.58-1 1-1h1c0-.55.58-1 1-1h.03L6 5H5c0 .55-.45 1-1 1H3l2 4c0 1.11-.89 2-2 2H2c-1.11 0-2-.89-2-2l2-4H1V5h3c0-.55.45-1 1-1h4c.55 0 1 .45 1 1h3v1h-1l2 4zM2.5 7L1 10h3L2.5 7zM13 10l-1.5-3-1.5 3h3z"></path></svg>
+<h2>Centros seleccionados</h2>
+<div id="cSel">
+</div>
+<h2>Centros visibles</h2>
+<div id="cShw">
+</div>
+<h2>Centros ocultos</h2>
+<div id="cHdn">
+</div>
+<h2>Centros descartados</h2>
+<div id="cDsc">
+</div>
+</div>
+</div>
+<div class="sidebar-pane" id="contacto">
+<h1 class="sidebar-header">Contacto<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+<div class="content">
+<p>
+<svg aria-hidden="true" class="octicon octicon-law license-summary-octicon float-left mr-2" height="32" version="1.1" viewbox="0 0 14 16" width="28"><path d="M7 4c-.83 0-1.5-.67-1.5-1.5S6.17 1 7 1s1.5.67 1.5 1.5S7.83 4 7 4zm7 6c0 1.11-.89 2-2 2h-1c-1.11 0-2-.89-2-2l2-4h-1c-.55 0-1-.45-1-1H8v8c.42 0 1 .45 1 1h1c.42 0 1 .45 1 1H3c0-.55.58-1 1-1h1c0-.55.58-1 1-1h.03L6 5H5c0 .55-.45 1-1 1H3l2 4c0 1.11-.89 2-2 2H2c-1.11 0-2-.89-2-2l2-4H1V5h3c0-.55.45-1 1-1h4c.55 0 1 .45 1 1h3v1h-1l2 4zM2.5 7L1 10h3L2.5 7zM13 10l-1.5-3-1.5 3h3z" fill-rule="evenodd"></path></svg>
 						        Esta obra esta bajo una licencia <a href="https://github.com/s-nt-s/institutos-map/blob/master/LICENSE">GNU General Public License v3.0</a>, por lo tanto eres libre de hacer cualquier modificación o mejora.
 						      </p>
-									<p>Si quieres que tus mejoras, sugerencias o correciones sean incluidas
+<p>Si quieres que tus mejoras, sugerencias o correciones sean incluidas
 										lo mejor es que me hagas un <code>pull Requests</code>, o des de alta un <code>issue</code>, en
 									 <a href="https://github.com/s-nt-s/institutos-map">github</a>; pero si eso te suena a chino
-										puedes simplemente contactame via xmpp en <a title="Ni WhatsApp, ni Telegram, ni mierdas. XMPP." href="xmpp:git@suchat.org">git@suchat.org</a>
+										puedes simplemente contactame via xmpp en <a href="xmpp:git@suchat.org" title="Ni WhatsApp, ni Telegram, ni mierdas. XMPP.">git@suchat.org</a>
 										o via mail en <a href="mailto:santos82h@gmail.com">santos82h@gmail.com</a>.
 									</p>
-									<p>
+<p>
 										Por otro lado, si tienes conocimientos de programación y quieres colaborar pero no se te ocurre como,
 										echale un vistazo a los <a href="https://github.com/s-nt-s/institutos-map/issues">issues abiertos</a>,
 										especialmente a aquellos que estan etiquetados como <code>help wanted</code>.
 									</p>
-								</div>
-					</div>
-					 <div class="sidebar-pane" id="transporte">
-					      <h1 class="sidebar-header">Transporte<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
-								<div class="content">
-									<p>
-										<input type="checkbox" id="estaciones" />
-										<label for="estaciones">Mostrar estaciones de las lineas seleccionadas (*)</label>
-									</p>
-					        									<fieldset class="metro">
-										<legend>
+</div>
+</div>
+<div class="sidebar-pane" id="transporte">
+<h1 class="sidebar-header">Transporte<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+<div class="content">
+<p>
+<input id="estaciones" type="checkbox"/>
+<label for="estaciones">Mostrar estaciones de las lineas seleccionadas (*)</label>
+</p>
+<fieldset class="metro">
+<legend>
 											Metro
 										</legend>
-																					<input type="checkbox" id="metro_1" /> <label for="metro_1">1</label></br>
-																					<input type="checkbox" id="metro_2" /> <label for="metro_2">2</label></br>
-																					<input type="checkbox" id="metro_3" /> <label for="metro_3">3</label></br>
-																					<input type="checkbox" id="metro_4" /> <label for="metro_4">4</label></br>
-																					<input type="checkbox" id="metro_5" /> <label for="metro_5">5</label></br>
-																					<input type="checkbox" id="metro_6" /> <label for="metro_6">6</label></br>
-																					<input type="checkbox" id="metro_7" /> <label for="metro_7">7</label></br>
-																					<input type="checkbox" id="metro_8" /> <label for="metro_8">8</label></br>
-																					<input type="checkbox" id="metro_9" /> <label for="metro_9">9</label></br>
-																					<input type="checkbox" id="metro_10" /> <label for="metro_10">10</label></br>
-																					<input type="checkbox" id="metro_11" /> <label for="metro_11">11</label></br>
-																					<input type="checkbox" id="metro_12" /> <label for="metro_12">12</label></br>
-																					<input type="checkbox" id="metro_R" /> <label for="metro_R">R</label></br>
-																			</fieldset>
-																		<fieldset class="cercanias">
-										<legend>
+<input id="metro_1" type="checkbox"/> <label for="metro_1">1</label><br/>
+<input id="metro_2" type="checkbox"/> <label for="metro_2">2</label><br/>
+<input id="metro_3" type="checkbox"/> <label for="metro_3">3</label><br/>
+<input id="metro_4" type="checkbox"/> <label for="metro_4">4</label><br/>
+<input id="metro_5" type="checkbox"/> <label for="metro_5">5</label><br/>
+<input id="metro_6" type="checkbox"/> <label for="metro_6">6</label><br/>
+<input id="metro_7" type="checkbox"/> <label for="metro_7">7</label><br/>
+<input id="metro_8" type="checkbox"/> <label for="metro_8">8</label><br/>
+<input id="metro_9" type="checkbox"/> <label for="metro_9">9</label><br/>
+<input id="metro_10" type="checkbox"/> <label for="metro_10">10</label><br/>
+<input id="metro_11" type="checkbox"/> <label for="metro_11">11</label><br/>
+<input id="metro_12" type="checkbox"/> <label for="metro_12">12</label><br/>
+<input id="metro_R" type="checkbox"/> <label for="metro_R">R</label><br/>
+</fieldset>
+<fieldset class="cercanias">
+<legend>
 											Cercanias
 										</legend>
-																					<input type="checkbox" id="cercanias_C1" /> <label for="cercanias_C1">C1</label></br>
-																					<input type="checkbox" id="cercanias_C2" /> <label for="cercanias_C2">C2</label></br>
-																					<input type="checkbox" id="cercanias_C3" /> <label for="cercanias_C3">C3</label></br>
-																					<input type="checkbox" id="cercanias_C4" /> <label for="cercanias_C4">C4</label></br>
-																					<input type="checkbox" id="cercanias_C5" /> <label for="cercanias_C5">C5</label></br>
-																					<input type="checkbox" id="cercanias_C7" /> <label for="cercanias_C7">C7</label></br>
-																					<input type="checkbox" id="cercanias_C8" /> <label for="cercanias_C8">C8</label></br>
-																					<input type="checkbox" id="cercanias_C9" /> <label for="cercanias_C9">C9</label></br>
-																					<input type="checkbox" id="cercanias_C10" /> <label for="cercanias_C10">C10</label></br>
-																			</fieldset>
-																		<fieldset class="metro_ligero">
-										<legend>
+<input id="cercanias_C1" type="checkbox"/> <label for="cercanias_C1">C1</label><br/>
+<input id="cercanias_C2" type="checkbox"/> <label for="cercanias_C2">C2</label><br/>
+<input id="cercanias_C3" type="checkbox"/> <label for="cercanias_C3">C3</label><br/>
+<input id="cercanias_C4" type="checkbox"/> <label for="cercanias_C4">C4</label><br/>
+<input id="cercanias_C5" type="checkbox"/> <label for="cercanias_C5">C5</label><br/>
+<input id="cercanias_C7" type="checkbox"/> <label for="cercanias_C7">C7</label><br/>
+<input id="cercanias_C8" type="checkbox"/> <label for="cercanias_C8">C8</label><br/>
+<input id="cercanias_C9" type="checkbox"/> <label for="cercanias_C9">C9</label><br/>
+<input id="cercanias_C10" type="checkbox"/> <label for="cercanias_C10">C10</label><br/>
+</fieldset>
+<fieldset class="metro_ligero">
+<legend>
 											Metro ligero
 										</legend>
-																					<input type="checkbox" id="metro_ligero_ML1" /> <label for="metro_ligero_ML1">ML1</label></br>
-																					<input type="checkbox" id="metro_ligero_ML2" /> <label for="metro_ligero_ML2">ML2</label></br>
-																					<input type="checkbox" id="metro_ligero_ML3" /> <label for="metro_ligero_ML3">ML3</label></br>
-																					<input type="checkbox" id="metro_ligero_ML4" /> <label for="metro_ligero_ML4">ML4</label></br>
-																			</fieldset>
-																		<p>
+<input id="metro_ligero_ML1" type="checkbox"/> <label for="metro_ligero_ML1">ML1</label><br/>
+<input id="metro_ligero_ML2" type="checkbox"/> <label for="metro_ligero_ML2">ML2</label><br/>
+<input id="metro_ligero_ML3" type="checkbox"/> <label for="metro_ligero_ML3">ML3</label><br/>
+<input id="metro_ligero_ML4" type="checkbox"/> <label for="metro_ligero_ML4">ML4</label><br/>
+</fieldset>
+<p>
 										(*) La ubicación de las estaciones es orientativa y puede haber otros
 										accesos que no esten representados.
 									</p>
-								</div>
-						</div>
-
-        </div>
-    </div>
-
-		<div id="map" class="sidebar-map"></div>
-
-  </body>
-
+</div>
+</div>
+</div>
+</div>
+<div class="sidebar-map" id="map"></div>
+</body>
 </html>

@@ -9,6 +9,7 @@ from core.j2 import Jnj2
 from core.map import Map
 from core.parsemd import parsemd
 from core.readme import readme
+import bs4
 
 d = Dataset()
 d.unzip()
@@ -64,6 +65,58 @@ if len(latlon) > 0:
                 print(" ", c.direccion)
                 print(" ", c.info)
 
+def create_sup(soup, n, title=None):
+    sup = soup.new_tag("sup")
+    a = soup.new_tag("a")
+    a.string=str(n)
+    a.attrs["href"]="#n"+str(n)
+    a.attrs["target"]="_self"
+    if title:
+        if title.endswith("."):
+            title=title[:-1]
+        title = bs4.BeautifulSoup(title,'html.parser').get_text()
+        sup.attrs["title"]=title
+    sup.append(a)
+    return sup
+
+def get_checks(soup, pre, *args):
+    for t in args:
+        id = pre+t
+        inp = soup.find("input", id=id)
+        if inp:
+            yield inp, soup.find("label", attrs={"for":id})
+
+def create_notas(html, **kargv):
+    notas={}
+    soup = bs4.BeautifulSoup(html, 'lxml')
+    num=len(notas)+1
+    for inp, lab in get_checks(soup, "t", "036"):
+        notas[num]="Este tipo de centro no sale en los concursos, solo es accesible via comisión de servicios."
+        del inp.attrs["checked"]
+        lab.append(create_sup(soup, num, title=notas[num]))
+    num=len(notas)+1
+    for inp, lab in get_checks(soup, "t", "204", "205", "206"):
+        notas[num]="Parece que este tipo de centro solo es para la especialidad 018. Si no es así avisame con un <a href='https://github.com/s-nt-s/institutos-map/issues'>issue</a>."
+        del inp.attrs["checked"]
+        lab.append(create_sup(soup, num, title=notas[num]))
+    if notas:
+        nt = bs4.BeautifulSoup('''
+        <fieldset>
+            <legend>Notas</legend>
+            <ol>
+            </ol>
+        </fieldset>
+        ''', 'html.parser')
+        ul = nt.find("ol")
+        for num, txt in sorted(notas.items()):
+            li = bs4.BeautifulSoup('''
+                <li id="n{0}">{1}</li>
+            '''.format(num, txt), 'html.parser')
+            ul.append(li)
+        div = soup.select("#settings div.content")[0]
+        div.append(nt)
+    return str(soup)
+
 create_script("docs/geocentros.js", geocentros=d.geocentros)
 create_script("docs/geotransporte.js", geotransporte=d.geotransporte)
 
@@ -82,7 +135,8 @@ j2.save(
     count=len(d.centros),
     transporte=d.transporte,
     notlatlon=notlatlon,
-    sin_etapas=len([c for c in d.centros if not c.etapas]) > 0
+    sin_etapas=len([c for c in d.centros if not c.etapas]) > 0,
+    parse=create_notas
 )
 
 parsemd("template/README.md", "README.md", readme)

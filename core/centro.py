@@ -94,6 +94,8 @@ def get_data(ctr):
                 if status_web(_url) == 200:
                     d1["url"]=_url
                     d1["status_web"] = 200
+    if d1["url"] and d1["url"].endswith("/"):
+        d1["url"]=d1["url"][:-1]
     return d1
 
 
@@ -201,7 +203,7 @@ def get_data2(ctr):
     data["url"] = soup.find(text=re.compile(
         r"\s*Página\s+Web\s*", re.MULTILINE | re.IGNORECASE)).findParent("div").find("a")
     if data["url"]:
-        data["url"] = data["url"].attrs["href"]
+        data["url"] = data["url"].get_text().strip()
 
     if soup.find("div", attrs={"data-title": "IES"}):
         data["tipo"] = "IES"

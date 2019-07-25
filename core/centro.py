@@ -75,17 +75,25 @@ def get_text(n, index=0):
 def get_data(ctr):
     ctr = str(ctr)
     d1 = get_data1(ctr)
+    d2 = None
     if d1 is not None:
-        d2 = None
-        for k in ("latlon", "direccion", "mail"):
+        for k in ("latlon", "direccion", "mail", "url"):
             if not d1.get(k):
                 d2 = d2 or get_data2(ctr)
                 d1[k] = d2.get(k)
     else:
         d1 = get_data2(ctr)
+        d2 = False
     url = d1.get("url")
     if url:
         d1["status_web"] = status_web(url)
+        if d1["status_web"] != 200 and d2 is not False:
+            d2 = d2 or get_data2(ctr)
+            _url = d2.get("url")
+            if _url != url:
+                if status_web(_url) == 200:
+                    d1["url"]=_url
+                    d1["status_web"] = 200
     return d1
 
 
@@ -174,28 +182,34 @@ def get_data2(ctr):
     cod = soup.find("h3", text="Código").parent.find("strong").string
     if ctr != cod:
         return data
-    data["nombre"] = get_text(soup.select("div.sliding-panel-inner h4"))
+    data["nombre"] = get_text(soup.select("li > span[itemprop='title']"))
     if data["nombre"].startswith("IES "):
         data["nombre"] = data["nombre"][4:]
     if not re_minusculas.search(data["nombre"]):
         data["nombre"] = data["nombre"].title()
-    data["direccion"] = get_text(
-        soup.find("div", attrs={"data-title": "Localización"}).find("h1"))
+    data["direccion"] = get_text(soup.select("i.icon-location-pin + span"))
     data["direccion"] = data["direccion"].replace("(Madrid)", "Madrid")
-    latitude = soup.find("meta", attrs={"itemprop": "latitude"}).attrs[
-        "content"]
-    longitude = soup.find("meta", attrs={"itemprop": "longitude"}).attrs[
-        "content"]
-    data["latlon"] = latitude + "," + longitude
+    latitude = soup.find("meta", attrs={"itemprop": "latitude"})
+    if latitude:
+        latitude = latitude.attrs["content"]
+    longitude = soup.find("meta", attrs={"itemprop": "longitude"})
+    if longitude:
+        longitude = longitude.attrs["content"]
+    if latitude and longitude:
+        data["latlon"] = latitude + "," + longitude
 
     data["url"] = soup.find(text=re.compile(
-        r"\s*Página\s+Web\s*", re.MULTILINE)).findParent("li").find("a").attrs["href"]
+        r"\s*Página\s+Web\s*", re.MULTILINE | re.IGNORECASE)).findParent("div").find("a")
+    if data["url"]:
+        data["url"] = data["url"].attrs["href"]
 
     if soup.find("div", attrs={"data-title": "IES"}):
         data["tipo"] = "IES"
 
     data["mail"] = soup.find(text=re.compile(
-        r"\s*Email\s*", re.MULTILINE)).findParent("li").find("a").get_text().strip()
+        r"\s*Email\s*", re.MULTILINE | re.IGNORECASE)).findParent("div").find("a")
+    if data["mail"]:
+        data["mail"] = data["mail"].get_text().strip()
 
     data["DAT"] = ""
     data["info"] = url

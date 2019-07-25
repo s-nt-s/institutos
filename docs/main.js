@@ -89,7 +89,7 @@ function getPopUp(c) {
   //     tags.push("bilingue")
   c.idiomas.forEach(function(i) {
     var t=idiomas[i];
-    tags.push(`<b class="tag_${i} flag" title="Bilingüismo o sección de ${t}">&#35;${i}</b>`)
+    tags.push(`<b class="tag_${i} flag" title="Bilingüe o sección de ${t}">&#35;${i}</b>`)
   });
   if (tags.length) {
     body.push("\n"+tags.join(", "))

@@ -92,7 +92,7 @@ function getPopUp(c) {
     tags.push(`<b class="tag_${i} flag" title="Bilingüismo o sección de ${t}">&#35;${i}</b>`)
   });
   if (tags.length) {
-    body.push(tags.join(", "))
+    body.push("\n"+tags.join(", "))
   }
   if (body.length) {
     body = body.join("<br/>")

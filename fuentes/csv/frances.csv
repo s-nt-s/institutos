@@ -1,0 +1,17 @@
+CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;
+AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
+Madrid-Capital;28033539;IES;ALAMEDA DE OSUNA;Calle De Antonio Sancha, 11 ;Madrid;Barajas;28042;912761560;913291525;-;Público;Activid. .Extraesc.;
+Madrid-Sur;28050537;IES;ALFONSO MORENO;Calle Estudiantes, 3 ;Brunete;-;28690;918158371;918158399;-;Público;Activid. .Extraesc.;
+Madrid-Este;28000522;IES;ANTONIO MACHADO;Calle Alalpardo, S/n ;Alcalá de Henares;-;28806;918892450;918883916;-;Público;Transporte,Activid. .Extraesc.;
+Madrid-Sur;28058664;IES;BARRIO LORANCA;Calle De Federica Montseny, 2 ;Fuenlabrada;-;28942;916047233;916046650;-;Público;Activid. .Extraesc.;
+Madrid-Capital;28020892;IES;BEATRIZ GALINDO;Calle De Goya, 10 ;Madrid;Salamanca;28001;915764706;915760637;-;Público;Activid. .Extraesc.;
+Madrid-Capital;28039888;IES;GABRIEL GARCIA MARQUEZ;Calle Del Nevado Del Ruiz, 1 ;Madrid;Hortaleza;28033;913812820;913816423;-;Público;Activid. .Extraesc.;
+Madrid-Capital;28020119;IES;GREGORIO MARAÑON;Avenida De El Ferrol, 43 ;Madrid;Fuencarral-El Pardo;28029;917310421;917380949;Transt. Desarrollo;Público;Activid. .Extraesc.;
+Madrid-Norte;28043028;IES;JUAN DE MAIRENA;Pasaje La Viña, 3 ;San Sebastián de los Reyes;-;28701;916518199;916639137;-;Público;Activid. .Extraesc.;
+Madrid-Oeste;28041597;IES;LAS CANTERAS;Calle Peñalara, 2 ;Collado Villalba;-;28400;918513438;918513588;Motóricos;Público;Transporte,Activid. .Extraesc.;
+Madrid-Oeste;28046303;IES;LAS ENCINAS;Avenida Mirasierra, 8 ;Villanueva de la Cañada;-;28691;918157473;918156010;-;Público;Transporte,Comedor,Activid. .Extraesc.;
+Madrid-Sur;28039992;IES;LOS ROSALES;Calle Tulipán, 4 ;Móstoles;-;28933;916146212;916178952;-;Público;Comedor,Activid. .Extraesc.;
+Madrid-Este;28040027;IES;LUIS DE GONGORA;Calle Río, S/n ;Torrejón de Ardoz;-;28850;916487638;916568738;-;Público;Activid. .Extraesc.;
+Madrid-Capital;28039840;IES;MARQUES DE SUANZES;Avenida Del Veinticinco De Septiembre, 3 ;Madrid;San Blas-Canillejas;28027;917414653;913200619;-;Público;Activid. .Extraesc.;
+Madrid-Norte;28042103;IES;PINTOR ANTONIO LOPEZ;Calle Del Orégano, 1 ;Tres Cantos;-;28760;918039102;918030328;Auditivos,Transt. Desarrollo;Público;-;
+Madrid-Capital;28020946;IES;SAN ISIDRO;Calle De Toledo, 39 ;Madrid;Centro;28005;913651271;913656833;-;Público;Activid. .Extraesc.;

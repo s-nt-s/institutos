@@ -45,7 +45,11 @@ def get_abr(t):
     return None
 
 
-def status_web(url):
+def status_web(url, stweb):
+    if url.endswith("/"):
+        url=url[:-1]
+    if stweb and url in stweb:
+        return stweb[url]
     buffer = ""
     try:
         with closing(requests.get(url, stream=True, verify=False)) as res:
@@ -72,7 +76,7 @@ def get_text(n, index=0):
     return txt
 
 
-def get_data(ctr):
+def get_data(ctr, stweb):
     ctr = str(ctr)
     d1 = get_data1(ctr)
     d2 = None
@@ -86,12 +90,12 @@ def get_data(ctr):
         d2 = False
     url = d1.get("url")
     if url:
-        d1["status_web"] = status_web(url)
+        d1["status_web"] = status_web(url, stweb)
         if d1["status_web"] != 200 and d2 is not False:
             d2 = d2 or get_data2(ctr)
             _url = d2.get("url")
-            if _url != url:
-                if status_web(_url) == 200:
+            if _url and _url != url:
+                if status_web(_url, stweb) == 200:
                     d1["url"]=_url
                     d1["status_web"] = 200
     if d1["url"] and d1["url"].endswith("/"):

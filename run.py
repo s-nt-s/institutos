@@ -9,6 +9,12 @@ from core.confmap import (color_to_url, colors, etapas_ban, parse_nombre,
 from core.dataset import Dataset
 from core.j2 import Jnj2, toTag
 
+idiomas={k:v for k, v in (
+    ("EN", "inglés"),
+    ("DE", "alemán"),
+    ("FR", "francés")
+)}
+
 d = Dataset()
 d.unzip()
 
@@ -108,6 +114,7 @@ def create_notas(html, **kargv):
 
 create_script("docs/geocentros.js", geocentros=d.geocentros)
 create_script("docs/geotransporte.js", geotransporte=d.geotransporte)
+create_script("docs/constantes.js", idiomas=idiomas)
 
 lgd = [colors.dificultad, colors.nocturno, colors.default]
 lgd = lgd + [color_to_url(c, None) for c in lgd]
@@ -126,7 +133,8 @@ jHtml.save(
     transporte=d.transporte,
     notlatlon=notlatlon,
     sin_etapas=len([c for c in d.centros if not c.etapas]) > 0,
-    parse=create_notas
+    parse=create_notas,
+    idiomas=idiomas
 )
 jMd = Jnj2("template/", "./", post=lambda x, **
            kargs: re.sub(r"\n\s*\n\s*\n", r"\n\n", x).strip())

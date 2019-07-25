@@ -28,6 +28,7 @@
 		<script src="geotransporte.js"></script>
     <script src="geocentros.js"></script>
     <script src="extend.js"></script>
+    <script src="constantes.js"></script>
     <script src="main.js" defer="defer"></script>
 		<!-- Matomo -->
 		<script type="text/javascript">
@@ -192,8 +193,10 @@
                   <legend>Otras condiciones especiales</legend>
 										  <input id="dificultad" type="checkbox" checked="checked" title="Centro de especial dificultad"/> <label for="dificultad">Centro de especial dificultad</label><br/>
 										  <input id="excelencia" type="checkbox" checked="checked" title="Centro o aula de excelencia"/> <label for="excelencia">Centro o aula de excelencia</label><br/>
-											<input id="bilingue" type="checkbox" checked="checked" title="Bilingüismo o sección de idioma"/> <label for="bilingue">Bilingüismo o sección de idioma</label><br/>
-											<input id="tecnico" type="checkbox" checked="checked" title="Instituto de innovación tecnológica"/> <label for="tecnico">Instituto de innovación tecnológica</label>
+											<input id="tecnico" type="checkbox" checked="checked" title="Instituto de innovación tecnológica"/> <label for="tecnico">Instituto de innovación tecnológica</label><br/>
+							        {% for cod, txt in idiomas.items() %}
+											<input class="blg_{{cod}}" id="blg_{{cod}}" type="checkbox" checked="checked" title="Bilingüismo o sección de {{txt}}"/> <label class="blg_{{cod}}" for="blg_{{cod}}">Bilingüismo o sección de {{txt}}</label><br/>
+											{% endfor %}
                 </fieldset>
                 </div>
             </div>

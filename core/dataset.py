@@ -1,6 +1,7 @@
 import copy
 import re
 from functools import lru_cache
+import os
 
 import geopy.distance
 import requests
@@ -9,7 +10,7 @@ from shapely.geometry import LineString, Polygon
 
 from .centro import get_abr, get_data
 from .common import (get_km, get_pdf, get_soup, mkBunch, mkBunchParse,
-                     read_csv, read_yml, to_num, unzip)
+                     read_csv, read_yml, to_num, unzip, read_js)
 from .confmap import etapas_ban, parse_nombre, parse_tipo
 from .decorators import *
 
@@ -68,6 +69,8 @@ class Dataset():
         self.indice = mkBunch("fuentes/indice.yml")
         self.fuentes = mkBunch("fuentes/fuentes.yml") or Bunch()
         self.arreglos = read_yml("fuentes/arreglos.yml")
+        if os.path.isfile("data/centros.json"):
+            self.reload=["data/status_web.json"]
 
     def dwn_centros(self, file, data=None):
         if data is None:
@@ -120,7 +123,7 @@ class Dataset():
                 dat = dat.split("-")[-1]
             if dir in ("", "Madrid"):
                 dir = None
-            extra = get_data(id)
+            extra = get_data(id, self.status_web)
             etapas = extra.get("etapas")
             exist_etapas = etapas and len(etapas) > 0
             excluir = []
@@ -154,8 +157,15 @@ class Dataset():
                 tipo=tipo,
                 status_web=extra.get("status_web"),
                 min_distance=self.min_distance(latlon),
-                etapas=etapas
+                etapas=etapas,
+                idiomas=[]
             )
+            if id in self.ingles:
+                c.idiomas.append("EN")
+            if id in self.aleman:
+                c.idiomas.append("DE")
+            if id in self.frances:
+                c.idiomas.append("FR")
             for k, v in arreglo.items():
                 c[k] = v
             if id in self.nocturno and not c.nocturno:
@@ -298,6 +308,23 @@ class Dataset():
                                   checkSeccionesLinguisticasFr="S",
                                   checkSeccionesLinguisticasAl="S",
                                   )
+
+    @property
+    @lru_cache(maxsize=None)
+    def ingles(self):
+        return self.get_centrosid("ingles",
+                                  checkCentroBilingue="S",
+                                  checkCentroConvenio="S",
+                                  )
+    @property
+    @lru_cache(maxsize=None)
+    def aleman(self):
+        return self.get_centrosid("aleman", checkSeccionesLinguisticasAl="S")
+
+    @property
+    @lru_cache(maxsize=None)
+    def frances(self):
+        return self.get_centrosid("frances", checkSeccionesLinguisticasFr="S")
 
     @property
     @lru_cache(maxsize=None)
@@ -704,3 +731,12 @@ class Dataset():
                     p[k] = v
             geojson['features'].append(f)
         return geojson
+
+
+    @property
+    @lru_cache(maxsize=None)
+    @JsonCache(file="data/status_web.json")
+    def status_web(self):
+        cs = read_js("data/centros.json") or []
+        stweb = {c["url"]:c["status_web"] for c in cs if c.get("url")}
+        return stweb

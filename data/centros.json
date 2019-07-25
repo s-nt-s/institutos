@@ -19,7 +19,8 @@
   "min_distance": 9290.310366614081,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28000364,
   "dat": "Este",
@@ -45,7 +46,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28000467,
   "dat": "Este",
@@ -68,7 +70,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28000522,
   "dat": "Este",
@@ -76,7 +79,7 @@
   "direccion": "Calle Alalpardo, S/n 28806 Alcal\u00e1 de Henares",
   "telefono": 918892450,
   "mail": "ies.machado.alcala@educa.madrid.org",
-  "latlon": "40.49165857006046,-3.3696764563273067",
+  "latlon": "40.491658570060444,-3.3696764563273067",
   "nocturno": [
     "Artes (LOE-LOMCE)"
   ],
@@ -89,12 +92,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28000522",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 406.69439262484275,
+  "min_distance": 406.6943926235747,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["FR"]
 },{
   "id": 28000753,
   "dat": "Norte",
@@ -123,7 +127,8 @@
     "Bachillerato",
     "Curso preparatorio prueba de acceso Grado Superior (LOE)",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["DE"]
 },{
   "id": 28001629,
   "dat": "Sur",
@@ -150,7 +155,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28001642,
   "dat": "Sur",
@@ -172,7 +178,8 @@
   "min_distance": 857.0819517434782,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28001678,
   "dat": "Norte",
@@ -195,7 +202,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28001769,
   "dat": "Este",
@@ -218,7 +226,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28001812,
   "dat": "Oeste",
@@ -226,7 +235,7 @@
   "direccion": "Paseo De San Sebasti\u00e1n, 23 28490 Becerril de la Sierra",
   "telefono": 918538064,
   "mail": "cp.juanramonjimenez.becerril@educa.madrid.org",
-  "latlon": "40.71360141345145,-3.9910766855742534",
+  "latlon": "40.71360141345146,-3.9910766855742534",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -237,10 +246,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28001812",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 4426.076469927257,
+  "min_distance": 4426.076469928181,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28001848,
   "dat": "Oeste",
@@ -262,7 +272,8 @@
   "min_distance": 124.26017039123157,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28001873,
   "dat": "Oeste",
@@ -284,7 +295,8 @@
   "min_distance": 11556.970259857173,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28002026,
   "dat": "Sur",
@@ -306,7 +318,8 @@
   "min_distance": 29833.423467187982,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28002038,
   "dat": "Este",
@@ -328,7 +341,8 @@
   "min_distance": 5676.5972764203225,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28002105,
   "dat": "Sur",
@@ -350,7 +364,8 @@
   "min_distance": 34434.515708259954,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28002181,
   "dat": "Sur",
@@ -374,7 +389,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28002211,
   "dat": "Norte",
@@ -396,7 +412,8 @@
   "min_distance": 8926.75041916568,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28002312,
   "dat": "Norte",
@@ -423,7 +440,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28002415,
   "dat": "Oeste",
@@ -448,7 +466,8 @@
     "Bachillerato",
     "Curso preparatorio prueba de acceso Grado Superior (LOE)",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28002580,
   "dat": "Este",
@@ -472,7 +491,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28002853,
   "dat": "Norte",
@@ -494,7 +514,8 @@
   "min_distance": 11175.031218823504,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28003201,
   "dat": "Sur",
@@ -520,7 +541,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28003304,
   "dat": "Sur",
@@ -542,7 +564,8 @@
   "min_distance": 157.09184724701788,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28003882,
   "dat": "Sur",
@@ -568,7 +591,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28003894,
   "dat": "Sur",
@@ -590,7 +614,8 @@
   "min_distance": 965.810033357764,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28003900,
   "dat": "Sur",
@@ -598,7 +623,7 @@
   "direccion": "Calle Alpujarras, 52 28915 Legan\u00e9s",
   "telefono": 916880222,
   "mail": "ies.mariazambrano.leganes@educa.madrid.org",
-  "latlon": "40.330590380098705,-3.7475089043237886",
+  "latlon": "40.33059038009869,-3.7475089043237886",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -609,11 +634,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28003900",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 595.4735603088923,
+  "min_distance": 595.4735603104241,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28004059,
   "dat": "Capital",
@@ -640,7 +666,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28005428,
   "dat": "Capital",
@@ -662,7 +689,8 @@
   "min_distance": 909.4970903220042,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28005520,
   "dat": "Capital",
@@ -684,7 +712,8 @@
   "min_distance": 506.3350310757913,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28005556,
   "dat": "Capital",
@@ -706,7 +735,8 @@
   "min_distance": 413.9014746753174,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28013899,
   "dat": "Capital",
@@ -729,7 +759,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28015756,
   "dat": "Capital",
@@ -752,7 +783,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28018344,
   "dat": "Capital",
@@ -775,7 +807,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28018356,
   "dat": "Capital",
@@ -798,7 +831,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28018368,
   "dat": "Capital",
@@ -820,7 +854,8 @@
   "min_distance": 195.43398548601735,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28018371,
   "dat": "Capital",
@@ -842,7 +877,8 @@
   "min_distance": 381.4970687630993,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28018381,
   "dat": "Capital",
@@ -867,7 +903,8 @@
     "Bachillerato",
     "Curso preparatorio prueba de acceso Grado Superior (LOE)",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28018435,
   "dat": "Capital",
@@ -892,7 +929,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28018460,
   "dat": "Capital",
@@ -917,7 +955,8 @@
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28018472,
   "dat": "Capital",
@@ -940,7 +979,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28018484,
   "dat": "Capital",
@@ -963,7 +1003,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28018903,
   "dat": "Capital",
@@ -986,7 +1027,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28019351,
   "dat": "Capital",
@@ -1010,7 +1052,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28019464,
   "dat": "Capital",
@@ -1036,7 +1079,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28019889,
   "dat": "Capital",
@@ -1060,7 +1104,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28019971,
   "dat": "Capital",
@@ -1082,7 +1127,8 @@
   "min_distance": 413.26408252575936,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28020119,
   "dat": "Capital",
@@ -1110,7 +1156,8 @@
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)",
     "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
-  ]
+  ],
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28020201,
   "dat": "Capital",
@@ -1133,7 +1180,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28020341,
   "dat": "Capital",
@@ -1155,7 +1203,8 @@
   "min_distance": 378.5936221478451,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28020545,
   "dat": "Capital",
@@ -1163,7 +1212,7 @@
   "direccion": "Calle De N\u00e1poles, 56 28043 Madrid",
   "telefono": 913884579,
   "mail": "ies.condedeorgaz.madrid@educa.madrid.org",
-  "latlon": "40.459983181793525,-3.646389131938344",
+  "latlon": "40.45998318179353,-3.646389131938344",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -1174,11 +1223,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020545",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 63.94877591331545,
+  "min_distance": 63.94877591406831,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28020557,
   "dat": "Capital",
@@ -1186,7 +1236,7 @@
   "direccion": "Calle De Arcos De Jal\u00f3n, 116 28037 Madrid",
   "telefono": 913064069,
   "mail": "ies.carlostercero.madrid@educa.madrid.org",
-  "latlon": "40.424914525909315,-3.6144371343516086",
+  "latlon": "40.42491452590933,-3.6144371343516086",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -1197,11 +1247,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020557",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 321.66301545323506,
+  "min_distance": 321.6630154519788,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28020570,
   "dat": "Capital",
@@ -1224,7 +1275,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28020582,
   "dat": "Capital",
@@ -1247,7 +1299,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28020624,
   "dat": "Capital",
@@ -1274,7 +1327,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28020648,
   "dat": "Capital",
@@ -1297,7 +1351,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28020703,
   "dat": "Capital",
@@ -1321,7 +1376,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28020715,
   "dat": "Capital",
@@ -1344,7 +1400,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28020727,
   "dat": "Capital",
@@ -1368,7 +1425,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28020739,
   "dat": "Capital",
@@ -1391,7 +1449,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28020806,
   "dat": "Capital",
@@ -1415,7 +1474,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28020831,
   "dat": "Capital",
@@ -1423,7 +1483,7 @@
   "direccion": "Calle V\u00eda L\u00edmite, 14 28029 Madrid",
   "telefono": 913146706,
   "mail": "ies.tetuan.madrid@educa.madrid.org",
-  "latlon": "40.473140346863296,-3.696828178293769",
+  "latlon": "40.47314034686331,-3.696828178293769",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -1434,10 +1494,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020831",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 391.1723166841582,
+  "min_distance": 391.17231668552915,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28020855,
   "dat": "Capital",
@@ -1460,7 +1521,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28020892,
   "dat": "Capital",
@@ -1489,7 +1551,8 @@
     "Curso preparatorio prueba de acceso Grado Superior (LOE)",
     "ESO para personas adultas (LOE-LOMCE)",
     "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
-  ]
+  ],
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28020909,
   "dat": "Capital",
@@ -1507,7 +1570,7 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
-  "url": "https://www.iesisabellacatolica.es",
+  "url": "http://www.iesisabellacatolica.es",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28020909",
   "tipo": "042",
   "status_web": 200,
@@ -1516,7 +1579,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN", "DE"]
 },{
   "id": 28020910,
   "dat": "Capital",
@@ -1540,7 +1604,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28020934,
   "dat": "Capital",
@@ -1566,7 +1631,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["DE"]
 },{
   "id": 28020946,
   "dat": "Capital",
@@ -1595,7 +1661,8 @@
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)",
     "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
-  ]
+  ],
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28020958,
   "dat": "Capital",
@@ -1618,7 +1685,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28020961,
   "dat": "Capital",
@@ -1641,7 +1709,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28021008,
   "dat": "Capital",
@@ -1665,7 +1734,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28021151,
   "dat": "Capital",
@@ -1687,7 +1757,8 @@
   "min_distance": 499.7683923287525,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28021161,
   "dat": "Capital",
@@ -1695,7 +1766,7 @@
   "direccion": "Callejon De D\u00f3mine, 6 28034 Madrid",
   "telefono": 913584287,
   "mail": "cpee.franciscodelpozo.madrid@educa.madrid.org",
-  "latlon": "40.494265897756165,-3.686320138399717",
+  "latlon": "40.49426589775616,-3.686320138399717",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -1706,10 +1777,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021161",
   "tipo": "020",
   "status_web": 200,
-  "min_distance": 559.4212132031108,
+  "min_distance": 559.4212132032831,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28021173,
   "dat": "Capital",
@@ -1731,7 +1803,8 @@
   "min_distance": 306.1900408895065,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28021252,
   "dat": "Capital",
@@ -1739,7 +1812,7 @@
   "direccion": "Calle De Luis Mitjans, 41 28007 Madrid",
   "telefono": 915523979,
   "mail": "ies.pacifico.madrid@educa.madrid.org",
-  "latlon": "40.40410946519944,-3.6686222494004217",
+  "latlon": "40.404109465199426,-3.6686222494004217",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -1750,10 +1823,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28021252",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 348.36903951051625,
+  "min_distance": 348.36903951151544,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28021549,
   "dat": "Capital",
@@ -1777,7 +1851,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28021550,
   "dat": "Capital",
@@ -1800,7 +1875,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28021562,
   "dat": "Capital",
@@ -1823,7 +1899,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28022207,
   "dat": "Oeste",
@@ -1847,7 +1924,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28022724,
   "dat": "Capital",
@@ -1869,7 +1947,8 @@
   "min_distance": 2136.0808501477654,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28022891,
   "dat": "Norte",
@@ -1891,7 +1970,8 @@
   "min_distance": 17372.501760485233,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28023194,
   "dat": "Sur",
@@ -1913,7 +1993,8 @@
   "min_distance": 662.3250758553046,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28023327,
   "dat": "Sur",
@@ -1937,7 +2018,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28023364,
   "dat": "Sur",
@@ -1959,7 +2041,8 @@
   "min_distance": 14666.68162031656,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28023388,
   "dat": "Este",
@@ -1981,7 +2064,8 @@
   "min_distance": 17668.454532247633,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28023741,
   "dat": "Oeste",
@@ -2003,7 +2087,8 @@
   "min_distance": 324.2018804896577,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28023911,
   "dat": "Oeste",
@@ -2026,7 +2111,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28024290,
   "dat": "Este",
@@ -2053,7 +2139,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28024642,
   "dat": "Norte",
@@ -2077,7 +2164,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28025014,
   "dat": "Este",
@@ -2101,7 +2189,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28025026,
   "dat": "Este",
@@ -2128,7 +2217,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Curso preparatorio prueba de acceso Grado Superior (LOE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28025129,
   "dat": "Norte",
@@ -2152,7 +2242,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28025415,
   "dat": "Este",
@@ -2160,7 +2251,7 @@
   "direccion": "Calle Miguel Cervantes, 4 28511 Valdilecha",
   "telefono": 918738437,
   "mail": "cp.cervantes.valdilecha@educa.madrid.org",
-  "latlon": "40.29384204220651,-3.2996501318009703",
+  "latlon": "40.29384204220653,-3.2996501318009703",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -2171,10 +2262,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025415",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 12615.880255553773,
+  "min_distance": 12615.880255553528,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28025658,
   "dat": "Este",
@@ -2196,7 +2288,8 @@
   "min_distance": 21011.202753227317,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28025828,
   "dat": "Capital",
@@ -2204,7 +2297,7 @@
   "direccion": "Calle De Valdebernardo, 1 28030 Madrid",
   "telefono": 917731854,
   "mail": "ies.felipesegundo.madrid@educa.madrid.org",
-  "latlon": "40.39752159032749,-3.6338429115163104",
+  "latlon": "40.397521590327486,-3.6338429115163104",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -2215,11 +2308,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28025828",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 349.332996777458,
+  "min_distance": 349.3329967784656,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28026031,
   "dat": "Sur",
@@ -2245,7 +2339,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28026092,
   "dat": "Sur",
@@ -2268,7 +2363,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28028076,
   "dat": "Norte",
@@ -2290,7 +2386,8 @@
   "min_distance": 1079.5524759718728,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28028301,
   "dat": "Este",
@@ -2313,7 +2410,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28028350,
   "dat": "Este",
@@ -2336,7 +2434,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28028374,
   "dat": "Sur",
@@ -2362,7 +2461,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28028404,
   "dat": "Sur",
@@ -2385,7 +2485,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28028428,
   "dat": "Capital",
@@ -2393,7 +2494,7 @@
   "direccion": "Avenida De Los Toreros, 57 28028 Madrid",
   "telefono": 913552326,
   "mail": "ies.avenidadelostor.madrid@educa.madrid.org",
-  "latlon": "40.43351870441474,-3.6647988443253077",
+  "latlon": "40.433518704414745,-3.6647988443253077",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -2404,11 +2505,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028428",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 284.25321228620055,
+  "min_distance": 284.2532122865205,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28028431,
   "dat": "Capital",
@@ -2434,7 +2536,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28028453,
   "dat": "Capital",
@@ -2457,7 +2560,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28028465,
   "dat": "Capital",
@@ -2480,7 +2584,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28028477,
   "dat": "Capital",
@@ -2503,7 +2608,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28028568,
   "dat": "Sur",
@@ -2526,7 +2632,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28028571,
   "dat": "Oeste",
@@ -2550,7 +2657,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28028611,
   "dat": "Norte",
@@ -2573,7 +2681,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28028672,
   "dat": "Capital",
@@ -2581,7 +2690,7 @@
   "direccion": "Calle De Serrano, 127 28006 Madrid",
   "telefono": 915617838,
   "mail": "ies.ramirodemaeztu.madrid@educa.madrid.org",
-  "latlon": "40.44234017693831,-3.6860865092847903",
+  "latlon": "40.4423401769383,-3.6860865092847903",
   "nocturno": [
     "Ciencias (LOE-LOMCE)",
     "Humanidades y Ciencias Sociales (LOE-LOMCE)",
@@ -2596,11 +2705,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28028672",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 214.48013538906343,
+  "min_distance": 214.4801353894378,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN", "DE"]
 },{
   "id": 28028684,
   "dat": "Oeste",
@@ -2628,7 +2738,8 @@
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28029241,
   "dat": "Capital",
@@ -2650,7 +2761,8 @@
   "min_distance": 675.6315130097892,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28029664,
   "dat": "Capital",
@@ -2672,7 +2784,8 @@
   "min_distance": 296.24405832727945,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28030101,
   "dat": "Sur",
@@ -2696,7 +2809,8 @@
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28030113,
   "dat": "Capital",
@@ -2720,7 +2834,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28030125,
   "dat": "Capital",
@@ -2728,7 +2843,7 @@
   "direccion": "Calle De Oca\u00f1a, 35bis 28047 Madrid",
   "telefono": 917179100,
   "mail": "cepa.aluche.madrid@educa.madrid.org",
-  "latlon": "40.38478069568678,-3.7556594164657175",
+  "latlon": "40.384780695686764,-3.7556594164657175",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -2739,13 +2854,14 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030125",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 380.2489642752808,
+  "min_distance": 380.2489642751178,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28030137,
   "dat": "Capital",
@@ -2753,7 +2869,7 @@
   "direccion": "Calle De Fortuny, 24 28010 Madrid",
   "telefono": 913101839,
   "mail": "ies.fortuny.madrid@educa.madrid.org",
-  "latlon": "40.4337594258703,-3.6898309692897224",
+  "latlon": "40.433759425870306,-3.6898309692897224",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -2764,11 +2880,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030137",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 71.16126310321806,
+  "min_distance": 71.16126310388138,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28030149,
   "dat": "Capital",
@@ -2791,7 +2908,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28030150,
   "dat": "Capital",
@@ -2814,7 +2932,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28030162,
   "dat": "Capital",
@@ -2837,7 +2956,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28030174,
   "dat": "Capital",
@@ -2860,7 +2980,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28030186,
   "dat": "Capital",
@@ -2868,7 +2989,7 @@
   "direccion": "Calle De Alfredo Marquerie, 21 28034 Madrid",
   "telefono": 917388675,
   "mail": "ies.damasoalonso.madrid@educa.madrid.org",
-  "latlon": "40.48718116314,-3.7004659272215004",
+  "latlon": "40.48718116313999,-3.7004659272215004",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -2879,11 +3000,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030186",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 479.179742114607,
+  "min_distance": 479.1797421150075,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28030204,
   "dat": "Sur",
@@ -2907,7 +3029,8 @@
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28030216,
   "dat": "Sur",
@@ -2915,7 +3038,7 @@
   "direccion": "Avenida Juan Carlos I, 19 28981 Parla",
   "telefono": 916982906,
   "mail": "ies.humanejos.parla@educa.madrid.org",
-  "latlon": "40.228683137011366,-3.7688847486100605",
+  "latlon": "40.22868313701137,-3.7688847486100596",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -2926,12 +3049,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030216",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 317.4567867417598,
+  "min_distance": 317.45678674178,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28030228,
   "dat": "Este",
@@ -2955,7 +3079,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28030241,
   "dat": "Sur",
@@ -2979,7 +3104,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28030575,
   "dat": "Capital",
@@ -2987,7 +3113,7 @@
   "direccion": "Calle De Somont\u00edn, 59 28033 Madrid",
   "telefono": 913028445,
   "mail": "ies.arturosoria.madrid@educa.madrid.org",
-  "latlon": "40.477742910170676,-3.660161958912997",
+  "latlon": "40.47774291017068,-3.660161958912997",
   "nocturno": null,
   "dificultad": true,
   "adaptado": false,
@@ -2998,11 +3124,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030575",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 248.79872225662962,
+  "min_distance": 248.79872225748525,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28030903,
   "dat": "Este",
@@ -3026,7 +3153,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28030915,
   "dat": "Sur",
@@ -3049,7 +3177,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28030927,
   "dat": "Capital",
@@ -3057,7 +3186,7 @@
   "direccion": "Calle De Maqueda, 130 28024 Madrid",
   "telefono": 917191511,
   "mail": "ies.blasdeotero.madrid@educa.madrid.org",
-  "latlon": "40.38888268881213,-3.76207929306955",
+  "latlon": "40.38888268881214,-3.76207929306955",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3068,11 +3197,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030927",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 335.008370415839,
+  "min_distance": 335.008370415641,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28030939,
   "dat": "Capital",
@@ -3092,7 +3222,8 @@
   "tipo": "042",
   "status_web": 200,
   "min_distance": 93.69745318639774,
-  "etapas": ["Bachillerato"]
+  "etapas": ["Bachillerato"],
+  "idiomas": []
 },{
   "id": 28030952,
   "dat": "Capital",
@@ -3115,7 +3246,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28030964,
   "dat": "Capital",
@@ -3139,7 +3271,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28030976,
   "dat": "Capital",
@@ -3147,7 +3280,7 @@
   "direccion": "Calle De Carlos Ii, S/n 28022 Madrid",
   "telefono": 913065946,
   "mail": "ies.lasmusas.madrid@educa.madrid.org",
-  "latlon": "40.42868839313901,-3.6077871485978754",
+  "latlon": "40.42868839313902,-3.6077871485978754",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3158,11 +3291,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030976",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 429.6524957758414,
+  "min_distance": 429.6524957747815,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28030991,
   "dat": "Capital",
@@ -3186,7 +3320,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28031002,
   "dat": "Capital",
@@ -3208,7 +3343,8 @@
   "min_distance": 736.1584241688877,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28031555,
   "dat": "Capital",
@@ -3230,7 +3366,8 @@
   "min_distance": 213.2115550381017,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28032471,
   "dat": "Sur",
@@ -3238,7 +3375,7 @@
   "direccion": "Avenida Alemania, 19 28916 Legan\u00e9s",
   "telefono": 916867274,
   "mail": "ies.arquitectoperid.leganes@educa.madrid.org",
-  "latlon": "40.33420095800475,-3.740826690151356",
+  "latlon": "40.33420095800474,-3.740826690151356",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3249,11 +3386,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032471",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 258.34247564755015,
+  "min_distance": 258.3424756492495,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28032481,
   "dat": "Capital",
@@ -3277,7 +3415,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28032501,
   "dat": "Oeste",
@@ -3300,7 +3439,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28032559,
   "dat": "Sur",
@@ -3308,7 +3448,7 @@
   "direccion": "Avenida Juan Carlos I, 12 28981 Parla",
   "telefono": 916981111,
   "mail": "ies.tiernogalvan.parla@educa.madrid.org",
-  "latlon": "40.22596700849176,-3.768184077093533",
+  "latlon": "40.225967008491764,-3.768184077093533",
   "nocturno": [
     "Ciencias (LOE-LOMCE)",
     "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -3322,12 +3462,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28032559",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 620.930447336774,
+  "min_distance": 620.9304473360805,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28033311,
   "dat": "Capital",
@@ -3351,7 +3492,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28033321,
   "dat": "Capital",
@@ -3359,7 +3501,7 @@
   "direccion": "Calle De Chantada, 34 28029 Madrid",
   "telefono": 913781949,
   "mail": "cepa.sampedro.madrid@educa.madrid.org",
-  "latlon": "40.47346444529825,-3.713111024424132",
+  "latlon": "40.47346444529824,-3.713111024424132",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3370,13 +3512,14 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033321",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 357.06847025245173,
+  "min_distance": 357.06847025272214,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28033333,
   "dat": "Capital",
@@ -3400,7 +3543,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28033515,
   "dat": "Este",
@@ -3422,7 +3566,8 @@
   "min_distance": 1518.077514401071,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28033539,
   "dat": "Capital",
@@ -3445,7 +3590,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28033552,
   "dat": "Sur",
@@ -3468,7 +3614,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28033564,
   "dat": "Sur",
@@ -3490,7 +3637,8 @@
   "min_distance": 559.9568954249909,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28033679,
   "dat": "Sur",
@@ -3512,7 +3660,8 @@
   "min_distance": 123.54386490988688,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28033850,
   "dat": "Sur",
@@ -3536,7 +3685,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28034441,
   "dat": "Capital",
@@ -3559,7 +3709,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28035305,
   "dat": "Este",
@@ -3582,7 +3733,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28035317,
   "dat": "Norte",
@@ -3606,7 +3758,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28035330,
   "dat": "Capital",
@@ -3629,7 +3782,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28035342,
   "dat": "Oeste",
@@ -3637,7 +3791,7 @@
   "direccion": "Camino De La Dehesilla Y Rodeo, S/n 28470 Cercedilla",
   "telefono": 918521763,
   "mail": "ies.ladehesilla.cercedilla@educa.madrid.org",
-  "latlon": "40.737405789386784,-4.043729029455896",
+  "latlon": "40.73740578938678,-4.043729029455895",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3648,11 +3802,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28035342",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1873.2089744054765,
+  "min_distance": 1873.2089744055477,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28036309,
   "dat": "Sur",
@@ -3660,7 +3815,7 @@
   "direccion": "Calle De Los Robles, 4 28922 Alcorc\u00f3n",
   "telefono": 916442117,
   "mail": "cpee.severoochoa.alcorcon@educa.madrid.org",
-  "latlon": "40.33936478687163,-3.838248406476153",
+  "latlon": "40.33936478687162,-3.838248406476153",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3671,10 +3826,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036309",
   "tipo": "020",
   "status_web": 200,
-  "min_distance": 432.67375336159733,
+  "min_distance": 432.67375336252076,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28036310,
   "dat": "Sur",
@@ -3696,7 +3852,8 @@
   "min_distance": 245.61715136795334,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28036656,
   "dat": "Este",
@@ -3718,7 +3875,8 @@
   "min_distance": 455.5362237108608,
   "etapas": [
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28036930,
   "dat": "Sur",
@@ -3742,7 +3900,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28036942,
   "dat": "Capital",
@@ -3764,7 +3923,8 @@
   "min_distance": 511.1593913345193,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28036978,
   "dat": "Sur",
@@ -3772,7 +3932,7 @@
   "direccion": "Avenida Del Oeste, S/n 28922 Alcorc\u00f3n",
   "telefono": 916439991,
   "mail": "ies.laarboleda.alcorcon@educa.madrid.org",
-  "latlon": "40.34165824906582,-3.8325430117586587",
+  "latlon": "40.34165824906583,-3.8325430117586587",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3783,12 +3943,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28036978",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 812.8167821499351,
+  "min_distance": 812.8167821499104,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28036981,
   "dat": "Este",
@@ -3812,7 +3973,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28036991,
   "dat": "Norte",
@@ -3836,7 +3998,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28037004,
   "dat": "Sur",
@@ -3844,7 +4007,7 @@
   "direccion": "Calle Agustinos, S/n 28914 Legan\u00e9s",
   "telefono": 916947859,
   "mail": "ies.tiernogalvan.leganes@educa.madrid.org",
-  "latlon": "40.317109998761175,-3.7726174570450484",
+  "latlon": "40.31710999876118,-3.7726174570450484",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -3855,11 +4018,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037004",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 584.4496799502338,
+  "min_distance": 584.4496799496548,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28037016,
   "dat": "Capital",
@@ -3882,7 +4046,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28037028,
   "dat": "Capital",
@@ -3906,7 +4071,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28037031,
   "dat": "Capital",
@@ -3929,7 +4095,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28037041,
   "dat": "Capital",
@@ -3952,7 +4119,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28037053,
   "dat": "Capital",
@@ -3975,7 +4143,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28037065,
   "dat": "Este",
@@ -3999,7 +4168,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28037077,
   "dat": "Este",
@@ -4022,7 +4192,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28037089,
   "dat": "Oeste",
@@ -4046,7 +4217,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28037387,
   "dat": "Capital",
@@ -4054,7 +4226,7 @@
   "direccion": "Avenida De Los Poblados, 183 28041 Madrid",
   "telefono": 913173341,
   "mail": "cpee.joanmiro.madrid@educa.madrid.org",
-  "latlon": "40.37108751560067,-3.696765296482086",
+  "latlon": "40.37108751560068,-3.696765296482086",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -4065,10 +4237,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28037387",
   "tipo": "020",
   "status_web": 200,
-  "min_distance": 226.14880228333075,
+  "min_distance": 226.14880228375003,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28037624,
   "dat": "Sur",
@@ -4090,7 +4263,8 @@
   "min_distance": 278.90022683418715,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28037818,
   "dat": "Este",
@@ -4112,7 +4286,8 @@
   "min_distance": 107.95856065575606,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28037892,
   "dat": "Este",
@@ -4136,7 +4311,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038070,
   "dat": "Norte",
@@ -4158,7 +4334,8 @@
   "min_distance": 502.7204389498144,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038100,
   "dat": "Sur",
@@ -4180,7 +4357,8 @@
   "min_distance": 46.35518394234329,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038151,
   "dat": "Este",
@@ -4203,7 +4381,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038291,
   "dat": "Sur",
@@ -4211,7 +4390,7 @@
   "direccion": "Calle Austria, 7 28916 Legan\u00e9s",
   "telefono": 916862999,
   "mail": "ies.salvadordali.leganes@educa.madrid.org",
-  "latlon": "40.336955597574175,-3.742563890444476",
+  "latlon": "40.33695559757417,-3.742563890444476",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -4226,7 +4405,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038306,
   "dat": "Sur",
@@ -4234,7 +4414,7 @@
   "direccion": "Calle De La Ingenier\u00eda, 1 28918 Legan\u00e9s",
   "telefono": 916806303,
   "mail": "ies.sigloveintiuno.leganes@educa.madrid.org",
-  "latlon": "40.338367602932315,-3.7636886267571183",
+  "latlon": "40.33836760293232,-3.7636886267571183",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -4245,11 +4425,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038306",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1019.7242197296714,
+  "min_distance": 1019.7242197299498,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038355,
   "dat": "Capital",
@@ -4272,7 +4453,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038367,
   "dat": "Capital",
@@ -4294,7 +4476,8 @@
   "min_distance": 500.37130675186194,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038379,
   "dat": "Capital",
@@ -4316,7 +4499,8 @@
   "min_distance": 228.8444234615736,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038422,
   "dat": "Sur",
@@ -4338,7 +4522,8 @@
   "min_distance": 761.8237330904009,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038446,
   "dat": "Sur",
@@ -4362,7 +4547,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038550,
   "dat": "Capital",
@@ -4384,7 +4570,8 @@
   "min_distance": 162.82347332557623,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038616,
   "dat": "Este",
@@ -4407,7 +4594,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038631,
   "dat": "Este",
@@ -4431,7 +4619,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038641,
   "dat": "Norte",
@@ -4455,7 +4644,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038665,
   "dat": "Sur",
@@ -4478,7 +4668,8 @@
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038689,
   "dat": "Capital",
@@ -4502,7 +4693,8 @@
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038801,
   "dat": "Capital",
@@ -4525,7 +4717,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038823,
   "dat": "Capital",
@@ -4533,7 +4726,7 @@
   "direccion": "Calle De Joaqu\u00edn Lorenzo, 2 28035 Madrid",
   "telefono": 913732052,
   "mail": "ies.newton.madrid@educa.madrid.org",
-  "latlon": "40.473018628383926,-3.722520036764229",
+  "latlon": "40.47301862838391,-3.722520036764229",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -4544,11 +4737,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038823",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 498.43534475616315,
+  "min_distance": 498.4353447557292,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038835,
   "dat": "Este",
@@ -4556,7 +4750,7 @@
   "direccion": "Calle Gardenia, 29 28803 Alcal\u00e1 de Henares",
   "telefono": 918808462,
   "mail": "ies.isidradeguzman.alcala@educa.madrid.org",
-  "latlon": "40.47372451898073,-3.371642537326748",
+  "latlon": "40.473724518980724,-3.371642537326748",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -4567,11 +4761,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038835",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1754.0190101904789,
+  "min_distance": 1754.0190101915,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038847,
   "dat": "Norte",
@@ -4595,7 +4790,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038859,
   "dat": "Sur",
@@ -4618,7 +4814,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038860,
   "dat": "Sur",
@@ -4641,7 +4838,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038872,
   "dat": "Sur",
@@ -4664,7 +4862,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038884,
   "dat": "Sur",
@@ -4687,7 +4886,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038896,
   "dat": "Sur",
@@ -4710,7 +4910,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038902,
   "dat": "Sur",
@@ -4734,7 +4935,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28038914,
   "dat": "Oeste",
@@ -4757,7 +4959,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28038926,
   "dat": "Sur",
@@ -4780,7 +4983,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039037,
   "dat": "Sur",
@@ -4788,7 +4992,7 @@
   "direccion": "Calle De Las Moreras, 28 28300 Aranjuez",
   "telefono": 918920298,
   "mail": "ies.alpajes.aranjuez@educa.madrid.org",
-  "latlon": "40.03509377888681,-3.5935656943584227",
+  "latlon": "40.035093778886825,-3.5935656943584227",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -4799,12 +5003,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039037",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2104.7504999093194,
+  "min_distance": 2104.7504999093435,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28039116,
   "dat": "Capital",
@@ -4826,7 +5031,8 @@
   "min_distance": 1531.4190919598364,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039128,
   "dat": "Oeste",
@@ -4848,7 +5054,8 @@
   "min_distance": 1071.804731191518,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039323,
   "dat": "Sur",
@@ -4870,7 +5077,8 @@
   "min_distance": 271.44658377954346,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039335,
   "dat": "Oeste",
@@ -4892,7 +5100,8 @@
   "min_distance": 1543.277162949931,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039669,
   "dat": "Norte",
@@ -4914,7 +5123,8 @@
   "min_distance": 7967.024811029203,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28039670,
   "dat": "Este",
@@ -4922,7 +5132,7 @@
   "direccion": "Calle Cardenal Sandoval Y Rojas, 1 28802 Alcal\u00e1 de Henares",
   "telefono": 918817263,
   "mail": "ies.cardenalcisnero.alcala@educa.madrid.org",
-  "latlon": "40.48123192788996,-3.3707164846736113",
+  "latlon": "40.48123192788995,-3.3707164846736113",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -4933,12 +5143,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039670",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 942.0299131478052,
+  "min_distance": 942.0299131481258,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039682,
   "dat": "Este",
@@ -4961,7 +5172,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039700,
   "dat": "Sur",
@@ -4985,7 +5197,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28039724,
   "dat": "Este",
@@ -5011,7 +5224,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039797,
   "dat": "Sur",
@@ -5019,7 +5233,7 @@
   "direccion": "Calle De La Habana, 2 28945 Fuenlabrada",
   "telefono": 916060313,
   "mail": "ies.carobaroja.fuenlabrada@educa.madrid.org",
-  "latlon": "40.28752298199445,-3.7861623259145554",
+  "latlon": "40.28752298199444,-3.7861623259145554",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -5030,12 +5244,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28039797",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 91.85769993612523,
+  "min_distance": 91.85769993568248,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039803,
   "dat": "Sur",
@@ -5059,7 +5274,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039827,
   "dat": "Sur",
@@ -5082,7 +5298,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28039839,
   "dat": "Sur",
@@ -5106,7 +5323,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28039840,
   "dat": "Capital",
@@ -5130,7 +5348,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
-  ]
+  ],
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28039864,
   "dat": "Sur",
@@ -5154,7 +5373,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039876,
   "dat": "Capital",
@@ -5177,7 +5397,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039888,
   "dat": "Capital",
@@ -5201,7 +5422,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
-  ]
+  ],
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28039891,
   "dat": "Capital",
@@ -5224,7 +5446,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28039943,
   "dat": "Oeste",
@@ -5247,7 +5470,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28039992,
   "dat": "Sur",
@@ -5270,7 +5494,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["FR"]
 },{
   "id": 28040003,
   "dat": "Sur",
@@ -5278,7 +5503,7 @@
   "direccion": "Calle Tulip\u00e1n, 1 28933 M\u00f3stoles",
   "telefono": 916645070,
   "mail": "ies.benjaminrua.mostoles@educa.madrid.org",
-  "latlon": "40.336282129911524,-3.8713740570284276",
+  "latlon": "40.33628212991153,-3.8713740570284276",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -5289,10 +5514,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040003",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 145.78316889386733,
+  "min_distance": 145.7831688941793,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28040027,
   "dat": "Este",
@@ -5315,7 +5541,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28040611,
   "dat": "Norte",
@@ -5338,7 +5565,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28040660,
   "dat": "Norte",
@@ -5361,7 +5589,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28040672,
   "dat": "Norte",
@@ -5385,7 +5614,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28040684,
   "dat": "Este",
@@ -5393,7 +5623,7 @@
   "direccion": "Calle \u00c1lvarez Laviada, 3 28370 Chinch\u00f3n",
   "telefono": 918940214,
   "mail": "ies.carpediem.chinchon@educa.madrid.org",
-  "latlon": "40.13931144486059,-3.4143865492545746",
+  "latlon": "40.1393114448606,-3.4143865492545746",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -5404,11 +5634,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040684",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 16813.80068721611,
+  "min_distance": 16813.800687215968,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28040696,
   "dat": "Sur",
@@ -5431,7 +5662,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28040702,
   "dat": "Sur",
@@ -5454,7 +5686,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28040714,
   "dat": "Oeste",
@@ -5478,7 +5711,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28040738,
   "dat": "Sur",
@@ -5501,7 +5735,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28040741,
   "dat": "Capital",
@@ -5524,7 +5759,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28040751,
   "dat": "Capital",
@@ -5547,7 +5783,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28040775,
   "dat": "Oeste",
@@ -5569,7 +5806,8 @@
   "min_distance": 790.6431587892178,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28040787,
   "dat": "Oeste",
@@ -5584,16 +5822,17 @@
   "excelencia": true,
   "tecnico": false,
   "bilingue": true,
-  "url": "http://www.ieselburgodelasrozas.es",
+  "url": "http://www.educa.madrid.org/ies.burgoiecheverria.lasrozas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040787",
   "tipo": "042",
-  "status_web": 200,
+  "status_web": 404,
   "min_distance": 1408.1241691021887,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28040799,
   "dat": "Norte",
@@ -5601,7 +5840,7 @@
   "direccion": "Avenida Del Moscatelar, 19 28703 San Sebasti\u00e1n de los Reyes",
   "telefono": 916524999,
   "mail": "ies.juliopalacios.sansebastian@educa.madrid.org",
-  "latlon": "40.54355087413264,-3.6180706937215583",
+  "latlon": "40.54355087413265,-3.6180706937215583",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -5612,12 +5851,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040799",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 871.8280192757774,
+  "min_distance": 871.8280192751712,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28040994,
   "dat": "Norte",
@@ -5639,7 +5879,8 @@
   "min_distance": 1849.375229385583,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28041354,
   "dat": "Norte",
@@ -5663,7 +5904,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28041366,
   "dat": "Sur",
@@ -5671,7 +5913,7 @@
   "direccion": "Calle Del Parque Ferial, S/n 28923 Alcorc\u00f3n",
   "telefono": 916439644,
   "mail": "ies.elpinar.alcorcon@educa.madrid.org",
-  "latlon": "40.33981586630903,-3.8243731936041927",
+  "latlon": "40.339815866309024,-3.8243731936041927",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -5682,12 +5924,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041366",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1116.4547071462237,
+  "min_distance": 1116.4547071467432,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28041378,
   "dat": "Oeste",
@@ -5695,7 +5938,7 @@
   "direccion": "Calle De Santillana Del Mar, 22 28660 Boadilla del Monte",
   "telefono": 916321512,
   "mail": "ies.maximotrueba.boadilla@educa.madrid.org",
-  "latlon": "40.40622201868963,-3.8816208563948615",
+  "latlon": "40.406222018689625,-3.8816208563948615",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -5706,11 +5949,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041378",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 168.26407050130692,
+  "min_distance": 168.2640705021593,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28041381,
   "dat": "Norte",
@@ -5734,7 +5978,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28041391,
   "dat": "Este",
@@ -5757,7 +6002,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28041411,
   "dat": "Sur",
@@ -5765,7 +6011,7 @@
   "direccion": "Carretera De Getafe-legan\u00e9s, S/n 28904 Getafe",
   "telefono": 916831621,
   "mail": "ies.altair.getafe@educa.madrid.org",
-  "latlon": "40.315296503298526,-3.7413614930969064",
+  "latlon": "40.31529650329852,-3.7413614930969064",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -5776,12 +6022,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041411",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 846.6147281282535,
+  "min_distance": 846.6147281277651,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28041433,
   "dat": "Capital",
@@ -5804,7 +6051,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28041445,
   "dat": "Este",
@@ -5827,7 +6075,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28041470,
   "dat": "Sur",
@@ -5850,7 +6099,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28041482,
   "dat": "Sur",
@@ -5858,7 +6108,7 @@
   "direccion": "Camino Del Salmoral, S/n 28981 Parla",
   "telefono": 916051520,
   "mail": "ies.lalaguna.parla@educa.madrid.org",
-  "latlon": "40.245165446020515,-3.7722691126590764",
+  "latlon": "40.24516544602051,-3.7722691126590764",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -5869,11 +6119,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041482",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 511.58554805733746,
+  "min_distance": 511.5855480575262,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28041494,
   "dat": "Este",
@@ -5896,7 +6147,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28041500,
   "dat": "Este",
@@ -5919,7 +6171,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28041512,
   "dat": "Sur",
@@ -5942,7 +6195,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28041597,
   "dat": "Oeste",
@@ -5967,7 +6221,8 @@
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
-  ]
+  ],
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28041615,
   "dat": "Sur",
@@ -5990,7 +6245,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042000,
   "dat": "Este",
@@ -6013,7 +6269,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042012,
   "dat": "Oeste",
@@ -6037,7 +6294,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28042024,
   "dat": "Sur",
@@ -6060,7 +6318,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042036,
   "dat": "Sur",
@@ -6083,7 +6342,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042048,
   "dat": "Sur",
@@ -6106,7 +6366,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28042051,
   "dat": "Sur",
@@ -6129,7 +6390,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042061,
   "dat": "Sur",
@@ -6137,7 +6399,7 @@
   "direccion": "Calle De Los Arquitectos, 39 28903 Getafe",
   "telefono": 916835621,
   "mail": "ies.antoniolopezgarcia.getafe@educa.madrid.org",
-  "latlon": "40.324109978875704,-3.7253203077880728",
+  "latlon": "40.32410997887572,-3.7253203077880728",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6148,11 +6410,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042061",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 194.27906259832977,
+  "min_distance": 194.27906259959195,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042073,
   "dat": "Oeste",
@@ -6175,7 +6438,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28042085,
   "dat": "Sur",
@@ -6198,7 +6462,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28042097,
   "dat": "Sur",
@@ -6221,7 +6486,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042103,
   "dat": "Norte",
@@ -6244,7 +6510,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28042115,
   "dat": "Sur",
@@ -6252,7 +6519,7 @@
   "direccion": "Avenida De Los Castillos, S/n 28925 Alcorc\u00f3n",
   "telefono": 916101411,
   "mail": "ies.itaca.alcorcon@educa.madrid.org",
-  "latlon": "40.35613308303381,-3.8087917777342697",
+  "latlon": "40.3561330830338,-3.8087917777342706",
   "nocturno": [
     "Humanidades y Ciencias Sociales (LOE-LOMCE)",
     "Artes (LOE-LOMCE)"
@@ -6266,12 +6533,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042115",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 570.7495950562482,
+  "min_distance": 570.7495950562309,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Curso preparatorio prueba de acceso Grado Superior (LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042191,
   "dat": "Sur",
@@ -6293,7 +6561,8 @@
   "min_distance": 638.3864802286841,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042590,
   "dat": "Este",
@@ -6316,7 +6585,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28042607,
   "dat": "Este",
@@ -6340,7 +6610,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042620,
   "dat": "Oeste",
@@ -6348,7 +6619,7 @@
   "direccion": "Carretera De Guadarrama, 85 28260 Galapagar",
   "telefono": 918587730,
   "mail": "ies.infantaelena.galapagar@educa.madrid.org",
-  "latlon": "40.582901811839065,-4.0113466952039065",
+  "latlon": "40.58290181183905,-4.0113466952039065",
   "nocturno": null,
   "dificultad": true,
   "adaptado": false,
@@ -6359,12 +6630,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042620",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 3129.638806487876,
+  "min_distance": 3129.6388064883076,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042632,
   "dat": "Sur",
@@ -6386,7 +6658,8 @@
   "min_distance": 942.739501245451,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042644,
   "dat": "Capital",
@@ -6409,7 +6682,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042668,
   "dat": "Sur",
@@ -6432,7 +6706,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042671,
   "dat": "Sur",
@@ -6455,7 +6730,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28042681,
   "dat": "Este",
@@ -6479,7 +6755,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042875,
   "dat": "Este",
@@ -6487,7 +6764,7 @@
   "direccion": "Calle Real, 94 28500 Arganda del Rey",
   "telefono": 918716668,
   "mail": "cepa.arganda@educa.madrid.org",
-  "latlon": "40.29845014340474,-3.432147753951383",
+  "latlon": "40.29845014340476,-3.432147753951383",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6498,12 +6775,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042875",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 1421.429043654138,
+  "min_distance": 1421.429043653437,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042887,
   "dat": "Oeste",
@@ -6527,7 +6805,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042929,
   "dat": "Capital",
@@ -6552,7 +6831,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042930,
   "dat": "Capital",
@@ -6577,7 +6857,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042942,
   "dat": "Capital",
@@ -6585,7 +6866,7 @@
   "direccion": "Calle De Braille, 10 28034 Madrid",
   "telefono": 917364684,
   "mail": "cepa.fuencarral.madrid@educa.madrid.org",
-  "latlon": "40.49595308081296,-3.6934413405040494",
+  "latlon": "40.495953080812974,-3.6934413405040494",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6596,12 +6877,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042942",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 97.49612991431597,
+  "min_distance": 97.49612991640973,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042954,
   "dat": "Capital",
@@ -6626,7 +6908,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042981,
   "dat": "Norte",
@@ -6634,7 +6917,7 @@
   "direccion": "Calle De Las Huertas, 68 28770 Colmenar Viejo",
   "telefono": 918464801,
   "mail": "ies.rosachacel.colmenarviejo@educa.madrid.org",
-  "latlon": "40.65422240983051,-3.765457009852079",
+  "latlon": "40.65422240983053,-3.765457009852079",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -6645,11 +6928,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042981",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1345.6181336803904,
+  "min_distance": 1345.6181336825493,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28042991,
   "dat": "Sur",
@@ -6672,7 +6956,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28043016,
   "dat": "Sur",
@@ -6696,7 +6981,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28043028,
   "dat": "Norte",
@@ -6720,7 +7006,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "\"Bachibac\" Programa doble titulaci\u00f3n Bachiller-Baccalaureat"
-  ]
+  ],
+  "idiomas": ["FR"]
 },{
   "id": 28043235,
   "dat": "Capital",
@@ -6744,7 +7031,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28043259,
   "dat": "Capital",
@@ -6768,7 +7056,8 @@
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28043260,
   "dat": "Capital",
@@ -6776,7 +7065,7 @@
   "direccion": "Calle De Andorra, 19bis 28043 Madrid",
   "telefono": 913003725,
   "mail": "cepa.pabloguzman.madrid@educa.madrid.org",
-  "latlon": "40.46208807191738,-3.6453477793211304",
+  "latlon": "40.46208807191737,-3.6453477793211304",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6787,12 +7076,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28043260",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 282.48847165242455,
+  "min_distance": 282.48847165172606,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28044306,
   "dat": "Oeste",
@@ -6815,7 +7105,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28044318,
   "dat": "Este",
@@ -6823,7 +7114,7 @@
   "direccion": "Calle De La Virgen Del Mar, S/n 28821 Coslada",
   "telefono": 916695610,
   "mail": "ies.garciaberlanga.coslada@educa.madrid.org",
-  "latlon": "40.429917356715066,-3.5625513912784825",
+  "latlon": "40.42991735671508,-3.5625513912784825",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6834,11 +7125,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044318",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 675.621582517857,
+  "min_distance": 675.6215825192667,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28044501,
   "dat": "Capital",
@@ -6861,7 +7153,8 @@
   "etapas": [
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28044513,
   "dat": "Capital",
@@ -6885,7 +7178,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28044549,
   "dat": "Este",
@@ -6908,7 +7202,8 @@
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28044562,
   "dat": "Este",
@@ -6932,7 +7227,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28044574,
   "dat": "Este",
@@ -6940,7 +7236,7 @@
   "direccion": "Calle Constitucion, 8 28590 Villarejo de Salvan\u00e9s",
   "telefono": 918742470,
   "mail": "cepa.villarejodesalvanes@educa.madrid.org",
-  "latlon": "40.16760932272032,-3.2755246323468707",
+  "latlon": "40.167609322720324,-3.2755246323468707",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -6951,12 +7247,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044574",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 21022.530408630864,
+  "min_distance": 21022.530408630355,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28044628,
   "dat": "Sur",
@@ -6979,7 +7276,8 @@
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28044719,
   "dat": "Sur",
@@ -7002,7 +7300,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28044720,
   "dat": "Sur",
@@ -7025,7 +7324,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28044744,
   "dat": "Este",
@@ -7048,7 +7348,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28044756,
   "dat": "Este",
@@ -7056,7 +7357,7 @@
   "direccion": "Paseo De La Chopera, 64 28523 Rivas-Vaciamadrid",
   "telefono": 916665259,
   "mail": "ies.duquederivas.rivas@educa.madrid.org",
-  "latlon": "40.36755869406593,-3.5336821972810446",
+  "latlon": "40.367558694065934,-3.5336821972810446",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -7067,12 +7368,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28044756",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1157.8737348407767,
+  "min_distance": 1157.8737348408295,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28044768,
   "dat": "Este",
@@ -7096,7 +7398,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28044896,
   "dat": "Norte",
@@ -7120,7 +7423,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28044902,
   "dat": "Capital",
@@ -7147,7 +7451,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28045025,
   "dat": "Este",
@@ -7155,7 +7460,7 @@
   "direccion": "Calle De Joan Mir\u00f3, 1 28840 Mejorada del Campo",
   "telefono": 916794920,
   "mail": "ies.losolivos.mejorada@educa.madrid.org",
-  "latlon": "40.392677667333786,-3.479833237461454",
+  "latlon": "40.39267766733379,-3.479833237461454",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -7166,12 +7471,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045025",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 4885.990791887383,
+  "min_distance": 4885.990791887181,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045037,
   "dat": "Este",
@@ -7194,7 +7500,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28045049,
   "dat": "Este",
@@ -7202,7 +7509,7 @@
   "direccion": "Avenida De Santa Elena, S/n 28590 Villarejo de Salvan\u00e9s",
   "telefono": 918744960,
   "mail": "ies.villarejo@educa.madrid.org",
-  "latlon": "40.17481709845735,-3.286558826563877",
+  "latlon": "40.17481709845734,-3.286558826563877",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -7213,11 +7520,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045049",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 19794.127991410656,
+  "min_distance": 19794.127991412184,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28045050,
   "dat": "Oeste",
@@ -7241,7 +7549,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28045268,
   "dat": "Capital",
@@ -7249,7 +7558,7 @@
   "direccion": "Calle Del General Garc\u00eda Esc\u00e1mez, 12 28044 Madrid",
   "telefono": 917058402,
   "mail": "cepa.cidcampeador.madrid@educa.madrid.org",
-  "latlon": "40.381843641226276,-3.770694124615365",
+  "latlon": "40.38184364122627,-3.770694124615365",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -7260,13 +7569,14 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045268",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 253.09393578933975,
+  "min_distance": 253.09393578983725,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045271,
   "dat": "Capital",
@@ -7274,7 +7584,7 @@
   "direccion": "Calle Hnos Garc\u00eda Noblejas (acceso Por Luis Campos), 70 28017 Madrid",
   "telefono": 917545206,
   "mail": "cepa.ciudadlineal.madrid@educa.madrid.org",
-  "latlon": "40.42931437020915,-3.632172537891254",
+  "latlon": "40.42931437020917,-3.632172537891254",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -7285,12 +7595,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045271",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 19.774999567572376,
+  "min_distance": 19.77499956955032,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045281,
   "dat": "Oeste",
@@ -7314,7 +7625,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045293,
   "dat": "Capital",
@@ -7338,7 +7650,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045311,
   "dat": "Capital",
@@ -7362,7 +7675,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045323,
   "dat": "Capital",
@@ -7386,7 +7700,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045347,
   "dat": "Capital",
@@ -7394,7 +7709,7 @@
   "direccion": "Calle De La Abertura, 2 28033 Madrid",
   "telefono": 913811272,
   "mail": "cepa.dulcechacon.madrid@educa.madrid.org",
-  "latlon": "40.477198909318325,-3.6496451386690976",
+  "latlon": "40.47719890931833,-3.6496451386690976",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -7410,7 +7725,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045359,
   "dat": "Este",
@@ -7434,7 +7750,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045360,
   "dat": "Sur",
@@ -7459,7 +7776,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045372,
   "dat": "Sur",
@@ -7483,7 +7801,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045396,
   "dat": "Sur",
@@ -7507,7 +7826,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045414,
   "dat": "Sur",
@@ -7530,7 +7850,8 @@
   "etapas": [
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045426,
   "dat": "Sur",
@@ -7555,7 +7876,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045438,
   "dat": "Sur",
@@ -7579,7 +7901,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045441,
   "dat": "Sur",
@@ -7603,7 +7926,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045463,
   "dat": "Norte",
@@ -7627,7 +7951,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045608,
   "dat": "Capital",
@@ -7635,7 +7960,7 @@
   "direccion": "Calle De La Batalla Del Salado, 29 28045 Madrid",
   "telefono": 915395395,
   "mail": "cepa.arganzuela.madrid@educa.madrid.org",
-  "latlon": "40.40047068046267,-3.695960459840022",
+  "latlon": "40.40047068046266,-3.695960459840022",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -7646,11 +7971,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045608",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 162.50980107730373,
+  "min_distance": 162.5098010768659,
   "etapas": [
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045621,
   "dat": "Oeste",
@@ -7674,7 +8000,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045633,
   "dat": "Capital",
@@ -7682,7 +8009,7 @@
   "direccion": "Calle De Santa Irene, 4 28017 Madrid",
   "telefono": 914051101,
   "mail": "ies.goya.madrid@educa.madrid.org",
-  "latlon": "40.41836443851034,-3.650764418326344",
+  "latlon": "40.418364438510345,-3.650764418326344",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -7698,7 +8025,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28045645,
   "dat": "Sur",
@@ -7722,7 +8050,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28045657,
   "dat": "Capital",
@@ -7746,7 +8075,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045669,
   "dat": "Este",
@@ -7769,7 +8099,8 @@
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045773,
   "dat": "Este",
@@ -7792,7 +8123,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045803,
   "dat": "Sur",
@@ -7815,7 +8147,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28045815,
   "dat": "Sur",
@@ -7823,7 +8156,7 @@
   "direccion": "Calle Dal\u00ed, 50 28342 Valdemoro",
   "telefono": 918953211,
   "mail": "ies.avalon.valdemoro@educa.madrid.org",
-  "latlon": "40.195721840751226,-3.686649123756968",
+  "latlon": "40.19572184075123,-3.686649123756968",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -7838,7 +8171,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045839,
   "dat": "Oeste",
@@ -7861,7 +8195,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28045840,
   "dat": "Capital",
@@ -7884,7 +8219,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28046091,
   "dat": "Este",
@@ -7907,7 +8243,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28046111,
   "dat": "Oeste",
@@ -7930,7 +8267,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28046251,
   "dat": "Oeste",
@@ -7952,7 +8290,8 @@
   "min_distance": 7390.180552903621,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28046261,
   "dat": "Sur",
@@ -7975,7 +8314,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28046273,
   "dat": "Sur",
@@ -7998,7 +8338,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28046285,
   "dat": "Este",
@@ -8020,7 +8361,8 @@
   "min_distance": 19147.8402835469,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28046297,
   "dat": "Este",
@@ -8028,7 +8370,7 @@
   "direccion": "Calle Doctor S\u00e1nchez P\u00e9rez, 1 28530 Morata de Taju\u00f1a",
   "telefono": 918730777,
   "mail": "sies.anselmolorenzo.morata@educa.madrid.org",
-  "latlon": "40.22941741630608,-3.44271077476145",
+  "latlon": "40.229417416306084,-3.44271077476145",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -8042,7 +8384,8 @@
   "min_distance": 8239.09894837817,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28046303,
   "dat": "Oeste",
@@ -8066,7 +8409,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28046315,
   "dat": "Sur",
@@ -8074,7 +8418,7 @@
   "direccion": "Plaza Alba, 3 28971 Gri\u00f1\u00f3n",
   "telefono": 918141768,
   "mail": "ies.grinon.grinon@educa.madrid.org",
-  "latlon": "40.21477673014127,-3.845830464169186",
+  "latlon": "40.21477673014126,-3.845830464169186",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -8085,11 +8429,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046315",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 4757.594468542466,
+  "min_distance": 4757.594468543808,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28046339,
   "dat": "Norte",
@@ -8113,7 +8458,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28046352,
   "dat": "Oeste",
@@ -8136,7 +8482,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28046364,
   "dat": "Oeste",
@@ -8160,7 +8507,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28046467,
   "dat": "Capital",
@@ -8184,7 +8532,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28046479,
   "dat": "Capital",
@@ -8192,7 +8541,7 @@
   "direccion": "Calle De Alonso Heredia, 16 28028 Madrid",
   "telefono": 917261664,
   "mail": "cepa.joaquinsorolla.madrid@educa.madrid.org",
-  "latlon": "40.435464211234276,-3.6726584261840696",
+  "latlon": "40.43546421123427,-3.6726584261840696",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -8203,12 +8552,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046479",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 166.0127559730482,
+  "min_distance": 166.0127559729377,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28046522,
   "dat": "Este",
@@ -8232,7 +8582,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28046558,
   "dat": "Oeste",
@@ -8240,7 +8591,7 @@
   "direccion": "Carretera De Villanueva Del Pardillo, S/n 28270 Colmenarejo",
   "telefono": 918424540,
   "mail": "ies.colmenarejo@educa.madrid.org",
-  "latlon": "40.55683605096615,-4.012820488461693",
+  "latlon": "40.556836050966155,-4.012820488461693",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -8251,11 +8602,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046558",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 5134.334637143577,
+  "min_distance": 5134.334637143443,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28047411,
   "dat": "Capital",
@@ -8279,7 +8631,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28048476,
   "dat": "Oeste",
@@ -8302,7 +8655,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28050525,
   "dat": "Sur",
@@ -8325,7 +8679,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28050537,
   "dat": "Sur",
@@ -8348,7 +8703,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28050549,
   "dat": "Sur",
@@ -8371,7 +8727,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28050550,
   "dat": "Sur",
@@ -8394,7 +8751,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28050562,
   "dat": "Oeste",
@@ -8417,7 +8775,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28050720,
   "dat": "Sur",
@@ -8440,7 +8799,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28050732,
   "dat": "Este",
@@ -8448,7 +8808,7 @@
   "direccion": "Avenida De Levante, 141 28521 Rivas-Vaciamadrid",
   "telefono": 916704112,
   "mail": "ies.profesorjulioperez.rivas@educa.madrid.org",
-  "latlon": "40.332116330938675,-3.5139199804422097",
+  "latlon": "40.33211633093869,-3.5139199804422097",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -8459,11 +8819,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050732",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 681.5389875026664,
+  "min_distance": 681.5389875039331,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28056400,
   "dat": "Este",
@@ -8471,7 +8832,7 @@
   "direccion": "Carretera De Meco, K 4 28805 Alcal\u00e1 de Henares",
   "telefono": 918887061,
   "mail": "cepa.josehierro.alcala@educa.madrid.org",
-  "latlon": "40.52322148297118,-3.326192833309165",
+  "latlon": "40.523221482971174,-3.3261928333091655",
   "nocturno": null,
   "dificultad": true,
   "adaptado": false,
@@ -8482,11 +8843,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28056400",
   "tipo": "035",
   "status_web": 999,
-  "min_distance": 2096.028537646289,
+  "min_distance": 2096.028537645288,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28056412,
   "dat": "Este",
@@ -8509,7 +8871,8 @@
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28056424,
   "dat": "Sur",
@@ -8532,7 +8895,8 @@
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28056436,
   "dat": "Sur",
@@ -8555,7 +8919,8 @@
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28056448,
   "dat": "Norte",
@@ -8578,7 +8943,8 @@
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28056451,
   "dat": "Sur",
@@ -8601,7 +8967,8 @@
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28057076,
   "dat": "Oeste",
@@ -8609,7 +8976,7 @@
   "direccion": "Calle Ribadesella, S/n 28250 Torrelodones",
   "telefono": 918593112,
   "mail": "cp.elencinar.torrelodones@educa.madrid.org",
-  "latlon": "40.56982549483604,-3.9271084126249205",
+  "latlon": "40.56982549483603,-3.9271084126249205",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -8620,10 +8987,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057076",
   "tipo": "070",
   "status_web": 200,
-  "min_distance": 2545.748240306757,
+  "min_distance": 2545.7482403069016,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28057088,
   "dat": "Oeste",
@@ -8645,7 +9013,8 @@
   "min_distance": 8890.408853229297,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28057180,
   "dat": "Sur",
@@ -8668,7 +9037,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28057209,
   "dat": "Este",
@@ -8691,7 +9061,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28057210,
   "dat": "Este",
@@ -8699,7 +9070,7 @@
   "direccion": "Calle Del Acueducto, 3 28880 Meco",
   "telefono": 918877200,
   "mail": "ies.gasparsanz.meco@educa.madrid.org",
-  "latlon": "40.54621445870192,-3.322123760708147",
+  "latlon": "40.546214458701925,-3.322123760708147",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -8710,11 +9081,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057210",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2362.1084240570453,
+  "min_distance": 2362.108424057811,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28057222,
   "dat": "Este",
@@ -8736,7 +9108,8 @@
   "min_distance": 5308.43350965151,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28057271,
   "dat": "Capital",
@@ -8760,7 +9133,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28057660,
   "dat": "Este",
@@ -8784,7 +9158,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28057672,
   "dat": "Oeste",
@@ -8792,7 +9167,7 @@
   "direccion": "Calle Carmen Laforet, 1 28220 Majadahonda",
   "telefono": 916349498,
   "mail": "cepa.mariovargasllosa.majadahonda@educa.madrid.org",
-  "latlon": "40.46824772302307,-3.8709542188618413",
+  "latlon": "40.468247723023076,-3.8709542188618413",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -8803,12 +9178,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057672",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 2272.8406224200576,
+  "min_distance": 2272.8406224198493,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28057684,
   "dat": "Oeste",
@@ -8833,7 +9209,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28057751,
   "dat": "Norte",
@@ -8856,7 +9233,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28057805,
   "dat": "Capital",
@@ -8880,7 +9258,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28057957,
   "dat": "Sur",
@@ -8900,7 +9279,8 @@
   "tipo": "036",
   "status_web": 200,
   "min_distance": 220.48200601591975,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28057969,
   "dat": "Sur",
@@ -8920,7 +9300,8 @@
   "tipo": "036",
   "status_web": 200,
   "min_distance": 660.9243317711121,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28057970,
   "dat": "Sur",
@@ -8940,7 +9321,8 @@
   "tipo": "036",
   "status_web": 200,
   "min_distance": 273.04886074082225,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28057982,
   "dat": "Sur",
@@ -8960,7 +9342,8 @@
   "tipo": "036",
   "status_web": 200,
   "min_distance": 103.8123812462041,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28057994,
   "dat": "Capital",
@@ -8968,7 +9351,7 @@
   "direccion": "Paseo De La Castellana, 261 28046 Madrid",
   "telefono": 917277588,
   "mail": "ah.lapaz.madrid@educa.madrid.org",
-  "latlon": "40.48030087224511,-3.6865436265844735",
+  "latlon": "40.48030087224512,-3.6865436265844735",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -8979,8 +9362,9 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057994",
   "tipo": "036",
   "status_web": 200,
-  "min_distance": 55.864340003582456,
-  "etapas": null
+  "min_distance": 55.8643400037313,
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28058007,
   "dat": "Capital",
@@ -9000,7 +9384,8 @@
   "tipo": "036",
   "status_web": 200,
   "min_distance": 81.44955479630839,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28058019,
   "dat": "Capital",
@@ -9020,7 +9405,8 @@
   "tipo": "036",
   "status_web": 999,
   "min_distance": 130.6347925227066,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28058585,
   "dat": "Oeste",
@@ -9042,7 +9428,8 @@
   "min_distance": 1691.5548465012998,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28058603,
   "dat": "Capital",
@@ -9065,7 +9452,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28058615,
   "dat": "Este",
@@ -9087,7 +9475,8 @@
   "min_distance": 1627.6432853493604,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28058627,
   "dat": "Este",
@@ -9110,7 +9499,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28058639,
   "dat": "Norte",
@@ -9134,7 +9524,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28058640,
   "dat": "Oeste",
@@ -9158,7 +9549,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28058652,
   "dat": "Oeste",
@@ -9181,7 +9573,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28058664,
   "dat": "Sur",
@@ -9204,7 +9597,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28058676,
   "dat": "Sur",
@@ -9212,7 +9606,7 @@
   "direccion": "Paseo Del Olivar, 62 28607 \u00c1lamo, El",
   "telefono": 918104133,
   "mail": "ies.elalamo.elalamo@educa.madrid.org",
-  "latlon": "40.228372395257914,-3.9847084823456784",
+  "latlon": "40.22837239525791,-3.9847084823456784",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -9223,11 +9617,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28058676",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 13530.984166833028,
+  "min_distance": 13530.984166834045,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28058688,
   "dat": "Sur",
@@ -9235,7 +9630,7 @@
   "direccion": "Calle Miguel Hern\u00e1ndez, 2a 28991 Torrej\u00f3n de la Calzada",
   "telefono": 918106097,
   "mail": "ies.migueldelibes.torrejondelacalzada@educa.madrid.org",
-  "latlon": "40.19357302079286,-3.804836526306011",
+  "latlon": "40.193573020792854,-3.804836526306011",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -9250,7 +9645,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28059279,
   "dat": "Oeste",
@@ -9272,7 +9668,8 @@
   "min_distance": 2640.951710823445,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28059361,
   "dat": "Capital",
@@ -9296,7 +9693,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28059371,
   "dat": "Oeste",
@@ -9320,7 +9718,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28059383,
   "dat": "Oeste",
@@ -9344,7 +9743,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28059395,
   "dat": "Oeste",
@@ -9368,7 +9768,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28059401,
   "dat": "Norte",
@@ -9391,7 +9792,8 @@
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28060270,
   "dat": "Sur",
@@ -9413,7 +9815,8 @@
   "min_distance": 843.1987991467852,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28060348,
   "dat": "Oeste",
@@ -9435,7 +9838,8 @@
   "min_distance": 3422.1185351033964,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28060373,
   "dat": "Este",
@@ -9443,7 +9847,7 @@
   "direccion": "Calle Pio Baroja, 7 28806 Alcal\u00e1 de Henares",
   "telefono": 918770290,
   "mail": "ies.lazarocarreter.alcala@educa.madrid.org",
-  "latlon": "40.50464656376394,-3.373359258844887",
+  "latlon": "40.50464656376395,-3.373359258844887",
   "nocturno": null,
   "dificultad": true,
   "adaptado": true,
@@ -9454,11 +9858,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28060373",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 1833.466576134952,
+  "min_distance": 1833.4665761369572,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28060385,
   "dat": "Este",
@@ -9481,7 +9886,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28060397,
   "dat": "Este",
@@ -9504,7 +9910,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28060816,
   "dat": "Oeste",
@@ -9527,7 +9934,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28060968,
   "dat": "Norte",
@@ -9551,7 +9959,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28060971,
   "dat": "Oeste",
@@ -9575,7 +9984,8 @@
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para inmigrantes"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28062011,
   "dat": "Sur",
@@ -9598,7 +10008,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28062023,
   "dat": "Sur",
@@ -9606,7 +10017,7 @@
   "direccion": "Avenida Del Mar Egeo, S/n 28341 Valdemoro",
   "telefono": 918018044,
   "mail": "ies.maestromatiasbravo.valdemoro@educa.madrid.org",
-  "latlon": "40.1785804882631,-3.6891190319937293",
+  "latlon": "40.178580488263094,-3.6891190319937293",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -9617,11 +10028,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062023",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 2822.320340891949,
+  "min_distance": 2822.3203408924337,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28062035,
   "dat": "Sur",
@@ -9644,7 +10056,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28062126,
   "dat": "Capital",
@@ -9652,7 +10065,7 @@
   "direccion": "Calle De La Alianza, 20-24 28041 Madrid",
   "telefono": 917239181,
   "mail": "ies.villaverde.madrid@educa.madrid.org",
-  "latlon": "40.357351489811464,-3.6902999023380567",
+  "latlon": "40.35735148981147,-3.6902999023380567",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -9666,7 +10079,8 @@
   "min_distance": 331.4421192200971,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28063799,
   "dat": "Capital",
@@ -9688,7 +10102,8 @@
   "min_distance": 128.49568096588888,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28064007,
   "dat": "Este",
@@ -9711,7 +10126,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28064044,
   "dat": "Norte",
@@ -9719,7 +10135,7 @@
   "direccion": "Camino De Chozas, S/n 28794 Guadalix de la Sierra",
   "telefono": 918470636,
   "mail": "ies.luisgarciaberlanga.guadalix@educa.madrid.org",
-  "latlon": "40.78218602978418,-3.695994920999966",
+  "latlon": "40.78218602978419,-3.695994920999966",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -9730,10 +10146,11 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28064044",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 16660.667718210632,
+  "min_distance": 16660.6677182116,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28064160,
   "dat": "Oeste",
@@ -9755,7 +10172,8 @@
   "min_distance": 863.7703809020365,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28064721,
   "dat": "Sur",
@@ -9775,7 +10193,8 @@
   "tipo": "036",
   "status_web": 200,
   "min_distance": 177.3482109328583,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28065632,
   "dat": "Sur",
@@ -9797,7 +10216,8 @@
   "min_distance": 2458.7913367879037,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28065644,
   "dat": "Oeste",
@@ -9819,7 +10239,8 @@
   "min_distance": 580.6003545956784,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28065711,
   "dat": "Capital",
@@ -9841,7 +10262,8 @@
   "min_distance": 639.3829859561921,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28065841,
   "dat": "Este",
@@ -9863,7 +10285,8 @@
   "min_distance": 7198.289120816002,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28066065,
   "dat": "Capital",
@@ -9887,7 +10310,8 @@
     "ESO (LOE-LOMCE)",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28067628,
   "dat": "Sur",
@@ -9910,7 +10334,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28067744,
   "dat": "Sur",
@@ -9932,7 +10357,8 @@
   "min_distance": 16240.553667426277,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28069391,
   "dat": "Sur",
@@ -9955,7 +10381,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28069431,
   "dat": "Sur",
@@ -9977,7 +10404,8 @@
   "min_distance": 725.6941718594561,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28069704,
   "dat": "Sur",
@@ -9999,7 +10427,8 @@
   "min_distance": 1197.8649646673257,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28069844,
   "dat": "Sur",
@@ -10022,7 +10451,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28070691,
   "dat": "Sur",
@@ -10044,7 +10474,8 @@
   "min_distance": 3876.0059137374524,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28070721,
   "dat": "Este",
@@ -10066,7 +10497,8 @@
   "min_distance": 742.376565859623,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28070962,
   "dat": "Sur",
@@ -10089,7 +10521,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28070974,
   "dat": "Sur",
@@ -10097,7 +10530,7 @@
   "direccion": "Avenida Del Sistema Solar, 8 28983 Parla",
   "telefono": 918295357,
   "mail": "ies.nicolascopernico.parla@educa.madrid.org",
-  "latlon": "40.22377800825034,-3.761330694328965",
+  "latlon": "40.22377800825033,-3.761330694328965",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -10108,11 +10541,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28070974",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 65.18823012762057,
+  "min_distance": 65.18823012698851,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28071310,
   "dat": "Norte",
@@ -10136,7 +10570,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28072107,
   "dat": "Sur",
@@ -10144,7 +10579,7 @@
   "direccion": "Senda De Mafalda, 2 28905 Getafe",
   "telefono": 916810212,
   "mail": "ies.lasenda.getafe@educa.madrid.org",
-  "latlon": "40.29438399635924,-3.747333314858952",
+  "latlon": "40.29438399635923,-3.747333314858952",
   "nocturno": null,
   "dificultad": false,
   "adaptado": true,
@@ -10155,11 +10590,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28072107",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 140.89333775161546,
+  "min_distance": 140.89333775057938,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28072223,
   "dat": "Sur",
@@ -10182,7 +10618,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28073859,
   "dat": "Capital",
@@ -10190,7 +10627,7 @@
   "direccion": "Avenida De Niceto Alcal\u00e1 Zamora, 54 28050 Madrid",
   "telefono": 912761503,
   "mail": "ies.manuelfragairibarne.madrid@educa.madrid.org",
-  "latlon": "40.4998497880134,-3.657145049425794",
+  "latlon": "40.49984978801341,-3.657145049425794",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -10201,11 +10638,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28073859",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 245.49165115673196,
+  "min_distance": 245.49165115771913,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28073872,
   "dat": "Norte",
@@ -10227,7 +10665,8 @@
   "min_distance": 21254.76803787576,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28074037,
   "dat": "Sur",
@@ -10250,7 +10689,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28074049,
   "dat": "Sur",
@@ -10273,7 +10713,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28074050,
   "dat": "Sur",
@@ -10297,7 +10738,8 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28074062,
   "dat": "Sur",
@@ -10320,7 +10762,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28074244,
   "dat": "Capital",
@@ -10328,7 +10771,7 @@
   "direccion": "Calle Del General Marv\u00e1, 24-26 28026 Madrid",
   "telefono": 915699236,
   "mail": "ies.pedrosalinas.madrid@educa.madrid.org",
-  "latlon": "40.38895120389475,-3.7088138168902693",
+  "latlon": "40.38895120389474,-3.7088138168902693",
   "nocturno": [
     "Ciencias (LOE-LOMCE)",
     "Humanidades y Ciencias Sociales (LOE-LOMCE)"
@@ -10342,12 +10785,13 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074244",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 262.55110306527337,
+  "min_distance": 262.5511030647191,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato",
     "ESO para personas adultas (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28074669,
   "dat": "Sur",
@@ -10370,7 +10814,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28074670,
   "dat": "Sur",
@@ -10396,7 +10841,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28074852,
   "dat": "Sur",
@@ -10418,7 +10864,8 @@
   "min_distance": 1068.475154741505,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28074918,
   "dat": "Capital",
@@ -10441,7 +10888,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28075492,
   "dat": "Sur",
@@ -10464,7 +10912,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28075509,
   "dat": "Sur",
@@ -10487,7 +10936,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28075510,
   "dat": "Oeste",
@@ -10495,7 +10945,7 @@
   "direccion": "Calle Camilo Jos\u00e9 Cela, 24 28232 Rozas de Madrid, Las",
   "telefono": 911733737,
   "mail": "ies.josegarcianieto.lasrozas@educa.madrid.org",
-  "latlon": "40.52427301092085,-3.892232526550431",
+  "latlon": "40.52427301092086,-3.8922325265504303",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -10506,11 +10956,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075510",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 866.2388770096326,
+  "min_distance": 866.238877009739,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28075820,
   "dat": "Este",
@@ -10530,7 +10981,8 @@
   "tipo": "036",
   "status_web": 999,
   "min_distance": 1248.175419970978,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28076319,
   "dat": "Sur",
@@ -10552,7 +11004,8 @@
   "min_distance": 492.24655808228255,
   "etapas": [
     "Educaci\u00f3n Especial B\u00e1sica Obligatoria (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28076368,
   "dat": "Capital",
@@ -10575,7 +11028,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28076371,
   "dat": "Capital",
@@ -10598,7 +11052,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28076381,
   "dat": "Este",
@@ -10620,7 +11075,8 @@
   "min_distance": 8949.412679264806,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28077269,
   "dat": "Capital",
@@ -10643,7 +11099,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28077491,
   "dat": "Norte",
@@ -10665,7 +11122,8 @@
   "min_distance": 2042.3352608701991,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28077889,
   "dat": "Capital",
@@ -10687,7 +11145,8 @@
   "min_distance": 572.5393565867278,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28077890,
   "dat": "Este",
@@ -10707,7 +11166,8 @@
   "tipo": "042",
   "status_web": 200,
   "min_distance": 5562.810679851635,
-  "etapas": ["Bachillerato"]
+  "etapas": ["Bachillerato"],
+  "idiomas": []
 },{
   "id": 28077907,
   "dat": "Sur",
@@ -10730,7 +11190,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28077971,
   "dat": "Sur",
@@ -10752,7 +11213,8 @@
   "min_distance": 551.930472591467,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28078031,
   "dat": "Oeste",
@@ -10775,7 +11237,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28078043,
   "dat": "Norte",
@@ -10797,7 +11260,8 @@
   "min_distance": 839.0109273878969,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28078547,
   "dat": "Sur",
@@ -10819,7 +11283,8 @@
   "min_distance": 1383.937657699231,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28078559,
   "dat": "Capital",
@@ -10827,7 +11292,7 @@
   "direccion": "Calle De La Jacaranda, S/n 28045 Madrid",
   "telefono": 639101034,
   "mail": "ies.forges.madrid@educa.madrid.org",
-  "latlon": "40.397507451552244,-3.679173846707233",
+  "latlon": "40.39750745155225,-3.679173846707233",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -10838,11 +11303,12 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28078559",
   "tipo": "042",
   "status_web": 999,
-  "min_distance": 138.0156565363588,
+  "min_distance": 138.01565653773892,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28078560,
   "dat": "Este",
@@ -10864,7 +11330,8 @@
   "min_distance": 914.1899082528029,
   "etapas": [
     "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
-  ]
+  ],
+  "idiomas": []
 },{
   "id": 28078857,
   "dat": "Oeste",
@@ -10884,7 +11351,8 @@
   "tipo": "036",
   "status_web": 200,
   "min_distance": 3631.2587179035154,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28079357,
   "dat": "Capital",
@@ -10907,7 +11375,8 @@
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28079370,
   "dat": "Capital",
@@ -10929,7 +11398,8 @@
   "min_distance": 555.714734818539,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28079382,
   "dat": "Capital",
@@ -10951,7 +11421,8 @@
   "min_distance": 205.3151970964653,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28079394,
   "dat": "Este",
@@ -10973,7 +11444,8 @@
   "min_distance": 581.2891937224248,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28079400,
   "dat": "Este",
@@ -10995,7 +11467,8 @@
   "min_distance": 1462.9899728327475,
   "etapas": [
     "ESO (LOE-LOMCE)"
-  ]
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28700180,
   "dat": "Capital",
@@ -11015,7 +11488,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 432.2884535812175,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700192,
   "dat": "Capital",
@@ -11035,7 +11509,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 57.02208165960311,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700209,
   "dat": "Capital",
@@ -11043,7 +11518,7 @@
   "direccion": "Calle De Fortuny, 24 28010 Madrid",
   "telefono": 913914321,
   "mail": "eoep.arganzuela.madrid@educa.madrid.org",
-  "latlon": "40.4337594258703,-3.6898309692897224",
+  "latlon": "40.433759425870306,-3.6898309692897224",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -11054,8 +11529,9 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700209",
   "tipo": "206",
   "status_web": 200,
-  "min_distance": 71.16126310321806,
-  "etapas": null
+  "min_distance": 71.16126310388138,
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700210,
   "dat": "Capital",
@@ -11075,7 +11551,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 560.4950724432514,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700222,
   "dat": "Capital",
@@ -11095,7 +11572,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 23.25330439366866,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700234,
   "dat": "Capital",
@@ -11103,7 +11581,7 @@
   "direccion": "Calle De Fernando Ortiz, S/n 28041 Madrid",
   "telefono": 913173334,
   "mail": "eoep.villaverde.madrid@educa.madrid.org",
-  "latlon": "40.36752050104364,-3.7026294609600283",
+  "latlon": "40.36752050104365,-3.7026294609600283",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -11114,8 +11592,9 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700234",
   "tipo": "206",
   "status_web": 200,
-  "min_distance": 128.09291287130344,
-  "etapas": null
+  "min_distance": 128.09291287159843,
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700246,
   "dat": "Capital",
@@ -11135,7 +11614,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 196.23319627761032,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700258,
   "dat": "Capital",
@@ -11143,7 +11623,7 @@
   "direccion": "Calle De Pico De Los Artilleros, 123 28030 Madrid",
   "telefono": 917732533,
   "mail": "eoep.moratalaz.madrid@educa.madrid.org",
-  "latlon": "40.401528013554206,-3.6424711651868344",
+  "latlon": "40.40152801355419,-3.6424711651868344",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -11154,8 +11634,9 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700258",
   "tipo": "206",
   "status_web": 200,
-  "min_distance": 397.58164122636106,
-  "etapas": null
+  "min_distance": 397.5816412277505,
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700261,
   "dat": "Capital",
@@ -11175,7 +11656,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 349.7817789572002,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700283,
   "dat": "Capital",
@@ -11195,7 +11677,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 499.7683923287525,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700295,
   "dat": "Capital",
@@ -11215,7 +11698,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 396.190029080401,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700313,
   "dat": "Este",
@@ -11235,7 +11719,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 2130.9380011024696,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700325,
   "dat": "Este",
@@ -11255,7 +11740,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 1882.8702393286949,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700337,
   "dat": "Este",
@@ -11275,7 +11761,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 507.3107203616978,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700350,
   "dat": "Este",
@@ -11295,7 +11782,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 187.13552380798774,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700362,
   "dat": "Sur",
@@ -11315,7 +11803,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 1085.259466988841,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700374,
   "dat": "Sur",
@@ -11335,7 +11824,8 @@
   "tipo": "206",
   "status_web": 404,
   "min_distance": 1303.7099599974752,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700386,
   "dat": "Sur",
@@ -11355,7 +11845,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 774.5185151626915,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700398,
   "dat": "Sur",
@@ -11375,7 +11866,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 591.1374910586038,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700404,
   "dat": "Sur",
@@ -11395,7 +11887,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 763.0453349887673,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700416,
   "dat": "Sur",
@@ -11403,7 +11896,7 @@
   "direccion": "Calle Par\u00eds, 9 28938 M\u00f3stoles",
   "telefono": 916183200,
   "mail": "eoep.mostoles@educa.madrid.org",
-  "latlon": "40.31529972269545,-3.861806680116853",
+  "latlon": "40.31529972269546,-3.861806680116853",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -11414,8 +11907,9 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700416",
   "tipo": "206",
   "status_web": 200,
-  "min_distance": 721.1883186401416,
-  "etapas": null
+  "min_distance": 721.1883186404826,
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700428,
   "dat": "Sur",
@@ -11435,7 +11929,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 12163.046788908921,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700431,
   "dat": "Sur",
@@ -11455,7 +11950,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 210.78945166546296,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700441,
   "dat": "Sur",
@@ -11475,7 +11971,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 21661.57383021332,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700453,
   "dat": "Oeste",
@@ -11495,7 +11992,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 994.8152123212268,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700465,
   "dat": "Oeste",
@@ -11515,7 +12013,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 310.2397549624599,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700477,
   "dat": "Oeste",
@@ -11535,7 +12034,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 9206.614026737203,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700489,
   "dat": "Norte",
@@ -11543,7 +12043,7 @@
   "direccion": "Calle Del Fuego, 73 28100 Alcobendas",
   "telefono": 916616555,
   "mail": "eoep.alcobendas@educa.madrid.org",
-  "latlon": "40.54674109731865,-3.6361214939136297",
+  "latlon": "40.54674109731866,-3.6361214939136297",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -11555,7 +12055,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 81.48071110064977,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700490,
   "dat": "Norte",
@@ -11575,7 +12076,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 357.8664838282098,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700507,
   "dat": "Norte",
@@ -11595,7 +12097,8 @@
   "tipo": "206",
   "status_web": 404,
   "min_distance": 27831.671129278126,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700520,
   "dat": "Este",
@@ -11603,7 +12106,7 @@
   "direccion": "Calle De San Jos\u00e9, 2 28590 Villarejo de Salvan\u00e9s",
   "telefono": 918745196,
   "mail": "eoep.villarejo@educa.madrid.org",
-  "latlon": "40.167459008326844,-3.274326165956729",
+  "latlon": "40.16745900832686,-3.274326165956729",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -11614,8 +12117,9 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700520",
   "tipo": "206",
   "status_web": 200,
-  "min_distance": 21105.612931229232,
-  "etapas": null
+  "min_distance": 21105.61293122746,
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700532,
   "dat": "Capital",
@@ -11635,7 +12139,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 430.48957000096914,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700544,
   "dat": "Capital",
@@ -11643,7 +12148,7 @@
   "direccion": "Calle De Tembleque, 58 28024 Madrid",
   "telefono": 910692826,
   "mail": "eoep.at.latina@educa.madrid.org",
-  "latlon": "40.39517427933383,-3.7615728561598853",
+  "latlon": "40.395174279333816,-3.7615728561598853",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -11654,8 +12159,9 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700544",
   "tipo": "205",
   "status_web": 404,
-  "min_distance": 556.918468498115,
-  "etapas": null
+  "min_distance": 556.9184684980138,
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700556,
   "dat": "Capital",
@@ -11675,7 +12181,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 584.9518474590197,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700568,
   "dat": "Capital",
@@ -11695,7 +12202,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 482.2777910476996,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700571,
   "dat": "Capital",
@@ -11715,7 +12223,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 408.15819413840023,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700581,
   "dat": "Capital",
@@ -11723,7 +12232,7 @@
   "direccion": "Calle Del Pico De Los Artilleros, 123 28030 Madrid",
   "telefono": 917513136,
   "mail": "eoep.at.villavallecas@educa.madrid.org",
-  "latlon": "40.401528013554206,-3.6424711651868344",
+  "latlon": "40.40152801355419,-3.6424711651868344",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -11734,8 +12243,9 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28700581",
   "tipo": "205",
   "status_web": 200,
-  "min_distance": 397.58164122636106,
-  "etapas": null
+  "min_distance": 397.5816412277505,
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700593,
   "dat": "Capital",
@@ -11755,7 +12265,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 558.3048402341353,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700601,
   "dat": "Norte",
@@ -11775,7 +12286,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 222.9773195160323,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700611,
   "dat": "Norte",
@@ -11795,7 +12307,8 @@
   "tipo": "205",
   "status_web": 999,
   "min_distance": 27959.968296498828,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700623,
   "dat": "Norte",
@@ -11815,7 +12328,8 @@
   "tipo": "205",
   "status_web": 403,
   "min_distance": 128.2210889466935,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700635,
   "dat": "Sur",
@@ -11835,7 +12349,8 @@
   "tipo": "205",
   "status_web": 404,
   "min_distance": 774.5185151626915,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700647,
   "dat": "Sur",
@@ -11855,7 +12370,8 @@
   "tipo": "205",
   "status_web": 999,
   "min_distance": 591.1374910586038,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700659,
   "dat": "Sur",
@@ -11875,7 +12391,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 319.3501456887259,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700660,
   "dat": "Sur",
@@ -11883,7 +12400,7 @@
   "direccion": "Calle Par\u00eds, 9 28938 M\u00f3stoles",
   "telefono": 916480067,
   "mail": "eoep.at.mostoles@educa.madrid.org",
-  "latlon": "40.3266193969949,-3.8539345538092413",
+  "latlon": "40.32661939699491,-3.8539345538092413",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -11895,7 +12412,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 835.4449101012196,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700672,
   "dat": "Sur",
@@ -11915,7 +12433,8 @@
   "tipo": "205",
   "status_web": 999,
   "min_distance": 12163.046788908921,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700684,
   "dat": "Este",
@@ -11935,7 +12454,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 2130.9380011024696,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700696,
   "dat": "Este",
@@ -11955,7 +12475,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 217.27324620932387,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700702,
   "dat": "Este",
@@ -11975,7 +12496,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 546.4820541006651,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700714,
   "dat": "Oeste",
@@ -11995,7 +12517,8 @@
   "tipo": "205",
   "status_web": 999,
   "min_distance": 304.9170000944422,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700726,
   "dat": "Oeste",
@@ -12015,7 +12538,8 @@
   "tipo": "205",
   "status_web": 999,
   "min_distance": 9206.614026737203,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700738,
   "dat": "Capital",
@@ -12035,7 +12559,8 @@
   "tipo": "204",
   "status_web": 200,
   "min_distance": 274.48627142510475,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700741,
   "dat": "Capital",
@@ -12055,7 +12580,8 @@
   "tipo": "204",
   "status_web": 200,
   "min_distance": 240.35559192896451,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700751,
   "dat": "Capital",
@@ -12075,7 +12601,8 @@
   "tipo": "204",
   "status_web": 200,
   "min_distance": 274.48627142510475,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700763,
   "dat": "Capital",
@@ -12095,7 +12622,8 @@
   "tipo": "204",
   "status_web": 200,
   "min_distance": 268.15036367099816,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700787,
   "dat": "Sur",
@@ -12115,7 +12643,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 210.78945166546296,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700908,
   "dat": "Sur",
@@ -12135,7 +12664,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 1085.259466988841,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700911,
   "dat": "Oeste",
@@ -12155,7 +12685,8 @@
   "tipo": "205",
   "status_web": 200,
   "min_distance": 1229.5672180955935,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700921,
   "dat": "Sur",
@@ -12175,7 +12706,8 @@
   "tipo": "205",
   "status_web": 404,
   "min_distance": 1538.0789771391153,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28700994,
   "dat": "Oeste",
@@ -12195,7 +12727,8 @@
   "tipo": "206",
   "status_web": 999,
   "min_distance": 3252.010389332621,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28701007,
   "dat": "Oeste",
@@ -12215,7 +12748,8 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 4688.067571113051,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28701019,
   "dat": "Sur",
@@ -12235,7 +12769,8 @@
   "tipo": "205",
   "status_web": 999,
   "min_distance": 21661.57383021332,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 },{
   "id": 28701044,
   "dat": "Norte",
@@ -12255,5 +12790,6 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 682.908541403931,
-  "etapas": null
+  "etapas": null,
+  "idiomas": []
 }]

@@ -82,14 +82,18 @@ function getPopUp(c) {
     body.push("<b>Centro de especial dificultad</b>")
   var tags=[];
   if (c.excelencia)
-      tags.push("excelencia")
+      tags.push("<b>&#35;excelencia</b>")
   if (c.tecnico)
-      tags.push("tecnico")
-  if (c.bilingue)
-      tags.push("bilingue")
-  if (tags.length)
-      body.push("\n<b>&#35;" + tags.join("</b>, <b>&#35;")+"</b>")
-
+      tags.push("<b>&#35;tecnológico</b>")
+  // if (c.bilingue)
+  //     tags.push("bilingue")
+  c.idiomas.forEach(function(i) {
+    var t=idiomas[i];
+    tags.push(`<b class="tag_${i} flag" title="Bilingüismo o sección de ${t}">&#35;${i}</b>`)
+  });
+  if (tags.length) {
+    body.push(tags.join(", "))
+  }
   if (body.length) {
     body = body.join("<br/>")
     html = html + `<p>${body}</p>`
@@ -175,13 +179,17 @@ function getIcon(p) {
   })}
 }
 function make_filter(f, layer) {
-  c=f.properties;
+  var count;
+  var c=f.properties;
   var id = c.id + ""
   if (c.marca==1) return true;
   //if ($("#siempre").val().split(/\s+/).indexOf(id)>-1) return true;
   //if ($("#nunca").val().split(/\s+/).indexOf(id)>-1) return false;
   if (!$("#t"+c.tipo).is(":checked")) return false;
-  if (c.bilingue && !$("#bilingue").is(":checked")) return false;
+  //if (c.bilingue && !$("#bilingue").is(":checked")) return false;
+  for (count=0; count<c.idiomas.length; count++) {
+    if (!$("#blg_"+c.idiomas[count]).is(":checked")) return false;
+  };
   if (c.excelencia && !$("#excelencia").is(":checked")) return false;
   if (c.tecnico && !$("#tecnico").is(":checked")) return false;
   if (c.dificultad && !$("#dificultad").is(":checked")) return false;

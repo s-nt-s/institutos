@@ -128,6 +128,17 @@ sup, sup a {
 sup a {
   text-decoration: none;
 }
-ol {
-  
+b.flag {
+  margin-left: 1px;
+  padding-left: 23px;
+  background-repeat: no-repeat;
+}
+b.tag_EN {
+  background-image: url("https://lipis.github.io/flag-icon-css/flags/4x3/gb.svg");
+}
+b.tag_FR {
+  background-image: url("https://lipis.github.io/flag-icon-css/flags/4x3/fr.svg");
+}
+b.tag_DE {
+  background-image: url("https://lipis.github.io/flag-icon-css/flags/4x3/de.svg");
 }

@@ -86,7 +86,7 @@ def create_notas(html, **kargv):
         notas[num] = "Este tipo de centro no sale en los concursos, solo es accesible via comisión de servicios. Ver <a href='https://github.com/s-nt-s/institutos-map/issues/5'>issue #5</a>."
         del inp.attrs["checked"]
         sup = toTag(
-            '<sup title="{1}"><a href="#nota{0}" target="_self">{0}</a></sup>', num, notas[num][:-1])
+            '<sup title="{1}"><a href="#nota{0}" target="_self">{0}</a></sup>', num, notas[num].split(".")[0])
         lab.append(sup)
     num = len(notas)+1
     for inp, lab in get_checks(soup, "t", "204", "205", "206"):

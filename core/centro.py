@@ -75,6 +75,49 @@ def get_text(n, index=0):
     txt = re_sp.sub(" ", n.get_text()).strip()
     return txt
 
+def get_abr_dir(w1):
+    w1 = w1.lower()
+    if w1 == "avenida":
+        return "Av."
+    if w1 == "bulevar":
+        return "Blvr."
+    if w1 == "calle":
+        return "C/"
+    if w1 == "callejon":
+        return None
+    if w1 == "camino":
+        return None
+    if w1 == "carrera":
+        return None
+    if w1 == "carretera":
+        return "Ctra."
+    if w1 == "paraje":
+        return None
+    if w1 == "parcela":
+        return None
+    if w1 == "pasaje":
+        return None
+    if w1 == "paseo":
+        return None
+    if w1 == "plaza":
+        return "Pl."
+    if w1 == "ronda":
+        return "Rda."
+    if w1 == "senda":
+        return None
+    if w1 == "urbanizacion":
+        return "Urb."
+    return None
+
+def parse_dir(dir):
+    if not dir or len(dir.split())<2:
+        return dir
+    w1, rst = dir.split(None, 1)
+    w1 = get_abr_dir(w1)
+    if not w1:
+        return dir
+    return w1+" "+rst
+
 
 def get_data(ctr, stweb):
     ctr = str(ctr)

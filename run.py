@@ -112,8 +112,8 @@ def create_notas(html, **kargv):
     return str(soup)
 
 
-create_script("docs/geocentros.js", geocentros=d.geocentros)
-create_script("docs/geotransporte.js", geotransporte=d.geotransporte)
+create_script("docs/geocentros.js", geocentros=d.geocentros, indent=None)
+create_script("docs/geotransporte.js", geotransporte=d.geotransporte, indent=None)
 create_script("docs/constantes.js", idiomas=idiomas)
 
 lgd = [colors.dificultad, colors.nocturno, colors.default]

@@ -207,11 +207,11 @@ def read_csv(file, start=0, where=None, null=None, separator=";", parse=None, en
                         yield o
 
 
-def create_script(file, **kargv):
+def create_script(file, indent=2, **kargv):
     with open(file, "w") as f:
         for k, v in kargv.items():
             f.write("var "+k+" = ")
-            json.dump(v, f, indent=2)
+            json.dump(v, f, indent=indent)
             f.write(";\n")
 
 

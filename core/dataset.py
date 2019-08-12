@@ -8,7 +8,7 @@ import requests
 from bunch import Bunch
 from shapely.geometry import LineString, Polygon
 
-from .centro import get_abr, get_data
+from .centro import get_abr, get_data, parse_dir
 from .common import (get_km, get_pdf, get_soup, mkBunch, mkBunchParse,
                      read_csv, read_yml, to_num, unzip, read_js)
 from .confmap import etapas_ban, parse_nombre, parse_tipo
@@ -142,7 +142,7 @@ class Dataset():
                 id=id,
                 dat=dat,
                 nombre=i["CENTRO"],
-                direccion=dir,
+                direccion=parse_dir(dir),
                 telefono=i["TELEFONO"],
                 mail=extra.get("mail"),
                 latlon=latlon,

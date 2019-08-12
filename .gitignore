@@ -3,6 +3,7 @@
 *.db
 fuentes/*/*.html
 !data/centros/*.txt
+debug.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

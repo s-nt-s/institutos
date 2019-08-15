@@ -52,7 +52,7 @@ function toUrl(url, txt, title) {
 }
 
 function getPopUp(c) {
-  var body = [`Código: ${c.id}`,`Dirección: ${c.direccion}`]
+  var body = [`Código: ${c.id}`,`Dirección: <a href="geo:${c.latlon}" title="Coordenadas: ${c.latlon}">${c.direccion}</a>`]
   var links=[]
   if (c.status_web == 200)
     links.push(toUrl(c.url, "Web"))

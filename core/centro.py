@@ -263,3 +263,29 @@ def get_data2(ctr):
     data["DAT"] = ""
     data["info"] = url
     return data
+
+def subStart(ori, *args, new_start=None):
+    for s in args:
+        if ori.startswith(s):
+            ori = ori[len(s):]
+            if new_start:
+                ori = new_start + ori
+    return ori
+
+def parse_nombre_centro(c):
+    abr = get_abr(c.tipo)
+    nombre = c.nombre
+    if c.id == 28078043 and "alcobendas v" in nombre:
+        nombre = "Alcobendas V"
+    elif abr == "AH":
+        nombre = subStart(nombre, "Aula Hospitalaria Hosp. ", "Aula Hospitalaria ", "Hospital ")
+    elif abr == "EOEP":
+        nombre = subStart(nombre, "Equipo General ", "Equipo Gral. ", "Equipo ")
+        nombre = subStart(nombre, "E. a. Temprana ", "Eq. Aten.temprana ", "Eq. At.temp. ", "Equipo At. Temp. ", "Eoep de At.tna ", "Eq. Aten. Temprana ", "At. Temp. ", "E.a.temprana ", new_start="Atencion Temprana ")
+        nombre = subStart(nombre, "Atencion Temprana ", new_start="<span title='Atencion Temprana'>AT</span> ")
+        nombre = subStart(nombre, "E.e ", "E.e. ")
+    elif abr == "SIES":
+        nombre = subStart(nombre, "Seccion del Ies ")
+    nombre=nombre.replace("s.", "S.")
+    nombre=nombre.replace("S.mart", "S. Mart")
+    return abr, nombre

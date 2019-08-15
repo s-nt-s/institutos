@@ -8,7 +8,7 @@ import requests
 from bunch import Bunch
 from shapely.geometry import LineString, Polygon
 
-from .centro import get_abr, get_data, parse_dir
+from .centro import get_abr, get_data, parse_dir, parse_nombre_centro
 from .common import (get_km, get_pdf, get_soup, mkBunch, mkBunchParse,
                      read_csv, read_yml, to_num, unzip, read_js)
 from .confmap import etapas_ban, parse_nombre, parse_tipo
@@ -443,32 +443,9 @@ class Dataset():
             properties = feature['properties']
             for k, v in copy.deepcopy(c).items():
                 properties[k] = v
-            abr = get_abr(c.tipo)
-            if abr:
-                nombre = c.nombre
-                if c.id == 28078043 and "alcobendas v" in nombre:
-                    nombre = "Alcobendas V"
-                elif abr == "AH":
-                    for s in ("Aula Hospitalaria Hosp. ", "Aula Hospitalaria ", "Hospital "):
-                        if nombre.startswith(s):
-                            nombre = nombre[len(s):]
-                elif abr == "EOEP":
-                    for s in ("Equipo General ", "Equipo Gral. ", "Equipo "):
-                        if nombre.startswith(s):
-                            nombre = nombre[len(s):]
-                    for s in ("E. a. Temprana ", "Eq. Aten.temprana ", "Eq. At.temp. ", "Equipo At. Temp. ", "Eoep de At.tna ", "Eq. Aten. Temprana ", "At. Temp. ", "E.a.temprana "):
-                        if nombre.startswith(s):
-                            nombre = "<span title='Atencion Temprana'>AT</span> " + nombre[len(s):]
-                    for s in ("E.e ", "E.e. "):
-                        if nombre.startswith(s):
-                            nombre = nombre[len(s):]
-                elif abr == "SIES":
-                    for s in ("Seccion del Ies ",):
-                        if nombre.startswith(s):
-                            nombre = nombre[len(s):]
-                t = parse_tipo(self.tipos[c.tipo])
-                properties["nombre"] = "<span title='{0}'>{1}</span> {2}".format(
-                    t, abr, nombre)
+            abr, nombre = parse_nombre_centro(c)
+            t = parse_tipo(self.tipos[c.tipo])
+            properties["nombre"] = "<span title='{0}'>{1}</span> {2}".format(t, abr, nombre)
             geojson['features'].append(feature)
         return geojson
 

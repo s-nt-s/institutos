@@ -456,12 +456,12 @@ class Dataset():
                     for s in ("Equipo General ", "Equipo Gral. ", "Equipo "):
                         if nombre.startswith(s):
                             nombre = nombre[len(s):]
-                    for s in ("E. a. Temprana ", "Eq. Aten.temprana ", "Eq. At.temp. ", "Equipo At. Temp. ", "Eoep de At.tna ", "Eq. Aten. Temprana ", "At. Temp. "):
+                    for s in ("E. a. Temprana ", "Eq. Aten.temprana ", "Eq. At.temp. ", "Equipo At. Temp. ", "Eoep de At.tna ", "Eq. Aten. Temprana ", "At. Temp. ", "E.a.temprana "):
                         if nombre.startswith(s):
-                            nombre = "Atencion Temprana " + nombre[len(s):]
+                            nombre = "<span title='Atencion Temprana'>AT</span> " + nombre[len(s):]
                     for s in ("E.e ", "E.e. "):
                         if nombre.startswith(s):
-                            nombre = "Especifico " + nombre[len(s):]
+                            nombre = nombre[len(s):]
                 elif abr == "SIES":
                     for s in ("Seccion del Ies ",):
                         if nombre.startswith(s):

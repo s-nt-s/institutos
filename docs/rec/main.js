@@ -2,6 +2,7 @@ var centros_layer;
 var transpo_layer;
 var mymap;
 var cursorMarker;
+var mailLink = "mailto:?subject=Consulta%20en%20relación%20al%20concurso%20de%20traslados&";
 
 var myweb = window.location.href;
 myweb = myweb.substr(document.location.protocol.length+2)
@@ -57,7 +58,7 @@ function getPopUp(c) {
   if (c.status_web == 200)
     links.push(toUrl(c.url, "Web"))
   if (c.mail) {
-    mailto=$("#maillink").data("href")+"to="+c.mail+"&body="+get_msg();
+    mailto=mailLink+"to="+c.mail+"&body="+get_msg();
     links.push(`<a href='${mailto}' title="${c.mail}">Mail</a>`);
   }
   if (c.telefono) {
@@ -366,8 +367,6 @@ $("div.filter input").bind("click keypress change", function() {
 }).change();
 $("#messages").bind("active", function(){
   if (!$(this).is(".active")) return;
-  var lnk = $("#maillink")
-  var href = lnk.data("href");
   var mails=[]
   geocentros["features"].forEach(function(f) {
     var mail = f.properties.mail;
@@ -375,6 +374,7 @@ $("#messages").bind("active", function(){
       mails.push(mail)
     }
   })
+  var lnk = $("#maillink");
   if (mails.length==0) {
     lnk.attr("disabled", "disabled");
     lnk.attr("title", "No se visualiza ningún centro con correo electrónico");
@@ -385,9 +385,9 @@ $("#messages").bind("active", function(){
     lnk.removeAttr("title");
     lnk.removeAttr("onclick");
     if (mails.length==1) {
-      lnk.attr("href",href+"to="+mails[0]+"&body="+get_msg());
+      lnk.attr("href",mailLink+"to="+mails[0]+"&body="+get_msg());
     } else{
-      lnk.attr("href",href+"bcc="+ mails.sort().join(";")+"&body="+get_msg());
+      lnk.attr("href",mailLink+"bcc="+ mails.sort().join(";")+"&body="+get_msg());
     }
   }
 })
@@ -570,12 +570,11 @@ function list_centros(centros, none) {
   html = html + lis.join("")
   html = html +"</ul>"
   if (mails.length) {
-    var lnk = $("#maillink");
-    var href = lnk.data("href");
+    var href;
     if (mails.length==1) {
-      href = href+"to="+mails[0]+"&body="+get_msg();
+      href = mailLink+"to="+mails[0]+"&body="+get_msg();
     } else{
-      href = href+"bcc="+ mails.sort().join(";")+"&body="+get_msg();
+      href = mailLink+"bcc="+ mails.sort().join(";")+"&body="+get_msg();
     }
     html = html + `
     <p><a href="${href}">Pincha aquí para mandar un email a todos los centros de esta lista que tienen correo electrónico</a></p>

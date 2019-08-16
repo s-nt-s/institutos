@@ -40,8 +40,12 @@ def get_abr(t):
         return "CREI"
     if t == "020":
         return "CEE"
-    if t in ("205", "204", "206"):
-        return "EOEP"
+    if t == "204":
+        return "EOEP-ES"
+    if t == "205":
+        return "EOEP-AT"
+    if t == "206":
+        return "EOEP-GE"
     return None
 
 
@@ -283,10 +287,9 @@ def parse_nombre_centro(c):
         nombre = "Alcobendas V"
     elif abr == "AH":
         nombre = subStart(nombre, "Aula Hospitalaria Hosp. ", "Aula Hospitalaria ", "Hospital ")
-    elif abr == "EOEP":
+    elif abr.startswith("EOEP"):
         nombre = subStart(nombre, "Equipo General ", "Equipo Gral. ", "Equipo ")
-        nombre = subStart(nombre, "E. a. Temprana ", "Eq. Aten.temprana ", "Eq. At.temp. ", "Equipo At. Temp. ", "Eoep de At.tna ", "Eq. Aten. Temprana ", "At. Temp. ", "E.a.temprana ", new_start="Atencion Temprana ")
-        nombre = subStart(nombre, "Atencion Temprana ", new_start="<span title='Atencion Temprana'>AT</span> ")
+        nombre = subStart(nombre, "E. a. Temprana ", "Eq. Aten.temprana ", "Eq. At.temp. ", "Equipo At. Temp. ", "Eoep de At.tna ", "Eq. Aten. Temprana ", "At. Temp. ", "E.a.temprana ", "Atencion Temprana ")
         nombre = subStart(nombre, "E.e ", "E.e. ")
     elif abr == "SIES":
         nombre = subStart(nombre, "Seccion del Ies ")

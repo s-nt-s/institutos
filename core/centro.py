@@ -110,13 +110,17 @@ def get_abr_dir(w1):
     return None
 
 def parse_dir(dir):
-    if not dir or len(dir.split())<2:
+    if not dir:
         return dir
-    w1, rst = dir.split(None, 1)
-    w1 = get_abr_dir(w1)
-    if not w1:
-        return dir
-    return w1+" "+rst
+    rst = dir.split()
+    for i, w in enumerate(rst):
+        w=w.lower()
+        if w in ("de", "del", "la", "el", "lo", "los"):
+            rst[i]=w
+    rst[0] = get_abr_dir(rst[0]) or rst[0]
+    dir = " ".join(rst)
+    dir = re.sub(r"\b(s/n|c/v)\b",  lambda x: x.group().upper(), dir, flags=re.IGNORECASE)
+    return dir
 
 
 def get_data(ctr, stweb):

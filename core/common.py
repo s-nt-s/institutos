@@ -209,10 +209,12 @@ def read_csv(file, start=0, where=None, null=None, separator=";", parse=None, en
 
 def create_script(file, indent=2, **kargv):
     with open(file, "w") as f:
-        for k, v in kargv.items():
+        for i, (k, v) in enumerate(kargv.items()):
+            if i>0:
+                f.write(";\n")
             f.write("var "+k+" = ")
             json.dump(v, f, indent=indent)
-            f.write(";\n")
+            f.write(";")
 
 
 def get_km(lat1, lon1, lat2, lon2):

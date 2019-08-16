@@ -142,7 +142,7 @@ class Dataset():
                 id=id,
                 dat=dat,
                 nombre=i["CENTRO"],
-                direccion=parse_dir(dir),
+                direccion=dir,
                 telefono=i["TELEFONO"],
                 mail=extra.get("mail"),
                 latlon=latlon,
@@ -445,6 +445,7 @@ class Dataset():
                 properties[k] = v
             abr, nombre = parse_nombre_centro(c)
             t = parse_tipo(self.tipos[c.tipo])
+            properties["direccion"] = parse_dir(properties["direccion"])
             properties["nombre"] = "<span title='{0}'>{1}</span> {2}".format(t, abr, nombre)
             geojson['features'].append(feature)
         return geojson

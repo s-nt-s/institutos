@@ -52,7 +52,7 @@ function toUrl(url, txt, title) {
 }
 
 function getPopUp(c) {
-  var body = [`Código: ${c.id}`,`Dirección: <a href="geo:${c.latlon}" title="Coordenadas: ${c.latlon}">${c.direccion}</a>`]
+  var body = [`Código: <b>${c.id}</b>`,`<a href="geo:${c.latlon}" title="Coordenadas: ${c.latlon}">${c.direccion}</a>`]
   var links=[]
   if (c.status_web == 200)
     links.push(toUrl(c.url, "Web"))
@@ -305,21 +305,7 @@ function get_transpo_layer() {
   })
 }
 
-
-
-$(document).ready(function() {
-$(".sidebar-pane").each(function(){
-  observer.observe(this, {attributes: true});
-});
-mymap = L.map("map");
-L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-    maxZoom: 18,
-    id: 'mapbox.streets',
-    accessToken: 'pk.eyJ1Ijoia2lkdHVuZXJvIiwiYSI6ImNqeTBjeG8zaTAwcWYzZG9oY2N1Z3VnazgifQ.HKixpk5HNX-svbNYxYSpsw'
-}).addTo(mymap);
-mymap.on('click', function(e){
-  if (!e || !e.originalEvent || !e.originalEvent.ctrlKey) return;
+function setMark(e) {
   if (cursorMarker) mymap.removeLayer(cursorMarker);
   let options = {
     radius: 10,
@@ -335,6 +321,24 @@ mymap.on('click', function(e){
   cursorMarker = L.circleMarker(e.latlng, options );
   cursorMarker.addTo(mymap);
   $(".active").trigger("active");
+}
+
+$(document).ready(function() {
+$(".sidebar-pane").each(function(){
+  observer.observe(this, {attributes: true});
+});
+mymap = L.map("map");
+L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox.streets',
+    accessToken: 'pk.eyJ1Ijoia2lkdHVuZXJvIiwiYSI6ImNqeTBjeG8zaTAwcWYzZG9oY2N1Z3VnazgifQ.HKixpk5HNX-svbNYxYSpsw'
+}).addTo(mymap);
+mymap.on('click', function(e){
+  if (!e || !e.originalEvent || !e.originalEvent.ctrlKey) return;
+  setMark.apply(this, arguments)
+}).on('contextmenu',function(e){
+  setMark.apply(this, arguments);
 });
 centros_layer = get_centros_layer();
 centros_layer.addTo(mymap);

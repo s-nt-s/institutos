@@ -195,7 +195,7 @@
                 </fieldset>
                 <fieldset id="comunicacion">
                   <legend>Transporte</legend>
-									<label for="kms">Mostrar solo centros a menos de </label> <input type="number" id="kms" title="Deje vacio el campo para no filtrar"/>
+									<label for="kms">Mostrar solo centros a menos de </label> <input type="number" id="kms" title="Deje vacio el campo para no filtrar" min="{{distancias[0]}}" max="{{distancias[1]}}"/>
 									<label for="kms">metros de una estación de metro, metro ligero o cercanias</label>
                 </fieldset>
                 <fieldset id="otros">
@@ -228,7 +228,10 @@
 						      <h1 class="sidebar-header">Tu lista<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
 									<div class="content">
 										<p>
-											Para ordenar los centros por cercania a un punto geográfico haz click en el lugar deseado sobre el mapa mientras pulsas la tecla <b>Control</b>.
+											Para ordenar los centros por cercania a un punto geográfico haz
+											click en el lugar deseado sobre el mapa con el botón secundario, o con el
+											principal mientras pulsas la tecla <code>control</code>, o haz una pulsación larga
+											si estas desde un movil o tablet.
 										</p>
 										<h2>Centros seleccionados</h2>
 										<div id="cSel">

@@ -208,12 +208,13 @@ def read_csv(file, start=0, where=None, null=None, separator=";", parse=None, en
 
 
 def create_script(file, indent=2, **kargv):
+    separators=(',', ':') if indent is None else None
     with open(file, "w") as f:
         for i, (k, v) in enumerate(kargv.items()):
             if i>0:
                 f.write(";\n")
             f.write("var "+k+" = ")
-            json.dump(v, f, indent=indent)
+            json.dump(v, f, indent=indent, separators=separators)
             f.write(";")
 
 

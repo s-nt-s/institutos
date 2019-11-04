@@ -5822,10 +5822,10 @@
   "excelencia": true,
   "tecnico": false,
   "bilingue": true,
-  "url": "http://www.educa.madrid.org/ies.burgoiecheverria.lasrozas",
+  "url": "http://www.ieselburgodelasrozas.es",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040787",
   "tipo": "042",
-  "status_web": 404,
+  "status_web": 200,
   "min_distance": 1408.1241691021887,
   "etapas": [
     "ESO (LOE-LOMCE)",

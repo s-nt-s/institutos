@@ -136,8 +136,6 @@ class Dataset():
             if exist_etapas and not etapas:
                 excluidos[(tipo, extra.get("info"))] = excluir
                 continue
-            arreglo = self.arreglos.get(id, {})
-            latlon = arreglo.get("latlon") or extra.get("latlon")
             c = Bunch(
                 id=id,
                 dat=dat,
@@ -145,7 +143,7 @@ class Dataset():
                 direccion=dir,
                 telefono=i["TELEFONO"],
                 mail=extra.get("mail"),
-                latlon=latlon,
+                latlon=extra.get("latlon"),
                 nocturno=extra.get("nocturno"),
                 dificultad=id in self.dificultad,
                 adaptado=id in self.adaptado,
@@ -156,10 +154,14 @@ class Dataset():
                 info=extra.get("info"),
                 tipo=tipo,
                 status_web=extra.get("status_web"),
-                min_distance=self.min_distance(latlon),
+                min_distance=None,
                 etapas=etapas,
                 idiomas=[]
             )
+            arreglo = self.arreglos.get(id, {})
+            for k, v in arreglo.items():
+                c[k]=v
+            c.min_distance=self.min_distance(c.latlon)
             if id in self.ingles:
                 c.idiomas.append("EN")
             if id in self.aleman:

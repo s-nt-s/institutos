@@ -466,7 +466,7 @@ $("#casa").bind("change", function() {
 $("#download").bind("click", function(){
   var estadistica=get_estadistica(cursorMarker);
   var ahora = new Date();
-  var date = ahora.getFullYear() + "." + ahora.getMonth().pad(2) + "." + ahora.getDate().pad(0);
+  var date = ahora.getFullYear() + "." + ahora.getMonth().pad(2) + "." + ahora.getDate().pad(2);
   this.download = date+"_centros.txt"
   var txt='Fecha: '+date+"\n";
   if (cursorMarker) {

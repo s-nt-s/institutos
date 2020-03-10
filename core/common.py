@@ -28,6 +28,7 @@ def unzip(target, *urls):
 
 
 def get_pdf(url, to_file=None):
+    print("get_pdf:", url)
     ps = subprocess.Popen(("curl", "-s", url), stdout=subprocess.PIPE)
     output = subprocess.check_output(
         ('pdftotext', '-layout', '-nopgbrk', '-', '-'), stdin=ps.stdout)

@@ -200,6 +200,8 @@ def get_data1(ctr):
         txt = get_text(td)
         if txt and txt != "Etapa":
             txt = txt.replace("Educación Secundaria Obligatoria", "ESO")
+            if txt == '"Bachibac" Programa doble titulación Bachiller-Baccalaureat':
+                txt = "Bachibac"
             lv = 0
             cls = td.attrs["class"]
             if isinstance(cls, str):

@@ -35,7 +35,7 @@ aquellos que son de alguno de los siguientes tipos:
 
 y que (en caso de que este la información disponible) ofrezcan al menos alguna de estas etapas educativas:
 
-* "Bachibac" Programa doble titulación Bachiller-Baccalaureat
+* Bachibac
 * Bachillerato
 * Curso preparatorio prueba de acceso Grado Superior (LOE)
 * Desarrollo Personal

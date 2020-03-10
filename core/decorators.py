@@ -1,15 +1,23 @@
 import functools
 import os
+import time
 
 from .common import *
 
 
 class Cache:
-    def __init__(self, file, *args, reload=False, **kargs):
+    def __init__(self, file, *args, reload=False, maxOld=1, **kargs):
         self.file = file
         self.data = {}
         self.func = None
         self.reload = reload
+        self.maxOld = maxOld
+        if maxOld is not None:
+            self.maxOld = time.time() - (maxOld * 86400)
+
+
+    def get_file_name(self, *args, **kargs):
+        return self.file
 
     def read(self):
         pass
@@ -17,8 +25,15 @@ class Cache:
     def save(self):
         pass
 
+    def tooOld(self, fl):
+        if self.maxOld is None or not os.path.isfile(fl):
+            return False
+        if os.stat(fl).st_mtime < self.maxOld:
+            return True
+        return False
+
     def callCache(self, slf, *args, **kargs):
-        if not self.reload and not self.isReload(slf):
+        if not self.reload and not self.isReload(slf, *args, **kargs):
             data = self.read(*args, **kargs)
             if data:
                 return data
@@ -26,11 +41,16 @@ class Cache:
         self.save(data, *args, **kargs)
         return data
 
-    def isReload(self, slf):
+    def isReload(self, slf, *args, **kargs):
         reload = getattr(slf, "reload", False)
         if reload == True:
             return True
-        if (isinstance(reload, list) or isinstance(reload, tuple)) and self.file in reload:
+        if isinstance(reload, (list, tuple)) and self.file in reload:
+            return True
+        fl = self.get_file_name(*args, **kargs)
+        if isinstance(reload, (list, tuple)) and fl in reload:
+            return True
+        if self.tooOld(fl):
             return True
         return False
 
@@ -99,10 +119,13 @@ class ParamJsonCache(JsonCache):
     def __init__(self, *args, **kargv):
         JsonCache.__init__(self, *args, **kargv)
 
+    def get_file_name(self, *args, **kargs):
+        return self.file.format(*args, **kargs)
+
     def read(self, *args, **kargs):
-        f = self.file.format(*args, **kargs)
+        f = self.get_file_name(*args, **kargs)
         return read_js(f)
 
     def save(self, data, *args, **kargs):
-        f = self.file.format(*args, *kargs)
+        f = self.get_file_name(*args, *kargs)
         save_js(f, data)

@@ -118,7 +118,7 @@ create_script("docs/rec/constantes.js", idiomas=idiomas)
 
 lgd = [colors.dificultad, colors.nocturno, colors.default]
 lgd = lgd + [color_to_url(c, None) for c in lgd]
-dst = [int(c.min_distance) for c in d.centros]
+dst = [int(c.min_distance) for c in d.centros if c.min_distance is not None]
 
 jHtml = Jnj2("template/", "docs/", post=lambda x, **
              kargs: re.sub(r"<br/>(\s*</)", r"\1", x).strip())
@@ -136,7 +136,7 @@ jHtml.save(
     sin_etapas=len([c for c in d.centros if not c.etapas]) > 0,
     parse=create_notas,
     idiomas=idiomas,
-    distancias=(min(dst), max(dst)+1) 
+    distancias=(min(dst), max(dst)+1)
 )
 jMd = Jnj2("template/", "./", post=lambda x, **
            kargs: re.sub(r"\n\s*\n\s*\n", r"\n\n", x).strip())

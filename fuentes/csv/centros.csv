@@ -13,7 +13,7 @@ Madrid-Capital;28070913;EEI;AMANECER;Calle Del Titanio, 7 ;Madrid;Vicálvaro;280
 Madrid-Capital;28072004;EEI;ANA DE AUSTRIA;Calle De Ana De Austria, 32 ;Madrid;Hortaleza;28050;917500832;-;Público;
 Madrid-Sur;28044161;EEI;ANDERSEN;Avenida De Viña Grande, 2 ;Alcorcón;-;28925;914880205;-;Público;
 Madrid-Este;28068098;EEI;ANTON PIRULERO;Calle Puerto De Bilbao, S/n ;Coslada;-;28821;916731099;912973728;Público;
-Madrid-Capital;28079621;EEI;ANTONIO MERCERO;Avenida De Valladolid, 49b ;Madrid;-;28008;-;-;Público;
+Madrid-Capital;28079621;EEI;ANTONIO MERCERO;Avenida De Valladolid, 49b ;Madrid;Moncloa-Aravaca;28008;-;-;Público;
 Madrid-Capital;28062643;EEI;ARCE;Calle Del Alcalde Garrido Juaristi, 6 ;Madrid;Moratalaz;28030;913285820;913285820;Público;
 Madrid-Capital;28043454;EEI;ARCO IRIS;Calle De Diego Olivera Victorio, 10 ;Madrid;Villa de Vallecas;28031;913311422;913311422;Público;
 Madrid-Este;28049055;EEI;ARCO IRIS;Calle Valverde De Alcala, 1 ;Alcalá de Henares;-;28806;918811481;918811481;Público;
@@ -39,7 +39,7 @@ Madrid-Sur;28064123;EEI;CASIOPEA;Calle Toledo, 54 ;Getafe;-;28901;916950164;9169
 Madrid-Este;28044203;EEI;CHARLIE RIVEL;Calle De Velázquez, S/n ;Coslada;-;28821;916738938;916738938;Público;
 Madrid-Capital;28043508;EEI;CHAVALITOS;Calle De Pradales, 8 ;Madrid;Latina;28047;914647850;914630659;Público;
 Madrid-Capital;28070664;EEI;CIELO AZUL;Bulevar De Indalecio Prieto, 16 ;Madrid;Vicálvaro;28032;917720849;-;Público;
-Madrid-Capital;28068050;EEI;CINCO LOBITOS;Calle De Los Morales, S/n ;Madrid;Carabanchel;28054;914006684;914006684;Público;
+Madrid-Capital;28068050;EEI;CINCO LOBITOS;Calle De Forsitia, 2 ;Madrid;Carabanchel;28054;914006684;914006684;Público;
 Madrid-Sur;28043909;EEI;COLORES;Calle Coronel De Palma, S/n ;Móstoles;-;28934;916180211;916180211;Público;
 Madrid-Capital;28047587;EEI;COLORIN COLORADO;Calle Del Conde De Torralba, 8 ;Madrid;Chamartín;28046;913159965;917080207;Público;
 Madrid-Oeste;28058202;EEI;CUENTACUENTOS;Calle Fuente Del Álamo, 10 ;Collado Villalba;-;28400;918510929;918510929;Público;
@@ -66,7 +66,7 @@ Madrid-Sur;28072387;EEI;EL COLUMPIO;Paseo De Arroyomolinos, 64 ;Móstoles;-;2893
 Madrid-Sur;28067872;EEI;EL CORRO DE LA PATATA;Calle Del Cabo San Vicente, S/n ;Alcorcón;-;28924;916199643;916199643;Público;
 Madrid-Sur;28047538;EEI;EL CUCO;Calle Maestro, 10 ;Leganés;-;28914;916801409;916801409;Público;
 Madrid-Norte;28046972;EEI;EL CUQUILLO;Paseo De La Chopera, 118 ;Alcobendas;-;28100;916624097;916622155;Público;
-Madrid-Capital;28057696;EEI;EL DUENDE;Plaza Del Dos De Mayo, 2 ;Madrid;Centro;28004;915227256;915227256;Público;
+Madrid-Capital;28057696;EEI;EL DUENDE;Plaza Del Dos De Mayo, 2 ;Madrid;Centro;28004;915235187;915227256;Público;
 Madrid-Capital;28043533;EEI;EL ENCINAR;Calle Del Estrecho De Mesina, 1 ;Madrid;Ciudad Lineal;28043;913884725;913884725;Público;
 Madrid-Sur;28047447;EEI;EL ESCONDITE;Calle De Las Panaderas, 12 ;Fuenlabrada;-;28944;916979265;916970227;Público;
 Madrid-Capital;28048622;EEI;EL ESPINILLO;Pasaje De La Avenencia, 2 ;Madrid;Villaverde;28041;913176104;913176104;Público;
@@ -125,6 +125,7 @@ Madrid-Este;28048610;EEI;GLORIA FUERTES;Calle León Felipe, 24 ;Arganda del Rey;
 Madrid-Norte;28049110;EEI;GLORIA FUERTES;Avenida De España, S/n ;Soto del Real;-;28791;918476915;918476915;Público;
 Madrid-Sur;28048634;EEI;GLORIA FUERTES;Calle De Las Islas Cíes, 2 ;Alcorcón;-;28924;916128962;916128962;Público;
 Madrid-Este;28047435;EEI;GRIMM;Calle Aloe, S/n ;Rivas-Vaciamadrid;-;28522;916665837;916662488;Público;
+Madrid-Capital;28080062;EEI;GUARDERIA DELEGACION ECONOMIA Y HACIENDA;Calle De La Poeta Ángela Figuera, S/n ;Madrid;-;28003;-;-;Público;
 Madrid-Capital;28047654;EEI;HIEDRA;Calle De Amposta, 34 ;Madrid;San Blas-Canillejas;28037;913062533;-;Público;
 Madrid-Sur;28064111;EEI;JACARANDA;Calle Libertad, 108 ;Valdemoro;-;28341;918014607;918019817;Público;
 Madrid-Sur;28044173;EEI;JARDINES DE ARANJUEZ;Calle Del Primero De Mayo, 3 ;Aranjuez;-;28300;918917960;918917960;Público;
@@ -404,7 +405,6 @@ Madrid-Este;28047824;EEI-CN;DAGANZO;Calle Hermanos Álvarez Quintero, 22 ;Daganz
 Madrid-Capital;28049951;EEI-CN;DANIEL VAZQUEZ DIAZ;Calle De Armenteros, 46 ;Madrid;Moncloa-Aravaca;28039;913113496;913113496;Público;
 Madrid-Este;28075871;EEI-CN;DON MELITON (PROGRAMA DE CASA DE NIÑOS);Calle Arturo Soria, 5 ;Alcalá de Henares;-;28806;918786757;-;Público;
 Madrid-Oeste;28078730;EEI-CN;DON PIMPON (PROGRAMA CASA DE NIÑOS);Calle De Murillo, 1 ;Galapagar;-;28420;918585012;-;Público;
-Madrid-Sur;28056825;EEI-CN;DUENDES;Calle Del Tamarindo, S/n ;Móstoles;-;28935;916476682;916476682;Público;
 Madrid-Norte;28075078;EEI-CN;EL ALMENDRO (PROGRAMA DE CASA DE NIÑOS);Calle De Juan Gris, 3 ;Colmenar Viejo;-;28770;918473480;918451792;Público;
 Madrid-Este;28057830;EEI-CN;EL ARBOL;Calle De Samuel Baltes, 45 ;Villarejo de Salvanés;-;28590;606193485;606193485;Público;
 Madrid-Norte;28050631;EEI-CN;EL BERRUECO;Calle Real, 26 ;Berrueco, El;-;28192;918686048;918694094;Público;
@@ -431,7 +431,6 @@ Madrid-Este;28071036;EEI-CN;EL SAUCE LLORON;Calle Mayor, 47 ;Corpa;-;28811;91884
 Madrid-Capital;28076691;EEI-CN;EL SEÑOR DON GATO (PROGRAMA CASA DE NIÑOS);Calle De Los Poetas, S/n ;Madrid;Vicálvaro;28032;913711962;917080207;Público;
 Madrid-Sur;28047265;EEI-CN;EL TREBOL;Calle Del Trébol, 2 ;Serranillos del Valle;-;28979;918175871;-;Público;
 Madrid-Capital;28076629;EEI-CN;EL TRÉBOL (PROGRAMA CASA DE NIÑOS);Calle De Tristana, 2 ;Madrid;Puente de Vallecas;28018;917772208;-;Público;
-Madrid-Sur;28074177;EEI-CN;EL TREBOL (PROGRAMA DE CASA DE NIÑOS);Calle Del Trébol, 2 ;Serranillos del Valle;-;28979;918175871;-;Público;
 Madrid-Norte;28058913;EEI-CN;EL VELLON;Calle Talamaca, 5 ;Vellón, El;-;28722;918413172;918434031;Público;
 Madrid-Este;28047769;EEI-CN;ELMER;Avenida De Tielmes, 23 ;Carabaña;-;28560;918723769;-;Público;
 Madrid-Sur;28072375;EEI-CN;ERASE UNA VEZ;Calle Madrid, 55 ;Moraleja de Enmedio;-;28950;916094603;-;Público;
@@ -462,7 +461,6 @@ Madrid-Sur;28057544;EEI-CN;LA JARA;Calle Del Olivar, 4 ;Villamantilla;-;28609;91
 Madrid-Sur;28072399;EEI-CN;LA LIEBRE Y LA TORTUGA;Calle Emma González Tablada, 2 ;Villa del Prado;-;28630;918620209;918620209;Público;
 Madrid-Sur;28048063;EEI-CN;LA LUNA;Avenida Del Ferrocarril, S/n ;San Martín de Valdeiglesias;-;28680;918610808;918676509;Público;
 Madrid-Sur;28074773;EEI-CN;LA MIMOSA (PROGRAMA DE CASA DE NIÑOS);Calle De La Tía Javiera, 4 ;Fuenlabrada;-;28942;918317148;-;Público;
-Madrid-Sur;28064329;EEI-CN;LA MORERA;Calle De Estanislao Zazo, 35 ;Humanes de Madrid;-;28970;916049260;916049260;Público;
 Madrid-Sur;28047812;EEI-CN;LA OLMA;Calle Guillermo Bonet, S/n ;Colmenar del Arroyo;-;28213;918651372;918651372;Público;
 Madrid-Sur;28048075;EEI-CN;LA PAJARA PINTA;Paseo Del Olivar, 3 ;Sevilla la Nueva;-;28609;918128044;918128044;Público;
 Madrid-Sur;28075856;EEI-CN;LA PIÑATA (PROGRAMA DE CASA DE NIÑOS);Calle Costa Rica, 26 ;Fuenlabrada;-;28945;916979647;916979647;Público;
@@ -484,7 +482,6 @@ Madrid-Norte;28047174;EEI-CN;LOZOYA;Calle Luna, 2 ;Lozoya;-;28742;918693448;9186
 Madrid-Norte;28047186;EEI-CN;LOZOYUELA;Camino Viejo De Torrelaguna, 2 ;Lozoyuela-Navas-Sieteiglesias;-;28752;918694094;918694094;Público;
 Madrid-Sur;28061717;EEI-CN;LUNA LUNERA;Calle De Roquetas De Mar, 4 ;Arroyomolinos;-;28939;916091384;916091384;Público;
 Madrid-Norte;28048671;EEI-CN;MAESTRA MARIA ANGELES CABELLO;Avenida De Los Arrieros, 4 ;Cabanillas de la Sierra;-;28721;918439486;-;Público;
-Madrid-Norte;28059516;EEI-CN;MANCOMUNIDAD LA JARA Nº 1;Camino De Casasola, S/n ;Berzosa del Lozoya;-;28194;918687090;918687090;Público;
 Madrid-Este;28048749;EEI-CN;MARIONETAS;Calle Mondéjar, 29 ;Villalbilla;-;28810;918859502;-;Público;
 Madrid-Este;28074712;EEI-CN;MARIONETAS (PROGRAMA DE CASA DE NIÑOS);Calle Salvador Allende, 6 ;Torrejón de Ardoz;-;28850;916753606;916753606;Público;
 Madrid-Norte;28075170;EEI-CN;MIRAFLORES DE LA SIERRA (PROGRAMA DE CASA DE NIÑOS);Avenida De La Constitución, 1 ;Miraflores de la Sierra;-;28792;918443795;-;Público;
@@ -587,7 +584,7 @@ Madrid-Este;28002671;CP INF-PRI;ANGEL BERZAL FERNANDEZ;Camino Del Fresno De Toro
 Madrid-Este;28025233;CP INF-PRI;ANGEL CASTRO;Calle Silo, S/n ;Valdeavero;-;28816;918864343;918864343;Público;
 Madrid-Sur;28069212;CP INF-PRI;ANGEL GONZALEZ;Calle Humanes De Madrid, 12 ;Leganés;-;28914;916485884;916486532;Público;
 Madrid-Norte;28057027;CP INF-PRI;ANGEL LEON;Calle De Las Moradas, 3 ;Colmenar Viejo;-;28770;918458083;918458084;Público;
-Madrid-Capital;28077877;CP INF-PRI;ANGEL NIETO;Calle De Enrique García Álvarez, S/n ;Madrid;Villa de Vallecas;28031;913053429;917517366;Público;
+Madrid-Capital;28077877;CP INF-PRI;ANGEL NIETO;Avenida De Las Suertes Esquina C/ Arte Expresionista, S/n ;Madrid;Villa de Vallecas;28051;660486591;-;Público;
 Madrid-Sur;28057040;CP INF-PRI;ANTON SEVILLANO;Calle Ruiseñor, 1-3 ;Sevilla la Nueva;-;28609;918124093;918124064;Público;
 Madrid-Este;28074608;CP INF-PRI;ANTONI TAPIES;Calle Venezuela, 12 ;Coslada;-;28823;916714733;916714733;Público;
 Madrid-Norte;28037740;CP INF-PRI;ANTONIO BUERO VALLEJO;Calle Vizcaya, 28 ;San Sebastián de los Reyes;-;28701;916527825;916537253;Público;
@@ -630,6 +627,7 @@ Madrid-Capital;28005106;CP INF-PRI;BARCELONA;Avenida De La Verbena De La Paloma,
 Madrid-Sur;28001940;CP INF-PRI;BATALLA DE BRUNETE;Calle Del Escorial, 32 ;Brunete;-;28690;918158969;918159396;Público;
 Madrid-Sur;28023029;CP INF-PRI;BEATO SIMON DE ROJAS;Paseo De Goya, 3 ;Móstoles;-;28931;916131314;916642560;Público;
 Madrid-Este;28028738;CP INF-PRI;BEATRIZ GALINDO;Calle Violeta, 19 ;Alcalá de Henares;-;28803;918898064;918812912;Público;
+Madrid-Este;28070721;CP INF-PRI;BEETHOVEN;Calle Montserrat Roig, 8 ;Torrejón de Ardoz;-;28850;914885016;914886550;Público;
 Madrid-Sur;28035381;CP INF-PRI;BELLAS VISTAS;Calle De Sahagún, 32 ;Alcorcón;-;28925;914880223;914880713;Público;
 Madrid-Este;28001824;CP INF-PRI;BELMONTE DE TAJO;Calle Tomás Díaz Vázquez, 8 ;Belmonte de Tajo;-;28390;918747247;918747386;Público;
 Madrid-Oeste;28033953;CP INF-PRI;BENITO PEREZ GALDOS;Avenida Guadarrama, 40 ;Majadahonda;-;28220;916386453;916394536;Público;
@@ -904,7 +902,6 @@ Madrid-Capital;28050343;CP INF-PRI;JAIME VERA;Calle De Bravo Murillo, 162 ;Madri
 Madrid-Este;28022888;CP INF-PRI;JARAMA;Calle Del Doctor Gonzalo Sierra, 6 ;Mejorada del Campo;-;28840;916790520;916680942;Público;
 Madrid-Este;28043399;CP INF-PRI;JARAMA;Calle Del Olivo, S/n ;Rivas-Vaciamadrid;-;28522;916667595;913011982;Público;
 Madrid-Capital;28005623;CP INF-PRI;JAVIER DE MIGUEL;Calle Del Puerto De Viñamala, 11 ;Madrid;Puente de Vallecas;28018;913035102;913805770;Público;
-Madrid-Norte;28025403;CP INF-PRI;JESUS ARAMBURU;Calle Del Jarama, 10 ;Valdetorres de Jarama;-;28150;918472060;918415204;Público;
 Madrid-Sur;28028131;CP INF-PRI;JESUS VARELA;Avenida De Portugal, 12 ;Alcorcón;-;28921;916190810;916110902;Público;
 Madrid-Sur;28038252;CP INF-PRI;JOAN MIRO;Calle De La Ingeniería, 2 ;Leganés;-;28914;916807662;916806924;Público;
 Madrid-Sur;28049468;CP INF-PRI;JOAN MIRO;Calle París, 3 ;Móstoles;-;28938;916455853;916467750;Público;
@@ -932,7 +929,7 @@ Madrid-Capital;28005660;CP INF-PRI;JOSE MARIA DE PEREDA;Calle De Mestanza, 94 ;M
 Madrid-Sur;28031464;CP INF-PRI;JOSE MARIA DE PEREDA;Calle Moraña, 27 ;Leganés;-;28915;916886052;916886052;Público;
 Madrid-Capital;28021461;CP INF-PRI;JOSE ORTEGA Y GASSET;Calle De Orense, 87 ;Madrid;Tetuán;28020;915720997;915701341;Público;
 Madrid-Este;28058822;CP INF-PRI;JOSE SARAMAGO;Calle De José Saramago, 1 ;Rivas-Vaciamadrid;-;28522;914991786;914991347;Público;
-Madrid-Oeste;28078614;CP INF-PRI;JOSEFINA CARABIAS;Avenida Juan Pablo Ii, S/n ;Boalo, El;-;-;918573866;918573866;Público;
+Madrid-Oeste;28078614;CP INF-PRI;JOSEFINA CARABIAS;Avenida Juan Pablo Ii, S/n ;Boalo, El;-;28492;918573866;918573866;Público;
 Madrid-Capital;28071361;CP INF-PRI;JOSEP TARRADELLAS;Calle De Triacastela, 1 ;Madrid;Fuencarral-El Pardo;28050;914274125;914274161;Público;
 Madrid-Capital;28005684;CP INF-PRI;JOVELLANOS;Calle De Monroy, 34 ;Madrid;Latina;28044;917055018;915095089;Público;
 Madrid-Este;28028751;CP INF-PRI;JUAN DE AUSTRIA;Avenida De Juan De Austria, 17 ;Alcalá de Henares;-;28804;918886350;918886350;Público;
@@ -967,7 +964,6 @@ Madrid-Este;28077348;CP INF-PRI;LA LUNA;Avenida De La Tierra, 2 ;Rivas-Vaciamadr
 Madrid-Oeste;28045165;CP INF-PRI;LA NAVATA;Calle Del Estanque, 8 ;Galapagar;-;28420;918583999;918586119;Público;
 Madrid-Sur;28045301;CP INF-PRI;LA PALOMA;Calle De La Paloma, 45 ;Parla;-;28981;916996965;916996854;Público;
 Madrid-Capital;28033931;CP INF-PRI;LA RIOJA;Calle De León Felipe, 3 ;Madrid;Puente de Vallecas;28038;917773912;917773912;Público;
-Madrid-Capital;28079412;CP INF-PRI;LA ROLDANA;Calle De Gloria Fuertes ;Madrid;Fuencarral-El Pardo;28035;-;-;Público;
 Madrid-Este;28050392;CP INF-PRI;LA ZARZUELA;Calle Almagro, S/n ;Torrejón de Ardoz;-;28850;916778043;916762805;Público;
 Madrid-Oeste;28039244;CP INF-PRI;LAS ACACIAS;Calle Diamante, S/n ;Pozuelo de Alarcón;-;28224;913524797;917141380;Público;
 Madrid-Sur;28063891;CP INF-PRI;LAS ARTES;Calle Juana Francés, 57 ;Pinto;-;28320;916987254;916928851;Público;
@@ -1035,7 +1031,7 @@ Madrid-Capital;28074578;CP INF-PRI;MARGARET THATCHER;Glorieta De La Playa De San
 Madrid-Sur;28037661;CP INF-PRI;MARGARITA XIRGU;Avenida De La O.n.u., 26 ;Móstoles;-;28936;916461292;916461292;Público;
 Madrid-Sur;28078572;CP INF-PRI;MARIA BLANCHARD;Calle Niceto Alcalá Zamora C/v José Prat ;Getafe;-;28905;681179487;-;Público;
 Madrid-Oeste;28078626;CP INF-PRI;MARIA DE MAEZTU;Calle De Miguel De Unamuno, S/n ;Boalo, El;-;28412;918574465;918574465;Público;
-Madrid-Capital;28079436;CP INF-PRI;MARIA DE VILLOTA;Cañada Del Santisimo Sacramento, 23 ;Madrid;Villa de Vallecas;28031;-;-;Público;
+Madrid-Capital;28079436;CP INF-PRI;MARIA DE VILLOTA;Calle De Cañada Del Santísimo, 23 ;Madrid;Villa de Vallecas;28051;913053429;-;Público;
 Madrid-Sur;28063878;CP INF-PRI;MARIA MARTIN;Calle De Las Víctimas Del Terrorismo, S/n ;Navalcarnero;-;28600;918110110;918115517;Público;
 Madrid-Sur;28037697;CP INF-PRI;MARIA MOLINER;Calle Reyes Católicos, 79 ;Parla;-;28982;916986433;916054006;Público;
 Madrid-Capital;28049377;CP INF-PRI;MARIA MOLINER;Calle De Arcos De Jalón, 34 ;Madrid;San Blas-Canillejas;28037;913133969;913069463;Público;
@@ -1121,7 +1117,6 @@ Madrid-Este;28038392;CP INF-PRI;PABLO PICASSO;Calle De Pablo Picasso, 30 ;Mejora
 Madrid-Sur;28037673;CP INF-PRI;PABLO SARASATE;Calle Jaén, 4 ;Móstoles;-;28935;916143589;916641273;Público;
 Madrid-Sur;28049432;CP INF-PRI;PABLO SOROZABAL;Calle De Los Hermanos Pinzón, 21 ;Móstoles;-;28936;916461042;916469129;Público;
 Madrid-Capital;28005994;CP INF-PRI;PADRE COLOMA;Calle De Gutiérrez Canales, 19 ;Madrid;San Blas-Canillejas;28022;917426447;917412598;Público;
-Madrid-Oeste;28079451;CP INF-PRI;PADRE GARRALDA;Calle Sierra Nevada, 32 ;Villanueva de la Cañada;-;28691;-;-;Público;
 Madrid-Norte;28037171;CP INF-PRI;PADRE JERONIMO;Calle De Alcalá, 80 ;Algete;-;28110;916290522;916280416;Público;
 Madrid-Capital;28006007;CP INF-PRI;PADRE MARIANA;Ronda Sur, 145 ;Madrid;Puente de Vallecas;28053;917861773;917861773;Público;
 Madrid-Capital;28006020;CP INF-PRI;PADRE POVEDA;Avenida De Alfonso Xiii, 23 ;Madrid;Chamartín;28002;914151195;914162781;Público;
@@ -1156,7 +1151,7 @@ Madrid-Sur;28028222;CP INF-PRI;PIO BAROJA;Avenida Europa, 10 ;Leganés;-;28916;9
 Madrid-Sur;28033977;CP INF-PRI;PIO BAROJA;Calle De Los Hermanos Machado, 3 ;Móstoles;-;28935;916175311;916180061;Público;
 Madrid-Capital;28006071;CP INF-PRI;PIO XII;Calle Del Delfín, 2 ;Madrid;Tetuán;28029;913151221;917336758;Público;
 Madrid-Capital;28071371;CP INF-PRI;PLACIDO DOMINGO;Calle Del Tejo, 5 ;Madrid;Arganzuela;28045;917650789;915302878;Público;
-Madrid-Sur;28035433;CP INF-PRI;POETISA CELIA VIÑAS;Calle De Mónaco, 3 ;Fuenlabrada;-;28943;916078437;916078437;Público;
+Madrid-Sur;28035433;CP INF-PRI;POETISA CELIA VIÑAS;Calle De Mónaco, 3 ;Fuenlabrada;-;28943;916078437;916083242;Público;
 Madrid-Capital;28010357;CP INF-PRI;PORTUGAL;Calle De Juan Álvarez Mendizábal, 20 ;Madrid;Moncloa-Aravaca;28008;915417330;915417330;Público;
 Madrid-Capital;28030401;CP INF-PRI;PRADOLONGO;Calle Del Parque De La Paloma, 9 ;Madrid;Usera;28026;914693581;914692532;Público;
 Madrid-Oeste;28023273;CP INF-PRI;PRINCIPE DE ASTURIAS;Avenida Del Rosal, 2 ;Navacerrada;-;28491;918535129;918535213;Público;
@@ -1172,7 +1167,7 @@ Madrid-Sur;28033990;CP INF-PRI;RAFAEL ALBERTI;Calle Del Río Miño, 7 ;Móstoles
 Madrid-Este;28049481;CP INF-PRI;RAFAEL ALBERTI;Paseo De Las Provincias, S/n ;Rivas-Vaciamadrid;-;28523;916664582;916669254;Público;
 Madrid-Capital;28006123;CP INF-PRI;RAMIRO DE MAEZTU;Calle De Serrano, 127 ;Madrid;Chamartín;28006;915616249;915647056;Público;
 Madrid-Este;28039177;CP INF-PRI;RAMON CARANDE;Calle Londres, 44 ;Torrejón de Ardoz;-;28850;916763633;916777779;Público;
-Madrid-Capital;28010941;CP INF-PRI;RAMON GOMEZ DE LA SERNA;Calle De Godella, 170 ;Madrid;Villaverde;28021;917972522;917972554;Público;
+Madrid-Capital;28010941;CP INF-PRI;RAMON GOMEZ DE LA SERNA;Calle De Godella, 170 ;Madrid;Villaverde;28021;917972522;915053446;Público;
 Madrid-Norte;28025373;CP INF-PRI;RAMON LINACERO;Calle De Alcalá (alalpardo), 27 ;Valdeolmos-Alalpardo;-;28130;916202318;916202889;Público;
 Madrid-Capital;28025956;CP INF-PRI;RAMON MARIA DEL VALLE INCLAN;Calle De Alconera, 1 ;Madrid;San Blas-Canillejas;28037;913130739;913130739;Público;
 Madrid-Capital;28026067;CP INF-PRI;RAMON PEREZ DE AYALA;Calle De Motilla Del Palancar, 19 ;Madrid;Hortaleza;28043;917592205;917599412;Público;
@@ -1209,14 +1204,13 @@ Madrid-Capital;28006238;CP INF-PRI;RUFINO BLANCO;Calle Del General Álvarez De C
 Madrid-Sur;28002981;CP INF-PRI;SAGRADO CORAZON;Calle Guadalajara, 2 ;Getafe;-;28901;916953007;916963091;Público;
 Madrid-Capital;28006251;CP INF-PRI;SAGUNTO;Calle De Paterna, 14 ;Madrid;Villaverde;28021;917976726;917976726;Público;
 Madrid-Este;28058718;CP INF-PRI;SALVADOR DALI;Calle Salvador Dalí, 8 ;Villalbilla;-;28810;918793416;918793416;Público;
-Madrid-Este;28067604;CP INF-PRI;SALVADOR DE MADARIAGA;Calle La Lámpara, S/n ;Daganzo de Arriba;-;28814;918848589;918848590;Público;
 Madrid-Sur;28029512;CP INF-PRI;SALZILLO-VALLE INCLAN;Calle Salzillo, 4 ;Móstoles;-;28932;916135719;916642828;Público;
 Madrid-Norte;28025816;CP INF-PRI;SAN ANDRES;Calle De La Fuente Del Cajón, 20 ;Colmenar Viejo;-;28770;918453256;918619228;Público;
 Madrid-Oeste;28060361;CP INF-PRI;SAN BARTOLOME;Plaza De San Bartolomé, 1 ;Fresnedillas de la Oliva;-;28214;918989257;918989336;Público;
 Madrid-Capital;28019658;CP INF-PRI;SAN BENITO;Calle De Juan Pérez Zúñiga, 36 ;Madrid;Ciudad Lineal;28027;913670800;913670800;Público;
 Madrid-Capital;28006263;CP INF-PRI;SAN CARLOS;Calle De Geología, 2 ;Madrid;Villaverde;28021;917966105;917979728;Público;
 Madrid-Capital;28010990;CP INF-PRI;SAN CRISTOBAL;Calle De Bravo Murillo, 39 ;Madrid;Chamberí;28015;914481381;914480206;Público;
-Madrid-Sur;28025521;CP INF-PRI;SAN DAMASO;Calle Real Cañada Segoviana, S/n ;Villamanta;-;28610;918136370;918136370;Público;
+Madrid-Sur;28025521;CP INF-PRI;SAN DAMASO;Calle Real Cañada Segoviana, S/n ;Villamanta;-;28610;918136370;-;Público;
 Madrid-Este;28002543;CP INF-PRI;SAN ESTEBAN;Avenida De San Pablo, 29 ;Coslada;-;28823;916731330;916731330;Público;
 Madrid-Sur;28002804;CP INF-PRI;SAN ESTEBAN;Calle De Los Ángeles, 13 ;Fuenlabrada;-;28944;916905830;916060384;Público;
 Madrid-Capital;28006275;CP INF-PRI;SAN EUGENIO Y SAN ISIDRO;Calle De Peñuelas, 31 ;Madrid;Arganzuela;28005;914737711;914737785;Público;
@@ -1372,7 +1366,7 @@ Madrid-Sur;28030101;CEPA;CASA DE LA CULTURA;Calle Guadalajara, 3 ;Getafe;-;28901
 Madrid-Capital;28045268;CEPA;CID CAMPEADOR;Calle Del General García Escámez, 12 ;Madrid;Latina;28044;917058402;915095174;Público;
 Madrid-Capital;28045271;CEPA;CIUDAD LINEAL;Calle Hnos García Noblejas (acceso Por Luis Campos), 70 ;Madrid;Ciudad Lineal;28017;917545206;913045783;Público;
 Madrid-Norte;28038641;CEPA;COLMENAR VIEJO;Plaza De Eulogio Carrasco, S/n ;Colmenar Viejo;-;28770;918458620;918463617;Público;
-Madrid-Este;28038631;CEPA;COSLADA;Avenida De Los Príncipes De España (edif. La Rambla), S/n ;Coslada;-;28823;916726226;916746049;Público;
+Madrid-Este;28038631;CEPA;COSLADA;Avenida De La Cañada, 44 ;Coslada;-;28823;916726226;916746049;Público;
 Madrid-Capital;28030113;CEPA;CULTURAL MORATALAZ;Calle Del Corregidor Alonso De Tobar, 7 ;Madrid;Moratalaz;28030;914370219;914378411;Público;
 Madrid-Capital;28038689;CEPA;DAOIZ Y VELARDE;Calle De Fernando Ortiz, 2 ;Madrid;Usera;28041;915651055;915697036;Público;
 Madrid-Capital;28059361;CEPA;DISTRITO CENTRO;Calle De San Bernardo (edificio I.e.s Lope De Vega), 70 ;Madrid;Centro;28015;915329959;915329959;Público;
@@ -1411,7 +1405,7 @@ Madrid-Oeste;28057684;CEPA;POZUELO DE ALARCON;Calle Juan Xxiii, 1 ;Pozuelo de Al
 Madrid-Sur;28045426;CEPA;RAMON Y CAJAL;Calle Galilea, 11 ;Parla;-;28981;916986430;916999323;Público;
 Madrid-Este;28057660;CEPA;RIVAS-VACIAMADRID;Calle De Los Picos De Urbión, S/n ;Rivas-Vaciamadrid;-;28522;914990536;914990535;Público;
 Madrid-Sur;28045396;CEPA;ROSALIA DE CASTRO;Calle Roncal (c/v A Avda. De La Mancha 50), S/n ;Leganés;-;28915;916880885;916801717;Público;
-Madrid-Este;28036656;CEPA;SAN FERNANDO DE HENARES;Calle De La Presa, 2 ;San Fernando de Henares;-;28830;916741634;916712603;Público;
+Madrid-Este;28036656;CEPA;SAN FERNANDO DE HENARES;Calle Rafael Sánchez Ferlosio, 3 ;San Fernando de Henares;-;28830;916741634;916712603;Público;
 Madrid-Este;28045669;CEPA;SAN MARTIN DE LA VEGA;Calle Del Maestro Rodrigo, 2 ;San Martín de la Vega;-;28330;918947366;918947200;Público;
 Madrid-Sur;28044628;CEPA;SAN MARTIN DE VALDEIGLESIAS;Calle De La Fuente, 4 ;San Martín de Valdeiglesias;-;28680;918612792;918612792;Público;
 Madrid-Norte;28060968;CEPA;SAN SEBASTIAN DE LOS REYES;Avenida De Baunatal (edificio Pablo Iglesias), 18 ;San Sebastián de los Reyes;-;28701;916588990;916637864;Público;
@@ -1468,7 +1462,6 @@ Madrid-Este;28701020;CET;PUERTA DE MADRID;Calle Alfonso De Alcalá, 2 ;Alcalá d
 Madrid-Sur;28701056;CET;SAN AGUSTIN;Calle De Los Frailes ;Leganés;-;28914;914987649;914987649;Público;
 Madrid-Capital;28700982;CET;VALLECAS;Calle De Quijorna (centro Polivalente), S/n ;Madrid;Villa de Vallecas;28051;917791220;913036028;Público;
 Madrid-Capital;28066065;CREI;SAGRADO CORAZON DE JESUS;Carretera De Colmenar Viejo , Km. 13,500 ;Madrid;Fuencarral-El Pardo;28049;914650640;914611395;Público;
-Madrid-Capital;28079382;IES;ADA BYRON;Avenida De Los Rosales Con Avenida De Andalucía ;Madrid;Usera;-;-;-;Público;
 Madrid-Este;28057222;IES;ADOLFO SUAREZ;Paseo Del Radar, 33 ;Paracuellos de Jarama;-;28860;916581899;916580437;Público;
 Madrid-Sur;28077907;IES;AFRICA;Calle Portugal, 41 ;Fuenlabrada;-;28943;916073584;916085507;Público;
 Madrid-Norte;28041354;IES;AGORA;Calle Manuel De Falla, 54-56 ;Alcobendas;-;28100;916515700;916548684;Público;
@@ -1493,7 +1486,7 @@ Madrid-Este;28044768;IES;ANSELMO LORENZO;Avenida Abogados De Atocha, 4 ;San Mart
 Madrid-Este;28064007;IES;ANTARES;Calle Fernando Trueba, 10 ;Rivas-Vaciamadrid;-;28521;914996934;914996936;Público;
 Madrid-Sur;28042671;IES;ANTONIO DE NEBRIJA;Avenida De La O.n.u., 81 ;Móstoles;-;28936;916466443;916465334;Público;
 Madrid-Capital;28037031;IES;ANTONIO DOMINGUEZ ORTIZ;Calle De Los Andaluces, 36 ;Madrid;Puente de Vallecas;28038;913033235;913808187;Público;
-Madrid-Capital;28078559;IES;ANTONIO FRAGUAS FORGES;Calle De La Jacaranda, S/n ;Madrid;Arganzuela;28045;639101034;911911472;Público;
+Madrid-Capital;28078559;IES;ANTONIO FRAGUAS FORGES;Calle Alberche, S/n ;Madrid;Arganzuela;28045;918175930;911911472;Público;
 Madrid-Sur;28042085;IES;ANTONIO GALA;Calle Hermanos Grimm, 3 ;Móstoles;-;28935;916145263;916184304;Público;
 Madrid-Este;28041391;IES;ANTONIO GAUDI;Calle Del Júcar, 1 ;Coslada;-;28823;916733314;916733427;Público;
 Madrid-Sur;28042061;IES;ANTONIO LOPEZ GARCÍA;Calle De Los Arquitectos, 39 ;Getafe;-;28903;916835621;916835580;Público;
@@ -1585,7 +1578,7 @@ Madrid-Oeste;28046251;IES;FRANCISCO AYALA;Paseo Francisco Ayala, S/n ;Hoyo de Ma
 Madrid-Capital;28074918;IES;FRANCISCO AYALA;Calle Del Jacobeo, 33 ;Madrid;Carabanchel;28054;915116804;915080647;Público;
 Madrid-Capital;28045633;IES;FRANCISCO DE GOYA;Calle De Santa Irene, 4 ;Madrid;Ciudad Lineal;28017;914051101;914051597;Público;
 Madrid-Capital;28044902;IES;FRANCISCO DE QUEVEDO;Calle De San Román Del Valle, S/n ;Madrid;San Blas-Canillejas;28037;913065604;913065606;Público;
-Madrid-Norte;28000753;IES;FRANCISCO GINER DE LOS RIOS;Carretera De Barajas, 1,2 ;Alcobendas;-;28108;916525466;916511164;Público;
+Madrid-Norte;28000753;IES;FRANCISCO GINER DE LOS RIOS;Avenida De La Transición Española, 11 ;Alcobendas;-;28108;916525466;916511164;Público;
 Madrid-Capital;28038367;IES;FRANCISCO TOMAS Y VALIENTE;Calle De Benita Ávila, 3 ;Madrid;Hortaleza;28043;917591114;917594077;Público;
 Madrid-Sur;28062035;IES;FRANCISCO UMBRAL;Avenida De La Hispanidad, S/n ;Ciempozuelos;-;28350;918092810;918092927;Público;
 Madrid-Sur;28050549;IES;GABRIEL CISNEROS;Calle De Las Arizónicas, 20 ;Móstoles;-;28935;916478849;916478110;Público;
@@ -1611,6 +1604,9 @@ Madrid-Capital;28048294;IES;HOTEL ESCUELA DE LA COMUNIDAD DE MADRID;Carretera De
 Madrid-Sur;28030216;IES;HUMANEJOS;Avenida Juan Carlos I, 19 ;Parla;-;28981;916982906;916982860;Público;
 Madrid-Sur;28045803;IES;HUMANES;Avenida De Los Deportes, 12 ;Humanes de Madrid;-;28970;914982020;914982011;Público;
 Madrid-Sur;28042632;IES;ICARO;Carretera De Getafe-leganés, S/n ;Getafe;-;28905;916834866;916833801;Público;
+Madrid-Sur;28080050;IES;IES NUEVO EN ARROYOMOLINOS 3;-;Arroyomolinos;-;-;-;-;Público;
+Madrid-Capital;28080037;IES;IES NUEVO EN MONTECARMELO;Calle De Monasterio De El Paular, 3 ;Madrid;Fuencarral-El Pardo;28049;-;-;Público;
+Madrid-Sur;28080025;IES;IES NUEVO EN PARLA;-;Parla;-;-;-;-;Público;
 Madrid-Sur;28046261;IES;IGNACIO ALDECOA;Calle Saeta, S/n ;Getafe;-;28909;916847958;916847831;Público;
 Madrid-Este;28042000;IES;IGNACIO ELLACURIA;Calle Senda Perdida, S/n ;Alcalá de Henares;-;28805;918823430;918825565;Público;
 Madrid-Oeste;28042620;IES;INFANTA ELENA;Carretera De Guadarrama, 85 ;Galapagar;-;28260;918587730;918585712;Público;
@@ -1719,7 +1715,7 @@ Madrid-Este;28041445;IES;MIGUEL DELIBES;Avenida De Juan Gris, 44 ;Mejorada del C
 Madrid-Sur;28058688;IES;MIGUEL DELIBES;Calle Miguel Hernández, 2a ;Torrejón de la Calzada;-;28991;918106097;918160211;Público;
 Madrid-Sur;28042097;IES;MIGUEL HERNÁNDEZ;Avenida De Carlos V, 1 ;Móstoles;-;28936;916468193;916466051;Público;
 Madrid-Capital;28038355;IES;MIRASIERRA;Calle De La Portera Del Cura, 4 ;Madrid;Fuencarral-El Pardo;28034;917346532;913720171;Público;
-Madrid-Norte;28077491;IES;MONTSERRAT CABALLE;Calle De Eslovaquia, 1 ;Tres Cantos;-;-;659195109;917031644;Público;
+Madrid-Norte;28077491;IES;MONTSERRAT CABALLÉ;Calle De Eslovaquia, 2 ;Tres Cantos;-;28760;918572564;917031644;Público;
 Madrid-Capital;28031014;IES;MORATALAZ;Calle Del Corregidor Diego De Valderrábano, 35 ;Madrid;Moratalaz;28030;914306809;914394545;Público;
 Madrid-Sur;28038446;IES;NARCIS MONTURIOL;Calle Leganés, 38 ;Parla;-;28981;916982811;916981510;Público;
 Madrid-Sur;28074062;IES;NEIL ARMSTRONG;Ronda San Sebastian, 10 ;Valdemoro;-;28341;639314247;918019537;Público;
@@ -1815,12 +1811,12 @@ Madrid-Sur;28069431;CP IFP;ESCUELA DE HOSTELERIA Y TURISMO SIMONE ORTEGA;Calle D
 Madrid-Norte;28065671;CP IFP;JOSE LUIS GARCI;Calle José Hierro, 10 ;Alcobendas;-;28100;914841828;916572711;Público;
 Madrid-Capital;28067653;CP IFP;PROFESOR RAUL VAZQUEZ;Carretera De Villaverde A Vallecas, K. 4 ;Madrid;Puente de Vallecas;28053;915072082;917868441;Público;
 Madrid-Capital;28063799;CP INF-PRI-SEC;ADOLFO SUAREZ;Calle De La Infanta Catalina Micaela, 31 ;Madrid;Hortaleza;28050;917502058;917189274;Público;
-Madrid-Este;28070721;CP INF-PRI-SEC;BEETHOVEN;Calle Montserrat Roig, 8 ;Torrejón de Ardoz;-;28850;914885016;914886550;Público;
 Madrid-Oeste;28060348;CP INF-PRI-SEC;EL CANTIZAL;Avenida De Atenas, S/n ;Rozas de Madrid, Las;-;28232;916030099;916317527;Público;
 Madrid-Oeste;28057076;CP INF-PRI-SEC;EL ENCINAR;Calle Ribadesella, S/n ;Torrelodones;-;28250;918593112;918592885;Público;
 Madrid-Sur;28002026;CP INF-PRI-SEC;EUGENIO MURO;Carretera Rozas De Puerto Real, 20 ;Cadalso de los Vidrios;-;28640;918640158;918641288;Público;
 Madrid-Este;28002038;CP INF-PRI-SEC;FEDERICO GARCIA LORCA;Calle De La Huerta, S/n ;Camarma de Esteruelas;-;28816;918865256;918865248;Público;
 Madrid-Sur;28023364;CP INF-PRI-SEC;ISABEL LA CATOLICA;Calle Vía Olímpica, S/n ;Navas del Rey;-;28695;918650536;918650790;Público;
+Madrid-Norte;28025403;CP INF-PRI-SEC;JESUS ARAMBURU;Calle Del Jarama, 10 ;Valdetorres de Jarama;-;28150;918472060;918415204;Público;
 Madrid-Este;28023388;CP INF-PRI-SEC;JUAN DE GOYENECHE;Avenida Glasgow, 1 ;Nuevo Baztán;-;28514;918735070;918734258;Público;
 Madrid-Oeste;28001812;CP INF-PRI-SEC;JUAN RAMON JIMENEZ;Paseo De San Sebastián, 23 ;Becerril de la Sierra;-;28490;918538064;918555468;Público;
 Madrid-Oeste;28023741;CP INF-PRI-SEC;LOS ANGELES;Calle Diego De Velázquez, 5 ;Pozuelo de Alarcón;-;28223;917116584;915180145;Público;
@@ -1829,10 +1825,12 @@ Madrid-Oeste;28057088;CP INF-PRI-SEC;MARIA MOLINER;Avenida Rioja, 14 ;Villanueva
 Madrid-Norte;28002853;CP INF-PRI-SEC;MARTINA GARCIA;Avenida Julián Sánchez, 17 ;Fuente el Saz de Jarama;-;28140;916200825;916224053;Público;
 Madrid-Este;28025415;CP INF-PRI-SEC;MIGUEL DE CERVANTES;Calle Miguel Cervantes, 4 ;Valdilecha;-;28511;918738437;918738660;Público;
 Madrid-Sur;28033679;CP INF-PRI-SEC;MIGUEL DE CERVANTES;Avenida De Villaviciosa, 7 ;Alcorcón;-;28922;916116198;916116569;Público;
+Madrid-Oeste;28079451;CP INF-PRI-SEC;PADRE GARRALDA;Calle Sierra Nevada, 32 ;Villanueva de la Cañada;-;28691;-;-;Público;
 Madrid-Oeste;28001848;CP INF-PRI-SEC;PRINCIPE DON FELIPE;Calle De José Antonio, 48 ;Boadilla del Monte;-;28660;916331626;916331954;Público;
 Madrid-Oeste;28064160;CP INF-PRI-SEC;PRINCIPES DE ASTURIAS;Calle Atlántico Del Paular, 8 ;Pozuelo de Alarcón;-;28224;917140919;913515144;Público;
 Madrid-Norte;28073872;CP INF-PRI-SEC;PUERTA DE LA SIERRA;Calle Placer De Ver, S/n ;Venturada;-;28729;918439140;918439289;Público;
 Madrid-Sur;28060270;CP INF-PRI-SEC;SALVADOR DALI;Calle De La Tia Javiera, S/n ;Fuenlabrada;-;28942;916046230;916047303;Público;
+Madrid-Este;28067604;CP INF-PRI-SEC;SALVADOR DE MADARIAGA;Calle La Lámpara, S/n ;Daganzo de Arriba;-;28814;918848589;918848590;Público;
 Madrid-Este;28000029;CP INF-PRI-SEC;SAN BLAS;Calle Víctor Hurtado, S/n ;Ajalvir;-;28864;918844589;918844211;Público;
 Madrid-Sur;28067768;CP INF-PRI-SEC;SAN MIGUEL;Calle De Las Viñas, 9 ;Villamantilla;-;28609;918137521;918126010;Público;
 Madrid-Oeste;28001873;CP INF-PRI-SEC;SAN SEBASTIAN;Carretera Mazanares El Real, 10 ;Boalo, El;-;28413;918559382;918559382;Público;
@@ -1872,8 +1870,8 @@ Madrid-Norte;28042760;EOI;E.O.I. DE SAN SEBASTIAN DE LOS REYES;Pasaje La Viña, 
 Madrid-Este;28060208;EOI;E.O.I. DE TORREJON DE ARDOZ;Calle San Fernando, S/n ;Torrejón de Ardoz;-;28850;916781064;916781249;Público;
 Madrid-Norte;28062369;EOI;E.O.I. DE TRES CANTOS;Calle Del Orégano, 1 ;Tres Cantos;-;28760;918049253;918049254;Público;
 Madrid-Sur;28043314;EOI;E.O.I. DE VALDEMORO;Calle De Cuba, 3 ;Valdemoro;-;28341;918955640;918082384;Público;
-Madrid-Este;28067185;EXEOI;EXTENSION  DE LA ESCUELA OFICIAL DE IDIOMAS  DE ALCALA DE HENARES EN ARGANDA DEL REY;Calle Mar De Alborán, 1 ;Arganda del Rey;-;28500;918747939;918747939;Público;
 Madrid-Sur;28068207;EXEOI;EXTENSION DE LA ESCUELA OFICIAL DE IDIOMAS DE ALCORCON EN SAN MARTIN DE VALDEIGLESIAS;Carretera De N-403 (toledo), S/n ;San Martín de Valdeiglesias;-;28680;651177133;-;Público;
+Madrid-Oeste;28080049;EXEOI;EXTENSION DE LA ESCUELA OFICIAL DE IDIOMAS DE COLLADO-VILLALBA;Calle Teresa Berganza, 35 ;San Lorenzo de El Escorial;-;28200;-;-;Público;
 Madrid-Capital;28067203;EXEOI;EXTENSION DE LA ESCUELA OFICIAL DE IDIOMAS DE MADRID-CIUDAD LINEAL EN BARAJAS;Calle De Antonio Sancha, S/n ;Madrid;Barajas;28042;917476019;913296257;Público;
 Madrid-Capital;28067197;EXEOI;EXTENSION DE LA ESCUELA OFICIAL DE IDIOMAS DE MADRID-MORATALAZ EN PUENTE DE VALLECAS;Ronda Sur, 229 ;Madrid;Puente de Vallecas;28053;917863195;917863929;Público;
 Madrid-Capital;28068736;EXEOI;EXTENSION DE LA ESCUELA OFICIAL DE IDIOMAS DE MADRID-VILLAVERDE EN EL ESPINILLO;Calle De La Alianza, 20-24 ;Madrid;Villaverde;28041;913176300;913175084;Público;
@@ -1998,6 +1996,7 @@ Madrid-Norte;28058056;E MUN. MUS-DANZA;GUADALIX DE LA SIERRA;Avenida Alejandro R
 Madrid-Oeste;28040325;E MUN. MUS-DANZA;JOAQUIN RODRIGO;Avenida Camino Del Caño, 2 ;Rozas de Madrid, Las;-;28231;916409880;916409919;Público;
 Madrid-Norte;28059929;E MUN. MUS-DANZA;LA CABRERA;Avenida Del Generalísimo, 96 ;Cabrera, La;-;28751;918689530;918688127;Público;
 Madrid-Norte;28056618;E MUN. MUS-DANZA;MANZANARES EL REAL;Calle De La Cañada, 26 ;Manzanares el Real;-;28410;918539840;918539825;Público;
+Madrid-Capital;28079771;E MUN. MUS-DANZA;MARÍA DOLORES PRADERA;Calle De La Farmacia, 13 ;Madrid;-;28004;-;-;Público;
 Madrid-Este;28058433;E MUN. MUS-DANZA;MEJORADA DEL CAMPO;Plaza De La Ilustración, 9 ;Mejorada del Campo;-;28840;916793379;916793606;Público;
 Madrid-Oeste;28069571;E MUN. MUS-DANZA;MORALZARZAL;Avenida De Salvador Sánchez Frascuelo, 26 ;Moralzarzal;-;28411;918576900;918577600;Público;
 Madrid-Sur;28058445;E MUN. MUS-DANZA;NAVALCARNERO;Calle De La Libertad, 31 ;Navalcarnero;-;28600;918101218;918101219;Público;
@@ -2011,7 +2010,7 @@ Madrid-Norte;28067173;E MUN. MUS-DANZA;TALAMANCA DE JARAMA;Calle De La Fuente De
 Madrid-Este;28048518;E MUN. MUS-DANZA;TIELMES;Calle Real, 39 ;Tielmes;-;28550;918746002;918746620;Público;
 Madrid-Sur;28058482;E MUN. MUS-DANZA;TORREJON DE VELASCO;Calle San Nicasio ;Torrejón de Velasco;-;28990;918161424;918161550;Público;
 Madrid-Oeste;28059942;E MUN. MUS-DANZA;VALDEMORILLO;Calle Paz ;Valdemorillo;-;28210;918978578;918993745;Público;
-Madrid-Este;28050148;E MUN. MUS-DANZA;VELILLA;Calle Olivar, 15 ;Velilla de San Antonio;-;28891;616223506;916608062;Público;
+Madrid-Este;28050148;E MUN. MUS-DANZA;VELILLA;Calle De Paz Camacho, 70 ;Velilla de San Antonio;-;28891;916553313;916608062;Público;
 Madrid-Oeste;28050161;E MUN. MUS-DANZA;VILLANUEVA DE LA CAÑADA;Calle Olivar, 10 ;Villanueva de la Cañada;-;28691;918117001;918156646;Público;
 Madrid-Oeste;28057854;E MUN. MUS-DANZA;VILLANUEVA DEL PARDILLO;Calle Real, 4 ;Villanueva del Pardillo;-;28229;918152384;918153212;Público;
 Madrid-Capital;28700741;EOEP ESPECÍFICO;DEFICIENCIAS AUDITIVAS;Avenida Canillejas A Vicalvaro, 82 ;Madrid;San Blas-Canillejas;28022;917601521;913135254;Público;
@@ -2033,7 +2032,7 @@ Madrid-Este;28700696;EOEP ATEN-TEMPR;EQUIPO ATENCION TEMPRANA ARGANDA DEL REY;Av
 Madrid-Sur;28700635;EOEP ATEN-TEMPR;EQUIPO ATENCION TEMPRANA FUENLABRADA;Calle Logroño, 2 ;Fuenlabrada;-;28941;916065751;916970296;Público;
 Madrid-Sur;28700647;EOEP ATEN-TEMPR;EQUIPO ATENCION TEMPRANA GETAFE;Calle Montserrat Caballé, 2 ;Getafe;-;28903;916832147;916828209;Público;
 Madrid-Capital;28700532;EOEP ATEN-TEMPR;EQUIPO ATENCION TEMPRANA HORTALEZA;Calle Del Mar Caspio, 6 ;Madrid;Hortaleza;28033;913817347;913817347;Público;
-Madrid-Sur;28700659;EOEP ATEN-TEMPR;EQUIPO ATENCION TEMPRANA LEGANES;Avenida De La Mancha, 2 ;Leganés;-;28915;916802436;916873146;Público;
+Madrid-Sur;28700659;EOEP ATEN-TEMPR;EQUIPO ATENCION TEMPRANA LEGANES;Avenida De La Mancha, 2 ;Leganés;-;28915;916873146;916873146;Público;
 Madrid-Sur;28700660;EOEP ATEN-TEMPR;EQUIPO ATENCION TEMPRANA MOSTOLES;Calle París, 9 ;Móstoles;-;28938;916480067;916480068;Público;
 Madrid-Sur;28700672;EOEP ATEN-TEMPR;EQUIPO ATENCION TEMPRANA NAVALCARNERO;Calle Cuesta Del Tostonero, 2 ;Navalcarnero;-;28600;918114028;918114028;Público;
 Madrid-Sur;28700787;EOEP ATEN-TEMPR;EQUIPO ATENCION TEMPRANA PARLA;Calle Pintor Rosales, S/n ;Parla;-;28982;916052082;916992961;Público;
@@ -2055,7 +2054,7 @@ Madrid-Este;28700337;EOEP GENERAL;EQUIPO GENERAL COSLADA;Calle De La Virgen De L
 Madrid-Oeste;28701007;EOEP GENERAL;EQUIPO GENERAL DE GUADARRAMA;Calle Gustavo Adolfo Bécquer, 1 ;Guadarrama;-;28440;918542279;918542552;Público;
 Madrid-Oeste;28700994;EOEP GENERAL;EQUIPO GENERAL DE LAS ROZAS;Camino Perales, S/n ;Rozas de Madrid, Las;-;28232;916403970;916403974;Público;
 Madrid-Este;28700350;EOEP GENERAL;EQUIPO GENERAL DE TORREJÓN DE ARDOZ;Avenida Constitución, 9 ;Torrejón de Ardoz;-;28850;916565381;916779989;Público;
-Madrid-Sur;28700386;EOEP GENERAL;EQUIPO GENERAL FUENLABRADA;Calle Logroño, 2 ;Fuenlabrada;-;28941;916063733;916977461;Público;
+Madrid-Sur;28700386;EOEP GENERAL;EQUIPO GENERAL FUENLABRADA;Calle Logroño, 2 ;Fuenlabrada;-;28941;916977461;916977461;Público;
 Madrid-Sur;28700398;EOEP GENERAL;EQUIPO GENERAL GETAFE;Calle Montserrat Caballé, 2 ;Getafe;-;28903;916832149;916828209;Público;
 Madrid-Capital;28700283;EOEP GENERAL;EQUIPO GENERAL HORTALEZA-BARAJAS;Carretera De Canillas, 51 ;Madrid;Hortaleza;28043;917592462;917597016;Público;
 Madrid-Norte;28700507;EOEP GENERAL;EQUIPO GENERAL LA CABRERA;Calle De Carlos Ruiz, 2 ;Cabrera, La;-;28751;918688403;918689532;Público;
@@ -2065,7 +2064,7 @@ Madrid-Capital;28700192;EOEP GENERAL;EQUIPO GENERAL MONCLOA-CHAMBERÍ;Calle De G
 Madrid-Sur;28700416;EOEP GENERAL;EQUIPO GENERAL MOSTOLES;Calle París, 9 ;Móstoles;-;28938;916183200;916183112;Público;
 Madrid-Sur;28700428;EOEP GENERAL;EQUIPO GENERAL NAVALCARNERO;Calle Cuesta Del Tostonero, 2 ;Navalcarnero;-;28600;918112533;918112533;Público;
 Madrid-Sur;28700431;EOEP GENERAL;EQUIPO GENERAL PARLA;Calle Pintor Rosales, 1-b ;Parla;-;28982;916980604;916981350;Público;
-Madrid-Oeste;28700465;EOEP GENERAL;EQUIPO GENERAL POZUELO DE ALARCÓN;Avenida Monte, 2 ;Pozuelo de Alarcón;-;28223;913515364;917157162;Público;
+Madrid-Oeste;28700465;EOEP GENERAL;EQUIPO GENERAL POZUELO DE ALARCÓN;Avenida Monte, 2 ;Pozuelo de Alarcón;-;28223;917157162;917157162;Público;
 Madrid-Capital;28700246;EOEP GENERAL;EQUIPO GENERAL PUENTE VALLECAS;Plaza De Sierra Ministra, 3 ;Madrid;Puente de Vallecas;28053;914772358;914789129;Público;
 Madrid-Este;28700325;EOEP GENERAL;EQUIPO GENERAL RIVAS-ARGANDA;Calle De Los Picos De Urbión, S/n ;Rivas-Vaciamadrid;-;28522;914990324;913011837;Público;
 Madrid-Norte;28701044;EOEP GENERAL;EQUIPO GENERAL S. SEBASTIAN DE LOS REYES;Avenida De Ramón Y Cajal, 5 ;San Sebastián de los Reyes;-;28703;916636481;916573418;Público;
@@ -2080,14 +2079,14 @@ Madrid-Capital;28700261;EOEP GENERAL;EQUIPO GRAL. SAN BLAS-VICALVARO-C.LINEAL;Av
 Madrid-Capital;28077105;C. PUB. ENS. DEPORT.;CESED;Calle De Martín Fierro, 5 ;Madrid;Moncloa-Aravaca;28040;915896725;-;Público;
 Madrid-Capital;28077245;C. PUB. ENS. DEPORT.;SECCION DE ENSEÑANZA ECUESTRE DEL MINISTERIO DE DEFENSA;Paseo De Extremadura, 445 ;Madrid;Latina;28024;-;-;Público;
 -;28923545;EST ADMI;AGENCIA DE CALIDAD, ACREDITACION Y PROSPECTIVA DE LAS UNIVERSIDADES DE MADRID;Calle Del Duque De Medinaceli, 2 ;Madrid;-;28014;-;-;Público;
--;28923375;EST ADMI;CONSEJERIA DE EDUCACION E INVESTIGACION;Calle De Alcalá, 30 ;Madrid;Centro;28014;-;-;Público;
--;28923557;EST ADMI;D.G. DE  FORMACION PROFESIONAL Y ENSEÑANZAS DE REGIMEN ESPECIAL;Calle Gran Vía, 20 ;Madrid;Centro;28013;-;-;Público;
--;28923521;EST ADMI;D.G. DE BECAS Y AYUDAS AL ESTUDIO;Calle De Alcalá, 30 ;Madrid;Centro;28014;-;-;Público;
--;28923508;EST ADMI;D.G. DE EDUCACION INFANTIL, PRIMARIA,  SECUNDARIA Y BACHILLERATO;Calle Gran Vía, 20 ;Madrid;Centro;28013;-;-;Público;
+-;28923375;EST ADMI;CONSEJERIA DE EDUCACION Y JUVENTUD;Calle De Alcalá, 30 ;Madrid;Centro;28014;-;-;Público;
+Madrid-Capital;28923661;EST ADMI;D.G. DE BILINGÜISMO Y CALIDAD DE LA ENSEÑANZA;Calle De Alcalá, 30 ;Madrid;-;28014;-;-;Público;
+-;28923521;EST ADMI;D.G. DE EDUCACION CONCERTADA, BECAS Y AYUDAS AL ESTUDIO;Calle De Alcalá, 30 ;Madrid;Centro;28014;-;-;Público;
+-;28923508;EST ADMI;D.G. DE EDUCACION INFANTIL Y PRIMARIA;Calle Gran Vía, 20 ;Madrid;Centro;28013;-;-;Público;
+-;28923557;EST ADMI;D.G. DE EDUCACION SECUNDARIA, FORMACION PROFESIONAL Y REGIMEN ESPECIAL;Calle Gran Vía, 20 ;Madrid;Centro;28013;-;-;Público;
 -;28923442;EST ADMI;D.G. DE INFRAESTRUCTURAS Y SERVICIOS;Calle De Santa Hortensia, 30 ;Madrid;Chamartín;28002;-;-;Público;
--;28923405;EST ADMI;D.G. DE INVESTIGACION E INNOVACION;Calle De Alcalá, 30 ;Madrid;Centro;28014;-;-;Público;
+Madrid-Capital;28923673;EST ADMI;D.G. DE JUVENTUD;Calle De Alcalá, 30 ;Madrid;-;28014;-;-;Público;
 -;28923430;EST ADMI;D.G. DE RECURSOS HUMANOS;Calle De Santa Hortensia, 30 ;Madrid;Chamartín;28002;-;-;Público;
-Madrid-Capital;28923651;EST ADMI;D.G. DE UNIVERSIDADESY ENSEÑANZAS SUPERIORES ARTISTICAS;Calle De Alcalá, 30 ;Madrid;Centro;28014;-;-;Público;
 Madrid-Capital;28007620;EST ADMI;DIRECCION AREA TERRITORIAL MADRID-CAPITAL;Calle De Vitruvio, 2 ;Madrid;Chamartín;28006;917203000;-;Público;
 Madrid-Este;28008399;EST ADMI;DIRECCION AREA TERRITORIAL MADRID-ESTE;Calle Alalpardo, S/n ;Alcalá de Henares;-;28806;918872000;918828213;Público;
 Madrid-Norte;28036449;EST ADMI;DIRECCION AREA TERRITORIAL MADRID-NORTE;Avenida De Valencia, S/n ;San Sebastián de los Reyes;-;28702;917203800;916521719;Público;
@@ -2097,7 +2096,7 @@ Madrid-Sur;28009380;EST ADMI;DIRECCION AREA TERRITORIAL MADRID-SUR;Calle Maestro
 -;28923399;EST ADMI;SECRETARIA GENERAL TECNICA DE LA CONSEJERIA DE EDUCACION E INVESTIGACION;Calle De Alcalá, 30 ;Madrid;Centro;28014;-;-;Público;
 -;28923478;EST ADMI;SUBDIRECCION GENERAL DE INSPECCION EDUCATIVA;Calle De Santa Hortensia, 30 ;Madrid;Chamartín;28002;-;-;Público;
 -;28923491;EST ADMI;VICECONSEJERIA DE ORGANIZACION EDUCATIVA;Calle De Santa Hortensia, 30 ;Madrid;Chamartín;28002;-;-;Público;
--;28923387;EST ADMI;VICECONSEJERIA DE POLITICA EDUCATIVA Y CIENCIA;Calle De Alcalá, 30 ;Madrid;Centro;28014;-;-;Público;
+-;28923387;EST ADMI;VICECONSEJERIA DE POLITICA EDUCATIVA;Calle De Alcalá, 30 ;Madrid;Centro;28014;-;-;Público;
 Madrid-Capital;28800010;C. DOC. EN EXTRANJ.;CENTRO DOCENTE EN EL EXTRANJERO;-;Madrid;-;-;-;-;Público;
 Madrid-Este;28600604;CF EMPLEO;CENTRO DE FORMACION EN EDIFICACION Y OBRA CIVIL;Finca Tirabuey, S/n ;Paracuellos de Jarama;-;-;916580413;916582725;Público;
 Madrid-Sur;28600586;CF EMPLEO;CENTRO DE FORMACION EN ELECTRICIDAD, ELECTRONICA Y AERONAUTICA;Paseo De La Ermita, 17 ;Leganés;-;28918;916800126;916807723;Público;
@@ -2105,6 +2104,12 @@ Madrid-Capital;28600562;CF EMPLEO;CENTRO DE FORMACION EN SEGUROS;Carretera M-607
 Madrid-Sur;28600574;CF EMPLEO;CENTRO DE FORMACION EN TECNOLOGIAS DE LA INFORMACION Y LAS COMUNICACIONES MADRID SUR;Avenida De Las Arcas Del Agua (sector 3), 2 ;Getafe;-;28905;916838160;916838562;Público;
 Madrid-Capital;28600598;CF EMPLEO;CENTRO DE FORMACION EN TECNOLOGIAS DEL FRIO Y LA CLIMATIZACION;Calle De La Hacienda De Pavones, 350 ;Madrid;Moratalaz;28030;913710250;-;Público;
 Madrid-Oeste;28073811;C. DOC. MILITAR;ACADEMIA DE INGENIEROS DEL EJERCITO DE TIERRA;Carretera De Torrelodones A Colmenar Viejo, K.10 ;Hoyo de Manzanares;-;28240;-;-;Público;
+Madrid-Capital;28027606;UNIVERSIDAD;UNIV. AUTONOMA DE MADRID;Ctra. Colmenar Viejo, Km. 15 ;Madrid;-;28049;913975000;913974123;Público;
+Madrid-Capital;28027618;UNIVERSIDAD;UNIV. COMPLUTENSE DE MADRID;Avenida De Séneca, 2 ;Madrid;-;28008;913943389;0;Público;
+Madrid-Capital;28027591;UNIVERSIDAD;UNIV. POLITECNICA DE MADRID;Calle De Ramiro De Maeztu ;Madrid;-;28040;913366000;0;Público;
+Madrid-Sur;28041810;UNIVERSIDAD;UNIVERSIDAD CARLOS III;Madrid, 126-128 ;Getafe;-;28903;916249500;916249758;Público;
+Madrid-Este;28027898;UNIVERSIDAD;UNIVERSIDAD DE ALCALA DE HENARES;Plaza De San Diego, S/n - Edificio San Ildefonso ;Alcalá de Henares;-;28801;918882200;0;Público;
+-;28048351;UNIVERSIDAD;U.REY JUAN CARLOS;C/ Tulipan, S/n ;Móstoles;-;28933;916655060;916147120;Público;
 Madrid-Capital;28700933;CRIF;LAS ACACIAS;Calle Del General Ricardos, 179 ;Madrid;Carabanchel;28025;915251893;915255888;Público;
 Madrid-Capital;28701147;CTIF;MADRID-CAPITAL;Calle Del Limonero, 28 ;Madrid;Tetuán;28020;913980515;915720320;Público;
 Madrid-Este;28701172;CTIF;MADRID-ESTE;Calle Luis Vives, 17 ;Alcalá de Henares;-;28803;-;-;Público;

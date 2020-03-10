@@ -7,6 +7,7 @@ import zipfile as zipfilelib
 from io import BytesIO
 from math import atan2, cos, radians, sin, sqrt
 from urllib.parse import urljoin
+import time
 
 import bs4
 import requests
@@ -39,7 +40,7 @@ def get_pdf(url, to_file=None):
 
 
 def request_soup(url, data=None):
-    print(url, data)
+    print("request_soup:", url, data)
     if data:
         r = requests.post(url, data=data)
     else:
@@ -57,13 +58,21 @@ def request_soup(url, data=None):
             n.attrs[att] = urljoin(url, href)
     return soup
 
+def get_local_soup(file, maxOld=1):
+    if file is None or not os.path.isfile(file):
+        return None
+    maxOld = time.time() - (maxOld * 86400)
+    if os.stat(file).st_mtime < maxOld:
+        return None
+    with open(file) as f:
+        #print("get_local_soup:", file)
+        return bs4.BeautifulSoup(f.read(), "html.parser")
 
 def get_soup(url, data=None, select=None, attr=None, to_file=None):
-    isFile = to_file and os.path.isfile(to_file)
-    if isFile:
-        with open(to_file) as f:
-            soup = bs4.BeautifulSoup(f.read(), "html.parser")
-    else:
+    if to_file is None and data is None and url == "http://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm":
+        to_file = "fuentes/madrid.org/buscador.html"
+    soup = get_local_soup(to_file)
+    if soup is None:
         soup = request_soup(url, data=data)
         if to_file:
             with open(to_file, "w") as f:

@@ -2,6 +2,7 @@ import copy
 import re
 from functools import lru_cache
 import os
+import time
 
 import geopy.distance
 import requests
@@ -71,6 +72,7 @@ class Dataset():
         self.arreglos = read_yml("fuentes/arreglos.yml")
         if os.path.isfile("data/centros.json"):
             self.reload=["data/status_web.json"]
+            self.status_web
 
     def dwn_centros(self, file, data=None):
         if data is None:
@@ -95,8 +97,10 @@ class Dataset():
             f.write(content)
         return True
 
-    def dwn_and_read(self, file, data=None, **kargv):
-        if not os.path.isfile(file):
+    def dwn_and_read(self, file, data=None, maxOld=1, **kargv):
+        if maxOld is not None:
+            maxOld = time.time() - (maxOld * 86400)
+        if not os.path.isfile(file) or (maxOld is not None and os.stat(file).st_mtime < maxOld):
             if not self.dwn_centros(file, data=data):
                 return []
         out = read_csv(file, start=1, null=("-", 0), parse=to_num, **kargv)
@@ -279,10 +283,9 @@ class Dataset():
         if txt is True:
             txt = "data/centros/" + file+".txt"
         file = "fuentes/csv/" + file + ".csv"
-        create_txt = txt and not(os.path.isfile(file) and os.path.isfile(txt))
         col_centros = self.dwn_and_read(file, data=kargv)
         out = set(c["CODIGO CENTRO"] for c in col_centros)
-        if create_txt:
+        if txt and isinstance(txt, str):
             with open(txt, "w") as f:
                 f.write("\n".join(sorted(str(i) for i in out)))
         return out
@@ -383,7 +386,7 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    @JsonCache(file="data/tipos.json")
+    @JsonCache(file="data/tipos.json", reload=True)
     def tipos(self):
         soup = get_soup(self.indice.centros)
         tipos = {}
@@ -395,7 +398,7 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    @JsonCache(file="data/ensenanzas.json")
+    @JsonCache(file="data/ensenanzas.json", reload=True)
     def ensenanzas(self):
         soup = get_soup(self.indice.centros)
         tipos = {}
@@ -500,7 +503,7 @@ class Dataset():
         return data
 
     @lru_cache(maxsize=None)
-    @ParamJsonCache(file="fuentes/transporte/{0}/{1}.json", reload=False)
+    @ParamJsonCache(file="fuentes/transporte/{0}/{1}.json", reload=False, maxOld=None)
     def get_transporte_info(self, tipo, field):
         prm = self.indice.transporte.api.default.copy()
         for k, v in self.indice.transporte.api[field].items():
@@ -514,7 +517,7 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    @JsonCache(file="data/accesos.json", reload=False)
+    @JsonCache(file="data/accesos.json", reload=False, maxOld=None)
     def accesos(self):
         data = {}
         for k in self.indice.transporte.redes.keys():
@@ -563,7 +566,7 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    @JsonCache(file="data/estaciones.json", reload=False)
+    @JsonCache(file="data/estaciones.json", reload=False, maxOld=None)
     def estaciones(self):
         data = {}
         for k in self.indice.transporte.redes.keys():
@@ -637,7 +640,7 @@ class Dataset():
 
     @property
     @lru_cache(maxsize=None)
-    @JsonCache(file="data/transporte.json", reload=False)
+    @JsonCache(file="data/transporte.json", reload=False, maxOld=None)
     def transporte(self):
         datas = {}
         for k in self.indice.transporte.redes.keys():

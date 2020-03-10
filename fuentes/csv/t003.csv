@@ -13,7 +13,7 @@ Madrid-Capital;28070913;EEI;AMANECER;Calle Del Titanio, 7 ;Madrid;Vicálvaro;280
 Madrid-Capital;28072004;EEI;ANA DE AUSTRIA;Calle De Ana De Austria, 32 ;Madrid;Hortaleza;28050;917500832;-;Público;
 Madrid-Sur;28044161;EEI;ANDERSEN;Avenida De Viña Grande, 2 ;Alcorcón;-;28925;914880205;-;Público;
 Madrid-Este;28068098;EEI;ANTON PIRULERO;Calle Puerto De Bilbao, S/n ;Coslada;-;28821;916731099;912973728;Público;
-Madrid-Capital;28079621;EEI;ANTONIO MERCERO;Avenida De Valladolid, 49b ;Madrid;-;28008;-;-;Público;
+Madrid-Capital;28079621;EEI;ANTONIO MERCERO;Avenida De Valladolid, 49b ;Madrid;Moncloa-Aravaca;28008;-;-;Público;
 Madrid-Capital;28062643;EEI;ARCE;Calle Del Alcalde Garrido Juaristi, 6 ;Madrid;Moratalaz;28030;913285820;913285820;Público;
 Madrid-Capital;28043454;EEI;ARCO IRIS;Calle De Diego Olivera Victorio, 10 ;Madrid;Villa de Vallecas;28031;913311422;913311422;Público;
 Madrid-Este;28049055;EEI;ARCO IRIS;Calle Valverde De Alcala, 1 ;Alcalá de Henares;-;28806;918811481;918811481;Público;
@@ -39,7 +39,7 @@ Madrid-Sur;28064123;EEI;CASIOPEA;Calle Toledo, 54 ;Getafe;-;28901;916950164;9169
 Madrid-Este;28044203;EEI;CHARLIE RIVEL;Calle De Velázquez, S/n ;Coslada;-;28821;916738938;916738938;Público;
 Madrid-Capital;28043508;EEI;CHAVALITOS;Calle De Pradales, 8 ;Madrid;Latina;28047;914647850;914630659;Público;
 Madrid-Capital;28070664;EEI;CIELO AZUL;Bulevar De Indalecio Prieto, 16 ;Madrid;Vicálvaro;28032;917720849;-;Público;
-Madrid-Capital;28068050;EEI;CINCO LOBITOS;Calle De Los Morales, S/n ;Madrid;Carabanchel;28054;914006684;914006684;Público;
+Madrid-Capital;28068050;EEI;CINCO LOBITOS;Calle De Forsitia, 2 ;Madrid;Carabanchel;28054;914006684;914006684;Público;
 Madrid-Sur;28043909;EEI;COLORES;Calle Coronel De Palma, S/n ;Móstoles;-;28934;916180211;916180211;Público;
 Madrid-Capital;28047587;EEI;COLORIN COLORADO;Calle Del Conde De Torralba, 8 ;Madrid;Chamartín;28046;913159965;917080207;Público;
 Madrid-Oeste;28058202;EEI;CUENTACUENTOS;Calle Fuente Del Álamo, 10 ;Collado Villalba;-;28400;918510929;918510929;Público;
@@ -66,7 +66,7 @@ Madrid-Sur;28072387;EEI;EL COLUMPIO;Paseo De Arroyomolinos, 64 ;Móstoles;-;2893
 Madrid-Sur;28067872;EEI;EL CORRO DE LA PATATA;Calle Del Cabo San Vicente, S/n ;Alcorcón;-;28924;916199643;916199643;Público;
 Madrid-Sur;28047538;EEI;EL CUCO;Calle Maestro, 10 ;Leganés;-;28914;916801409;916801409;Público;
 Madrid-Norte;28046972;EEI;EL CUQUILLO;Paseo De La Chopera, 118 ;Alcobendas;-;28100;916624097;916622155;Público;
-Madrid-Capital;28057696;EEI;EL DUENDE;Plaza Del Dos De Mayo, 2 ;Madrid;Centro;28004;915227256;915227256;Público;
+Madrid-Capital;28057696;EEI;EL DUENDE;Plaza Del Dos De Mayo, 2 ;Madrid;Centro;28004;915235187;915227256;Público;
 Madrid-Capital;28043533;EEI;EL ENCINAR;Calle Del Estrecho De Mesina, 1 ;Madrid;Ciudad Lineal;28043;913884725;913884725;Público;
 Madrid-Sur;28047447;EEI;EL ESCONDITE;Calle De Las Panaderas, 12 ;Fuenlabrada;-;28944;916979265;916970227;Público;
 Madrid-Capital;28048622;EEI;EL ESPINILLO;Pasaje De La Avenencia, 2 ;Madrid;Villaverde;28041;913176104;913176104;Público;
@@ -125,6 +125,7 @@ Madrid-Este;28048610;EEI;GLORIA FUERTES;Calle León Felipe, 24 ;Arganda del Rey;
 Madrid-Sur;28048634;EEI;GLORIA FUERTES;Calle De Las Islas Cíes, 2 ;Alcorcón;-;28924;916128962;916128962;Público;
 Madrid-Norte;28049110;EEI;GLORIA FUERTES;Avenida De España, S/n ;Soto del Real;-;28791;918476915;918476915;Público;
 Madrid-Este;28047435;EEI;GRIMM;Calle Aloe, S/n ;Rivas-Vaciamadrid;-;28522;916665837;916662488;Público;
+Madrid-Capital;28080062;EEI;GUARDERIA DELEGACION ECONOMIA Y HACIENDA;Calle De La Poeta Ángela Figuera, S/n ;Madrid;-;28003;-;-;Público;
 Madrid-Capital;28047654;EEI;HIEDRA;Calle De Amposta, 34 ;Madrid;San Blas-Canillejas;28037;913062533;-;Público;
 Madrid-Sur;28064111;EEI;JACARANDA;Calle Libertad, 108 ;Valdemoro;-;28341;918014607;918019817;Público;
 Madrid-Sur;28044173;EEI;JARDINES DE ARANJUEZ;Calle Del Primero De Mayo, 3 ;Aranjuez;-;28300;918917960;918917960;Público;

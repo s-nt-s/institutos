@@ -11086,7 +11086,7 @@
 },{
   "id": 28077491,
   "dat": "Norte",
-  "nombre": "MONTSERRAT CABALL\u00c9",
+  "nombre": "MONTSERRAT CABALLE",
   "direccion": "Calle De Eslovaquia, 2 28760 Tres Cantos",
   "telefono": 918572564,
   "mail": "ies.montserratcaballe.trescantos@educa.madrid.org",
@@ -11465,7 +11465,7 @@
   "adaptado": false,
   "excelencia": false,
   "tecnico": false,
-  "bilingue": false,
+  "bilingue": true,
   "url": null,
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080025",
   "tipo": "042",
@@ -11475,7 +11475,7 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato"
   ],
-  "idiomas": []
+  "idiomas": ["EN"]
 },{
   "id": 28080037,
   "dat": "Capital",
@@ -11513,7 +11513,7 @@
   "adaptado": false,
   "excelencia": false,
   "tecnico": false,
-  "bilingue": false,
+  "bilingue": true,
   "url": null,
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080050",
   "tipo": "042",
@@ -11523,7 +11523,7 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato"
   ],
-  "idiomas": []
+  "idiomas": ["EN"]
 },{
   "id": 28700180,
   "dat": "Capital",

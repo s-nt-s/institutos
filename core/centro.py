@@ -56,7 +56,7 @@ def status_web(url, stweb):
         return stweb[url]
     buffer = ""
     try:
-        with closing(requests.get(url, stream=True, verify=False)) as res:
+        with closing(requests.get(url, stream=True, verify=False, timeout=5)) as res:
             status = res.status_code
             if status != 200:
                 return status

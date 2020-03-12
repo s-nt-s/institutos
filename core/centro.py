@@ -89,8 +89,27 @@ def get_grafica(ct):
         "xml":True
     }
     r = requests.post("http://gestiona.madrid.org/wpad_pub/dwr/exec/GraficasDWRAccion.obtenerGrafica.dwr", data=data)
-    print(json.dumps(data, indent=4))
-    print (r.text.replace(";", ";\n"))
+    y,v,c = (None,)*3
+    for l in r.text.replace(";", ";\n").split("\n"):
+        l = l.strip()
+        if len(l)==0:
+            if y and v and c:
+                print(y, c, v)
+            y,v,c = (None,)*3
+            continue
+        m = re.match(r'^var s\d+="(20\d+)-20\d+";$', l)
+        if m:
+            y=int(m.group(1))
+            continue
+        m = re.match(r'^var s\d+="\s*(.+?)\s*";', l)
+        if m:
+            c=m.group(1)
+            continue
+        m = re.match(r'^var s\d+=(\d+);$', l);
+        if m:
+            v = int(m.group(1))
+            continue
+
 
 def get_text(n, index=0):
     if type(n) is list:

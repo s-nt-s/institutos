@@ -4,6 +4,9 @@ from html.parser import HTMLParser
 
 import requests
 import urllib3
+import time
+from random import randint
+import json
 
 from .common import get_soup
 from .utm_to_geo import utm_to_geo
@@ -72,6 +75,22 @@ def status_web(url, stweb):
         return 991
     return 200
 
+def get_grafica(ct):
+    data={
+        "callCount":1,
+        "c0-scriptName":"GraficasDWRAccion",
+        "c0-methodName":"obtenerGrafica",
+        "c0-id": ("%s_%s" % (randint(1000, 9999), int(time.time()*1000))),
+        "c0-e1": "string:"+ct,
+        "c0-e2":"string:TODO",
+        "c0-e3":"string:1",
+        "c0-e4":"string:1",
+        "c0-param0":"Object:{cdCentro:reference:c0-e1, cdnivelEducativo:reference:c0-e2, cdGrafica:reference:c0-e3, tipoGrafica:reference:c0-e4}",
+        "xml":True
+    }
+    r = requests.post("http://gestiona.madrid.org/wpad_pub/dwr/exec/GraficasDWRAccion.obtenerGrafica.dwr", data=data)
+    print(json.dumps(data, indent=4))
+    print (r.text.replace(";", ";\n"))
 
 def get_text(n, index=0):
     if type(n) is list:

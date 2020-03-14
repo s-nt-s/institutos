@@ -465,7 +465,7 @@ class Dataset():
         lat, lon = tuple(map(float, latlon.split(",")))
         distances = [geopy.distance.vincenty(
             (lat, lon), (e["lat"], e["lon"])).m for e in self.accesos + self.estaciones]
-        return min(distances)
+        return round(min(distances))
 
     @property
     @lru_cache(maxsize=None)

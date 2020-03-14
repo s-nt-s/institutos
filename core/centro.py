@@ -7,6 +7,7 @@ import urllib3
 import time
 from random import randint
 import json
+import bs4
 
 from .common import get_soup
 from .utm_to_geo import utm_to_geo
@@ -112,7 +113,7 @@ def get_grafica(ct):
 
 
 def get_text(n, index=0):
-    if type(n) is list:
+    if isinstance(n, bs4.element.ResultSet) or type(n) is list:
         n = n[index]
     txt = re_sp.sub(" ", n.get_text()).strip()
     return txt

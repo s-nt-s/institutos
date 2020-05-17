@@ -140,6 +140,13 @@ class Dataset():
             if exist_etapas and not etapas:
                 excluidos[(tipo, extra.get("info"))] = excluir
                 continue
+            if extra.get("latlon"):
+                lat, lon = extra["latlon"].split(",")
+                lat = lat.split(".")
+                lat = lat[0]+"."+lat[1][:10]
+                lon = lon.split(".")
+                lon = lon[0]+"."+lon[1][:10]
+                extra["latlon"] = lat+","+lon
             c = Bunch(
                 id=id,
                 dat=dat,

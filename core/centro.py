@@ -76,7 +76,7 @@ def status_web(url, stweb):
         return 991
     return 200
 
-def get_grafica(ct):
+def get_grafica(ct, **kargv):
     data={
         "callCount":1,
         "c0-scriptName":"GraficasDWRAccion",
@@ -89,13 +89,23 @@ def get_grafica(ct):
         "c0-param0":"Object:{cdCentro:reference:c0-e1, cdnivelEducativo:reference:c0-e2, cdGrafica:reference:c0-e3, tipoGrafica:reference:c0-e4}",
         "xml":True
     }
+    if kargv:
+        data.update(kargv)
     r = requests.post("http://gestiona.madrid.org/wpad_pub/dwr/exec/GraficasDWRAccion.obtenerGrafica.dwr", data=data)
+    return r.text.replace(";", ";\n")
+
+def get_estadistica(ct):
+    estadistica={}
+    grafica = get_grafica(ct)
+
     y,v,c = (None,)*3
-    for l in r.text.replace(";", ";\n").split("\n"):
+    for l in grafica.split("\n"):
         l = l.strip()
         if len(l)==0:
             if y and v and c:
-                print(y, c, v)
+                obj = estadistica.get(y, {})
+                obj[c]=v
+                estadistica[y]=obj
             y,v,c = (None,)*3
             continue
         m = re.match(r'^var s\d+="(20\d+)-20\d+";$', l)
@@ -110,6 +120,7 @@ def get_grafica(ct):
         if m:
             v = int(m.group(1))
             continue
+    print(json.dumps(estadistica, indent=4))
 
 
 def get_text(n, index=0):
@@ -277,7 +288,11 @@ def get_data2(ctr):
     data = {}
     url = "http://www.buscocolegio.com/Colegio/detalles-colegio.action?id=" + ctr
     soup = get_soup(url, to_file="fuentes/buscocolegio.com/"+ctr+".html")
-    cod = soup.find("h3", text="Código").parent.find("strong").string
+    h3 = soup.find("h3", text="Código")
+    if h3 is None:
+        print("NO h3[text()='Código']")
+        return data
+    cod = h3.parent.find("strong").string
     if ctr != cod:
         return data
     data["nombre"] = get_text(soup.select("li > span[itemprop='title']"))

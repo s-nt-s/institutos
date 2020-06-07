@@ -53,7 +53,7 @@ def get_abr(t):
     return None
 
 
-def status_web(url, stweb):
+def status_web(url, stweb, intentos=1):
     if url.endswith("/"):
         url=url[:-1]
     if stweb and url in stweb:
@@ -73,6 +73,9 @@ def status_web(url, stweb):
                     if title == "Web de centro deshabilitada | EducaMadrid":
                         return 999
     except Exception as e:
+        if intentos > 0:
+            time.sleep(10)
+            return status_web(url, stweb, intentos=intentos-1)
         return 991
     return 200
 

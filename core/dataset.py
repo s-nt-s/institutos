@@ -86,7 +86,6 @@ class Dataset():
             return False
         url = soup.find(
             "form", attrs={"id": "frmExportarResultado"}).attrs["action"]
-
         soup = get_soup(url, data={"codCentrosExp": codCentrosExp})
         script = re_location.search(soup.find("script").string).group(1)
         url = urljoin(url, script)

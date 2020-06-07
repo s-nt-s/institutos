@@ -46,11 +46,6 @@ y que (en caso de que este la información disponible) ofrezcan al menos alguna 
 * Español para Extranjeros
 * Formación Profesional Básica (LOE-LOMCE)
 
-A excepción de los siguientes que han tenido que ser descartados por no tener coordenadas geográficas:
-
-* [28080025 Ies Nuevo en Parla](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080025)
-* [28080050 Ies Nuevo en Arroyomolinos 3](http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080050)
-
 # Iconos
 
 Se han usado los siguientes iconos para dar información extra:

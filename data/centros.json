@@ -11460,7 +11460,7 @@
   "direccion": "Calle Planeta Mercurio, 2 28983 Parla",
   "telefono": null,
   "mail": null,
-  "latlon": "40.217921, -3.757421",
+  "latlon": "40.217921,-3.757421",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -11471,7 +11471,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080025",
   "tipo": "042",
   "status_web": null,
-  "min_distance": null,
+  "min_distance": 517,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
@@ -11508,7 +11508,7 @@
   "direccion": "Avenida Francia Esquina Calle Suiza, 1 28939 Arroyomolinos",
   "telefono": null,
   "mail": null,
-  "latlon": "40.281293, -3.920963",
+  "latlon": "40.281293,-3.920963",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -11519,7 +11519,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080050",
   "tipo": "042",
   "status_web": null,
-  "min_distance": null,
+  "min_distance": 5538,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"

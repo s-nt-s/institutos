@@ -87,7 +87,11 @@ class Dataset():
         url = soup.find(
             "form", attrs={"id": "frmExportarResultado"}).attrs["action"]
         soup = get_soup(url, data={"codCentrosExp": codCentrosExp})
-        script = re_location.search(soup.find("script").string).group(1)
+        script = soup.find("script")
+        error = soup.select_one("#detalle_error")
+        if error is not None and script is None:
+            raise Exception(error.get_text().strip())
+        script = re_location.search(script.string).group(1)
         url = urljoin(url, script)
         r = requests.get(url)
         content = r.content.decode('iso-8859-1')

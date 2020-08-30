@@ -6590,8 +6590,6 @@
   "status_web": 200,
   "min_distance": 442,
   "etapas": [
-    "ESO (LOE-LOMCE)",
-    "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ],
   "idiomas": []
@@ -7134,6 +7132,7 @@
   "status_web": 200,
   "min_distance": 461,
   "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para Extranjeros"
   ],
@@ -7830,6 +7829,7 @@
   "status_web": 200,
   "min_distance": 12118,
   "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para Extranjeros"
   ],
@@ -9214,7 +9214,8 @@
   "min_distance": 12159,
   "etapas": [
     "ESO (LOE-LOMCE)",
-    "Bachillerato"
+    "Bachillerato",
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ],
   "idiomas": ["EN"]
 },{
@@ -11204,7 +11205,7 @@
   "dat": "Oeste",
   "nombre": "ISABEL LA CATOLICA",
   "direccion": "Calle De Crist\u00f3bal Col\u00f3n, 12 28660 Boadilla del Monte",
-  "telefono": null,
+  "telefono": 912760318,
   "mail": "ies.isabellacatolica.boadilla@educa.madrid.org",
   "latlon": "40.4134738,-3.9101917",
   "nocturno": null,
@@ -11435,7 +11436,7 @@
   "dat": "Oeste",
   "nombre": "PADRE GARRALDA",
   "direccion": "Calle Sierra Nevada, 32 28691 Villanueva de la Ca\u00f1ada",
-  "telefono": null,
+  "telefono": 918354980,
   "mail": "cp.padregarralda.villanuevadelacanada@educa.madrid.org",
   "latlon": "40.4380073631,-4.0091484679",
   "nocturno": null,
@@ -11483,7 +11484,7 @@
   "nombre": "IES NUEVO EN MONTECARMELO",
   "direccion": "Calle De Monasterio De El Paular, 3 28049 Madrid",
   "telefono": null,
-  "mail": null,
+  "mail": "ies.blancafdezochoa.madrid@educa.madrid.org",
   "latlon": "40.5002829406,-3.7117781484",
   "nocturno": null,
   "dificultad": false,
@@ -11491,10 +11492,10 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
-  "url": null,
+  "url": "http://www.educa.madrid.org/ies.blancafdezochoa.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080037",
   "tipo": "042",
-  "status_web": null,
+  "status_web": 200,
   "min_distance": 227,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -12846,6 +12847,27 @@
   "tipo": "206",
   "status_web": 200,
   "min_distance": 683,
+  "etapas": null,
+  "idiomas": []
+},{
+  "id": 28701202,
+  "dat": "Capital",
+  "nombre": "ALTAS CAPACIDADES",
+  "direccion": "Avenida Canillejas A Vic\u00e1lvaro, 82 28022 Madrid",
+  "telefono": null,
+  "mail": null,
+  "latlon": "40.4249183975,-3.6120087830",
+  "nocturno": null,
+  "dificultad": false,
+  "adaptado": false,
+  "excelencia": false,
+  "tecnico": false,
+  "bilingue": false,
+  "url": null,
+  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28701202",
+  "tipo": "204",
+  "status_web": null,
+  "min_distance": 274,
   "etapas": null,
   "idiomas": []
 }]

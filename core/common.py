@@ -8,12 +8,14 @@ from io import BytesIO
 from math import atan2, cos, radians, sin, sqrt
 from urllib.parse import urljoin
 import time
+from .web import Web, FF, get_session
 
 import bs4
 import requests
 import yaml
 from bunch import Bunch
 
+w = Web()#get_session("https://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm")
 
 def unzip(target, *urls):
     if os.path.isdir(target):
@@ -39,26 +41,6 @@ def get_pdf(url, to_file=None):
     txt = output.decode(sys.stdout.encoding)
     return txt
 
-
-def request_soup(url, data=None):
-    print("request_soup:", url, data)
-    if data:
-        r = requests.post(url, data=data)
-    else:
-        r = requests.get(url)
-    soup = bs4.BeautifulSoup(r.content, "html.parser")
-    for n in soup.findAll(["a", "form", "iframe", "img", "link", "script", "frame"]):
-        if n.name in ("a", "link"):
-            att = "href"
-        elif n.name in ("frame", "iframe", "img", "script"):
-            att = "src"
-        elif n.name in ("form", ):
-            att = "action"
-        href = n.attrs.get(att)
-        if href and not href.startswith("#") and not href.startswith("javascript:"):
-            n.attrs[att] = urljoin(url, href)
-    return soup
-
 def get_local_soup(file, maxOld=1):
     if file is None or not os.path.isfile(file):
         return None
@@ -74,7 +56,8 @@ def get_soup(url, data=None, select=None, attr=None, to_file=None):
         to_file = "fuentes/madrid.org/buscador.html"
     soup = get_local_soup(to_file)
     if soup is None:
-        soup = request_soup(url, data=data)
+        print("request_soup:", url, data)
+        soup = w.get(url, **(data or {}))
         if to_file:
             with open(to_file, "w") as f:
                 f.write(str(soup))

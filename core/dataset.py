@@ -14,6 +14,7 @@ from .common import (get_km, get_pdf, get_soup, mkBunch, mkBunchParse,
                      read_csv, read_yml, to_num, unzip, read_js)
 from .confmap import etapas_ban, parse_nombre, parse_tipo
 from .decorators import *
+from .web import Web
 
 re_bocm = re.compile(r".*(BOCM-[\d\-]+).PDF", re.IGNORECASE)
 re_location = re.compile(r"document.location.href=\s*[\"'](.*.csv)[\"']")

@@ -1,6 +1,5 @@
 CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;
 AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;TITULARIDAD
-Madrid-Sur;28080050;IES; NUEVO EN ARROYOMOLINOS 3;Avenida Francia Esquina Calle Suiza, 1 ;Arroyomolinos;-;28939;-;-;Público;
 Madrid-Este;28057222;IES;ADOLFO SUAREZ;Paseo Del Radar, 33 ;Paracuellos de Jarama;-;28860;916581899;916580437;Público;
 Madrid-Sur;28077907;IES;AFRICA;Calle Portugal, 41 ;Fuenlabrada;-;28943;916073584;916085507;Público;
 Madrid-Norte;28041354;IES;AGORA;Calle Manuel De Falla, 54-56 ;Alcobendas;-;28100;916515700;916548684;Público;
@@ -52,8 +51,8 @@ Madrid-Sur;28067628;IES;CALDERON DE LA BARCA;Calle Francisco Bores, 3 ;Pinto;-;2
 Madrid-Capital;28020961;IES;CALDERON DE LA BARCA;Calle De Antonio De Leyva, 84 ;Madrid;Carabanchel;28019;915608300;915650795;Público;
 Madrid-Oeste;28038914;IES;CAMILO JOSE CELA;Avenida Del Monte, 16 ;Pozuelo de Alarcón;-;28223;917155811;913529511;Público;
 Madrid-Oeste;28046352;IES;CAÑADA REAL;Calle Carmen Martín Gaite, S/n ;Galapagar;-;28260;918583336;918585657;Público;
-Madrid-Este;28039670;IES;CARDENAL CISNEROS;Calle Cardenal Sandoval Y Rojas, 1 ;Alcalá de Henares;-;28802;918817263;918817347;Público;
 Madrid-Capital;28020934;IES;CARDENAL CISNEROS;Calle De Los Reyes, 4 ;Madrid;Centro;28015;915224869;915216372;Público;
+Madrid-Este;28039670;IES;CARDENAL CISNEROS;Calle Cardenal Sandoval Y Rojas, 1 ;Alcalá de Henares;-;28802;918817263;918817347;Público;
 Madrid-Capital;28020855;IES;CARDENAL HERRERA ORIA;Calle De Fermín Caballero, 68 ;Madrid;Fuencarral-El Pardo;28034;913781940;917385794;Público;
 Madrid-Oeste;28039943;IES;CARLOS BOUSOÑO;Calle Pinos, 10 ;Majadahonda;-;28221;916347660;916342046;Público;
 Madrid-Capital;28020557;IES;CARLOS III;Calle De Arcos De Jalón, 116 ;Madrid;San Blas-Canillejas;28037;913064069;913135164;Público;
@@ -61,8 +60,8 @@ Madrid-Capital;28018484;IES;CARLOS MARIA RODRIGUEZ DE VALCARCEL;Plaza Del Encuen
 Madrid-Oeste;28044306;IES;CARMEN CONDE;Avenida De Atenas, 45bis ;Rozas de Madrid, Las;-;28232;916319487;916317252;Público;
 Madrid-Sur;28023327;IES;CARMEN MARTIN GAITE;Carretera De Cadalso De Los Vidrios, S/n ;Navalcarnero;-;28600;918110565;918113761;Público;
 Madrid-Oeste;28022207;IES;CARMEN MARTÍN GAITE;Avenida Del Marqués De Santillana, 14 ;Moralzarzal;-;28411;918578517;918578929;Público;
-Madrid-Este;28040684;IES;CARPE DIEM;Calle Álvarez Laviada, 3 ;Chinchón;-;28370;918940214;918935138;Público;
 Madrid-Sur;28070962;IES;CARPE DIEM;Avenida De Nuevo Versalles, 6 Bis ;Fuenlabrada;-;28942;916045283;914869609;Público;
+Madrid-Este;28040684;IES;CARPE DIEM;Calle Álvarez Laviada, 3 ;Chinchón;-;28370;918940214;918935138;Público;
 Madrid-Capital;28030174;IES;CELESTINO MUTIS;Calle De Huerta De Villaverde, 15 ;Madrid;Villaverde;28021;917954006;915053829;Público;
 Madrid-Sur;28049341;IES;CENTRO DE CAPACITACION AGRARIA;Avenida Viveros, 1 ;Villaviciosa de Odón;-;28670;916160860;916160168;Público;
 Madrid-Capital;28004059;IES;CERVANTES;Calle De Embajadores, 70 ;Madrid;Centro;28012;915285061;915276281;Público;
@@ -104,8 +103,8 @@ Madrid-Sur;28037004;IES;ENRIQUE TIERNO GALVAN;Calle Agustinos, S/n ;Leganés;-;2
 Madrid-Este;28058615;IES;ESCUELA DE HOSTELERIA Y TURISMO;Calle Camino De La Esgaravita, S/n ;Alcalá de Henares;-;28805;918802313;918802972;Público;
 Madrid-Capital;28046376;IES;ESCUELA DE LA VID;Ronda De Las Provincias, 5 ;Madrid;Moncloa-Aravaca;28011;914633100;915264642;Público;
 Madrid-Capital;28031555;IES;ESCUELA SUPERIOR DE HOSTELERIA Y TURISMO;Paseo De La Puerta Del Ángel (ferial Casa De Campo), 5 ;Madrid;Moncloa-Aravaca;28011;914631100;914631251;Público;
-Madrid-Este;28046522;IES;EUROPA;Avenida Cerro Del Telégrafo, 2 ;Rivas-Vaciamadrid;-;28522;916702756;913011087;Público;
 Madrid-Sur;28042668;IES;EUROPA;Avenida De Alcorcón, 9 ;Móstoles;-;28936;916468267;916467283;Público;
+Madrid-Este;28046522;IES;EUROPA;Avenida Cerro Del Telégrafo, 2 ;Rivas-Vaciamadrid;-;28522;916702756;913011087;Público;
 Madrid-Sur;28077971;IES;FEDERICA MONTSENY;Calle Torrente, 52 ;Fuenlabrada;-;28942;916085302;916085683;Público;
 Madrid-Oeste;28048476;IES;FEDERICO GARCIA LORCA;Calle Gimnasio, 1 ;Rozas de Madrid, Las;-;28290;916304199;916302479;Público;
 Madrid-Capital;28025828;IES;FELIPE II;Calle De Valdebernardo, 1 ;Madrid;Moratalaz;28030;917731854;913713016;Público;
@@ -121,8 +120,8 @@ Madrid-Norte;28000753;IES;FRANCISCO GINER DE LOS RIOS;Avenida De La Transición 
 Madrid-Capital;28038367;IES;FRANCISCO TOMAS Y VALIENTE;Calle De Benita Ávila, 3 ;Madrid;Hortaleza;28043;917591114;917594077;Público;
 Madrid-Sur;28062035;IES;FRANCISCO UMBRAL;Avenida De La Hispanidad, S/n ;Ciempozuelos;-;28350;918092810;918092927;Público;
 Madrid-Sur;28050549;IES;GABRIEL CISNEROS;Calle De Las Arizónicas, 20 ;Móstoles;-;28935;916478849;916478110;Público;
-Madrid-Capital;28039888;IES;GABRIEL GARCIA MARQUEZ;Calle Del Nevado Del Ruiz, 1 ;Madrid;Hortaleza;28033;913812820;913816423;Público;
 Madrid-Sur;28042036;IES;GABRIEL GARCIA MARQUEZ;Calle Beatriz Galindo, 6 ;Leganés;-;28914;914811290;916800590;Público;
+Madrid-Capital;28039888;IES;GABRIEL GARCIA MARQUEZ;Calle Del Nevado Del Ruiz, 1 ;Madrid;Hortaleza;28033;913812820;913816423;Público;
 Madrid-Sur;28050525;IES;GABRIELA MISTRAL;Calle Miguel De Cervantes, 104 ;Arroyomolinos;-;28939;916899054;916897713;Público;
 Madrid-Sur;28030915;IES;GALILEO GALILEI;Avenida De Retamas, 2 ;Alcorcón;-;28922;916440235;916438290;Público;
 Madrid-Capital;28021550;IES;GARCIA MORATO;Calle Del General Saliquet, 34 ;Madrid;Latina;28044;917050818;917066145;Público;
@@ -151,8 +150,8 @@ Madrid-Capital;28018423;IES;INSTITUTO POLITECNICO N.1 DEL EJERCITO;Avenida De Ca
 Madrid-Sur;28039839;IES;ISAAC ALBENIZ;Avenida Gran Bretaña, 18 ;Leganés;-;28916;916800443;916807914;Público;
 Madrid-Capital;28038823;IES;ISAAC NEWTON;Calle De Joaquín Lorenzo, 2 ;Madrid;Fuencarral-El Pardo;28035;913732052;913732177;Público;
 Madrid-Este;28025014;IES;ISAAC PERAL;Calle Plata, 78 ;Torrejón de Ardoz;-;28850;916756936;916563524;Público;
+Madrid-Oeste;28078031;IES;ISABEL LA CATOLICA;Calle De Cristóbal Colón, 12 ;Boadilla del Monte;-;28660;912760318;-;Público;
 Madrid-Capital;28020909;IES;ISABEL LA CATOLICA;Calle De Alfonso Xii, 3 ;Madrid;Retiro;28014;915277878;915302294;Público;
-Madrid-Oeste;28078031;IES;ISABEL LA CATOLICA;Calle De Cristóbal Colón, 12 ;Boadilla del Monte;-;28660;-;-;Público;
 Madrid-Este;28038835;IES;ISIDRA DE GUZMÁN;Calle Gardenia, 29 ;Alcalá de Henares;-;28803;918808462;918887926;Público;
 Madrid-Capital;28038379;IES;ISLAS FILIPINAS;Calle De Jesús Maestro, 3 ;Madrid;Chamberí;28003;915544349;915537592;Público;
 Madrid-Sur;28042115;IES;ITACA;Avenida De Los Castillos, S/n ;Alcorcón;-;28925;916101411;916116403;Público;
@@ -173,8 +172,8 @@ Madrid-Oeste;28075510;IES;JOSE GARCIA NIETO;Calle Camilo José Cela, 24 ;Rozas d
 Madrid-Sur;28040696;IES;JOSÉ HIERRO;Avenida De Juan Carlos I, 9 ;Getafe;-;28905;916821213;916810373;Público;
 Madrid-Sur;28074050;IES;JOSE LUIS LOPEZ ARANGUREN;Calle De Colombia, 28-30 ;Fuenlabrada;-;28945;916976614;911911223;Público;
 Madrid-Norte;28035317;IES;JOSE LUIS SAMPEDRO;Avenida De La Vega, S/n ;Tres Cantos;-;28760;918031142;918034126;Público;
-Madrid-Este;28058627;IES;JOSE SARAMAGO;Camino De Valdearganda, 8 ;Arganda del Rey;-;28500;918757890;918712127;Público;
 Madrid-Oeste;28058652;IES;JOSE SARAMAGO;Calle Del Maestro, 1 ;Majadahonda;-;28220;916398411;916347902;Público;
+Madrid-Este;28058627;IES;JOSE SARAMAGO;Camino De Valdearganda, 8 ;Arganda del Rey;-;28500;918757890;918712127;Público;
 Madrid-Sur;28039700;IES;JOSEFINA ALDECOA;Calle De Sahagún, S/n ;Alcorcón;-;28925;916125261;916125361;Público;
 Madrid-Este;28079400;IES;JUAN BAUTISTA MONEGRO;Avenida Salvador Dalí, 7 ;Torrejón de Ardoz;-;28850;-;-;Público;
 Madrid-Sur;28002181;IES;JUAN CARLOS I;Calle De San Francisco, S/n ;Ciempozuelos;-;28350;918930158;918933080;Público;
@@ -245,11 +244,11 @@ Madrid-Sur;28003201;IES;MATEMATICO PUIG ADAM;Calle Toledo, 45 ;Getafe;-;28901;91
 Madrid-Este;28030903;IES;MATEO ALEMAN;Avenida Del Ejército, 89 ;Alcalá de Henares;-;28802;918882431;918889710;Público;
 Madrid-Sur;28074669;IES;MENENDEZ PELAYO;Avenida De Las Ciudades, S/n ;Getafe;-;28903;916821511;916817291;Público;
 Madrid-Este;28002580;IES;MIGUEL CATALAN;Avenida De José Gárate, S/n ;Coslada;-;28823;916727142;916727111;Público;
-Madrid-Este;28060385;IES;MIGUEL DE CERVANTES;Avenida Del Conde De Coruña, 31 ;Daganzo de Arriba;-;28814;918841825;918841830;Público;
 Madrid-Sur;28050720;IES;MIGUEL DE CERVANTES;Paseo De Arroyomolinos, 58 ;Móstoles;-;28938;916452469;916466098;Público;
+Madrid-Este;28060385;IES;MIGUEL DE CERVANTES;Avenida Del Conde De Coruña, 31 ;Daganzo de Arriba;-;28814;918841825;918841830;Público;
 Madrid-Este;28041445;IES;MIGUEL DELIBES;Avenida De Juan Gris, 44 ;Mejorada del Campo;-;28840;916680143;916681443;Público;
-Madrid-Capital;28030162;IES;MIGUEL DELIBES;Calle De Villaescusa, 17 ;Madrid;Ciudad Lineal;28017;917541070;913270979;Público;
 Madrid-Sur;28058688;IES;MIGUEL DELIBES;Calle Miguel Hernández, 2a ;Torrejón de la Calzada;-;28991;918106097;918160211;Público;
+Madrid-Capital;28030162;IES;MIGUEL DELIBES;Calle De Villaescusa, 17 ;Madrid;Ciudad Lineal;28017;917541070;913270979;Público;
 Madrid-Sur;28042097;IES;MIGUEL HERNÁNDEZ;Avenida De Carlos V, 1 ;Móstoles;-;28936;916468193;916466051;Público;
 Madrid-Capital;28038355;IES;MIRASIERRA;Calle De La Portera Del Cura, 4 ;Madrid;Fuencarral-El Pardo;28034;917346532;913720171;Público;
 Madrid-Norte;28077491;IES;MONTSERRAT CABALLE;Calle De Eslovaquia, 2 ;Tres Cantos;-;28760;918572564;917031644;Público;
@@ -259,7 +258,9 @@ Madrid-Sur;28074062;IES;NEIL ARMSTRONG;Ronda San Sebastian, 10 ;Valdemoro;-;2834
 Madrid-Sur;28070974;IES;NICOLAS COPERNICO;Avenida Del Sistema Solar, 8 ;Parla;-;28983;918295357;918295364;Público;
 Madrid-Capital;28020806;IES;NTRA. SRA. DE LA ALMUDENA;Plaza De La Remonta, 17 ;Madrid;Tetuán;28039;915712857;915711386;Público;
 Madrid-Este;28025658;IES;NTRA. SRA. DE LA VICTORIA DE LEPANTO;Calle De Luis De Requesens, 1 ;Villarejo de Salvanés;-;28590;918744170;918742096;Público;
+Madrid-Sur;28080050;IES;NUEVO EN ARROYOMOLINOS 3;Avenida Francia Esquina Calle Suiza, 1 ;Arroyomolinos;-;28939;-;-;Público;
 Madrid-Sur;28080025;IES;NUEVO EN PARLA;Calle Planeta Mercurio, 2 ;Parla;-;28983;-;-;Público;
+Madrid-Sur;28080141;IES;NUEVO INSTITUTO DE EDUCACIÓN SECUNDARIA EN ALCORCON;Calle Institutos, S/n ;Alcorcón;-;28923;-;-;Público;
 Madrid-Capital;28058603;IES;NUMANCIA;Calle De Las Marismas, 14 ;Madrid;Puente de Vallecas;28038;915015001;915014989;Público;
 Madrid-Capital;28018381;IES;ORTEGA Y GASSET;Calle Santa Fe, 4 ;Madrid;Moncloa-Aravaca;28008;915476635;915413941;Público;
 Madrid-Sur;28042024;IES;PABLO NERUDA;Calle Maestro, 31 ;Leganés;-;28914;916801909;916864889;Público;
@@ -329,8 +330,8 @@ Madrid-Oeste;28045839;IES;VALMAYOR;Calle Paz, 99 ;Valdemorillo;-;28210;918977462
 Madrid-Este;28024290;IES;VEGA DEL JARAMA;Avenida De Irún, 18 ;San Fernando de Henares;-;28830;916711104;916693092;Público;
 Madrid-Sur;28038896;IES;VELAZQUEZ;Calle Del Pintor Velázquez, 25 ;Móstoles;-;28935;916170563;916175923;Público;
 Madrid-Sur;28026031;IES;VICENTE ALEIXANDRE;Calle Asturias, 20 ;Pinto;-;28320;916910012;916922864;Público;
-Madrid-Este;28037077;IES;VICTORIA KENT;Calle Plata, 85 ;Torrejón de Ardoz;-;28850;916560079;916773835;Público;
 Madrid-Sur;28042991;IES;VICTORIA KENT;Camino Polvoranca, S/n ;Fuenlabrada;-;28942;916084625;916490013;Público;
+Madrid-Este;28037077;IES;VICTORIA KENT;Calle Plata, 85 ;Torrejón de Ardoz;-;28850;916560079;916773835;Público;
 Madrid-Sur;28038926;IES;VILLA DE VALDEMORO;Calle Herencia, S/n ;Valdemoro;-;28341;918018490;918953396;Público;
 Madrid-Capital;28040751;IES;VILLA DE VALLECAS;Calle De Villarino De Los Aires, 14 ;Madrid;Villa de Vallecas;28031;917774715;913802465;Público;
 Madrid-Capital;28039891;IES;VILLABLANCA;Calle De Villablanca, 79 ;Madrid;Vicálvaro;28032;917752214;917766577;Público;

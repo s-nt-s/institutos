@@ -240,6 +240,7 @@ function get_centros_layer() {
     },
     onEachFeature: function(f, l) {
       l.bindPopup(getPopUp(f.properties));
+      l.bindTooltip(f.properties.nombre);
     },
     filter: make_filter
   })

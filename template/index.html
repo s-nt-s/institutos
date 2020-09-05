@@ -6,7 +6,8 @@
     <title>Centros educativos en Madrid</title>
 		<script type="text/javascript">
 			if (document.location.protocol && document.location.hostname && document.location.protocol.startsWith("http")) {
-				if (document.location.hostname!="institutos.ml") {
+				var host = document.location.hostname;
+				if (host!="institutos.ml" && host!="localhost") {
 					window.location.replace("https://institutos.ml");
 				}
 			}

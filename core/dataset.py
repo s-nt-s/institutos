@@ -75,18 +75,36 @@ class Dataset():
             self.reload=["data/status_web.json"]
             self.status_web
 
-    def dwn_centros(self, file, data=None):
+    def dwn_centros(self, file, data=None, intentos=3):
         if data is None:
             data = {}
         data["titularidadPublica"] = "S"
+        tipo_centro = data.get("cdGenerico")
         soup = get_soup(self.indice.centros, data=data)
+        if tipo_centro is not None:
+            tp = soup.select("#comboGenericos option[selected]")
+            if tp:
+                tp = tp[-1].attrs["value"]
+            if tp!=tipo_centro:
+                if intentos:
+                    raise Exception("Se pidio cdGenerico=%s pero se obtuvo %s" % (tipo_centro, tp))
+                time.sleep(30)
+                return self.dwn_centros(file, data=data, intentos=intentos-1)
         codCentrosExp = soup.find(
-            "input", attrs={"name": "codCentrosExp"}).attrs["value"].strip()
+            "input", attrs={"name": "codCentrosExp"})
+        if codCentrosExp is None and intentos:
+            time.sleep(30)
+            return self.dwn_centros(file, data=data, intentos=intentos-1)
+        codCentrosExp = codCentrosExp.attrs["value"].strip()
         if not codCentrosExp:
+            if intentos and not("CENTRO PRIVADO " in self.tipos.get(tipo_centro, "")):
+                time.sleep(15)
+                return self.dwn_centros(file, data=data, intentos=intentos-1)
             open(file, 'w').close()
             return False
         url = soup.find(
-            "form", attrs={"id": "frmExportarResultado"}).attrs["action"]
+            "form", attrs={"id": "frmExportarResultado"})
+        url = url.attrs["action"]
         soup = get_soup(url, data={"codCentrosExp": codCentrosExp})
         script = soup.find("script")
         error = soup.select_one("#detalle_error")
@@ -116,14 +134,15 @@ class Dataset():
     def centros(self):
         centros = []
         col_centros = self.dwn_and_read("fuentes/csv/centros.csv")
+        total_antes = len(col_centros)
+        col_centros = [c for c in col_centros if c["CODIGO CENTRO"] in self.centro_ok]
         total = len(col_centros)
+        print(total_antes-total, "centros descartados por tipo")
         excluidos = {}
         for count, i in enumerate(col_centros):
             print("Cargando centros %s%% [%s]      " % (
                 int(count*100/total), total-count), end="\r")
             id = i["CODIGO CENTRO"]
-            if id not in self.centro_ok:
-                continue
             dir = " ".join(
                 [str(s) for s in (i["DOMICILIO"], i["COD. POSTAL"], i["MUNICIPIO"]) if s])
             dat = i["AREA TERRITORIAL"]
@@ -142,7 +161,6 @@ class Dataset():
                         etapas.remove(e)
             tipo = self.centro_tipo.get(id) or i["TIPO DE CENTRO"]
             if exist_etapas and not etapas:
-                excluidos[(tipo, extra.get("info"))] = excluir
                 continue
             if extra.get("latlon"):
                 lat, lon = extra["latlon"].split(",")
@@ -438,6 +456,8 @@ class Dataset():
                 tipos[kc] = None
             elif l == 1:
                 tipos[kc] = c.pop()
+            else:
+                tipos[kc] = tuple(c)
         return tipos
 
     @property

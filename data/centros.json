@@ -992,10 +992,10 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
-  "url": "http://www.educa.madrid.org/ies.joaquinturina.madrid",
+  "url": "http://www.iesturina.es",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018903",
   "tipo": "042",
-  "status_web": 999,
+  "status_web": 200,
   "min_distance": 155,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -3692,7 +3692,7 @@
   "url": "http://www.educa.madrid.org/ies.sanisidoro.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28034441",
   "tipo": "042",
-  "status_web": 991,
+  "status_web": 200,
   "min_distance": 133,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -4940,7 +4940,7 @@
   "url": "http://www.educa.madrid.org/ies.camilojosecela.pozuelodealarcon",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28038914",
   "tipo": "042",
-  "status_web": 991,
+  "status_web": 200,
   "min_distance": 1396,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -5665,7 +5665,7 @@
   "url": "http://www.educa.madrid.org/ies.leonfelipe.getafe",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040702",
   "tipo": "042",
-  "status_web": 200,
+  "status_web": 404,
   "min_distance": 338,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -6146,10 +6146,10 @@
   "excelencia": true,
   "tecnico": false,
   "bilingue": false,
-  "url": "http://www.institutopalasatenea.org",
+  "url": "http://www.educa.madrid.org/ies.palasatenea.torrejondeardoz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28041500",
   "tipo": "042",
-  "status_web": 200,
+  "status_web": 999,
   "min_distance": 1385,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -6247,7 +6247,7 @@
   "url": "http://www.educa.madrid.org/ies.ignacioellacuria.alcala",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042000",
   "tipo": "042",
-  "status_web": 991,
+  "status_web": 200,
   "min_distance": 1159,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -6682,7 +6682,7 @@
   "url": "http://www.educa.madrid.org/ies.europa.mostoles",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042668",
   "tipo": "042",
-  "status_web": 991,
+  "status_web": 200,
   "min_distance": 1119,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -6727,7 +6727,7 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
-  "url": "http://www.educa.madrid.org/ies.valleinclan.torrejondeardoz",
+  "url": "http://ies.valleinclan.torrejondeardoz.educa.madrid.org",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042681",
   "tipo": "042",
   "status_web": 200,
@@ -7256,8 +7256,8 @@
   "status_web": 200,
   "min_distance": 21662,
   "etapas": [
-    "Desarrollo Personal",
-    "ESO para personas adultas (LOE-LOMCE)"
+    "ESO para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para Extranjeros"
   ],
   "idiomas": []
 },{
@@ -7963,10 +7963,10 @@
   "id": 28045621,
   "dat": "Oeste",
   "nombre": "LAS ROZAS",
-  "direccion": "Avenida Camino Del Ca\u00f1o, 2 28231 Rozas de Madrid, Las",
+  "direccion": "Avenida Doctor Toledo, 44 28231 Rozas de Madrid, Las",
   "telefono": 916377064,
   "mail": "cepa.lasrozas@educa.madrid.org",
-  "latlon": "40.4955297590,-3.8776438058",
+  "latlon": "40.4954379042,-3.8695356596",
   "nocturno": null,
   "dificultad": false,
   "adaptado": false,
@@ -7977,7 +7977,7 @@
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045621",
   "tipo": "031",
   "status_web": 200,
-  "min_distance": 808,
+  "min_distance": 167,
   "etapas": [
     "Desarrollo Personal",
     "ESO para personas adultas (LOE-LOMCE)",
@@ -8172,7 +8172,7 @@
   "url": "http://www.educa.madrid.org/ies.valmayor.valdemorillo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28045839",
   "tipo": "042",
-  "status_web": 991,
+  "status_web": 200,
   "min_distance": 8849,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -8382,10 +8382,10 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
-  "url": "http://www.educa.madrid.org/ies.lasencinas.villanuevadelacanada",
+  "url": "https://www.ieslasencinas.es",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046303",
   "tipo": "042",
-  "status_web": 999,
+  "status_web": 200,
   "min_distance": 9303,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -8583,7 +8583,7 @@
   "url": "http://www.educa.madrid.org/ies.colmenarejo",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046558",
   "tipo": "042",
-  "status_web": 200,
+  "status_web": 404,
   "min_distance": 5134,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -8656,7 +8656,7 @@
   "url": "http://www.educa.madrid.org/ies.gabrielamistral.arroyomolinos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28050525",
   "tipo": "042",
-  "status_web": 999,
+  "status_web": 200,
   "min_distance": 6628,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -10058,7 +10058,7 @@
   "url": "http://www.educa.madrid.org/ies.villaverde.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28062126",
   "tipo": "042",
-  "status_web": 999,
+  "status_web": 200,
   "min_distance": 331,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
@@ -10665,10 +10665,10 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
-  "url": "http://www.educa.madrid.org/ies.jorgeguillen.alcorcon",
+  "url": "http://iesjorgeguillen.net",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28074037",
   "tipo": "042",
-  "status_web": 999,
+  "status_web": 200,
   "min_distance": 789,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -11457,10 +11457,10 @@
 },{
   "id": 28080025,
   "dat": "Sur",
-  "nombre": "NUEVO EN PARLA",
+  "nombre": "JOSE PEDRO PEREZ LLORCA",
   "direccion": "Calle Planeta Mercurio, 2 28983 Parla",
   "telefono": null,
-  "mail": null,
+  "mail": "ies.josepedroperezllorca.parla@educa.madrid.org",
   "latlon": "40.217921,-3.757421",
   "nocturno": null,
   "dificultad": false,
@@ -11468,10 +11468,10 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
-  "url": null,
+  "url": "http://www.educa.madrid.org/ies.josepedroperezllorca.parla",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080025",
   "tipo": "042",
-  "status_web": null,
+  "status_web": 403,
   "min_distance": 517,
   "etapas": [
     "ESO (LOE-LOMCE)",
@@ -11481,9 +11481,9 @@
 },{
   "id": 28080037,
   "dat": "Capital",
-  "nombre": "IES NUEVO EN MONTECARMELO",
+  "nombre": "BLANCA FERNANDEZ OCHOA",
   "direccion": "Calle De Monasterio De El Paular, 3 28049 Madrid",
-  "telefono": null,
+  "telefono": 680715136,
   "mail": "ies.blancafdezochoa.madrid@educa.madrid.org",
   "latlon": "40.5002829406,-3.7117781484",
   "nocturno": null,
@@ -11505,10 +11505,10 @@
 },{
   "id": 28080050,
   "dat": "Sur",
-  "nombre": "NUEVO EN ARROYOMOLINOS 3",
+  "nombre": "TORCUATO FERNANDEZ MIRANDA",
   "direccion": "Avenida Francia Esquina Calle Suiza, 1 28939 Arroyomolinos",
   "telefono": null,
-  "mail": null,
+  "mail": "ies.torcuatofdezmiranda.arroyomolinos@educa.madrid.org",
   "latlon": "40.281293,-3.920963",
   "nocturno": null,
   "dificultad": false,
@@ -11516,16 +11516,39 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
-  "url": null,
+  "url": "http://www.educa.madrid.org/ies.torcuatofdezmiranda.arroyomolinos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080050",
   "tipo": "042",
-  "status_web": null,
+  "status_web": 404,
   "min_distance": 5538,
   "etapas": [
     "ESO (LOE-LOMCE)",
     "Bachillerato"
   ],
   "idiomas": ["EN"]
+},{
+  "id": 28080232,
+  "dat": "Este",
+  "nombre": "MADRID VII ESTREMERA",
+  "direccion": "Carretera M-241, Km5,7 28595 Estremera",
+  "telefono": null,
+  "mail": null,
+  "latlon": "40.1139275055,-3.0758563809",
+  "nocturno": null,
+  "dificultad": false,
+  "adaptado": false,
+  "excelencia": false,
+  "tecnico": false,
+  "bilingue": false,
+  "url": null,
+  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080232",
+  "tipo": "035",
+  "status_web": null,
+  "min_distance": 38003,
+  "etapas": [
+    "ESO para personas adultas (LOE-LOMCE)"
+  ],
+  "idiomas": []
 },{
   "id": 28700180,
   "dat": "Capital",

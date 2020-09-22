@@ -63,6 +63,10 @@ def get_num_linea(tipo, codigolinea, numerolinea):
         cod = int(cod)
     return cod
 
+class MyException(Exception):
+    def __init__(self, code, *args, **kargs):
+        super().__init__(*args, **kargs)
+        self.code = code
 
 class Dataset():
     TIPOS_OK = "016 017 020 031 035 036 039 042 047 068 070 204 205 206".split()
@@ -71,11 +75,12 @@ class Dataset():
         self.indice = mkBunch("fuentes/indice.yml")
         self.fuentes = mkBunch("fuentes/fuentes.yml") or Bunch()
         self.arreglos = read_yml("fuentes/arreglos.yml")
+        self.tipo_abr = {v:k for k,v in read_yml("fuentes/tipo_abr.yml").items()}
         if os.path.isfile("data/centros.json"):
             self.reload=["data/status_web.json"]
             self.status_web
 
-    def dwn_centros(self, file, data=None, intentos=3):
+    def _dwn_centros(self, file, data=None, _intentos=2):
         if data is None:
             data = {}
         data["titularidadPublica"] = "S"
@@ -83,23 +88,18 @@ class Dataset():
         soup = get_soup(self.indice.centros, data=data)
         if tipo_centro is not None:
             tp = soup.select("#comboGenericos option[selected]")
-            if tp:
+            if tp and tp[-1].attrs["value"]!=tipo_centro:
                 tp = tp[-1].attrs["value"]
-            if tp!=tipo_centro:
-                if intentos:
-                    raise Exception("Se pidio cdGenerico=%s pero se obtuvo %s" % (tipo_centro, tp))
-                time.sleep(30)
-                return self.dwn_centros(file, data=data, intentos=intentos-1)
+                raise MyException(1, "Se pidio cdGenerico=%s pero se obtuvo %s" % (tipo_centro, tp))
         codCentrosExp = soup.find(
             "input", attrs={"name": "codCentrosExp"})
-        if codCentrosExp is None and intentos:
-            time.sleep(30)
-            return self.dwn_centros(file, data=data, intentos=intentos-1)
+        if codCentrosExp is None:
+            raise MyException(2, "Falta codCentrosExp")
         codCentrosExp = codCentrosExp.attrs["value"].strip()
         if not codCentrosExp:
-            if intentos and not("CENTRO PRIVADO " in self.tipos.get(tipo_centro, "")):
+            if _intentos and not("CENTRO PRIVADO " in self.tipos.get(tipo_centro, "")):
                 time.sleep(15)
-                return self.dwn_centros(file, data=data, intentos=intentos-1)
+                return self._dwn_centros(file, data=data, _intentos=_intentos-1)
             open(file, 'w').close()
             return False
         url = soup.find(
@@ -114,10 +114,43 @@ class Dataset():
         url = urljoin(url, script)
         r = requests.get(url)
         content = r.content.decode('iso-8859-1')
+        rows = content.strip()
+        rows = rows.split("\n")
+        rows = rows[2:]
+        rows = [r.split(";") for r in rows]
+        if tipo_centro:
+            tipo = set(r[2] for r in rows)
+            if len(tipo)==0:
+                raise Exception("csv sin tipo")
+            elif len(tipo) == 1:
+                tipo = tipo.pop()
+                tp = self.tipo_abr.get(tipo)
+                if tp != tipo_centro:
+                    raise MyException(1, "Se pidio cdGenerico=%s pero se obtuvo %s" % (tipo_centro, (tp, tipo)))
+            else:
+                tipo = tuple(sorted(tipo))
+                raise MyException(1, "Se pidio cdGenerico=%s pero se obtuvo %s" % (tipo_centro, tipo))
+        ids = tuple(sorted(set(r[1] for r in rows)))
+        if ids != tuple(sorted(set(codCentrosExp.split(";")))):
+            raise MyException(1, "No se han devuelto los mismos centros que se solicitaron")
         content = str.encode(content)
         with open(file, "wb") as f:
             f.write(content)
         return True
+
+    def dwn_centros(self, *args, intentos=3, **kargv):
+        try:
+            return self._dwn_centros(*args, **kargv)
+        except MyException as e:
+            if intentos>0:
+                print(str(e))
+                if e.code==2:
+                    time.sleep(30)
+                else:
+                    time.sleep(30)
+                return self.dwn_centros(*args, **kargv, intentos=intentos-1)
+            raise e from None
+
 
     def dwn_and_read(self, file, data=None, maxOld=1, **kargv):
         if maxOld is not None:

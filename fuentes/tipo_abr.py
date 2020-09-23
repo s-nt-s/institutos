@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 from glob import glob
 import os
+import re
+
+re_br = re.compile(r"\s*\n\s*")
+re_fl = re.compile(r"\s*;\s*")
 
 abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
@@ -14,8 +18,8 @@ for fl in sorted(glob("csv/t*.csv")):
     with open(fl, "r") as f:
         rows = f.read()
         rows = rows.strip()
-        rows = rows.split("\n")[2:]
-        tipo = set(r.split(";")[2] for r in rows[2:])
+        rows = re_br.split(rows)[2:]
+        tipo = set(re_fl.split(r)[2] for r in rows)
         if len(tipo)==0:
             continue
         elif len(tipo)==1:

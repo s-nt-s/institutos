@@ -22,6 +22,8 @@ re_sp = re.compile(r"\s+", re.MULTILINE | re.UNICODE)
 re_centro = re.compile(r"\b(28\d\d\d\d\d\d)\b")
 re_pdfs = re.compile(r".*\bapplication%2Fpdf\b.*")
 
+re_csv_br = re.compile(r"\s*\n\s*")
+re_csv_fl = re.compile(r"\s*;\s*")
 
 def add_point(points, lat, lon):
     if len(points) > 5:
@@ -115,9 +117,12 @@ class Dataset():
         r = requests.get(url)
         content = r.content.decode('iso-8859-1')
         rows = content.strip()
-        rows = rows.split("\n")
+        rows = re_csv_br.split(rows)
         rows = rows[2:]
-        rows = [r.split(";") for r in rows]
+        rows = [re_csv_fl.split(r) for r in rows]
+        ids = tuple(sorted(set(r[1] for r in rows)))
+        if ids != tuple(sorted(set(codCentrosExp.split(";")))):
+            raise MyException(1, "No se han devuelto los mismos centros que se solicitaron")
         if tipo_centro:
             tipo = set(r[2] for r in rows)
             if len(tipo)==0:
@@ -130,9 +135,6 @@ class Dataset():
             else:
                 tipo = tuple(sorted(tipo))
                 raise MyException(1, "Se pidio cdGenerico=%s pero se obtuvo %s" % (tipo_centro, tipo))
-        ids = tuple(sorted(set(r[1] for r in rows)))
-        if ids != tuple(sorted(set(codCentrosExp.split(";")))):
-            raise MyException(1, "No se han devuelto los mismos centros que se solicitaron")
         content = str.encode(content)
         with open(file, "wb") as f:
             f.write(content)
@@ -145,7 +147,7 @@ class Dataset():
             if intentos>0:
                 print(str(e))
                 if e.code==2:
-                    time.sleep(30)
+                    time.sleep(15)
                 else:
                     time.sleep(30)
                 return self.dwn_centros(*args, **kargv, intentos=intentos-1)

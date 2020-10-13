@@ -330,11 +330,23 @@ $(".sidebar-pane").each(function(){
   observer.observe(this, {attributes: true});
 });
 mymap = L.map("map");
+/*
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
     maxZoom: 18,
     id: 'mapbox.streets',
     accessToken: 'pk.eyJ1Ijoia2lkdHVuZXJvIiwiYSI6ImNqeTBjeG8zaTAwcWYzZG9oY2N1Z3VnazgifQ.HKixpk5HNX-svbNYxYSpsw'
+}).addTo(mymap);
+*/
+/* https://www.ign.es/wmts/ign-base?request=GetCapabilities&service=WMTS */
+var ign = new L.TileLayer.WMTS("https://www.ign.es/wmts/ign-base", {
+  id: 'capa.base',
+	layer: "IGNBaseTodo",
+	tilematrixSet: "GoogleMapsCompatible",
+	format: "image/png",
+	attribution: "CC BY 4.0 <a href='http://www.scne.es/'>SCNE</a>, <a href='http://www.ign.es'>IGN</a>",
+	maxZoom: 20,
+	crossOrigin: true
 }).addTo(mymap);
 mymap.on('click', function(e){
   if (!e || !e.originalEvent || !e.originalEvent.ctrlKey) return;

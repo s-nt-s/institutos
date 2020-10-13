@@ -9,13 +9,21 @@ from core.confmap import (color_to_url, colors, etapas_ban, parse_nombre,
 from core.dataset import Dataset
 from core.j2 import Jnj2, toTag
 
+import argparse
+
+parser = argparse.ArgumentParser(description='Crea un mapa con los institutos de Madrid')
+parser.add_argument('--reload', action='store_true',
+                    help='Fuerza volver a buscar los centros')
+
+args = parser.parse_args()
+
 idiomas={k:v for k, v in (
     ("EN", "inglés"),
     ("DE", "alemán"),
     ("FR", "francés")
 )}
 
-d = Dataset()
+d = Dataset(reload_centros=args.reload)
 d.unzip()
 
 latlon = {}

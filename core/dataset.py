@@ -73,13 +73,16 @@ class MyException(Exception):
 class Dataset():
     TIPOS_OK = "016 017 020 031 035 036 039 042 047 068 070 204 205 206".split()
 
-    def __init__(self, *args, **kargs):
+    def __init__(self, reload_centros=False, *args, **kargs):
         self.indice = mkBunch("fuentes/indice.yml")
         self.fuentes = mkBunch("fuentes/fuentes.yml") or Bunch()
         self.arreglos = read_yml("fuentes/arreglos.yml")
         self.tipo_abr = {v:k for k,v in read_yml("fuentes/tipo_abr.yml").items()}
+        self.reload = []
+        if reload_centros:
+            self.reload.append("data/centros.json")
         if os.path.isfile("data/centros.json"):
-            self.reload=["data/status_web.json"]
+            self.reload.append("data/status_web.json")
             self.status_web
 
     def _dwn_centros(self, file, data=None, _intentos=2):

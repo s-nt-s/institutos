@@ -115,6 +115,8 @@ class Dataset():
         script = re_location.search(script.string).group(1)
         url = urljoin(url, script)
         r = requests.get(url)
+        if r.status_code == 404:
+            raise Exception("{} not found ({})".format(url, r.status_code))
         content = r.content.decode('iso-8859-1')
         rows = content.strip()
         rows = re_csv_br.split(rows)

@@ -128,6 +128,7 @@ class Dataset():
         ids = tuple(sorted(set(r[1] for r in rows)))
         if ids != tuple(sorted(set(codCentrosExp.split(";")))):
             raise MyException(1, "No se han devuelto los mismos centros que se solicitaron")
+        '''
         if tipo_centro:
             tipo = set(r[2] for r in rows)
             if len(tipo)==0:
@@ -140,6 +141,7 @@ class Dataset():
             else:
                 tipo = tuple(sorted(tipo))
                 raise MyException(1, "Se pidio cdGenerico=%s pero se obtuvo %s" % (tipo_centro, tipo))
+        '''
         content = str.encode(content)
         with open(file, "wb") as f:
             f.write(content)

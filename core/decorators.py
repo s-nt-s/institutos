@@ -70,6 +70,8 @@ class TxtCache(Cache):
                 return f.read()
 
     def save(self, data, *args, **kargs):
+        outdir = os.path.dirname(self.file)
+        os.makedirs(outdir, exist_ok=True)
         with open(self.file, "w") as f:
             return f.write(data)
 
@@ -108,6 +110,8 @@ class ListCache(Cache):
     def save(self, data, *args, **kargs):
         if isinstance(data, set):
             data = sorted(data)
+        outdir = os.path.dirname(self.file)
+        os.makedirs(outdir, exist_ok=True)
         with open(self.file, "w") as f:
             for i, l in enumerate(data):
                 if i > 0:

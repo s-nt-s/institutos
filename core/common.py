@@ -36,6 +36,8 @@ def get_pdf(url, to_file=None):
         ('pdftotext', '-layout', '-nopgbrk', '-', '-'), stdin=ps.stdout)
     ps.wait()
     if to_file:
+        outdir = os.path.dirname(to_file)
+        os.makedirs(outdir, exist_ok=True)
         with open(to_file, "wb") as f:
             f.write(output)
     txt = output.decode(sys.stdout.encoding)
@@ -52,13 +54,15 @@ def get_local_soup(file, maxOld=1):
         return bs4.BeautifulSoup(f.read(), "html.parser")
 
 def get_soup(url, data=None, select=None, attr=None, to_file=None):
-    if to_file is None and data is None and url == "http://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm":
+    if to_file is None and data is None and url.endswith("/wpad_pub/run/j/BusquedaAvanzada.icm"):
         to_file = "fuentes/madrid.org/buscador.html"
     soup = get_local_soup(to_file)
     if soup is None:
         print("request_soup:", url, data)
         soup = w.get(url, **(data or {}))
         if to_file:
+            outdir = os.path.dirname(to_file)
+            os.makedirs(outdir, exist_ok=True)
             with open(to_file, "w") as f:
                 f.write(str(soup))
     if select:
@@ -147,6 +151,8 @@ def obj_to_js(data):
 
 def save_js(file, data):
     txt = obj_to_js(data)
+    outdir = os.path.dirname(file)
+    os.makedirs(outdir, exist_ok=True)
     with open(file, "w") as f:
         f.write(txt)
 
@@ -202,6 +208,8 @@ def read_csv(file, start=0, where=None, null=None, separator=";", parse=None, en
 
 def create_script(file, indent=2, **kargv):
     separators=(',', ':') if indent is None else None
+    outdir = os.path.dirname(file)
+    os.makedirs(outdir, exist_ok=True)
     with open(file, "w") as f:
         for i, (k, v) in enumerate(kargv.items()):
             if i>0:

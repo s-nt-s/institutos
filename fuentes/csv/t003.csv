@@ -56,14 +56,14 @@ Madrid-Capital;28072065;EEI;EL BARBERILLO DE LAVAPIES;Calle Del Granito, 32 C/v 
 Madrid-Capital;28071851;EEI;EL BATEO;Calle De Pinos De Osuna, 3 ;Madrid;Barajas;28042;917414436;-;Público;
 Madrid-Capital;28043466;EEI;EL BELEN;Calle De Braille, 23 ;Madrid;Fuencarral-El Pardo;28034;917341043;917341043;Público;
 Madrid-Sur;28070937;EEI;EL BONSAI;Calle De Ernest Lluch, S/n ;Fuenlabrada;-;28942;914985345;914985345;Público;
-Madrid-Sur;28064299;EEI;EL BOSQUE;Calle De La Encina, 2 ;Humanes de Madrid;-;28970;914982718;914982718;Público;
 Madrid-Capital;28063076;EEI;EL BOSQUE;Calle De Delicias, 32 ;Madrid;Arganzuela;28045;915271590;915271590;Público;
+Madrid-Sur;28064299;EEI;EL BOSQUE;Calle De La Encina, 2 ;Humanes de Madrid;-;28970;914982718;914982718;Público;
 Madrid-Capital;28043481;EEI;EL CARMEN;Calle De Vélez Rubio, 181 ;Madrid;Hortaleza;28033;913029923;913029923;Público;
 Madrid-Este;28048142;EEI;EL CASCANUECES;Calle De Paz Camacho, 72 ;Velilla de San Antonio;-;28891;916552125;916552125;Público;
 Madrid-Capital;28071887;EEI;EL CASERIO;Calle De María Teresa Robledo, 3 ;Madrid;Puente de Vallecas;28018;913808654;91 380 86 54;Público;
 Madrid-Sur;28068062;EEI;EL COCHERITO LERÉ;Calle De Fuentevaqueros, 12 ;Fuenlabrada;-;28944;916098643;916068472;Público;
-Madrid-Sur;28072387;EEI;EL COLUMPIO;Paseo De Arroyomolinos, 64 ;Móstoles;-;28938;916472056;-;Público;
 Madrid-Este;28070111;EEI;EL COLUMPIO;Calle Molino, 5 ;Loeches;-;28890;671095785;-;Público;
+Madrid-Sur;28072387;EEI;EL COLUMPIO;Paseo De Arroyomolinos, 64 ;Móstoles;-;28938;916472056;-;Público;
 Madrid-Sur;28067872;EEI;EL CORRO DE LA PATATA;Calle Del Cabo San Vicente, S/n ;Alcorcón;-;28924;916199643;916199643;Público;
 Madrid-Sur;28047538;EEI;EL CUCO;Calle Maestro, 10 ;Leganés;-;28914;916801409;916801409;Público;
 Madrid-Norte;28046972;EEI;EL CUQUILLO;Paseo De La Chopera, 118 ;Alcobendas;-;28100;916624097;916622155;Público;
@@ -83,7 +83,7 @@ Madrid-Capital;28078951;EEI;EL MAMUT;Calle De Los Ganados Del Salobral, 7 ;Madri
 Madrid-Capital;28067677;EEI;EL MANANTIAL;Calle De Múñico, S/n ;Madrid;Latina;28047;914640597;914640597;Público;
 Madrid-Sur;28068347;EEI;EL MANZANO;Calle Planeta Tierra, S/n ;Parla;-;28983;914242240;914240796;Público;
 Madrid-Sur;28048580;EEI;EL MOLINO;Avenida De Europa, 25 ;Fuenlabrada;-;28943;916082112;916082112;Público;
-Madrid-Sur;28047022;EEI;EL NARANJO;Paseo Riazor, S/n ;Fuenlabrada;-;28942;916085189;916085189;Público;
+Madrid-Sur;28047022;EEI;EL NARANJO;Paseo Riazor, S/n ;Fuenlabrada;-;28942;916085189;-;Público;
 Madrid-Sur;28068323;EEI;EL NARANJO;Calle Lago Blanco, S/n ;Parla;-;28981;916989624;916999945;Público;
 Madrid-Oeste;28064275;EEI;EL NOGAL;Calle De Santiago Ramón Y Cajal, S/n ;Alpedrete;-;28430;918579057;-;Público;
 Madrid-Sur;28065334;EEI;EL OLIVAR;Calle Las Afiladeras, 18 ;San Martín de Valdeiglesias;-;28680;918612203;-;Público;
@@ -112,7 +112,6 @@ Madrid-Capital;28068271;EEI;EL TREN DE LA FRESA;Calle De Ramírez De Prado, 6 ;M
 Madrid-Capital;28043685;EEI;EL VALLE;Avenida Del Valle, 22 ;Madrid;Chamberí;28003;915530388;915530388;Público;
 Madrid-Capital;28079011;EEI;ELENA FORTUN;Avenida De Monasterio De Silos, 57 ;Madrid;Fuencarral-El Pardo;28049;-;-;Público;
 Madrid-Capital;28080116;EEI;ESCUELA INFANTIL BASE MILITAR EL GOLOSO;Carretera M-607 Colmenar Viejo, K17,5 ;Madrid;Fuencarral-El Pardo;28790;-;-;Público;
-Madrid-Capital;28080062;EEI;ESCUELA INFANTIL DELEGACION DE ECONOMIA Y HACIENDA;Calle De La Poeta Ángela Figuera, S/n ;Madrid;Chamberí;28003;-;-;Público;
 Madrid-Capital;28073379;EEI;ESCUELAS DE SAN ANTON;Calle De La Farmacia, 13 ;Madrid;Centro;28004;915325557;-;Público;
 Madrid-Capital;28046212;EEI;EXTREMADURA;Calle De La Esfinge, 90 ;Madrid;San Blas-Canillejas;28022;913201869;913201869;Público;
 Madrid-Sur;28065358;EEI;FABULAS Y LEYENDAS;Calle Nueva York, 12 ;Móstoles;-;28938;916473102;916473102;Público;
@@ -156,8 +155,8 @@ Madrid-Capital;28071841;EEI;LA CHULAPONA;Calle De Bahía De Palma, 13 ;Madrid;Ba
 Madrid-Este;28070925;EEI;LA CIGARRA Y LA HORMIGA;Calle Telémaco, S/n ;Torrejón de Ardoz;-;28850;914953153;-;Público;
 Madrid-Oeste;28046959;EEI;LA CIGÜEÑA MARIA;Avenida De España, 229 ;Rozas de Madrid, Las;-;28231;916345786;916345786;Público;
 Madrid-Capital;28047484;EEI;LA COLINA;Calle De Nuestra Señora De Araceli, 2 ;Madrid;Barajas;28042;913010167;-;Público;
-Madrid-Sur;28070241;EEI;LA COMBA;Calle Alcalde Pedro González González, 26 ;Leganés;-;28914;605162903;-;Público;
 Madrid-Norte;28044033;EEI;LA COMBA;Avenida De Aragón, 1 ;San Sebastián de los Reyes;-;28702;916586846;916547064;Público;
+Madrid-Sur;28070241;EEI;LA COMBA;Calle Alcalde Pedro González González, 26 ;Leganés;-;28914;605162903;-;Público;
 Madrid-Este;28047526;EEI;LA COMETA;Calle Córdoba, 2 ;Alcalá de Henares;-;28804;918832356;918832356;Público;
 Madrid-Capital;28057431;EEI;LA CORNISA;Calle Del Cristo De La Victoria, 23 ;Madrid;Usera;28026;917920520;-;Público;
 Madrid-Capital;28071954;EEI;LA CORTE DEL FARAON;Calle De Chantada, 41a ;Madrid;Fuencarral-El Pardo;28035;910596706;-;Público;
@@ -172,8 +171,8 @@ Madrid-Capital;28072016;EEI;LA GRAN VIA;Calle De Silvano, 99 ;Madrid;Hortaleza;2
 Madrid-Capital;28043557;EEI;LA JARA;Calle De Las Hijas De Jesús, 30 ;Madrid;Usera;28026;914769480;914769480;Público;
 Madrid-Sur;28058160;EEI;LA LINTERNA MAGICA;Calle De Alicante, S/n ;Fuenlabrada;-;28945;916062543;914989048;Público;
 Madrid-Norte;28048579;EEI;LA LOCOMOTORA;Avenida De Pontevedra, 2 ;San Sebastián de los Reyes;-;28702;916547281;916521682;Público;
-Madrid-Capital;28043791;EEI;LA LUNA;Calle De Benimamet, 109 ;Madrid;Villaverde;28021;915051417;917951408;Público;
 Madrid-Sur;28047575;EEI;LA LUNA;Calle Campos De Castilla, S/n ;Getafe;-;28909;916848752;916848752;Público;
+Madrid-Capital;28043791;EEI;LA LUNA;Calle De Benimamet, 109 ;Madrid;Villaverde;28021;915051417;917951408;Público;
 Madrid-Oeste;28071565;EEI;LA MARAZUELA;Calle De San Juan Bautista C/v Cerro De La Paloma ;Rozas de Madrid, Las;-;28231;626419196;-;Público;
 Madrid-Capital;28079138;EEI;LA MELONERA;Calle De Eros, 2 ;Madrid;Arganzuela;28045;-;-;Público;
 Madrid-Sur;28072077;EEI;LA MIMOSA;Calle De La Tía Javiera, 4 ;Fuenlabrada;-;28942;918317148;917693095;Público;
@@ -197,8 +196,8 @@ Madrid-Oeste;28059462;EEI;LAS ARDILLAS;Calle Señora Sergia, S/n ;Torrelodones;-
 Madrid-Capital;28070998;EEI;LAS AZALEAS;Calle De Portugalete, 6 ;Madrid;Ciudad Lineal;28017;914402088;-;Público;
 Madrid-Este;28070299;EEI;LAS BRISAS;Avenida Conde De Belmonte, S/n ;Belmonte de Tajo;-;28390;918727501;-;Público;
 Madrid-Oeste;28059589;EEI;LAS CASITAS;Calle Madrid, 38 ;Colmenarejo;-;28270;910849058;-;Público;
-Madrid-Este;28043892;EEI;LAS CIGÜEÑAS;Calle De Daoiz Y Velarde, S/n ;Mejorada del Campo;-;28840;916792483;916792834;Público;
 Madrid-Sur;28072363;EEI;LAS CIGÜEÑAS;Calle De Lima, 39 ;Fuenlabrada;-;28945;911138536;-;Público;
+Madrid-Este;28043892;EEI;LAS CIGÜEÑAS;Calle De Daoiz Y Velarde, S/n ;Mejorada del Campo;-;28840;916792483;916792834;Público;
 Madrid-Norte;28044045;EEI;LAS CUMBRES;Avenida De Andalucía, 11 ;San Sebastián de los Reyes;-;28702;916518668;916511249;Público;
 Madrid-Sur;28065978;EEI;LAS FLORES;Calle Los Nardos, S/n ;Alcorcón;-;28925;916429947;-;Público;
 Madrid-Sur;28073847;EEI;LAS FLORES DE LA FORTUNA;Calle Oporto, 6 ;Leganés;-;28917;914963524;-;Público;
@@ -296,7 +295,7 @@ Madrid-Sur;28060622;EEI;RODARI;Avenida De Villaviciosa, S/n ;Alcorcón;-;28922;9
 Madrid-Capital;28043651;EEI;ROGER DE FLOR;Plaza De Roger De Flor, 18 ;Madrid;Carabanchel;28019;914717774;914717774;Público;
 Madrid-Oeste;28047496;EEI;ROMANILLOS;Calle De Cazorla, 2 ;Boadilla del Monte;-;28660;916330821;916330821;Público;
 Madrid-Capital;28047691;EEI;ROSA;Paseo De La Habana, 173 ;Madrid;Chamartín;28036;913501362;913501362;Público;
-Madrid-Sur;28049080;EEI;ROSA CARAMELO;Calle De Gabriela Mistral, 8 ;Leganés;-;28919;912282203;-;Público;
+Madrid-Sur;28049080;EEI;ROSA CARAMELO;Calle De Gabriela Mistral, 8 ;Leganés;-;28919;916872188;-;Público;
 Madrid-Capital;28057866;EEI;RUIZ JIMENEZ;Calle De José Picón, 17 ;Madrid;Salamanca;28028;911694809;911694809;Público;
 Madrid-Capital;28079001;EEI;SABINA;Calle Del Cañón Del Río Lobos, 2 ;Madrid;Moratalaz;28030;-;-;Público;
 Madrid-Capital;28043661;EEI;SAN FERMIN;Calle De La Estafeta, 14 ;Madrid;Usera;28041;917920502;917920502;Público;

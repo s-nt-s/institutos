@@ -47,7 +47,7 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato"
   ],
-  "idiomas": ["EN"]
+  "idiomas": ["EN", "DE"]
 },{
   "id": 28000467,
   "dat": "Este",
@@ -128,7 +128,7 @@
     "Curso preparatorio prueba de acceso Grado Superior (LOE)",
     "ESO para personas adultas (LOE-LOMCE)"
   ],
-  "idiomas": ["DE"]
+  "idiomas": ["EN", "DE"]
 },{
   "id": 28001629,
   "dat": "Sur",
@@ -203,7 +203,7 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato"
   ],
-  "idiomas": ["EN"]
+  "idiomas": ["EN", "DE"]
 },{
   "id": 28001769,
   "dat": "Este",
@@ -261,7 +261,7 @@
   "latlon": "40.4073707141,-3.8786542141",
   "nocturno": null,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
@@ -889,7 +889,7 @@
   "adaptado": false,
   "excelencia": false,
   "tecnico": false,
-  "bilingue": false,
+  "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.ortegaygasset.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28018381",
   "tipo": "042",
@@ -901,7 +901,7 @@
     "Curso preparatorio prueba de acceso Grado Superior (LOE)",
     "ESO para personas adultas (LOE-LOMCE)"
   ],
-  "idiomas": []
+  "idiomas": ["EN"]
 },{
   "id": 28018435,
   "dat": "Capital",
@@ -1641,7 +1641,7 @@
   "latlon": "40.38791473432509,-3.716731667518616",
   "nocturno": null,
   "dificultad": true,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
@@ -1689,7 +1689,7 @@
   "latlon": "40.3852118454,-3.7363075500",
   "nocturno": null,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
@@ -2021,7 +2021,7 @@
   "latlon": "40.3603989293,-3.2432966400",
   "nocturno": null,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
@@ -2798,7 +2798,8 @@
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO para personas adultas (LOE-LOMCE)",
-    "Espa\u00f1ol para Extranjeros"
+    "Espa\u00f1ol para Extranjeros",
+    "Ense\u00f1anzas para el Desarrollo Personal y la Participaci\u00f3n"
   ],
   "idiomas": []
 },{
@@ -2875,7 +2876,7 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato"
   ],
-  "idiomas": ["EN"]
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28030149,
   "dat": "Capital",
@@ -3110,7 +3111,7 @@
   "adaptado": false,
   "excelencia": false,
   "tecnico": false,
-  "bilingue": false,
+  "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.arturosoria.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030575",
   "tipo": "042",
@@ -3120,7 +3121,7 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato"
   ],
-  "idiomas": []
+  "idiomas": ["EN"]
 },{
   "id": 28030903,
   "dat": "Este",
@@ -3654,7 +3655,7 @@
   "dat": "Sur",
   "nombre": "GASPAR MELCHOR DE JOVELLANOS",
   "direccion": "Calle De M\u00f3stoles, 64 28941 Fuenlabrada",
-  "telefono": 916971512,
+  "telefono": 916971565,
   "mail": "ies.jovellanos.fuenlabrada@educa.madrid.org",
   "latlon": "40.2920053460,-3.8051089834",
   "nocturno": null,
@@ -3663,7 +3664,7 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
-  "url": "http://www.iesjovellanos.org",
+  "url": "http://www.educa.madrid.org/ies.jovellanos.fuenlabrada",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28033850",
   "tipo": "042",
   "status_web": 200,
@@ -4203,7 +4204,7 @@
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ],
-  "idiomas": ["EN"]
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28037387,
   "dat": "Capital",
@@ -4602,8 +4603,8 @@
   "min_distance": 784,
   "etapas": [
     "ESO para personas adultas (LOE-LOMCE)",
-    "Espa\u00f1ol para Extranjeros",
-    "Cursos a distancia Soporte Telem\u00e1tico"
+    "Cursos a distancia Soporte Telem\u00e1tico",
+    "Espa\u00f1ol para Extranjeros"
   ],
   "idiomas": []
 },{
@@ -4943,7 +4944,7 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato"
   ],
-  "idiomas": ["EN"]
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28038926,
   "dat": "Sur",
@@ -5316,7 +5317,7 @@
   "latlon": "40.4445314848,-3.6253579800",
   "nocturno": null,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
@@ -5704,7 +5705,7 @@
   "latlon": "40.3407426306,-3.7628323920",
   "nocturno": null,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
@@ -5803,7 +5804,7 @@
   "excelencia": true,
   "tecnico": false,
   "bilingue": true,
-  "url": "http://www.ieselburgodelasrozas.es",
+  "url": "http://www.educa.madrid.org/ies.burgoiecheverria.lasrozas",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040787",
   "tipo": "042",
   "status_web": 200,
@@ -5824,7 +5825,7 @@
   "latlon": "40.5435508741,-3.6180706937",
   "nocturno": null,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
@@ -5946,7 +5947,7 @@
   "latlon": "40.8669344262,-3.6104235682",
   "nocturno": null,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
@@ -5995,7 +5996,7 @@
   "latlon": "40.3152965032,-3.7413614930",
   "nocturno": null,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
@@ -6546,7 +6547,7 @@
 },{
   "id": 28042590,
   "dat": "Este",
-  "nombre": "ALB\u00c9NIZ",
+  "nombre": "ALBENIZ",
   "direccion": "Calle Gardenia, S/n 28803 Alcal\u00e1 de Henares",
   "telefono": 918816812,
   "mail": "ies.albeniz.alcala@educa.madrid.org",
@@ -6723,7 +6724,7 @@
   "adaptado": true,
   "excelencia": false,
   "tecnico": false,
-  "bilingue": false,
+  "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.valleinclan.torrejondeardoz",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28042681",
   "tipo": "042",
@@ -6734,7 +6735,7 @@
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ],
-  "idiomas": []
+  "idiomas": ["EN"]
 },{
   "id": 28042875,
   "dat": "Este",
@@ -7533,7 +7534,7 @@
 },{
   "id": 28045268,
   "dat": "Capital",
-  "nombre": "CID CAMPEADOR",
+  "nombre": "CID CAMPEADOR LAS AGUILAS - CUATRO VIENTOS",
   "direccion": "Calle De Anselmo Lorenzo, 12 28044 Madrid",
   "telefono": 917058402,
   "mail": "cepa.cidcampeador.madrid@educa.madrid.org",
@@ -7749,8 +7750,8 @@
   "min_distance": 397,
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
-    "Espa\u00f1ol para Extranjeros",
-    "ESO para personas adultas (LOE-LOMCE)"
+    "ESO para personas adultas (LOE-LOMCE)",
+    "Espa\u00f1ol para Extranjeros"
   ],
   "idiomas": []
 },{
@@ -7848,7 +7849,8 @@
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO para personas adultas (LOE-LOMCE)",
-    "Espa\u00f1ol para Extranjeros"
+    "Espa\u00f1ol para Extranjeros",
+    "Ense\u00f1anzas para el Desarrollo Personal y la Participaci\u00f3n"
   ],
   "idiomas": []
 },{
@@ -9098,7 +9100,7 @@
   "adaptado": false,
   "excelencia": false,
   "tecnico": false,
-  "bilingue": false,
+  "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.renacimiento.madrid",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28057271",
   "tipo": "042",
@@ -9109,7 +9111,7 @@
     "Bachillerato",
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
   ],
-  "idiomas": []
+  "idiomas": ["EN"]
 },{
   "id": 28057660,
   "dat": "Este",
@@ -10076,6 +10078,29 @@
   ],
   "idiomas": []
 },{
+  "id": 28063830,
+  "dat": "Norte",
+  "nombre": "SANSUE\u00d1A",
+  "direccion": "Plaza De La Cruz, 1 28160 Talamanca de Jarama",
+  "telefono": 918417515,
+  "mail": "cp.sansuena.talamanca@educa.madrid.org",
+  "latlon": "40.7475259063,-3.5148775908",
+  "nocturno": null,
+  "dificultad": false,
+  "adaptado": true,
+  "excelencia": false,
+  "tecnico": false,
+  "bilingue": false,
+  "url": "http://www.educa.madrid.org/cp.sansuena.talamanca",
+  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28063830",
+  "tipo": "070",
+  "status_web": 200,
+  "min_distance": 22348,
+  "etapas": [
+    "ESO (LOE-LOMCE)"
+  ],
+  "idiomas": []
+},{
   "id": 28064007,
   "dat": "Este",
   "nombre": "ANTARES",
@@ -10978,7 +11003,7 @@
     "ESO (LOE-LOMCE)",
     "Bachillerato"
   ],
-  "idiomas": ["EN"]
+  "idiomas": ["EN", "FR"]
 },{
   "id": 28076371,
   "dat": "Capital",
@@ -11051,6 +11076,29 @@
   ],
   "idiomas": ["EN"]
 },{
+  "id": 28077348,
+  "dat": "Este",
+  "nombre": "LA LUNA",
+  "direccion": "Avenida De La Tierra, 2 28523 Rivas-Vaciamadrid",
+  "telefono": 916665859,
+  "mail": "cp.laluna.rivas@educa.madrid.org",
+  "latlon": "40.3743944693,-3.5380238632",
+  "nocturno": null,
+  "dificultad": false,
+  "adaptado": true,
+  "excelencia": false,
+  "tecnico": false,
+  "bilingue": true,
+  "url": "http://www.educa.madrid.org/cp.laluna.rivas",
+  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077348",
+  "tipo": "070",
+  "status_web": 200,
+  "min_distance": 1155,
+  "etapas": [
+    "ESO (LOE-LOMCE)"
+  ],
+  "idiomas": ["EN"]
+},{
   "id": 28077491,
   "dat": "Norte",
   "nombre": "MONTSERRAT CABALLE",
@@ -11094,7 +11142,8 @@
   "status_web": 200,
   "min_distance": 573,
   "etapas": [
-    "ESO (LOE-LOMCE)"
+    "ESO (LOE-LOMCE)",
+    "Bachillerato"
   ],
   "idiomas": ["EN"]
 },{
@@ -11110,14 +11159,17 @@
   "adaptado": false,
   "excelencia": false,
   "tecnico": false,
-  "bilingue": false,
+  "bilingue": true,
   "url": "http://www.educa.madrid.org/ies.simoneveil.paracuellos",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077890",
   "tipo": "042",
   "status_web": 200,
   "min_distance": 5563,
-  "etapas": ["Bachillerato"],
-  "idiomas": []
+  "etapas": [
+    "ESO (LOE-LOMCE)",
+    "Bachillerato"
+  ],
+  "idiomas": ["EN"]
 },{
   "id": 28077907,
   "dat": "Sur",
@@ -11323,8 +11375,7 @@
   "status_web": 404,
   "min_distance": 1141,
   "etapas": [
-    "ESO (LOE-LOMCE)",
-    "Bachillerato"
+    "ESO (LOE-LOMCE)"
   ],
   "idiomas": ["EN"]
 },{
@@ -11393,7 +11444,8 @@
   "status_web": 404,
   "min_distance": 1463,
   "etapas": [
-    "ESO (LOE-LOMCE)"
+    "ESO (LOE-LOMCE)",
+    "Bachillerato"
   ],
   "idiomas": ["EN"]
 },{
@@ -11494,7 +11546,7 @@
   "nombre": "MADRID VII ESTREMERA",
   "direccion": "Carretera M-241, Km5,7 28595 Estremera",
   "telefono": null,
-  "mail": null,
+  "mail": "cepa.madridvii.estremera@educa.madrid.org",
   "latlon": "40.1139275055,-3.0758563809",
   "nocturno": null,
   "dificultad": false,
@@ -11502,14 +11554,37 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
-  "url": null,
+  "url": "http://www.educa.madrid.org/cepa.madridvii.estremera",
   "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080232",
   "tipo": "035",
-  "status_web": null,
+  "status_web": 999,
   "min_distance": 38003,
   "etapas": [
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para Extranjeros"
+  ],
+  "idiomas": []
+},{
+  "id": 28080487,
+  "dat": "Este",
+  "nombre": "TORREJON DE ARDOZ N\u00ba 1",
+  "direccion": "Torrej\u00f3n de Ardoz",
+  "telefono": null,
+  "mail": null,
+  "latlon": null,
+  "nocturno": null,
+  "dificultad": false,
+  "adaptado": false,
+  "excelencia": false,
+  "tecnico": false,
+  "bilingue": false,
+  "url": null,
+  "info": "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080487",
+  "tipo": "020",
+  "status_web": null,
+  "min_distance": null,
+  "etapas": [
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
   ],
   "idiomas": []
 },{

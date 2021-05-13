@@ -5,7 +5,7 @@ Madrid-Sur;28077907;IES;AFRICA;Calle Portugal, 41 ;Fuenlabrada;-;28943;916073584
 Madrid-Norte;28041354;IES;AGORA;Calle Manuel De Falla, 54-56 ;Alcobendas;-;28100;916515700;916548684;Público;
 Madrid-Capital;28033539;IES;ALAMEDA DE OSUNA;Calle De Antonio Sancha, 11 ;Madrid;Barajas;28042;912761560;913291525;Público;
 Madrid-Sur;28003304;IES;ALARNES;Calle Toledo, 44 ;Getafe;-;28901;916814203;916836863;Público;
-Madrid-Este;28042590;IES;ALBÉNIZ;Calle Gardenia, S/n ;Alcalá de Henares;-;28803;918816812;918819840;Público;
+Madrid-Este;28042590;IES;ALBENIZ;Calle Gardenia, S/n ;Alcalá de Henares;-;28803;918816812;918819840;Público;
 Madrid-Norte;28040660;IES;ALDEBARAN;Avenida De Valdelaparra, 90 ;Alcobendas;-;28108;916618085;916618238;Público;
 Madrid-Sur;28050537;IES;ALFONSO MORENO;Calle Estudiantes, 3 ;Brunete;-;28690;918158371;918158399;Público;
 Madrid-Capital;28076368;IES;ALFREDO KRAUS;Avenida De Guadalajara, 126 ;Madrid;San Blas-Canillejas;28022;912760100;917031659;Público;
@@ -127,7 +127,7 @@ Madrid-Capital;28039888;IES;GABRIEL GARCIA MARQUEZ;Calle Del Nevado Del Ruiz, 1 
 Madrid-Sur;28050525;IES;GABRIELA MISTRAL;Calle Miguel De Cervantes, 104 ;Arroyomolinos;-;28939;916899054;916897713;Público;
 Madrid-Sur;28030915;IES;GALILEO GALILEI;Avenida De Retamas, 2 ;Alcorcón;-;28922;916440235;916438290;Público;
 Madrid-Capital;28021550;IES;GARCIA MORATO;Calle Del General Saliquet, 34 ;Madrid;Latina;28044;917050818;917066145;Público;
-Madrid-Sur;28033850;IES;GASPAR MELCHOR DE JOVELLANOS;Calle De Móstoles, 64 ;Fuenlabrada;-;28941;916971512;916157994;Público;
+Madrid-Sur;28033850;IES;GASPAR MELCHOR DE JOVELLANOS;Calle De Móstoles, 64 ;Fuenlabrada;-;28941;916971565;916157994;Público;
 Madrid-Este;28057210;IES;GASPAR SANZ;Calle Del Acueducto, 3 ;Meco;-;28880;918877200;918876962;Público;
 Madrid-Oeste;28023911;IES;GERARDO DIEGO;Calle Irlanda, S/n ;Pozuelo de Alarcón;-;28224;913521003;913523965;Público;
 Madrid-Capital;28020582;IES;GÓMEZ MORENO;Avenida De Hellín, 5 ;Madrid;San Blas-Canillejas;28037;913209142;913203095;Público;
@@ -174,8 +174,8 @@ Madrid-Sur;28040696;IES;JOSÉ HIERRO;Avenida De Juan Carlos I, 9 ;Getafe;-;28905
 Madrid-Sur;28074050;IES;JOSE LUIS LOPEZ ARANGUREN;Calle De Colombia, 28-30 ;Fuenlabrada;-;28945;916976614;911911223;Público;
 Madrid-Norte;28035317;IES;JOSE LUIS SAMPEDRO;Avenida De La Vega, S/n ;Tres Cantos;-;28760;918031142;918034126;Público;
 Madrid-Sur;28080025;IES;JOSE PEDRO PEREZ LLORCA;Calle Jaime I El Conquistador, 143 ;Parla;-;-;-;-;Público;
-Madrid-Oeste;28058652;IES;JOSE SARAMAGO;Calle Del Maestro, 1 ;Majadahonda;-;28220;916398411;916347902;Público;
 Madrid-Este;28058627;IES;JOSE SARAMAGO;Camino De Valdearganda, 8 ;Arganda del Rey;-;28500;918757890;918712127;Público;
+Madrid-Oeste;28058652;IES;JOSE SARAMAGO;Calle Del Maestro, 1 ;Majadahonda;-;28220;916398411;916347902;Público;
 Madrid-Sur;28039700;IES;JOSEFINA ALDECOA;Calle De Sahagún, S/n ;Alcorcón;-;28925;916125261;916125361;Público;
 Madrid-Este;28079400;IES;JUAN BAUTISTA MONEGRO;Avenida Salvador Dalí, 7 ;Torrejón de Ardoz;-;28850;-;-;Público;
 Madrid-Sur;28002181;IES;JUAN CARLOS I;Calle De San Francisco, S/n ;Ciempozuelos;-;28350;918930158;918933080;Público;

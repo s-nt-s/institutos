@@ -134,11 +134,14 @@ b.flag {
   background-repeat: no-repeat;
 }
 b.tag_EN {
-  background-image: url("https://lipis.github.io/flag-icon-css/flags/4x3/gb.svg");
+  /*background-image: url("https://lipis.github.io/flag-icon-css/flags/4x3/gb.svg");*/
+  background-image: url("https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg");
 }
 b.tag_FR {
-  background-image: url("https://lipis.github.io/flag-icon-css/flags/4x3/fr.svg");
+  /*background-image: url("https://lipis.github.io/flag-icon-css/flags/4x3/fr.svg");*/
+  background-image: url("https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg");
 }
 b.tag_DE {
-  background-image: url("https://lipis.github.io/flag-icon-css/flags/4x3/de.svg");
+  /*background-image: url("https://lipis.github.io/flag-icon-css/flags/4x3/de.svg");*/
+  background-image: url("https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg");
 }

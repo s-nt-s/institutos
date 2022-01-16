@@ -54,4 +54,4 @@ El mapa se puede ver aquí: [institutos.ml](https://institutos.ml).
 # Contactar con los centros
 
 Si quieres lanzar una consulta al máximo número de centros posibles de una
-sola vez puedes usar [este enlace]({{mails}}).
+sola vez puedes usar [este enlace](mailto:?subject=Consulta%20en%20relacción%20al%20concurso%20de%20traslados&bcc={{mails}}).

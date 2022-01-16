@@ -27,14 +27,13 @@ Madrid-Sur;28059450;EEI-CN;CASARRUBUELOS Nº 2;Camino De Torrejón De Velasco, 5
 Madrid-Este;28047927;EEI-CN;CASCABEL;Camino De La Virgen De La Cabeza, 15 ;Meco;-;28880;918861262;-;Público;
 Madrid-Sur;28047794;EEI-CN;CENICIENTOS;Calle De La Ronda Del Sur, 108 ;Cenicientos;-;28650;918642125;918642125;Público;
 Madrid-Norte;28066272;EEI-CN;CERVATILLO DORMILON;Calle De La Iglesia, 2 ;Cervera de Buitrago;-;28193;609454233;-;Público;
-Madrid-Este;28072831;EEI-CN;CHINCHON Nº 1;Calle Del Teniente Ortiz De Zarate, 19 ;Chinchón;-;28370;918941000;-;Público;
 Madrid-Sur;28047988;EEI-CN;CINTA Y ELISA;Calle Vía Olímpica, 3 ;Navas del Rey;-;28695;918650959;918650959;Público;
 Madrid-Oeste;28047800;EEI-CN;COLLADO MEDIANO;Avenida De Madrid, 23 ;Collado Mediano;-;28450;918554142;918554142;Público;
 Madrid-Norte;28047873;EEI-CN;COLMENAR VIEJO;Calle De Gustavo Adolfo Bécquer, 18 ;Colmenar Viejo;-;28770;918457671;918451074;Público;
-Madrid-Este;28047770;EEI-CN;COLORIN COLORADO;Camino Del Molino, S/n ;Camarma de Esteruelas;-;28816;918866280;918866280;Público;
+Madrid-Este;28047770;EEI-CN;COLORIN COLORADO;Camino Del Molino, S/n ;Camarma de Esteruelas;-;28816;918865897;-;Público;
 Madrid-Oeste;28057741;EEI-CN;COLORIN COLORETE;Avenida De La Cruz Verde, 3 ;Zarzalejo;-;28293;918992465;918992465;Público;
 Madrid-Sur;28049158;EEI-CN;COLORINES;Avenida De España, 66 ;Getafe;-;28903;916825253;916825253;Público;
-Madrid-Este;28047824;EEI-CN;DAGANZO;Calle Hermanos Álvarez Quintero, 22 ;Daganzo de Arriba;-;28814;918875143;918875143;Público;
+Madrid-Este;28047824;EEI-CN;DAGANZO;Calle San Roque, 1 ;Daganzo de Arriba;-;28814;918875143;918875143;Público;
 Madrid-Capital;28049951;EEI-CN;DANIEL VAZQUEZ DIAZ;Calle De Armenteros, 46 ;Madrid;Moncloa-Aravaca;28039;913113496;913113496;Público;
 Madrid-Este;28075871;EEI-CN;DON MELITON (PROGRAMA DE CASA DE NIÑOS);Calle Arturo Soria, 5 ;Alcalá de Henares;-;28806;918786757;-;Público;
 Madrid-Oeste;28078730;EEI-CN;DON PIMPON (PROGRAMA CASA DE NIÑOS);Calle De Murillo, 1 ;Galapagar;-;28420;918585012;-;Público;
@@ -53,6 +52,7 @@ Madrid-Sur;28076401;EEI-CN;EL NARANJO (PROGRAMA CASA DE NIÑOS);Paseo Riazor, S/
 Madrid-Este;28048737;EEI-CN;EL OLMO;Calle Carlos Ruiz, 13 ;Villar del Olmo;-;28512;918732179;-;Público;
 Madrid-Oeste;28047253;EEI-CN;EL PARQUE;Carretera M-512 (navas Del Rey), 9 ;Robledo de Chavela;-;28294;918998248;918998590;Público;
 Madrid-Sur;28060671;EEI-CN;EL PRINCIPITO;Avenida José Fernández Segovia, 1 ;Torrejón de Velasco;-;28990;918169674;-;Público;
+Madrid-Este;28072831;EEI-CN;EL RINCON MAGICO;Calle Del Teniente Ortiz De Zarate, 19 ;Chinchón;-;28370;918941000;-;Público;
 Madrid-Sur;28077002;EEI-CN;EL ROBLE (PROGRAMA CASA DE NIÑOS);Glorieta De Lituania, S/n ;Valdemoro;-;28341;918083102;-;Público;
 Madrid-Sur;28075753;EEI-CN;EL ROMANCERO (PROGRAMA DE CASA DE NIÑOS);Calle Dinamarca, 11 ;Leganés;-;28916;916884688;916884688;Público;
 Madrid-Sur;28076022;EEI-CN;EL SACAPUNTAS (PROGRAMA DE CASA DE NIÑOS);Calle De Las Ciencias, 27 ;Fuenlabrada;-;28943;914986125;914986125;Público;
@@ -82,6 +82,7 @@ Madrid-Sur;28077385;EEI-CN;JUAN FARIAS (PROGRAMA CASA DE NIÑOS);Calle Toledo, 1
 Madrid-Sur;28077300;EEI-CN;LA ALAMEDA (PROGRAMA CASA DE NIÑOS);Calle De Concepción Arenal, 15 ;Fuenlabrada;-;28942;914869995;-;Público;
 Madrid-Este;28047125;EEI-CN;LA BALLENITA;Avenida De Elena Soriano, 7 ;Fuentidueña de Tajo;-;28597;918728074;918728074;Público;
 Madrid-Norte;28074566;EEI-CN;LA CABRERA (PROGRAMA DE CASA DE NIÑOS);Calle De Paraguay, 17 ;Cabrera, La;-;28751;918688512;918688512;Público;
+Madrid-Este;28048166;EEI-CN;LA CASITA;Paseo De Santa Ana, 1 ;Villaconejos;-;28360;918939169;-;Público;
 Madrid-Norte;28047836;EEI-CN;LA CIGÜEÑA;Calle Teruel, 12bis ;Fuente el Saz de Jarama;-;28140;916200892;916200912;Público;
 Madrid-Este;28057842;EEI-CN;LA COLMENA;Calle De Goya, 44 ;Colmenar de Oreja;-;28380;666459560;-;Público;
 Madrid-Este;28067690;EEI-CN;LA ENCINA;Calle Del Pintor Álvaro Delgado, 4 ;Olmeda de las Fuentes;-;28515;918736516;-;Público;
@@ -146,9 +147,9 @@ Madrid-Capital;28049961;EEI-CN;SAN MIGUEL;Avenida De La Virgen Del Carmen, 32 ;M
 Madrid-Norte;28064603;EEI-CN;SANTA CECILIA (PROGRAMA DE CASA DE NIÑOS);Avenida De La Constitución, 2 ;Molar, El;-;28710;918411182;918411182;Público;
 Madrid-Este;28077233;EEI-CN;SANTIAGO APOSTOL (PROGRAMA CASA DE NIÑOS);Calle Santiago Apóstol, 1 ;Paracuellos de Jarama;-;28860;912687765;-;Público;
 Madrid-Este;28060661;EEI-CN;SIETE ESTRELLAS;Calle Mayor, 29 ;Brea de Tajo;-;28596;673657564;-;Público;
-Madrid-Sur;28047101;EEI-CN;SOL Y LUNA;Calle Marqués De Villanueva De La Sagra, 1 ;Chapinería;-;28694;918652521;918652521;Público;
-Madrid-Sur;28057568;EEI-CN;SOL Y LUNA;Calle De La Luna, S/n ;Alcorcón;-;28922;692812763;916434842;Público;
 Madrid-Sur;28070317;EEI-CN;SOL Y LUNA;Calle Retamar, S/n ;Cubas de la Sagra;-;28978;918142805;-;Público;
+Madrid-Sur;28057568;EEI-CN;SOL Y LUNA;Calle De La Luna, S/n ;Alcorcón;-;28922;692812763;916434842;Público;
+Madrid-Sur;28047101;EEI-CN;SOL Y LUNA;Calle Marqués De Villanueva De La Sagra, 1 ;Chapinería;-;28694;918652521;918652521;Público;
 Madrid-Norte;28048087;EEI-CN;TALAMANCA DE JARAMA;Calle Almazara, 22 ;Talamanca de Jarama;-;28160;918417517;-;Público;
 Madrid-Este;28048099;EEI-CN;TIELMES;Calle De La Pérdiz, 6 ;Tielmes;-;28550;918746117;-;Público;
 Madrid-Sur;28048105;EEI-CN;TITULCIA;Calle Grande, 36 ;Titulcia;-;28359;918010204;918010489;Público;
@@ -167,7 +168,6 @@ Madrid-Sur;28057261;EEI-CN;VALLE INCLAN;Calle Río Tormés, 29 ;Leganés;-;28913
 Madrid-Norte;28048154;EEI-CN;VENTURADA;Calle De Los Álamos, S/n ;Venturada;-;28729;918439531;918439531;Público;
 Madrid-Sur;28074751;EEI-CN;VICTORIA KAMHI (PROGRAMA DE CASA DE NIÑOS);Avenida Memorial De La Paz De Hirosima, S/n ;Aranjuez;-;28300;918928876;-;Público;
 Madrid-Sur;28056813;EEI-CN;VILLAAMIL;Calle Ginebra, S/n ;Móstoles;-;28937;916465467;916465467;Público;
-Madrid-Este;28048166;EEI-CN;VILLACONEJOS;Paseo De Santa Ana, 1 ;Villaconejos;-;28360;918939169;-;Público;
 Madrid-Este;28047307;EEI-CN;VILLAMANRIQUE DE TAJO;Calle De La República Dominicana, 6-8 ;Villamanrique de Tajo;-;28598;918727099;918727099;Público;
 Madrid-Sur;28057556;EEI-CN;VILLANUEVA DE PERALES;Calle Chapinería, 14 ;Villanueva de Perales;-;28609;918137447;-;Público;
 Madrid-Norte;28048750;EEI-CN;VILLAVIEJA DE LOZOYA;Calle De La Fragua, 2 ;Villavieja del Lozoya;-;28739;918681513;918682030;Público;

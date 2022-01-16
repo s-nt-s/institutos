@@ -12,7 +12,7 @@ Madrid-Sur;28032559;IES;ENRIQUE TIERNO GALVAN;Avenida Juan Carlos I, 12 ;Parla;-
 Madrid-Capital;28044902;IES;FRANCISCO DE QUEVEDO;Calle De San Román Del Valle, S/n ;Madrid;San Blas-Canillejas;28037;913065604;913065606;-;Público;Activid. .Extraesc.;
 Madrid-Norte;28000753;IES;FRANCISCO GINER DE LOS RIOS;Avenida De La Transición Española, 11 ;Alcobendas;-;28108;916525466;916511164;Transt. Desarrollo;Público;Activid. .Extraesc.;
 Madrid-Este;28039724;IES;GRANDE COVIAN;Camino Del Molino, 8 ;Arganda del Rey;-;28500;918700363;918700453;Auditivos;Público;Activid. .Extraesc.;
-Madrid-Capital;28020119;IES;GREGORIO MARAÑON;Avenida De El Ferrol, 43 ;Madrid;Fuencarral-El Pardo;28029;917310421;917380949;Transt. Desarrollo;Público;Activid. .Extraesc.;
+Madrid-Capital;28020119;IES;GREGORIO MARAÑON;Avenida De El Ferrol, 43 ;Madrid;Fuencarral-El Pardo;28029;917310421;-;Transt. Desarrollo;Público;Activid. .Extraesc.;
 Madrid-Capital;28020909;IES;ISABEL LA CATOLICA;Calle De Alfonso Xii, 3 ;Madrid;Retiro;28014;915277878;915302294;-;Público;Comedor,Activid. .Extraesc.;
 Madrid-Sur;28042115;IES;ITACA;Avenida De Los Castillos, S/n ;Alcorcón;-;28925;916101411;916116403;-;Público;Activid. .Extraesc.;
 Madrid-Sur;28003882;IES;JOSE DE CHURRIGUERA;Calle Constitución De Cádiz, 1 ;Leganés;-;28914;916946011;916938962;Transt. Desarrollo;Público;Activid. .Extraesc.;
@@ -21,7 +21,7 @@ Madrid-Sur;28074670;IES;JUAN GRIS;Avenida De La O.n.u., 85-87 ;Móstoles;-;28936
 Madrid-Este;28025026;IES;LAS VEREDILLAS;Calle Lisboa, 53 ;Torrejón de Ardoz;-;28850;916753049;916753198;-;Público;Activid. .Extraesc.;
 Madrid-Capital;28028431;IES;MARIANO JOSE DE LARRA;Calle De Camarena, 181 ;Madrid;Latina;28047;917192105;917192304;Auditivos;Público;Activid. .Extraesc.;
 Madrid-Norte;28002312;IES;MARQUES DE SANTILLANA;Calle De La Isla Del Rey, 5 ;Colmenar Viejo;-;28770;918452114;918463313;-;Público;Activid. .Extraesc.;
-Madrid-Sur;28003201;IES;MATEMATICO PUIG ADAM;Calle Toledo, 45 ;Getafe;-;28901;916950279;916969962;Auditivos;Público;Activid. .Extraesc.;
+Madrid-Sur;28003201;IES;MATEMATICO PUIG ADAM;Calle Toledo, 45 ;Getafe;-;28901;916951024;916969962;Auditivos;Público;Activid. .Extraesc.;
 Madrid-Capital;28074244;IES;PEDRO SALINAS;Calle Del General Marvá, 24-26 ;Madrid;Usera;28026;915699236;915699235;Transt. Desarrollo;Público;-;
 Madrid-Capital;28028672;IES;RAMIRO DE MAEZTU;Calle De Serrano, 127 ;Madrid;Chamartín;28006;915617838;914110865;-;Público;-;
 Madrid-Capital;28020624;IES;REY PASTOR;Calle Del Corregidor José De Pasamonte, 17 ;Madrid;Moratalaz;28030;914392661;914371764;Transt. Desarrollo;Público;Activid. .Extraesc.;

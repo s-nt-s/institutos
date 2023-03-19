@@ -106,6 +106,12 @@ def create_notas(html, **kargv):
         sup = toTag(
             '<sup title="{1}"><a href="#nota{0}" target="_self">{0}</a></sup>', num, notas[num].split(".")[0])
         lab.append(sup)
+    num = len(notas)+1
+    for inp, lab in get_checks(soup, "nc", "True"):
+        notas[num] = "Algunos centros con nocturno no detallan en su ficha que etapas ofrecen en esta modalidad. Si sabes como obtener esta información colabora en este <a href='https://github.com/s-nt-s/institutos/issues/7'>issue #7</a>."
+        sup = toTag(
+            '<sup title="{1}"><a href="#nota{0}" target="_self">{0}</a></sup>', num, notas[num].split(".")[0])
+        lab.append(sup)
     if notas:
         nt = toTag('''
         <fieldset>

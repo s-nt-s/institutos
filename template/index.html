@@ -166,7 +166,7 @@
 									{% endfor %}
                 </fieldset>
                 <fieldset id="nocturnos">
-                  <legend>Nocturnos en</legend>
+                  <legend>Nocturnos{% if (nocturnos_en|length > 0)%} en{%endif%}</legend>
 				  {% if (nocturnos_en|length == 0) and not(nocturno_sininfo) %}
 					  ¡No hay centros con nocturnos!
 					  ¿Es un error? Ponme un <a href="https://github.com/s-nt-s/institutos-map/issues">issues</a> citando un ejemplo.

@@ -1,18 +1,20 @@
-CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;
-AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
-Madrid-Este;28039682;IES;ALKALA-NAHAR;Calle Ávila, 1 ;Alcalá de Henares;-;28804;918819311;918819028;-;Público;Activid. .Extraesc.;
-Madrid-Oeste;28058640;IES;ARQUITECTO VENTURA RODRIGUEZ;Calle De Severo Ochoa, 4 ;Boadilla del Monte;-;28660;916336271;916339594;Transt. Desarrollo;Público;Transporte,Comedor,Activid. .Extraesc.;
-Madrid-Oeste;28040714;IES;DE GUADARRAMA;Carretera Del Escorial, S/n ;Guadarrama;-;28440;918542212;918547122;Transt. Desarrollo;Público;Transporte,Activid. .Extraesc.;
-Madrid-Oeste;28037089;IES;DIEGO VELAZQUEZ;Calle Del Instituto, 1 ;Torrelodones;-;28250;918590405;918592579;-;Público;Transporte,Activid. .Extraesc.;
-Madrid-Oeste;28040787;IES;EL BURGO-IGNACIO ECHEVERRÍA;Avenida De España, 141 ;Rozas de Madrid, Las;-;28231;916393511;916344923;-;Público;Transporte,Activid. .Extraesc.;
-Madrid-Sur;28062035;IES;FRANCISCO UMBRAL;Avenida De La Hispanidad, S/n ;Ciempozuelos;-;28350;918092810;918092927;-;Público;Activid. .Extraesc.;
-Madrid-Oeste;28023911;IES;GERARDO DIEGO;Calle Irlanda, S/n ;Pozuelo de Alarcón;-;28224;913521003;913523965;Motóricos;Público;Transporte,Activid. .Extraesc.;
-Madrid-Sur;28040696;IES;JOSÉ HIERRO;Avenida De Juan Carlos I, 9 ;Getafe;-;28905;916821213;916810373;Transt. Desarrollo;Público;-;
-Madrid-Oeste;28041597;IES;LAS CANTERAS;Calle Peñalara, 2 ;Collado Villalba;-;28400;918513438;918513588;Motóricos;Público;Transporte,Activid. .Extraesc.;
-Madrid-Sur;28039992;IES;LOS ROSALES;Calle Tulipán, 4 ;Móstoles;-;28933;916146212;916178952;-;Público;Comedor,Activid. .Extraesc.;
-Madrid-Oeste;28042073;IES;MARGARITA SALAS;Calle María Teresa León, 1 ;Majadahonda;-;28220;916340599;916340056;-;Público;-;
-Madrid-Este;28041500;IES;PALAS ATENEA;Calle Arrope, S/n ;Torrejón de Ardoz;-;28850;916772915;916774898;-;Público;-;
-Madrid-Norte;28042103;IES;PINTOR ANTONIO LOPEZ;Calle Del Orégano, 1 ;Tres Cantos;-;28760;918039102;918030328;Auditivos,Transt. Desarrollo;Público;-;
-Madrid-Sur;28030241;IES;PRADO DE SANTO DOMINGO;Avenida Esteban Marquez, 3 ;Alcorcón;-;28922;916439100;916432363;Transt. Desarrollo;Público;Activid. .Extraesc.;
-Madrid-Capital;28030939;IES;SAN MATEO;Calle De La Beneficencia, 4 ;Madrid;Centro;28004;912760274;915235212;-;Público;-;
-Madrid-Sur;28038926;IES;VILLA DE VALDEMORO;Calle Herencia, S/n ;Valdemoro;-;28341;918018490;918953396;-;Público;Activid. .Extraesc.;
+CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;;;
+AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;EMAIL;EMAIL2;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
+Madrid-Este;28039682;IES;ALKALA-NAHAR;Calle Ávila, 1 ;Alcalá de Henares;-;28804;918819311;918819028;ies.alkalanahar.alcala@educa.madrid.org;-;-;Público;Activid. .Extraesc.;
+Madrid-Oeste;28058640;IES;ARQUITECTO VENTURA RODRIGUEZ;Calle De Severo Ochoa, 4 ;Boadilla del Monte;-;28660;916336271;916339594;ies.arquitectoventurarodriguez.boadilla@educa.madrid.org;-;Transt. Desarrollo;Público;Transporte,Comedor,Activid. .Extraesc.;
+Madrid-Sur;28023327;IES;CARMEN MARTIN GAITE;Carretera De Cadalso De Los Vidrios, S/n ;Navalcarnero;-;28600;918110565;918113761;ies.carmenmartingai.navalcarnero@educa.madrid.org;-;-;Público;Transporte,Activid. .Extraesc.;
+Madrid-Oeste;28040714;IES;DE GUADARRAMA;Carretera Del Escorial, S/n ;Guadarrama;-;28440;918542212;918547122;ies.guadarrama@educa.madrid.org;-;Transt. Desarrollo;Público;Transporte,Activid. .Extraesc.;
+Madrid-Oeste;28037089;IES;DIEGO VELAZQUEZ;Calle Del Instituto, 1 ;Torrelodones;-;28250;918590405;918592579;ies.velazquez.torrelodones@educa.madrid.org;-;-;Público;Transporte,Activid. .Extraesc.;
+Madrid-Oeste;28040787;IES;EL BURGO-IGNACIO ECHEVERRÍA;Avenida De España, 141 ;Rozas de Madrid, Las;-;28231;916393511;916344923;ies.burgoiecheverria.lasrozas@educa.madrid.org;-;-;Público;Transporte,Activid. .Extraesc.;
+Madrid-Sur;28062035;IES;FRANCISCO UMBRAL;Avenida De La Hispanidad, S/n ;Ciempozuelos;-;28350;918092810;918092927;ies.franciscoumbral.ciempozuelos@educa.madrid.org;-;-;Público;Activid. .Extraesc.;
+Madrid-Oeste;28023911;IES;GERARDO DIEGO;Calle Irlanda, S/n ;Pozuelo de Alarcón;-;28224;913521003;913523965;ies.gerardodiego.pozuelodealarcon@educa.madrid.org;-;Motóricos;Público;Transporte,Activid. .Extraesc.;
+Madrid-Sur;28040696;IES;JOSÉ HIERRO;Avenida De Juan Carlos I, 9 ;Getafe;-;28905;916821213;916810373;ies.josehierro.getafe@educa.madrid.org;-;Transt. Desarrollo;Público;-;
+Madrid-Oeste;28041597;IES;LAS CANTERAS;Calle Peñalara, 2 ;Collado Villalba;-;28400;918513438;918513588;ies.lascanteras.colladovillalba@educa.madrid.org;-;Motóricos;Público;Transporte,Activid. .Extraesc.;
+Madrid-Oeste;28046303;IES;LAS ENCINAS;Avenida Mirasierra, 8 ;Villanueva de la Cañada;-;28691;918157473;918156010;ies.lasencinas.villanuevadelacanada@educa.madrid.org;-;-;Público;Transporte,Comedor,Activid. .Extraesc.;
+Madrid-Sur;28039992;IES;LOS ROSALES;Calle Tulipán, 4 ;Móstoles;-;28933;916146212;916178952;ies.losrosales.mostoles@educa.madrid.org;-;-;Público;Comedor,Activid. .Extraesc.;
+Madrid-Oeste;28042073;IES;MARGARITA SALAS;Calle María Teresa León, 1 ;Majadahonda;-;28220;916340599;916340056;ies.margaritasalas.majadahonda@educa.madrid.org;-;-;Público;-;
+Madrid-Este;28041500;IES;PALAS ATENEA;Calle Arrope, S/n ;Torrejón de Ardoz;-;28850;916772915;916774898;ies.palasatenea.torrejondeardoz@educa.madrid.org;-;-;Público;-;
+Madrid-Norte;28042103;IES;PINTOR ANTONIO LOPEZ;Calle Del Orégano, 1 ;Tres Cantos;-;28760;918039102;918030328;ies.antoniolopez.trescantos@educa.madrid.org;-;Auditivos,Transt. Desarrollo;Público;-;
+Madrid-Sur;28030241;IES;PRADO DE SANTO DOMINGO;Avenida Esteban Marquez, 3 ;Alcorcón;-;28922;916439100;916432363;ies.pradodesantodomingo.alcorcon@educa.madrid.org;-;Transt. Desarrollo;Público;Activid. .Extraesc.;
+Madrid-Capital;28030939;IES;SAN MATEO;Calle De La Beneficencia, 4 ;Madrid;Centro;28004;912760274;915235212;ies.sanmateo.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Sur;28038926;IES;VILLA DE VALDEMORO;Calle Herencia, S/n ;Valdemoro;-;28341;918018490;918953396;ies.villadevaldemoro.valdemoro@educa.madrid.org;-;-;Público;Activid. .Extraesc.;

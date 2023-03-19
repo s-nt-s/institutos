@@ -219,7 +219,8 @@ class Dataset():
                 telefono=i["TELEFONO"],
                 mail=extra.get("mail"),
                 latlon=extra.get("latlon"),
-                nocturno=extra.get("nocturno"),
+                nocturno_en=extra.get("nocturno_en"),
+                nocturno=id in self.nocturno,
                 dificultad=id in self.dificultad,
                 adaptado=id in self.adaptado,
                 excelencia=id in self.excelencia,
@@ -245,8 +246,8 @@ class Dataset():
                 c.idiomas.append("FR")
             for k, v in arreglo.items():
                 c[k] = v
-            if id in self.nocturno and not c.nocturno:
-                print(extra["info"])
+            if id in self.nocturno and not c.nocturno_en:
+                print(extra["info"], "no encontro nocturno_en")
             centros.append(c)
         centros = sorted(centros, key=lambda c: c.id)
         print("Cargando centros 100%%: %s        " % len(centros))

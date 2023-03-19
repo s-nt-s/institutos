@@ -184,31 +184,36 @@ def get_data(ctr, stweb):
     ctr = str(ctr)
     d1 = get_data1(ctr)
     d2 = None
-    if d1 is not None:
+    if d1 not in (None, False):
         for k in ("latlon", "direccion", "mail", "url"):
             if not d1.get(k):
-                d2 = d2 or get_data2(ctr)
+                if d2 is None:
+                    print("  buscar %s en segunda opción" % k)
+                    d2 = get_data2(ctr)
                 d1[k] = d2.get(k)
     else:
+        print("  buscar %s en segunda opción" % ctr)
         d1 = get_data2(ctr)
         d2 = False
     url = d1.get("url")
     if url:
         d1["status_web"] = status_web(url, stweb)
         if d1["status_web"] != 200 and d2 is not False:
-            d2 = d2 or get_data2(ctr)
+            if d2 is None:
+                print("  buscar url en segunda opción tras obtener status_web=" +str(d1["status_web"]))
+                d2 = get_data2(ctr)
             _url = d2.get("url")
             if _url and _url != url:
                 if status_web(_url, stweb) == 200:
                     d1["url"]=_url
                     d1["status_web"] = 200
-    if d1["url"] and d1["url"].endswith("/"):
+    if d1.get("url") and d1["url"].endswith("/"):
         d1["url"]=d1["url"][:-1]
     return d1
 
 
 def get_data1(ctr):
-    url = "http://gestiona.madrid.org/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=" + ctr
+    url = "https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=" + ctr
     soup = get_soup(url, to_file="fuentes/madrid.org/"+ctr+".html")
     items = soup.select("div.formularioconTit input")
     if len(items) == 0:

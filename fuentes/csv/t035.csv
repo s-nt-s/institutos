@@ -1,9 +1,9 @@
-CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;
-AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
-Madrid-Sur;28056436;CEPA.EP;ALBORADA;Carretera Nacional-v (madrid-extremadura), K27.7 ;Navalcarnero;-;28600;918116068;-;-;Público;-;
-Madrid-Sur;28056424;CEPA.EP;ALONSO QUIJANO;Carretera Pinto- San Martín De La Vega, K 5 ;Valdemoro;-;28340;916924722;918948100;-;Público;-;
-Madrid-Este;28056412;CEPA.EP;CLARA CAMPOAMOR;Carretera De Meco, K 4 ;Alcalá de Henares;-;28805;918804011;918807965;-;Público;-;
-Madrid-Sur;28056451;CEPA.EP;DULCE CHACON;Carretera Nacional 400, K.28 ;Aranjuez;-;28300;918099095;-;-;Público;-;
-Madrid-Este;28056400;CEPA.EP;JOSE HIERRO;Carretera De Meco, K 4 ;Alcalá de Henares;-;28805;918887061;-;-;Público;-;
-Madrid-Este;28080232;CEPA.EP;MADRID VII ESTREMERA;Carretera M-241, Km5,7 ;Estremera;-;28595;918750000;-;-;Público;-;
-Madrid-Norte;28056448;CEPA.EP;YUCATAN;Carretera Comarcal 609, Km. 3,600 ;Soto del Real;-;28791;918447735;918479562;-;Público;-;
+CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;;;
+AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;EMAIL;EMAIL2;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
+Madrid-Sur;28056436;CEPA.EP;ALBORADA;Carretera Nacional-v (madrid-extremadura), K27.7 ;Navalcarnero;-;28600;918116068;-;cepa.alborada.navalcarnero@educa.madrid.org;-;-;Público;-;
+Madrid-Sur;28056424;CEPA.EP;ALONSO QUIJANO;Carretera Pinto- San Martín De La Vega, K 5 ;Valdemoro;-;28340;916924722;918948100;cepa.alonsoquijano.valdemoro@educa.madrid.org;-;-;Público;-;
+Madrid-Este;28056412;CEPA.EP;CLARA CAMPOAMOR;Carretera De Meco, K 4 ;Alcalá de Henares;-;28805;918804011;918807965;cepa.claracampoamor.alcala@educa.madrid.org;-;-;Público;-;
+Madrid-Sur;28056451;CEPA.EP;DULCE CHACON;Carretera Nacional 400, K.28 ;Aranjuez;-;28300;918099095;-;cepa.dulcechacon.aranjuez@educa.madrid.org;-;-;Público;-;
+Madrid-Este;28056400;CEPA.EP;JOSE HIERRO;Carretera De Meco, K 4 ;Alcalá de Henares;-;28805;918887061;-;cepa.josehierro.alcala@educa.madrid.org;-;-;Público;-;
+Madrid-Este;28080232;CEPA.EP;MADRID VII ESTREMERA;Carretera M-241, Km5,7 ;Estremera;-;28595;913106800;-;cepa.madridvii.estremera@educa.madrid.org;-;-;Público;-;
+Madrid-Norte;28056448;CEPA.EP;YUCATAN;Carretera Comarcal 609, Km. 3,600 ;Soto del Real;-;28791;918447735;918479562;cepa.yucatan.soto@educa.madrid.org;-;-;Público;-;

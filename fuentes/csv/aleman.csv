@@ -1,8 +1,8 @@
-CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;
-AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
-Madrid-Capital;28020934;IES;CARDENAL CISNEROS;Calle De Los Reyes, 4 ;Madrid;Centro;28015;915224869;915216372;-;Público;Activid. .Extraesc.;
-Madrid-Este;28000364;IES;COMPLUTENSE;Calle Valladolid, 1 ;Alcalá de Henares;-;28804;918880169;918828091;-;Público;Transporte,Activid. .Extraesc.;
-Madrid-Norte;28000753;IES;FRANCISCO GINER DE LOS RIOS;Avenida De La Transición Española, 11 ;Alcobendas;-;28108;916525466;916511164;Transt. Desarrollo;Público;Activid. .Extraesc.;
-Madrid-Capital;28020909;IES;ISABEL LA CATOLICA;Calle De Alfonso Xii, 3 ;Madrid;Retiro;28014;915277878;915302294;-;Público;Comedor,Activid. .Extraesc.;
-Madrid-Norte;28001678;IES;JORGE MANRIQUE;Calle Del Mar Adriático, 2 ;Tres Cantos;-;28760;918040964;918046515;Motóricos;Público;Transporte;
-Madrid-Capital;28028672;IES;RAMIRO DE MAEZTU;Calle De Serrano, 127 ;Madrid;Chamartín;28006;915617838;914110865;-;Público;-;
+CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;;;
+AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;EMAIL;EMAIL2;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
+Madrid-Capital;28020934;IES;CARDENAL CISNEROS;Calle De Los Reyes, 4 ;Madrid;Centro;28015;915224869;915216372;ies.cardenalcisnero.madrid@educa.madrid.org;secretaria.ies.cardenalcisnero.madrid@educa.madrid.org;-;Público;Activid. .Extraesc.;
+Madrid-Este;28000364;IES;COMPLUTENSE;Calle Valladolid, 1 ;Alcalá de Henares;-;28804;918880169;918828091;ies.complutense.alcala@educa.madrid.org;-;-;Público;Transporte,Activid. .Extraesc.;
+Madrid-Norte;28000753;IES;FRANCISCO GINER DE LOS RIOS;Avenida De La Transición Española, 11 ;Alcobendas;-;28108;916525466;916511164;ies.ginerdelosrios.alcobendas@educa.madrid.org;-;Transt. Desarrollo;Público;Activid. .Extraesc.;
+Madrid-Capital;28020909;IES;ISABEL LA CATOLICA;Calle De Alfonso Xii, 3 ;Madrid;Retiro;28014;915277878;915302294;ies.isabellacatolica.madrid@educa.madrid.org;-;-;Público;Comedor,Activid. .Extraesc.;
+Madrid-Norte;28001678;IES;JORGE MANRIQUE;Calle Del Mar Adriático, 2 ;Tres Cantos;-;28760;918040964;918046515;ies.jorgemanrique.trescantos@educa.madrid.org;-;Motóricos;Público;Transporte;
+Madrid-Capital;28028672;IES;RAMIRO DE MAEZTU;Calle De Serrano, 127 ;Madrid;Chamartín;28006;915617838;914110865;ies.ramirodemaeztu.madrid@educa.madrid.org;-;-;Público;-;

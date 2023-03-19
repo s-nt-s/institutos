@@ -30,7 +30,8 @@ latlon = {}
 etapas = set()
 ok_tipos = {}
 ok_etapas = set()
-nocturnos = set()
+nocturnos_en = set()
+nocturno_sininfo = False
 notlatlon = []
 mails = []
 for c in d.centros:
@@ -52,9 +53,11 @@ for c in d.centros:
             mod = colors.especial
         if c.dificultad:
             color = colors.dificultad
-        elif c.nocturno:
-            for n in c.nocturno:
-                nocturnos.add(n)
+        elif c.nocturno_en or c.nocturno:
+            if not c.nocturno_en:
+                nocturno_sininfo = True
+            for n in (c.nocturno_en or []):
+                nocturnos_en.add(n)
             color = colors.nocturno
         c.nombre = parse_nombre(c.nombre)
         c.color = color
@@ -134,7 +137,8 @@ jHtml.save(
     "index.html",
     tipos=sorted(ok_tipos.items(), key=lambda x: (x[1], x[0])),
     etapas=sorted(ok_etapas),
-    nocturnos=sorted(nocturnos),
+    nocturnos_en=sorted(nocturnos_en),
+    nocturno_sininfo=nocturno_sininfo,
     lgd=lgd,
     indice=d.indice,
     mails=";".join(sorted(mails)),
@@ -144,7 +148,7 @@ jHtml.save(
     sin_etapas=len([c for c in d.centros if not c.etapas]) > 0,
     parse=create_notas,
     idiomas=idiomas,
-    distancias=(min(dst), max(dst)+1)
+    distancias=(min(dst), max(dst)+1),
 )
 jMd = Jnj2("template/", "./", post=lambda x, **
            kargs: re.sub(r"\n\s*\n\s*\n", r"\n\n", x).strip())

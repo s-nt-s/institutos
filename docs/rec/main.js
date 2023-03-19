@@ -81,6 +81,8 @@ function getPopUp(c) {
   body = []
   if (c.dificultad)
     body.push("<b>Centro de especial dificultad</b>")
+  if (c.nocturno && c.nocturno_en == null)
+    body.push("<b>Nocturno</b>")
   var tags=[];
   if (c.excelencia)
       tags.push("<b>&#35;excelencia</b>")
@@ -107,13 +109,13 @@ function getPopUp(c) {
     li = li.join("\n")
     html = html + `<p>Etapas educativas:</p>\n<ul>\n${li}\n</ul>`
   }
-  if (c.nocturno!=null && c.nocturno.length) {
+  if (c.nocturno_en!=null && c.nocturno_en.length) {
     var li = []
-    c.nocturno.sort().forEach(function(e) {
+    c.nocturno_en.sort().forEach(function(e) {
       li.push("<li>"+e+"</li>")
     });
     li = li.join("\n")
-    html = html + `<p>Nocturno en:</p>\n<ul>\n${li}\n</ul>`
+    html = html + `<p><b>Nocturno</b> en:</p>\n<ul>\n${li}\n</ul>`
   }
   var chk1 = ""
   var chk2 = ""
@@ -196,12 +198,15 @@ function make_filter(f, layer) {
   if (c.dificultad && !$("#dificultad").is(":checked")) return false;
   var km = parseInt($("#kms").val(), 10);
   if (!Number.isNaN(km) && c.min_distance>km) return false;
-  if (c.nocturno && c.nocturno.length) {
+  
+  if (c.nocturno_en && c.nocturno_en.length) {
     var ok=0;
     $("#nocturnos input:checked").each(function(){
-      if (c.nocturno.indexOf(this.title)>-1) ok = ok + 1;
+      if (c.nocturno_en.indexOf(this.title)>-1) ok = ok + 1;
     })
-    if (c.nocturno.length != ok) return false;
+    if (c.nocturno_en.length != ok) return false;
+  } else if (c.nocturno) {
+    if (!$("#ncTrue").is(":checked")) return false;
   }
   if (c.etapas==null || c.etapas.length==0) {
     if (!$("#etNull").is(":checked")) return false;

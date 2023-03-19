@@ -19,7 +19,9 @@ etapas_ban = (
     "Educación Especial Infantil (Adaptac. LOE)",
     "Educación Especial Primaria (Adaptac. LOE)",
     "Cursos a distancia Soporte Telemático",
-    "Programas de Transición a la Vida Adulta (Adaptac. LOE)"
+    "Programas de Transición a la Vida Adulta (Adaptac. LOE)",
+    "Segundo Ciclo Educación Infantil",
+    "Educación Primaria"
 )
 
 

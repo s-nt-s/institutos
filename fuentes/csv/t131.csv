@@ -1,14 +1,14 @@
-CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;
-AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
-Madrid-Capital;28041524;CPROF MUS;ADOLFO SALAZAR;Calle De Ferraz, 62 ;Madrid;Moncloa-Aravaca;28008;915414925;915428871;-;Público;-;
-Madrid-Capital;28039906;CPROF MUS;AMANIEL;Calle De Amaniel, 2 ;Madrid;Centro;28015;915312843;915229346;-;Público;-;
-Madrid-Capital;28044380;CPROF MUS;ARTURO SORIA;Calle De Arturo Soria, 140 ;Madrid;Ciudad Lineal;28043;914135090;914151932;-;Público;-;
-Madrid-Este;28041081;CPROF MUS;CONSERVATORIO PROFESIONAL DE MUSICA DE ALCALA DE HENARES;Calle Alalpardo, S/n ;Alcalá de Henares;-;28806;918820545;918828950;-;Público;-;
-Madrid-Sur;28056102;CPROF MUS;CONSERVATORIO PROFESIONAL DE MUSICA DE GETAFE;Avenida De Las Arcas Del Agua, 1 ;Getafe;-;28905;916017113;916839906;-;Público;-;
-Madrid-Oeste;28040246;CPROF MUS;CONSERVATORIO PROFESIONAL DE MUSICA DE MAJADAHONDA;Plaza Cristóbal Colón, S/n ;Majadahonda;-;28220;916384345;916380737;-;Público;-;
-Madrid-Capital;28044392;CPROF MUS;JOAQUIN TURINA;Calle De Ceuta, 8 ;Madrid;Tetuán;28039;915717640;915717745;-;Público;-;
-Madrid-Sur;28067151;CPROF MUS;MANUEL DE FALLA;Calle De Carballino ;Alcorcón;-;28925;916197900;-;-;Público;-;
-Madrid-Sur;28074700;CPROF MUS;MANUEL RODRIGUEZ SALES;Plaza De Pablo Casals, 1 ;Leganés;-;28911;912489570;912489552;-;Público;-;
-Madrid-Sur;28039441;CPROF MUS;RODOLFO HALFFTER;Calle Canarias, 10 ;Móstoles;-;28931;916647690;916647670;-;Público;-;
-Madrid-Capital;28044409;CPROF MUS;TERESA BERGANZA;Calle Del Palmípedo, 3 ;Madrid;Latina;28047;915265072;915262534;-;Público;-;
-Madrid-Capital;28059280;CPROF MUS;VICTORIA DE LOS ANGELES;Avenida De La Felicidad, 27 ;Madrid;Villaverde;28041;913180342;913180347;-;Público;-;
+CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;;;
+AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;EMAIL;EMAIL2;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
+Madrid-Capital;28041524;CPROF MUS;ADOLFO SALAZAR;Calle De Ferraz, 62 ;Madrid;Moncloa-Aravaca;28008;915414925;915428871;cpm.adolfosalazar.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28039906;CPROF MUS;AMANIEL;Calle De Amaniel, 2 ;Madrid;Centro;28015;915312843;915229346;cpm.amaniel.madrid@educa.madrid.org;amaniel@conservatorioamaniel.com;-;Público;-;
+Madrid-Capital;28044380;CPROF MUS;ARTURO SORIA;Calle De Arturo Soria, 140 ;Madrid;Ciudad Lineal;28043;914135090;914151932;cpm.ciudadlineal.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Este;28041081;CPROF MUS;CONSERVATORIO PROFESIONAL DE MUSICA DE ALCALA DE HENARES;Calle Alalpardo, S/n ;Alcalá de Henares;-;28806;918820545;918828950;cpm.alcala@educa.madrid.org;secretaria@conservatorioalcala.com;-;Público;-;
+Madrid-Sur;28056102;CPROF MUS;CONSERVATORIO PROFESIONAL DE MUSICA DE GETAFE;Avenida De Las Arcas Del Agua, 1 ;Getafe;-;28905;916017113;916016547;cpm.getafe@educa.madrid.org;-;-;Público;-;
+Madrid-Oeste;28040246;CPROF MUS;CONSERVATORIO PROFESIONAL DE MUSICA DE MAJADAHONDA;Plaza Cristóbal Colón, S/n ;Majadahonda;-;28220;916384345;-;cpm.majadahonda@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28044392;CPROF MUS;JOAQUIN TURINA;Calle De Ceuta, 18 ;Madrid;Tetuán;28039;915717640;915717745;cpm.joaquinturina.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Sur;28067151;CPROF MUS;MANUEL DE FALLA;Calle De Carballino ;Alcorcón;-;28925;911127690;-;cpm.manueldefalla.alcorcon@educa.madrid.org;-;-;Público;-;
+Madrid-Sur;28074700;CPROF MUS;MANUEL RODRIGUEZ SALES;Plaza De Pablo Casals, 1 ;Leganés;-;28911;912489570;912489552;cpm.mrodriguezsales.leganes@educa.madrid.org;direccion.escuelademusica@leganes.org;-;Público;-;
+Madrid-Sur;28039441;CPROF MUS;RODOLFO HALFFTER;Calle Canarias, 10 ;Móstoles;-;28931;916647690;916647670;cpm.rodolfohalffter.mostoles@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28044409;CPROF MUS;TERESA BERGANZA;Calle Del Palmípedo, 3 ;Madrid;Latina;28047;915265072;915262534;cpm.teresaberganza.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28059280;CPROF MUS;VICTORIA DE LOS ANGELES;Avenida De La Felicidad, 27 ;Madrid;Villaverde;28041;913180342;913180347;cpm.victoriadelosangeles.madrid@educa.madrid.org;-;-;Público;-;

@@ -1,8 +1,9 @@
-CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;
-AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
-Madrid-Oeste;28701196;CET;GUADARRAMA;Carretera Nacional Vi, Km. 50,300 ;Guadarrama;-;28440;-;-;-;Público;-;
-Madrid-Capital;28701032;CET;NORTE;Calle De La Virgen De Aránzazu, 5 ;Madrid;Hortaleza;28034;913819416;913825798;-;Público;-;
-Madrid-Capital;28701081;CET;PRADERA DE SAN ISIDRO;Calle Del Gorrión, 2 ;Madrid;Carabanchel;28019;914719359;914719359;-;Público;-;
-Madrid-Este;28701020;CET;PUERTA DE MADRID;Calle Alfonso De Alcalá, 2 ;Alcalá de Henares;-;28802;-;-;-;Público;-;
-Madrid-Sur;28701056;CET;SAN AGUSTIN;Calle De Los Frailes ;Leganés;-;28914;914987649;914987649;-;Público;-;
-Madrid-Capital;28700982;CET;VALLECAS;Calle De Quijorna (centro Polivalente), S/n ;Madrid;Villa de Vallecas;28051;917791220;913036028;-;Público;-;
+CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;;;
+AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;EMAIL;EMAIL2;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
+Madrid-Sur;28701263;CET;GETAFE;Avenida De Los Angeles, 57 ;Getafe;-;28903;-;-;cet.getafe@educa.madrid.org;-;-;Público;-;
+Madrid-Oeste;28701196;CET;GUADARRAMA;Carretera Nacional Vi, Km. 50,300 ;Guadarrama;-;28440;-;-;cet.guadarrama@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28701032;CET;NORTE;Calle De La Virgen De Aránzazu, 5 ;Madrid;Hortaleza;28034;913819416;913825798;cet.norte.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28701081;CET;PRADERA DE SAN ISIDRO;Calle Del Gorrión, 2 ;Madrid;Carabanchel;28019;914719359;914719359;cet.praderadesanisidro.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Este;28701020;CET;PUERTA DE MADRID;Calle Alfonso De Alcalá, 2 ;Alcalá de Henares;-;28802;-;-;cet.puertademadrid.alcala@educa.madrid.org;-;-;Público;-;
+Madrid-Sur;28701056;CET;SAN AGUSTIN;Calle De Los Frailes ;Leganés;-;28914;914987649;914987649;cet.leganes@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28700982;CET;VALLECAS;Calle De Quijorna (centro Polivalente), S/n ;Madrid;Villa de Vallecas;28051;917791220;913036028;cet.vallecas.madrid@educa.madrid.org;-;-;Público;-;

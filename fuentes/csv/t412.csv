@@ -1,7 +1,7 @@
-CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;
-AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
-Madrid-Capital;28701147;CTIF;MADRID-CAPITAL;Calle Del Limonero, 28 ;Madrid;Tetuán;28020;913980515;915720320;-;Público;-;
-Madrid-Este;28701172;CTIF;MADRID-ESTE;Calle Luis Vives, 17 ;Alcalá de Henares;-;28803;-;-;-;Público;-;
-Madrid-Norte;28701159;CTIF;MADRID-NORTE;Avenida Euskadi, 13 ;San Sebastián de los Reyes;-;28702;-;-;-;Público;-;
-Madrid-Oeste;28701184;CTIF;MADRID-OESTE;Calle Gabriel García Márquez, 10 ;Collado Villalba;-;28400;-;-;-;Público;-;
-Madrid-Sur;28701160;CTIF;MADRID-SUR;Avenida De La Mancha, 2 ;Leganés;-;28915;916862033;916867599;-;Público;-;
+CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;;;
+AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;EMAIL;EMAIL2;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
+Madrid-Capital;28701147;CTIF;MADRID-CAPITAL;Calle Del Limonero, 28 ;Madrid;Tetuán;28020;913980515;915720320;ctif.madridcapital@educa.madrid.org;-;-;Público;-;
+Madrid-Este;28701172;CTIF;MADRID-ESTE;Calle Luis Vives, 17 ;Alcalá de Henares;-;28803;-;-;ctif.madrideste@educa.madrid.org;-;-;Público;-;
+Madrid-Norte;28701159;CTIF;MADRID-NORTE;Avenida Euskadi, 13 ;San Sebastián de los Reyes;-;28702;-;-;ctif.madridnorte@educa.madrid.org;-;-;Público;-;
+Madrid-Oeste;28701184;CTIF;MADRID-OESTE;Calle Gabriel García Márquez, 10 ;Collado Villalba;-;28400;-;-;ctif.madridoeste@educa.madrid.org;-;-;Público;-;
+Madrid-Sur;28701160;CTIF;MADRID-SUR;Avenida De La Mancha, 2 ;Leganés;-;28915;916862033;916867599;ctif.madridsur@educa.madrid.org;-;-;Público;-;

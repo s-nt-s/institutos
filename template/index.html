@@ -4,14 +4,14 @@
 		<base target="_blank" />
     <meta charset="UTF-8">
     <title>Centros educativos en Madrid</title>
-		<script type="text/javascript">
+		<!--script type="text/javascript">
 			if (document.location.protocol && document.location.hostname && document.location.protocol.startsWith("http")) {
 				var host = document.location.hostname;
 				if (host!="institutos.ml" && host!="localhost") {
 					window.location.replace("https://institutos.ml");
 				}
 			}
-		</script>
+		</script-->
 		<link rel="apple-touch-icon" sizes="180x180" href="icon/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="icon/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="icon/favicon-16x16.png">
@@ -167,9 +167,16 @@
                 </fieldset>
                 <fieldset id="nocturnos">
                   <legend>Nocturnos en</legend>
-					        {% for text in nocturnos %}
+				  {% if (nocturnos_en|length == 0) and not(nocturno_sininfo) %}
+					  ¡No hay centros con nocturnos!
+					  ¿Es un error? Ponme un <a href="https://github.com/s-nt-s/institutos-map/issues">issues</a> citando un ejemplo.
+				  {% endif %}
+					        {% for text in nocturnos_en %}
 										  <input title="{{text}}" id="n{{loop.index}}" type="checkbox" checked="checked"/> <label for="n{{loop.index}}">{{text}}</label><br/>
 									{% endfor %}
+							{% if nocturno_sininfo %}
+							<input title='Centros nocturnos sin información detallada' id="ncTrue" type="checkbox" checked="checked"/> <label for="ncTrue"><em>Centros nocturnos sin información detallada</em></label><br/>
+							{% endif %}
                 </fieldset>
                 <fieldset id="etapas">
                   <legend>Etapas eductativas</legend>
@@ -263,7 +270,7 @@
 									<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
 										<input type="hidden" name="cmd" value="_donations" />
 										<input type="hidden" name="business" value="H69CMSB6JMJLY" />
-										<input type="hidden" name="item_name" value="Mantener actualizado institutos.ml" />
+										<input type="hidden" name="item_name" value="Mantener actualizado s-nt-s.github.io/institutos" />
 										<input type="hidden" name="currency_code" value="EUR" />
 										<input type="image" src="https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="Pulsa aquí para donar :)" alt="Pulsa aquí para donar :)" />
 										<img alt="" border="0" src="https://www.paypal.com/es_ES/i/scr/pixel.gif" width="1" height="1" />

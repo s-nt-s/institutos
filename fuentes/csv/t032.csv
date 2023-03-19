@@ -1,10 +1,9 @@
-CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;
-AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
-Madrid-Capital;28043201;E.M.EPA;ESCUELA DE ADULTOS DE ARGANZUELA;Paseo De La Chopera, 10 ;Madrid;Arganzuela;28045;915886243;No tiene;-;Público;-;
-Madrid-Capital;28044537;E.M.EPA;ESCUELA DE ADULTOS DE BARAJAS;Calle De Plus Ultra, 3 ;Madrid;Barajas;28042;913292265;No tiene;-;Público;-;
-Madrid-Capital;28042449;E.M.EPA;ESCUELA DE ADULTOS DE MONCLOA;Plaza De La Moncloa, 1 ;Madrid;Moncloa-Aravaca;28008;915886910;914800583;-;Público;-;
-Madrid-Capital;28044525;E.M.EPA;ESCUELA MUNICIPAL DE ADULTOS USERA;Calle De La Estafeta, 33 ;Madrid;Usera;28041;917920111;No tiene;-;Público;-;
-Madrid-Este;28036826;E.M.EPA;ESCUELA MUNICIPAL DE EDUCACION DE ADULTOS;Calle Leandro Fernández De Moratín, 6 ;Torrejón de Ardoz;-;28850;916766354;-;-;Público;-;
-Madrid-Este;28044495;E.M.EPA;ESCUELA MUNICIPAL DE EDUCACION DE ADULTOS;Calle Arcipreste De Hita, 4 ;Alcalá de Henares;-;28801;918824691;-;-;Público;-;
-Madrid-Sur;28036772;E.M.EPA;ESCUELA MUNICIPAL RAMON MARIA DEL VALLE INCLAN;Calle Del Olímpico Francisco Fernández Ochoa, 4 ;Alcorcón;-;28922;911127680;916441717;-;Público;-;
-Madrid-Norte;28036760;E.M.EPA;UNIVERSIDAD POPULAR MIGUEL DELIBES;Avenida De La Magia, 4 ;Alcobendas;-;28100;916626062;912771191;-;Público;-;
+CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;;;
+AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;EMAIL;EMAIL2;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
+Madrid-Capital;28044537;E.M.EPA;ESCUELA DE ADULTOS DE BARAJAS;Calle De Plus Ultra, 3 ;Madrid;Barajas;28042;913292265;No tiene;cepa.barajas.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28042449;E.M.EPA;ESCUELA DE ADULTOS DE MONCLOA;Plaza De La Moncloa, 1 ;Madrid;Moncloa-Aravaca;28008;915886910;914800583;cepa.escadmoncloa.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28044525;E.M.EPA;ESCUELA MUNICIPAL DE ADULTOS USERA;Calle De La Estafeta, 33 ;Madrid;Usera;28041;917920111;No tiene;cepa.escadusera.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Este;28036826;E.M.EPA;ESCUELA MUNICIPAL DE EDUCACION DE ADULTOS;Calle Leandro Fernández De Moratín, 6 ;Torrejón de Ardoz;-;28850;916766354;-;cepa.universidadpopular.torrejondeardoz@educa.madrid.org;-;-;Público;-;
+Madrid-Este;28044495;E.M.EPA;ESCUELA MUNICIPAL DE EDUCACION DE ADULTOS;Calle Arcipreste De Hita, 4 ;Alcalá de Henares;-;28801;918824691;-;cepa.emunicipaladultos.alcala@educa.madrid.org;ema-alcala@jazzfree.com;-;Público;-;
+Madrid-Sur;28036772;E.M.EPA;ESCUELA MUNICIPAL RAMON MARIA DEL VALLE INCLAN;Calle Del Olímpico Francisco Fernández Ochoa, 4 ;Alcorcón;-;28922;911127680;916441717;cepa.valleinclan.alcorcon@educa.madrid.org;admeadultos@ayto-alcorcon.es;-;Público;-;
+Madrid-Norte;28036760;E.M.EPA;UNIVERSIDAD POPULAR MIGUEL DELIBES;Avenida De La Magia, 4 ;Alcobendas;-;28100;916626062;912771191;cepa.universidadpopular.alcobendas@educa.madrid.org;upa@aytoalcobendas.org;-;Público;-;

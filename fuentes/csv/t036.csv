@@ -1,15 +1,15 @@
-CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;
-AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
-Madrid-Sur;28064721;A. HOSP.;AULA HOSPITALARIA DE FUENLABRADA;Camino Del Molino, 2 ;Fuenlabrada;-;28942;916006510;-;-;Público;-;
-Madrid-Capital;28058019;A. HOSP.;AULA HOSPITALARIA DOCE DE OCTUBRE;Avenida De Andalucía, 5,400 ;Madrid;Usera;28041;914604923;914604923;-;Público;-;
-Madrid-Sur;28057957;A. HOSP.;AULA HOSPITALARIA FUNDACION ALCORCON;Calle De Budapest, 1 ;Alcorcón;-;28922;916219950;-;-;Público;-;
-Madrid-Sur;28057970;A. HOSP.;AULA HOSPITALARIA HOSP. GRAL. MOSTOLES;Calle Río Júcar, S/n ;Móstoles;-;28935;916648723;-;-;Público;-;
-Madrid-Sur;28057969;A. HOSP.;AULA HOSPITALARIA HOSP. UNIV. DE GETAFE;Carretera De Toledo, 12,50 ;Getafe;-;28905;916839360;9168332742;-;Público;-;
-Madrid-Este;28075820;A. HOSP.;AULA HOSPITALARIA HOSP. UNIV. PRINCIPE DE ASTURIAS;Carretera De Meco, S/n ;Alcalá de Henares;-;28805;918878100;-;-;Público;-;
-Madrid-Capital;28057994;A. HOSP.;AULA HOSPITALARIA LA PAZ;Paseo De La Castellana, 261 ;Madrid;Fuencarral-El Pardo;28046;917277588;917277588;-;Público;-;
-Madrid-Capital;28058007;A. HOSP.;AULA HOSPITALARIA RAMON Y CAJAL;Carretera De Colmenar Viejo, 9,100 ;Madrid;Fuencarral-El Pardo;28034;917293907;917293907;-;Público;-;
-Madrid-Sur;28057982;A. HOSP.;AULA HOSPITALARIA SEVERO OCHOA;Avenida Orellana ;Leganés;-;28911;914818000;-;-;Público;-;
-Madrid-Capital;28018371;A. HOSP.;CATEDRA DE PEDIATRIA, HOSPITAL CLINICO;Calle Del Profesor Martín Lagos, 2 ;Madrid;Moncloa-Aravaca;28040;913303400;913303553;-;Público;Transporte,Comedor;
-Madrid-Capital;28005520;A. HOSP.;HOSPITAL DEL NIÑO JESUS;Avenida De Menéndez Pelayo, 65 ;Madrid;Retiro;28009;914094607;915044473;-;Público;Transporte,Comedor;
-Madrid-Capital;28038550;A. HOSP.;HOSPITAL GREGORIO MARAÑON;Calle De O'donnell, 50 ;Madrid;Retiro;28009;915290334;915290334;-;Público;Transporte,Comedor;
-Madrid-Oeste;28078857;A. HOSP.;HOSPITAL PUERTA DE HIERRO;Calle Manuel De Falla, 1 ;Majadahonda;-;28222;660954532;-;-;Público;-;
+CONSULTA DE CENTROS Y SERVICIOS EDUCATIVOS;;;;;;;;;;;;;;
+AREA TERRITORIAL;CODIGO CENTRO;TIPO DE CENTRO;CENTRO;DOMICILIO;MUNICIPIO;DISTRITO MUNICIPAL;COD. POSTAL;TELEFONO;FAX;EMAIL;EMAIL2;INTEGRACION PREFERENTE;TITULARIDAD;SERVICIOS
+Madrid-Sur;28064721;A. HOSP.;AULA HOSPITALARIA DE FUENLABRADA;Camino Del Molino, 2 ;Fuenlabrada;-;28942;916006510;-;ah.fuenlabrada.fuenlabrada@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28058019;A. HOSP.;AULA HOSPITALARIA DOCE DE OCTUBRE;Avenida De Andalucía, 5,400 ;Madrid;Usera;28041;914604923;914604923;ah.docedeoctubre.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Sur;28057957;A. HOSP.;AULA HOSPITALARIA FUNDACION ALCORCON;Calle De Budapest, 1 ;Alcorcón;-;28922;916219950;-;ah.fundaciondealcorcon.alcorcon@educa.madrid.org;-;-;Público;-;
+Madrid-Sur;28057970;A. HOSP.;AULA HOSPITALARIA HOSP. GRAL. MOSTOLES;Calle Río Júcar, S/n ;Móstoles;-;28935;916648723;-;ah.hgdemostoles.mostoles@educa.madrid.org;-;-;Público;-;
+Madrid-Sur;28057969;A. HOSP.;AULA HOSPITALARIA HOSP. UNIV. DE GETAFE;Carretera De Toledo, 12,50 ;Getafe;-;28905;916839360;9168332742;ah.hugetafe.getafe@educa.madrid.org;-;-;Público;-;
+Madrid-Este;28075820;A. HOSP.;AULA HOSPITALARIA HOSP. UNIV. PRINCIPE DE ASTURIAS;Carretera De Meco, S/n ;Alcalá de Henares;-;28805;918878100;-;ah.principedeasturias.alcala@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28057994;A. HOSP.;AULA HOSPITALARIA LA PAZ;Paseo De La Castellana, 261 ;Madrid;Fuencarral-El Pardo;28046;917277588;917277588;ah.lapaz.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28058007;A. HOSP.;AULA HOSPITALARIA RAMON Y CAJAL;Carretera De Colmenar Viejo, 9,100 ;Madrid;Fuencarral-El Pardo;28034;917293907;917293907;ah.ramonycajal.madrid@educa.madrid.org;-;-;Público;-;
+Madrid-Sur;28057982;A. HOSP.;AULA HOSPITALARIA SEVERO OCHOA;Avenida Orellana ;Leganés;-;28911;914818000;-;ah.severoochoa.leganes@educa.madrid.org;-;-;Público;-;
+Madrid-Capital;28018371;A. HOSP.;CATEDRA DE PEDIATRIA, HOSPITAL CLINICO;Calle Del Profesor Martín Lagos, 2 ;Madrid;Moncloa-Aravaca;28040;913303400;913303553;cpee.hospitalclinico.madrid@educa.madrid.org;-;-;Público;Transporte,Comedor;
+Madrid-Capital;28005520;A. HOSP.;HOSPITAL DEL NIÑO JESUS;Avenida De Menéndez Pelayo, 65 ;Madrid;Retiro;28009;914094607;915044473;cpee.hospitalninojesus.madrid@educa.madrid.org;-;-;Público;Transporte,Comedor;
+Madrid-Capital;28038550;A. HOSP.;HOSPITAL GREGORIO MARAÑON;Calle De O'donnell, 50 ;Madrid;Retiro;28009;915290334;915290334;cpee.hospitalmaranon.madrid@educa.madrid.org;-;-;Público;Transporte,Comedor;
+Madrid-Oeste;28078857;A. HOSP.;HOSPITAL PUERTA DE HIERRO;Calle Manuel De Falla, 1 ;Majadahonda;-;28222;660954532;-;ah.puertadehierro.majadahonda@educa.madrid.org;-;-;Público;-;

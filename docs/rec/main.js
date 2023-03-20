@@ -2,15 +2,15 @@ var centros_layer;
 var transpo_layer;
 var mymap;
 var cursorMarker;
-var mailLink = "mailto:?subject=Consulta%20en%20relación%20al%20concurso%20de%20traslados&";
+const mailLink = "mailto:?subject=Consulta%20en%20relación%20al%20concurso%20de%20traslados&";
 
 var myweb = window.location.href;
 myweb = myweb.substr(document.location.protocol.length+2)
 if (myweb.endsWith("/")) myweb = myweb.substr(0, myweb.length-1);
 
 function get_msg() {
-  var hora = (new Date()).getHours();
-  var msg='Buenos días';
+  const hora = (new Date()).getHours();
+  let msg='Buenos días';
   if (hora>12) msg='Buenas tardes';
   if (hora>20) msg='Buenas noches';
   msg = msg + "\n" +`
@@ -23,14 +23,14 @@ Muchas gracias.`
 }
 
 function get_distance(lat1,lon1,lat2,lon2) {
-  var R = 6371; // km (change this constant to get miles)
-  var dLat = (lat2-lat1) * Math.PI / 180;
-  var dLon = (lon2-lon1) * Math.PI / 180;
-  var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+  const R = 6371; // km (change this constant to get miles)
+  const dLat = (lat2-lat1) * Math.PI / 180;
+  const dLon = (lon2-lon1) * Math.PI / 180;
+  const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
     Math.cos(lat1 * Math.PI / 180 ) * Math.cos(lat2 * Math.PI / 180 ) *
     Math.sin(dLon/2) * Math.sin(dLon/2);
-  var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-  var d = R * c;
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  const d = R * c;
   return d;
 }
 
@@ -38,7 +38,7 @@ var observer = new MutationObserver(function(mutations) {
   mutations.forEach(function(mutation) {
     if (mutation.attributeName === "class") {
       elem = $(mutation.target);
-      var attributeValue = elem.prop(mutation.attributeName);
+      const attributeValue = elem.prop(mutation.attributeName);
       if (attributeValue.indexOf("active")>=0) {
         elem.trigger("active");
       }
@@ -53,8 +53,8 @@ function toUrl(url, txt, title) {
 }
 
 function getPopUp(c) {
-  var body = [`Código: <b>${c.id}</b>`,`<a href="geo:${c.latlon}" title="Coordenadas: ${c.latlon}">${c.direccion}</a>`]
-  var links=[]
+  let body = [`Código: <b>${c.id}</b>`,`<a href="geo:${c.latlon}" title="Coordenadas: ${c.latlon}">${c.direccion}</a>`]
+  let links=[]
   if (c.status_web == 200)
     links.push(toUrl(c.url, "Web"))
   if (c.mail) {
@@ -73,7 +73,7 @@ function getPopUp(c) {
 
   body =body.join("<br/>")
   url = toUrl(c.info, c.nombre)
-  var html= `
+  let html= `
   <h1>${url}</h1>
   <p>${body}</p>
   `;
@@ -83,7 +83,7 @@ function getPopUp(c) {
     body.push("<b>Centro de especial dificultad</b>")
   if (c.nocturno && c.nocturno_en == null)
     body.push("<b>Nocturno</b>")
-  var tags=[];
+  let tags=[];
   if (c.excelencia)
       tags.push("<b>&#35;excelencia</b>")
   if (c.tecnico)
@@ -91,7 +91,7 @@ function getPopUp(c) {
   // if (c.bilingue)
   //     tags.push("bilingue")
   c.idiomas.forEach(function(i) {
-    var t=idiomas[i];
+    const t=idiomas[i];
     tags.push(`<b class="tag_${i} flag" title="Bilingüe o sección de ${t}">&#35;${i}</b>`)
   });
   if (tags.length) {
@@ -102,7 +102,7 @@ function getPopUp(c) {
     html = html + `<p>${body}</p>`
   }
   if (c.etapas!=null && c.etapas.length) {
-    var li = []
+    let li = []
     c.etapas.sort().forEach(function(e) {
       li.push("<li>"+e+"</li>")
     });
@@ -110,16 +110,16 @@ function getPopUp(c) {
     html = html + `<p>Etapas educativas:</p>\n<ul>\n${li}\n</ul>`
   }
   if (c.nocturno_en!=null && c.nocturno_en.length) {
-    var li = []
+    let li = []
     c.nocturno_en.sort().forEach(function(e) {
       li.push("<li>"+e+"</li>")
     });
     li = li.join("\n")
     html = html + `<p><b>Nocturno</b> en:</p>\n<ul>\n${li}\n</ul>`
   }
-  var chk1 = ""
-  var chk2 = ""
-  var chk3 = "checked='checked'"
+  let chk1 = ""
+  let chk2 = ""
+  let chk3 = "checked='checked'"
   if (c.marca) {
     if (c.marca==1) {
       chk1 = chk3;
@@ -133,7 +133,7 @@ function getPopUp(c) {
   if (c.min_distance<1000) {
     html = html + Math.round(c.min_distance) + " metros</p>"
   } else {
-    var km = Math.round(c.min_distance / 100)/10;
+    let km = Math.round(c.min_distance / 100)/10;
     km = km.toString().replace(".", ",");
     html = html + km + " kms</p>"
   }
@@ -152,11 +152,11 @@ function marcar(t, id) {
   if (!t.checked) {
     return;
   }
-  var marca = t.value;
+  let marca = t.value;
   if (marca.length) marca = Number(marca);
   else marca=null;
   geocentros["features"].forEach(function(f) {
-    var _id = f.properties.id;
+    const _id = f.properties.id;
     if (_id==id) {
       f.properties.marca=marca;
     }
@@ -168,8 +168,8 @@ function marcar(t, id) {
 }
 
 function getIcon(p) {
-  var url = p.icon;
-  var iconSize = [32, 32];
+  const iconSize = [32, 32];
+  let url = p.icon;
   if (p.marca==1) {
     if (p.color=="green") url = "http://maps.google.com/mapfiles/ms/micons/grn-pushpin.png"
     else url = "http://maps.google.com/mapfiles/ms/micons/"+p.color+"-pushpin.png"
@@ -181,11 +181,11 @@ function getIcon(p) {
     iconSize:iconSize
   })}
 }
-function make_filter(f, layer) {
-  var count;
-  var c=f.properties;
-  var id = c.id + ""
-  if (c.marca==1) return true;
+function _make_filter(f, layer) {
+  let count;
+  let c=f.properties;
+  let id = c.id + ""
+  if (c.marca==1) return 1;
   //if ($("#siempre").val().split(/\s+/).indexOf(id)>-1) return true;
   //if ($("#nunca").val().split(/\s+/).indexOf(id)>-1) return false;
   if (!$("#t"+c.tipo).is(":checked")) return false;
@@ -196,11 +196,11 @@ function make_filter(f, layer) {
   if (c.excelencia && !$("#excelencia").is(":checked")) return false;
   if (c.tecnico && !$("#tecnico").is(":checked")) return false;
   if (c.dificultad && !$("#dificultad").is(":checked")) return false;
-  var km = parseInt($("#kms").val(), 10);
+  let km = parseInt($("#kms").val(), 10);
   if (!Number.isNaN(km) && c.min_distance>km) return false;
   
   if (c.nocturno_en && c.nocturno_en.length) {
-    var ok=0;
+    let ok=0;
     $("#nocturnos input:checked").each(function(){
       if (c.nocturno_en.indexOf(this.title)>-1) ok = ok + 1;
     })
@@ -212,8 +212,8 @@ function make_filter(f, layer) {
     if (!$("#etNull").is(":checked")) return false;
   }
   else if ($("#etapas input").not("#etNull").not(":checked").length) {
-    var ok=0;
-    var or_ok=false;
+    let ok=0;
+    let or_ok=false;
     $("#etapas input:checked").each(function(){
       if (c.etapas.indexOf(this.title)>-1) {
         or_ok = true;
@@ -226,10 +226,17 @@ function make_filter(f, layer) {
   return true;
 }
 
+function make_filter() {
+  const b = _make_filter.apply(this, arguments);
+  if (b === 1) return true;
+  if ($("#invertir").is(":checked")) return !b;
+  return b;
+}
+
 function get_centros_layer() {
   return L.geoJSON(geocentros,{
     pointToLayer: function (f, latlng) {
-      var p = f.properties;
+      let p = f.properties;
       if (p.marca==2) {
         let options = {
           radius: 5,
@@ -263,7 +270,7 @@ function get_transpo_layer() {
       }
     },
     pointToLayer: function (f, latlng) {
-      var p = f.properties;
+      let p = f.properties;
       let options = {
         radius: 4,
         fillColor: "black",
@@ -275,16 +282,16 @@ function get_transpo_layer() {
       return L.circleMarker( latlng, options );
     },
     onEachFeature: function(f, l) {
-      var p = f.properties;
+      let p = f.properties;
       if (f.geometry.type == "LineString") {
-        var tp = p.tipo.replace("_", " ");
+        let tp = p.tipo.replace("_", " ");
         tp = tp.charAt(0).toUpperCase() + tp.slice(1)
         l.bindPopup("Linea "+p.linea+" de "+tp);
       } else if (f.geometry.type == "Point") {
-        var i;
+        let i;
         txt=[]
         for (i=0;i<p.lineas.length; i++) {
-          var ln=p.lineas[i];
+          let ln=p.lineas[i];
           txt.push(ln[1]);
         }
         if (txt.length==1) txt="Linea "+txt[0];
@@ -294,16 +301,16 @@ function get_transpo_layer() {
       }
     },
     filter: function (f, layer) {
-      var p = f.properties;
+      let p = f.properties;
       if (f.geometry.type == "LineString") {
-        var id = "#"+p.tipo+"_"+p.linea;
+        let id = "#"+p.tipo+"_"+p.linea;
         return $(id).is(":checked");
       } else if (f.geometry.type == "Point") {
         if (!$("#estaciones").is(":checked")) return false;
-        var i;
+        let i;
         for (i=0;i<p.lineas.length; i++) {
-          var ln=p.lineas[i]
-          var id = "#"+ln[0]+"_"+ln[1];
+          let ln=p.lineas[i]
+          let id = "#"+ln[0]+"_"+ln[1];
           if($(id).is(":checked")) return true;
         }
       }
@@ -380,19 +387,19 @@ $("div.filter input").bind("click keypress change", function() {
     //if($("#settings fieldset input:checked").length==0 && $("#kms").val().length==0) return;
     centros_layer = get_centros_layer();
     mymap.addLayer(centros_layer);
-    var estadistica=get_estadistica();
+    let estadistica=get_estadistica();
     $("#count").text(estadistica.seleccionados.length+estadistica.showen.length);
 }).change();
 $("#messages").bind("active", function(){
   if (!$(this).is(".active")) return;
-  var mails=[]
+  let mails=[]
   geocentros["features"].forEach(function(f) {
-    var mail = f.properties.mail;
+    let mail = f.properties.mail;
     if (mail && make_filter(f) && c.marca!=2) {
       mails.push(mail)
     }
   })
-  var lnk = $("#maillink");
+  let lnk = $("#maillink");
   if (mails.length==0) {
     lnk.attr("disabled", "disabled");
     lnk.attr("title", "No se visualiza ningún centro con correo electrónico");
@@ -411,16 +418,16 @@ $("#messages").bind("active", function(){
 })
 
 function get_estadistica(mrk) {
-  var seleccionados=[];
-  var descartados=[];
-  var hidden=[];
-  var showen=[];
+  let seleccionados=[];
+  let descartados=[];
+  let hidden=[];
+  let showen=[];
   if (mrk && mrk._latlng) mrk = mrk._latlng;
   if (mrk && !(mrk.lat && mrk.lng)) mrk = null;
   geocentros["features"].forEach(function(f) {
     c=f.properties;
     if (mrk) {
-      var latlon = c.latlon.split(/,/)
+      let latlon = c.latlon.split(/,/)
       c.dis_to_mrk = get_distance(mrk.lat, mrk.lng, parseFloat(latlon[0]), parseFloat(latlon[1]));
     }
     if (!make_filter(f)) {
@@ -432,7 +439,7 @@ function get_estadistica(mrk) {
     }
   })
   if (mrk) {
-    var fSort = function(a,b) { return a.dis_to_mrk - b.dis_to_mrk }
+    let fSort = function(a,b) { return a.dis_to_mrk - b.dis_to_mrk }
     seleccionados.sort(fSort);
     descartados.sort(fSort);
     hidden.sort(fSort);
@@ -448,21 +455,21 @@ function get_estadistica(mrk) {
 
 $("#lista").bind("active", function(){
   if (!$(this).is(".active")) return;
-  var estadistica=get_estadistica();
+  let estadistica=get_estadistica();
   $("#count").text(estadistica.seleccionados.length+estadistica.showen.length);
   $("#cSel").html(list_centros(estadistica.seleccionados, "Aún no has seleccionado ningún centro"));
   $("#cShw").html(list_centros(estadistica.showen, "Tu filtro oculta todos los centros"));
   $("#cHdn").html(list_centros(estadistica.hidden, "Tu filtro muestra todos los centros"));
   $("#cDsc").html(list_centros(estadistica.descartados, "Aún no has descartados ningún centro"));
   $("#cSel,#cShw,#cHdn,#cDsc").each(function() {
-    var t=$(this);
-    var count=t.find("li").length;
-    var h2=t.prev("h2");
+    let t=$(this);
+    let count=t.find("li").length;
+    let h2=t.prev("h2");
     if (count==0) {
       h2.find("small").remove();
     }
     else {
-      var small = h2.find("small");
+      let small = h2.find("small");
       if (small.length) small.text("("+count+")")
       else h2.append(" <small>("+count+")</small>")
     }
@@ -470,29 +477,29 @@ $("#lista").bind("active", function(){
 });
 
 $("#casa").bind("change", function() {
-  var latlon = this.value.split(/,/);
+  let latlon = this.value.split(/,/);
   if (latlon.length!=2) return;
-  var lat = parseFloat(latlon[0], 10);
-  var lon = parseFloat(latlon[1], 10);
+  let lat = parseFloat(latlon[0], 10);
+  let lon = parseFloat(latlon[1], 10);
   if (Number.isNaN(lat) || Number.isNaN(lon)) return;
 
-  var marker = L.marker([lat, lon],
+  let marker = L.marker([lat, lon],
     {icon: L.icon({iconUrl: "http://maps.google.com/mapfiles/ms/micons/homegardenbusiness.png"})}
   ).addTo(mymap);
 })
 
 $("#download").bind("click", function(){
-  var estadistica=get_estadistica(cursorMarker);
-  var ahora = new Date();
-  var date = ahora.getFullYear() + "." + ahora.getMonth().pad(2) + "." + ahora.getDate().pad(2);
+  let estadistica=get_estadistica(cursorMarker);
+  let ahora = new Date();
+  let date = ahora.getFullYear() + "." + ahora.getMonth().pad(2) + "." + ahora.getDate().pad(2);
   this.download = date+"_centros.txt"
-  var txt='Fecha: '+date+"\n";
+  let txt='Fecha: '+date+"\n";
   if (cursorMarker) {
     txt=txt+`Punto de refrencia: ${cursorMarker._latlng.lat},${cursorMarker._latlng.lng}\n`
   }
-  var filtros=$("#settings");
-  var fltDis=filtros.find("#kms");
-  var inputs=filtros.find("input").not(fltDis)
+  let filtros=$("#settings");
+  let fltDis=filtros.find("#kms");
+  let inputs=filtros.find("input").not(fltDis)
   if (inputs.length==inputs.filter(":checked").length && fltDis.val().length==0) {
     txt=txt+"Filtro: Ver todos\n";
   } else if (inputs.length==inputs.not(":checked").length) {
@@ -500,7 +507,7 @@ $("#download").bind("click", function(){
   } else {
     txt=txt+"Filtro => Ver todos menos:";
     inputs.not(":checked").closest("fieldset").each(function(){
-      var t=$(this);
+      let t=$(this);
       txt=txt+"\n* "+t.find("legend").text().trim()+":";
       t.find("input").not(":checked").each(function(){
         txt=txt+"\n    * "+this.title;
@@ -511,20 +518,20 @@ $("#download").bind("click", function(){
     }
     txt = txt+"\n";
   }
-  var cols=[
+  let cols=[
     ["Centros seleccionados por mi", estadistica.seleccionados],
     ["Centros seleccionados por el filtro", estadistica.showen],
     ["Centros descartados por el filtro", estadistica.hidden],
     ["Centros descartados por mi", estadistica.descartados]
   ];
   cols.forEach(function(item) {
-    var col = item[1];
+    let col = item[1];
     if (col && col.length) {
       txt=txt+"\n"+item[0]+":\n";
       col.forEach(function(c) {
         txt=txt+`\n* ${c.id} ${c.nombre}`
         if (cursorMarker) {
-          var dis;
+          let dis;
           if (c.dis_to_mrk>1) {
             dis=(Math.round(c.dis_to_mrk*100)/100)+"km";
             dis=dis.replace(".", ",");
@@ -549,17 +556,17 @@ $("#download").bind("click", function(){
 
 function list_centros(centros, none) {
   if (centros.length==0) {return "<p>"+none+"</p>"}
-  var mails=[]
-  var html="<ul class='listCentros'>"
-  var lis=[];
+  let mails=[]
+  let html="<ul class='listCentros'>"
+  let lis=[];
   centros.forEach(function(c) {
     if (c.mail) mails.push(c.mail);
-    var distance="";
-    var title="";
-    var d=0;
+    let distance="";
+    let title="";
+    let d=0;
     if (cursorMarker) {
-      var ll = cursorMarker._latlng
-      var latlon = c.latlon.split(/,/)
+      let ll = cursorMarker._latlng
+      let latlon = c.latlon.split(/,/)
       d = get_distance(ll.lat, ll.lng, parseFloat(latlon[0]), parseFloat(latlon[1]));
       if (d>1) {
         distance=Math.round(d)+"km";
@@ -578,9 +585,9 @@ function list_centros(centros, none) {
   });
   if (cursorMarker && lis.length>1) {
     lis = lis.sort(function(a, b) {
-      var d1 = parseFloat(a.split(/"/)[1])
-      var d2 = parseFloat(b.split(/"/)[1])
-      var d = d1 - d2;
+      let d1 = parseFloat(a.split(/"/)[1])
+      let d2 = parseFloat(b.split(/"/)[1])
+      let d = d1 - d2;
       if (d!=0) return d;
       return a.localeCompare(b);
     })
@@ -588,7 +595,7 @@ function list_centros(centros, none) {
   html = html + lis.join("")
   html = html +"</ul>"
   if (mails.length) {
-    var href;
+    let href;
     if (mails.length==1) {
       href = mailLink+"to="+mails[0]+"&body="+get_msg();
     } else{

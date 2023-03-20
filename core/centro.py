@@ -276,6 +276,10 @@ def get_data1(ctr):
                     etapa_especial.append(txt)
                 elif lv == 60 and len(etapa_especial) > 0 and etapa_especial[-1] == txt_especial_obli:
                     etapa_especial_obli.append(txt)
+                elif lv == 60 and txt in ("Ed. Básica Obligatoria-Primaria", "Ed. Básica Obligatoria- ESO"):
+                    if txt_especial_obli not in etapa_especial:
+                        etapa_especial.append(txt_especial_obli)
+                    etapa_especial_obli.append(txt)
     if len(etapa_especial) > 0:
         etapas.remove(txt_especial)
         if len(etapa_especial_obli) > 0:

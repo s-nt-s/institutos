@@ -10447,8 +10447,8 @@
   "status_web": 200,
   "min_distance": 10498,
   "etapas": [
-    "Educaci\u00f3n Especial (Adaptac.LOE)",
-    "ESO (LOMLOE)"
+    "ESO (LOMLOE)",
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
   ],
   "idiomas": ["EN"]
 },{
@@ -12047,6 +12047,30 @@
   "etapas": [
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para Extranjeros"
+  ],
+  "idiomas": []
+},{
+  "id": 28080487,
+  "dat": "Este",
+  "nombre": "IKER CASILLAS",
+  "direccion": "Calle Almagro, Esquina Avda.de La Constituci\u00f3n, S/n 28850 Torrej\u00f3n de Ardoz",
+  "telefono": 648942796,
+  "mail": "cpee.ikercasillas.torrejondeardoz@educa.madrid.org",
+  "latlon": "40.4621889714,-3.4512532132",
+  "nocturno_en": null,
+  "nocturno": false,
+  "dificultad": false,
+  "adaptado": false,
+  "excelencia": false,
+  "tecnico": false,
+  "bilingue": false,
+  "url": "http://www.educa.madrid.org/cpee.ikercasillas.torrejondeardoz",
+  "info": "https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080487",
+  "tipo": "020",
+  "status_web": 404,
+  "min_distance": 845,
+  "etapas": [
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
   ],
   "idiomas": []
 },{

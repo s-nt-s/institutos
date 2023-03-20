@@ -498,14 +498,18 @@ $("#download").bind("click", function(){
     txt=txt+`Punto de refrencia: ${cursorMarker._latlng.lat},${cursorMarker._latlng.lng}\n`
   }
   let filtros=$("#settings");
+  let invertir=$("#invertir")
   let fltDis=filtros.find("#kms");
-  let inputs=filtros.find("input").not(fltDis)
+  let inputs=filtros.find("input").not(fltDis).not(invertir);
   if (inputs.length==inputs.filter(":checked").length && fltDis.val().length==0) {
-    txt=txt+"Filtro: Ver todos\n";
+    const ver=invertir.is(":checked")?"Ocultar":"Ver";
+    txt=txt+"Filtro: "+ver+" todos\n";
   } else if (inputs.length==inputs.not(":checked").length) {
-    txt=txt+"Filtro: Ocultar todos\n";
+    const ocultar=invertir.is(":checked")?"Ver":"Ocultar";
+    txt=txt+"Filtro: "+ocultar+" todos\n";
   } else {
-    txt=txt+"Filtro => Ver todos menos:";
+    const ver=invertir.is(":checked")?"Ocultar":"Ver";
+    txt=txt+"Filtro => "+ver+" todos menos:";
     inputs.not(":checked").closest("fieldset").each(function(){
       let t=$(this);
       txt=txt+"\n* "+t.find("legend").text().trim()+":";

@@ -51,7 +51,6 @@ A excepción de los siguientes que han tenido que ser descartados por no tener c
 
 * [28081467 Nº 1 de Valdemoro](https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28081467)
 * [28701238 Equipo General Pinto](https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28701238)
-* [28701241 Equipo General Arganda del Rey](https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28701241)
 
 # Iconos
 

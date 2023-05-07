@@ -49,7 +49,7 @@ Madrid-Sur;28028404;IES;BUTARQUE;Calle Adolfo Marsillach, 5 ;Leganés;-;28918;91
 Madrid-Sur;28041512;IES;CALATALIFA;Calle San Antonio, 2 ;Villaviciosa de Odón;-;28670;916169295;916169296;ies.calatalifa.villaviciosa@educa.madrid.org;-;Público;
 Madrid-Sur;28067628;IES;CALDERON DE LA BARCA;Calle Francisco Bores, 3 ;Pinto;-;28320;916706645;916706938;ies.calderon.pinto@educa.madrid.org;-;Público;
 Madrid-Capital;28020961;IES;CALDERON DE LA BARCA;Calle De Antonio De Leyva, 84 ;Madrid;Carabanchel;28019;915608300;915650795;ies.calderondelabar.madrid@educa.madrid.org;-;Público;
-Madrid-Oeste;28038914;IES;CAMILO JOSE CELA;Avenida Del Monte, 16 ;Pozuelo de Alarcón;-;28223;917155811;913529511;ies.camilojosecela.pozuelodealarcon@educa.madrid.org;-;Público;
+Madrid-Oeste;28038914;IES;CAMILO JOSE CELA;Avenida Del Monte, 16 ;Pozuelo de Alarcón;-;28223;917155861;913529511;ies.camilojosecela.pozuelodealarcon@educa.madrid.org;-;Público;
 Madrid-Oeste;28046352;IES;CAÑADA REAL;Calle Carmen Martín Gaite, S/n ;Galapagar;-;28260;918583336;918585657;ies.canadareal.galapagar@educa.madrid.org;-;Público;
 Madrid-Este;28039670;IES;CARDENAL CISNEROS;Calle Cardenal Sandoval Y Rojas, 1 ;Alcalá de Henares;-;28802;918817263;918817347;ies.cardenalcisnero.alcala@educa.madrid.org;-;Público;
 Madrid-Capital;28020934;IES;CARDENAL CISNEROS;Calle De Los Reyes, 4 ;Madrid;Centro;28015;915224869;915216372;ies.cardenalcisnero.madrid@educa.madrid.org;secretaria.ies.cardenalcisnero.madrid@educa.madrid.org;Público;
@@ -133,7 +133,7 @@ Madrid-Capital;28020582;IES;GÓMEZ MORENO;Avenida De Hellín, 5 ;Madrid;San Blas
 Madrid-Oeste;28065644;IES;GONZALO ANES;Calle De La Dehesa, S/n ;Collado Mediano;-;28450;918557965;918598879;ies.gonzaloanes.colladomediano@educa.madrid.org;-;Público;
 Madrid-Sur;28074049;IES;GONZALO CHACON;Avenida De Francia, 165 ;Arroyomolinos;-;28939;912649246;912649255;ies.gonzalochacon.arroyomolinos@educa.madrid.org;-;Público;
 Madrid-Norte;28028611;IES;GONZALO TORRENTE BALLESTER;Avenida De Aragón, 12 ;San Sebastián de los Reyes;-;28702;916526533;916522071;ies.torrenteballest.sansebastian@educa.madrid.org;-;Público;
-Madrid-Capital;28021562;IES;GRAN CAPITÁN;Paseo De Los Melancólicos, 51 ;Madrid;Arganzuela;28005;913659190;913661507;ies.grancapitan.madrid@educa.madrid.org;-;Público;
+Madrid-Capital;28021562;IES;GRAN CAPITÁN;Paseo De Los Melancólicos, 51 ;Madrid;Arganzuela;28005;913659190;913540091;ies.grancapitan.madrid@educa.madrid.org;-;Público;
 Madrid-Este;28039724;IES;GRANDE COVIAN;Camino Del Molino, 8 ;Arganda del Rey;-;28500;918700363;918700453;ies.grandecovian.arganda@educa.madrid.org;-;Público;
 Madrid-Capital;28020119;IES;GREGORIO MARAÑON;Avenida De El Ferrol, 43 ;Madrid;Fuencarral-El Pardo;28029;917310421;-;ies.gregoriomaranon.madrid@educa.madrid.org;-;Público;
 Madrid-Oeste;28046558;IES;GREGORIO PECES-BARBA;Carretera De Villanueva Del Pardillo, S/n ;Colmenarejo;-;28270;918424540;918424541;ies.colmenarejo@educa.madrid.org;-;Público;
@@ -214,7 +214,7 @@ Madrid-Capital;28019889;IES;LOPE DE VEGA;Calle De San Bernardo, 70 ;Madrid;Centr
 Madrid-Sur;28026092;IES;LOS CASTILLOS;Avenida De Los Castillos, 5 ;Alcorcón;-;28925;916121063;916119451;ies.loscastillos.alcorcon@educa.madrid.org;-;Público;
 Madrid-Este;28045025;IES;LOS OLIVOS;Calle De Joan Miró, 1 ;Mejorada del Campo;-;28840;916794920;916681156;ies.losolivos.mejorada@educa.madrid.org;info@ieslosolivosmejorada.es;Público;
 Madrid-Sur;28039992;IES;LOS ROSALES;Calle Tulipán, 4 ;Móstoles;-;28933;916146212;916178952;ies.losrosales.mostoles@educa.madrid.org;-;Público;
-Madrid-Este;28042607;IES;LUIS BRAILLE;Calle De Luis Braille, 42 ;Coslada;-;28822;916697200;916694783;ies.luisbraille.coslada@educa.madrid.org;-;Público;
+Madrid-Este;28042607;IES;LUIS BRAILLE;Calle De Luis Braille, 42 ;Coslada;-;28822;916698191;916694783;ies.luisbraille.coslada@educa.madrid.org;-;Público;
 Madrid-Sur;28038422;IES;LUIS BUÑUEL;Calle Orquídea, 1 ;Móstoles;-;28933;912360001;912264142;ies.luisbunuel.mostoles@educa.madrid.org;-;Público;
 Madrid-Sur;28038100;IES;LUIS BUÑUEL;Calle De Berlín, 2 ;Alcorcón;-;28922;916107013;911911285;ies.luisbunuel.alcorcon@educa.madrid.org;-;Público;
 Madrid-Este;28040027;IES;LUIS DE GONGORA;Calle Río, S/n ;Torrejón de Ardoz;-;28850;916487638;916568738;ies.gongora.torrejondeardoz@educa.madrid.org;-;Público;

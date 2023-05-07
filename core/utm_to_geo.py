@@ -46,10 +46,9 @@ def utm_to_geo(HUSO, UTM_X, UTM_Y, DATUM):
     epsg = get_epsg(DATUM, HUSO)
     if epsg is None:
         return (None, None)
-    inProj = pyproj.Proj(init='epsg:' + str(epsg))
-    outProj = pyproj.Proj(init='epsg:4326')
-    x2, y2 = pyproj.transform(inProj, outProj, UTM_X, UTM_Y)
-    return x2, y2
+    transformer = pyproj.Transformer.from_crs('epsg:' + str(epsg), 'epsg:4326')
+    lat, lon = transformer.transform(UTM_X, UTM_Y)
+    return lat, lon
     srcProj = pyproj.Proj(proj="utm", zone=HUSO, ellps=DATUM, units="m")
     dstProj = pyproj.Proj(proj='longlat', ellps='WGS84', datum='WGS84')
     long, lat = pyproj.transform(srcProj, dstProj, UTM_X, UTM_Y)
@@ -59,10 +58,8 @@ def utm_to_geo(HUSO, UTM_X, UTM_Y, DATUM):
 
 
 if __name__ == "__main__":
-    argv = [int(a) for a in sys.argv[1:] if a.isdigit()]
-    if len(argv) != 2:
-        sys.exit("Se necesita pasar como parametro la coordenada UTM_X y UTM_Y")
-    lat, lon = utm_to_geo(30, *argv)
+    argv = [int(a) if a.isdigit() else a for a in sys.argv[1:]]
+    lat, lon = utm_to_geo(30, *argv[1:])
     print(*argv)
     print("=")
     print(lat, lon)

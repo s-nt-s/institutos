@@ -9,7 +9,7 @@ from random import randint
 import json
 import bs4
 
-from .common import get_soup
+from .common import get_soup, fix_text
 from .utm_to_geo import utm_to_geo
 
 urllib3.disable_warnings()
@@ -235,7 +235,7 @@ def get_data1(ctr):
     if data["UTM_ED50-HUSO_30"] != "0.0,0.0":
         utm_split = data["UTM_ED50-HUSO_30"].split(",")
         x, y = tuple(map(float, data["UTM_ED50-HUSO_30"].split(",")))
-        lon, lat = utm_to_geo(30, x, y, "ED50")
+        lat, lon = utm_to_geo(30, x, y, "ED50")
         data["latlon"] = str(lat) + "," + str(lon)
     data["tipo"] = data["tlGenericoCentro"]
     data["nombre"] = data["tlNombreCentro"].title()
@@ -257,8 +257,9 @@ def get_data1(ctr):
         td = tr.find("td")
         txt = get_text(td)
         if txt and txt != "Etapa":
+            txt = fix_text(txt)
             txt = txt.replace("Educación Secundaria Obligatoria", "ESO")
-            if txt == '"Bachibac" Programa doble titulación Bachiller-Baccalaureat':
+            if txt in ('"Bachibac" Programa doble titulación Bachiller-Baccalaureat', '"Bachibac" Programa doble titulación Bachillerato'):
                 txt = "Bachibac"
             lv = 0
             cls = td.attrs["class"]
@@ -307,7 +308,7 @@ def get_data2(ctr):
     cod = h3.parent.find("strong").string
     if ctr != cod:
         return data
-    data["nombre"] = get_text(soup.select("li > span[itemprop='title']"))
+    data["nombre"] = get_text(soup.select("li > span[itemprop='name']"))
     if data["nombre"].startswith("IES "):
         data["nombre"] = data["nombre"][4:]
     if not re_minusculas.search(data["nombre"]):
@@ -331,7 +332,7 @@ def get_data2(ctr):
     if soup.find("div", attrs={"data-title": "IES"}):
         data["tipo"] = "IES"
 
-    data["mail"] = soup.find(text=re.compile(
+    data["mail"] = soup.find("h3", text=re.compile(
         r"\s*Email\s*", re.MULTILINE | re.IGNORECASE)).findParent("div").find("a")
     if data["mail"]:
         data["mail"] = data["mail"].get_text().strip()

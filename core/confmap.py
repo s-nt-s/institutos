@@ -1,6 +1,6 @@
 import re
 
-from bunch import Bunch
+from munch import Munch
 
 re_roman = re.compile(
     r'^(?=[MDCLXVI])M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$', re.IGNORECASE)
@@ -75,7 +75,7 @@ def color_to_url(color, mod):
     return 'https://maps.google.com/mapfiles/ms/micons/'+color+'.png'
 
 
-colors = Bunch(
+colors = Munch(
     dificultad="red",
     nocturno="blue",
     default="green",

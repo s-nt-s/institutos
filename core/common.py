@@ -13,9 +13,21 @@ from .web import Web, FF, get_session
 import bs4
 import requests
 import yaml
-from bunch import Bunch
+from munch import Munch
 
 w = Web()#get_session("https://www.madrid.org/wpad_pub/run/j/BusquedaAvanzada.icm")
+
+def fix_text(s):
+    for bad, good in {
+        "ń": "ñ",
+        "elemįtico": "elemático",
+        "ducaci¾n": "ducación",
+        "ormaci¾n": "ormación",
+        "įsica": "ásica",
+    }.items():
+        s = s.replace(bad, good)
+        s = s.replace(bad.upper(), good.upper())
+    return s
 
 def unzip(target, *urls):
     if os.path.isdir(target):
@@ -77,26 +89,6 @@ def get_soup(url, data=None, select=None, attr=None, to_file=None):
     return soup
 
 
-def mkBunchParse(obj):
-    if isinstance(obj, list):
-        for i, v in enumerate(obj):
-            obj[i] = mkBunchParse(v)
-        return obj
-    if isinstance(obj, dict):
-        data = []
-        # Si la clave es un año lo pasamos a entero
-        flag = True
-        for k in obj.keys():
-            if not isinstance(k, str):
-                return {k: mkBunchParse(v) for k, v in obj.items()}
-            if not(k.isdigit() and len(k) == 4 and int(k[0]) in (1, 2)):
-                flag = False
-        if flag:
-            return {int(k): mkBunchParse(v) for k, v in obj.items()}
-        obj = Bunch(**{k: mkBunchParse(v) for k, v in obj.items()})
-        return obj
-    return obj
-
 
 def read_yml(file):
     if not os.path.isfile(file):
@@ -116,7 +108,7 @@ def mkBunch(file):
         data = read_yml(file)
     if ext == "json":
         data = read_js(file)
-    data = mkBunchParse(data)
+    data = Munch.fromDict(data)
     return data
 
 
@@ -125,7 +117,7 @@ def read_js(file, to_bunch=False):
         with open(file, 'r') as f:
             js = json.load(f)
             if to_bunch:
-                js = mkBunchParse(js)
+                js = Munch.fromDict(js)
             return js
     return None
 

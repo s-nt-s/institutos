@@ -6,11 +6,11 @@ import time
 
 import geopy.distance
 import requests
-from bunch import Bunch
+from munch import Munch
 from shapely.geometry import LineString, Polygon
 
 from .centro import get_abr, get_data, parse_dir, parse_nombre_centro
-from .common import (get_km, get_pdf, get_soup, mkBunch, mkBunchParse,
+from .common import (fix_text, get_pdf, get_soup, mkBunch,
                      read_csv, read_yml, to_num, unzip, read_js)
 from .confmap import etapas_ban, parse_nombre, parse_tipo
 from .decorators import *
@@ -24,6 +24,7 @@ re_pdfs = re.compile(r".*\bapplication%2Fpdf\b.*")
 
 re_csv_br = re.compile(r"\s*\n\s*")
 re_csv_fl = re.compile(r"\s*;\s*")
+
 
 def add_point(points, lat, lon):
     if len(points) > 5:
@@ -75,7 +76,7 @@ class Dataset():
 
     def __init__(self, reload_centros=False, *args, **kargs):
         self.indice = mkBunch("fuentes/indice.yml")
-        self.fuentes = mkBunch("fuentes/fuentes.yml") or Bunch()
+        self.fuentes = mkBunch("fuentes/fuentes.yml") or Munch()
         self.arreglos = read_yml("fuentes/arreglos.yml")
         self.tipo_abr = {v:k for k,v in read_yml("fuentes/tipo_abr.yml").items()}
         self.reload = []
@@ -197,6 +198,7 @@ class Dataset():
             exist_etapas = etapas and len(etapas) > 0
             excluir = []
             if etapas:
+                etapas = list(map(fix_text, etapas))
                 for e in etapas_ban:
                     if e in etapas:
                         excluir.append(e)
@@ -211,7 +213,7 @@ class Dataset():
                 lon = lon.split(".")
                 lon = lon[0]+"."+lon[1][:10]
                 extra["latlon"] = lat+","+lon
-            c = Bunch(
+            c = Munch(
                 id=id,
                 dat=dat,
                 nombre=i["CENTRO"],
@@ -465,7 +467,7 @@ class Dataset():
         for o in soup.select("#comboGenericos option"):
             v = o.attrs.get("value")
             if v and v not in ("0", "-1"):
-                tipos[v] = re_sp.sub(" ", o.get_text()).strip()
+                tipos[v] = fix_text(re_sp.sub(" ", o.get_text()).strip())
         return tipos
 
     @property
@@ -477,7 +479,7 @@ class Dataset():
         for o in soup.select("#comboTipoEnsenanza option"):
             v = o.attrs.get("value")
             if v and v not in ("0", "-1"):
-                tipos[v] = re_sp.sub(" ", o.get_text()).strip()
+                tipos[v] = fix_text(re_sp.sub(" ", o.get_text()).strip())
         return tipos
 
     def dwn_ensenanzas(self):

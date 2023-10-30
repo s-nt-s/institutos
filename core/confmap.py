@@ -8,6 +8,9 @@ re_roman = re.compile(
 etapas_ban = (
     "Formación Profesional de grado medio",
     "Formación Profesional de grado superior",
+    "Formación Profesional Grado Superior (LOMLOE)",
+    "Formación Ocupacional",
+    "Grado A",
     "Segundo Ciclo de Educación Infantil (LOE)",
     "Educación Primaria (LOE - LOMCE)",
     "Idiomas (LOE 1)",
@@ -18,10 +21,12 @@ etapas_ban = (
     "Técnico Profesional",
     "Educación Especial Infantil (Adaptac. LOE)",
     "Educación Especial Primaria (Adaptac. LOE)",
+    "Educación Especial Infantil Especial (EIE)",
     "Cursos a distancia Soporte Telemático",
     "Programas de Transición a la Vida Adulta (Adaptac. LOE)",
     "Segundo Ciclo Educación Infantil",
-    "Educación Primaria"
+    "Educación Primaria",
+    "Educación Infantil Especial (EIE)"
 )
 
 

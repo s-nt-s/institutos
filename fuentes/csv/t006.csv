@@ -10,7 +10,7 @@ Madrid-Este;28047290;EEI-CN;ARCO IRIS;Calle De La Ermita, 1 ;Valdaracete;-;28594
 Madrid-Sur;28057520;EEI-CN;ARCO IRIS;Calle De La Olímpica Conchita Puig, 2 ;Alcorcón;-;28923;916428854;916195357;cn.arcoiris.alcorcon@educa.madrid.org;-;Público;
 Madrid-Este;28047046;EEI-CN;ARGANDA DEL REY;Calle Gran Vía, S/n ;Arganda del Rey;-;28500;918702178;918702178;cn.arganda@educa.madrid.org;-;Público;
 Madrid-Sur;28047083;EEI-CN;ATRAPASUEÑOS;Calle Villas De Don Juan, 17 ;Cadalso de los Vidrios;-;28640;918640575;-;cn.atrapasuenos.cadalso@educa.madrid.org;-;Público;
-Madrid-Sur;28047150;EEI-CN;AVENTURAS;Calle Italia, 12 ;Leganés;-;28916;916804379;916804379;cn.aventuras.leganes@educa.madrid.org;-;Público;
+Madrid-Sur;28047150;EEI-CN;AVENTURAS;Calle Italia, 12 ;Leganés;-;28916;916800938;916800938;cn.aventuras.leganes@educa.madrid.org;-;Público;
 Madrid-Este;28059437;EEI-CN;BAOBAB;Avenida De Madrid, 30 ;Santos de la Humosa, Los;-;28817;918848136;-;cn.baobab.santosdelahumosa@educa.madrid.org;zcn.santosdelahumosa@educa.madrid.org;Público;
 Madrid-Sur;28049845;EEI-CN;BAOBAB;Calle San José, S/n ;Valdemoro;-;28341;918956575;918956575;cn.baobab.valdemoro@educa.madrid.org;-;Público;
 Madrid-Oeste;28057738;EEI-CN;BECERRIL DE LA SIERRA Nº 1;Calle De Cáceres, 3 ;Becerril de la Sierra;-;28490;918538749;918538749;cn.numerouno.becerril@educa.madrid.org;-;Público;
@@ -34,7 +34,7 @@ Madrid-Este;28047770;EEI-CN;COLORIN COLORADO;Camino Del Molino, S/n ;Camarma de 
 Madrid-Oeste;28057741;EEI-CN;COLORIN COLORETE;Avenida De La Cruz Verde, 3 ;Zarzalejo;-;28293;918992465;918992465;cn.colorincolorete.zarzalejo@educa.madrid.org;-;Público;
 Madrid-Sur;28049158;EEI-CN;COLORINES;Avenida De España, 66 ;Getafe;-;28903;916825253;916825253;cn.colorines.getafe@educa.madrid.org;-;Público;
 Madrid-Norte;28048154;EEI-CN;CRISTINA ALONSO CABALLERO;Calle De Los Álamos, S/n ;Venturada;-;28729;918439531;918439531;cn.venturada@educa.madrid.org;-;Público;
-Madrid-Este;28047824;EEI-CN;DAGANZO;Calle San Roque, 1 ;Daganzo de Arriba;-;28814;918875143;918875143;cn.daganzo@educa.madrid.org;-;Público;
+Madrid-Este;28047824;EEI-CN;DAGANZO;Calle San Roque, 1 ;Daganzo de Arriba;-;28814;914674749;-;cn.daganzo@educa.madrid.org;-;Público;
 Madrid-Capital;28049951;EEI-CN;DANIEL VAZQUEZ DIAZ;Calle De Armenteros, 46 ;Madrid;Moncloa-Aravaca;28039;913113496;913113496;cn.danielvazquezdi.madrid@educa.madrid.org;-;Público;
 Madrid-Este;28075871;EEI-CN;DON MELITON (PROGRAMA DE CASA DE NIÑOS);Calle Arturo Soria, 5 ;Alcalá de Henares;-;28806;918786757;-;-;-;Público;
 Madrid-Oeste;28078730;EEI-CN;DON PIMPON (PROGRAMA CASA DE NIÑOS);Calle De Murillo, 1 ;Galapagar;-;28420;918585012;-;-;eei.donpimpon@hotmail.com;Público;
@@ -52,7 +52,7 @@ Madrid-Oeste;28058214;EEI-CN;EL HADA TRAGA MANZANAS;Calle Almendros, S/n ;Collad
 Madrid-Sur;28076401;EEI-CN;EL NARANJO (PROGRAMA CASA DE NIÑOS);Paseo Riazor, S/n ;Fuenlabrada;-;28942;916085189;-;-;almudena.bote@madrid.org;Público;
 Madrid-Este;28048737;EEI-CN;EL OLMO;Calle Carlos Ruiz, 13 ;Villar del Olmo;-;28512;918732179;-;cn.elolmo.villardelolmo@educa.madrid.org;-;Público;
 Madrid-Oeste;28047253;EEI-CN;EL PARQUE;Carretera M-512 (navas Del Rey), 9 ;Robledo de Chavela;-;28294;918998248;918998590;cn.elparque.robledo@educa.madrid.org;-;Público;
-Madrid-Sur;28060671;EEI-CN;EL PRINCIPITO;Avenida José Fernández Segovia, 1 ;Torrejón de Velasco;-;28990;663802339;-;eei.elprincipito.torrejondevelasco@educa.madrid.org;-;Público;
+Madrid-Sur;28060671;EEI-CN;EL PRINCIPITO;Avenida José Fernández Segovia, 1 ;Torrejón de Velasco;-;28990;918169674;-;eei.elprincipito.torrejondevelasco@educa.madrid.org;-;Público;
 Madrid-Este;28072831;EEI-CN;EL RINCON MAGICO;Calle Del Teniente Ortiz De Zarate, 19 ;Chinchón;-;28370;918940312;-;cn.chinchon@educa.madrid.org;-;Público;
 Madrid-Sur;28077002;EEI-CN;EL ROBLE (PROGRAMA CASA DE NIÑOS);Glorieta De Lituania, S/n ;Valdemoro;-;28341;918083102;-;-;-;Público;
 Madrid-Sur;28075753;EEI-CN;EL ROMANCERO (PROGRAMA DE CASA DE NIÑOS);Calle Dinamarca, 11 ;Leganés;-;28916;916884688;916884688;-;eei.elromancero.leganes @educa.madrid.org;Público;
@@ -138,7 +138,7 @@ Madrid-Norte;28048725;EEI-CN;REDUEÑA;Calle De Las Eras, S/n ;Redueña;-;28721;9
 Madrid-Capital;28049183;EEI-CN;REPUBLICA DEL BRASIL;Avenida De Los Fueros, 34 ;Madrid;Usera;28041;914758106;914758106;cn.brasil.madrid@educa.madrid.org;-;Público;
 Madrid-Oeste;28047681;EEI-CN;RINCON FLORIDO;Carretera De Los Molinos, 5 ;Cercedilla;-;28470;918523940;918523940;eei.rinconflorido.cercedilla@educa.madrid.org;-;Público;
 Madrid-Norte;28065981;EEI-CN;RIO ALISOS;Calle Del Manzanares, 13 ;Guadalix de la Sierra;-;28794;918472867;918472867;eei.riodealisos.guadalix@educa.madrid.org;eiriodealisos@geinfantiles.com;Público;
-Madrid-Este;28073136;EEI-CN;RIO TAJUÑA;Calle Río Tajuña, 23dup ;Ambite;-;28580;918722093;-;cn.riotajuna.ambite@educa.madrid.org;-;Público;
+Madrid-Este;28073136;EEI-CN;RIO TAJUÑA;Calle Benito Torres, 10 ;Ambite;-;28580;918722093;-;cn.riotajuna.ambite@educa.madrid.org;-;Público;
 Madrid-Sur;28075868;EEI-CN;ROSA CARAMELO (PROGRAMA DE CASA DE NIÑOS);Calle De Gabriela Mistral, 8 ;Leganés;-;28919;916872188;-;-;rosacaramelo2001@yahoo.es;Público;
 Madrid-Capital;28049961;EEI-CN;SAN MIGUEL;Avenida De La Virgen Del Carmen, 32 ;Madrid;Hortaleza;28033;913820145;913820145;cn.sanmiguel.madrid@educa.madrid.org;-;Público;
 Madrid-Norte;28064603;EEI-CN;SANTA CECILIA (PROGRAMA DE CASA DE NIÑOS);Avenida De La Constitución, 2 ;Molar, El;-;28710;918411182;918411182;eei.santacecilia.elmolar@educa.madrid.org;escuelainfantil-2@hotmail.com;Público;

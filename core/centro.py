@@ -79,6 +79,7 @@ def status_web(url, stweb, intentos=1):
         return 991
     return 200
 
+
 def get_grafica(ct, **kargv):
     data={
         "callCount":1,
@@ -96,6 +97,7 @@ def get_grafica(ct, **kargv):
         data.update(kargv)
     r = requests.post("http://gestiona.madrid.org/wpad_pub/dwr/exec/GraficasDWRAccion.obtenerGrafica.dwr", data=data)
     return r.text.replace(";", ";\n")
+
 
 def get_estadistica(ct):
     estadistica={}
@@ -132,6 +134,7 @@ def get_text(n, index=0):
     txt = re_sp.sub(" ", n.get_text()).strip()
     return txt
 
+
 def get_abr_dir(w1):
     w1 = w1.lower()
     if w1 == "avenida":
@@ -166,6 +169,7 @@ def get_abr_dir(w1):
         return "Urb."
     return None
 
+
 def parse_dir(dir):
     if not dir:
         return dir
@@ -178,6 +182,30 @@ def parse_dir(dir):
     dir = " ".join(rst)
     dir = re.sub(r"\b(s/n|c/v)\b",  lambda x: x.group().upper(), dir, flags=re.IGNORECASE)
     return dir
+
+
+def parse_etapa(txt: str):
+    spl = txt.split("\n")
+    if len(spl) == 1:
+        return txt
+    if spl[0] == "Educación Especial (Adaptac.LOE)":
+        aux = spl[-1].split("-", 1)
+        if aux[0] == "Ed. Básica Obligatoria":
+            return f"Educación Especial {aux[1].strip()} (Adaptac. LOE)"
+        if spl[-1] == "Educación Básica Obligatoria (Adaptac. LOE)":
+            return "Educación Básica Obligatoria (Adaptac. LOE)"
+        if spl[-1] == "Educación Infantil (Adaptac. LOE)":
+            return "Educación Especial Infantil (Adaptac. LOE)"
+        if spl[-1] == "Programas de Transición a la Vida Adulta (Adaptac. LOE)":
+            return spl[-1]
+    if spl[0] == "Educación Especial (LOMLOE)":
+        if spl[-1] == "Edcuación Básica Oblicatoria (EBO)":
+            return "Edcuación Básica Oblicatoria (LOMLOE)"
+        if spl[-1] == "Educación Infantil Especial (EIE)":
+            return spl[-1]
+        if spl[-1] == "Talleres Formativos (TF)":
+            return spl[-1]
+    return txt.replace("\n", " -> ")
 
 
 def get_data(ctr, stweb):
@@ -210,6 +238,12 @@ def get_data(ctr, stweb):
     if d1.get("url") and d1["url"].endswith("/"):
         d1["url"]=d1["url"][:-1]
     return d1
+
+
+def lst_remove(arr1: list, arr2: list):
+    for i in arr2:
+        if i in arr1:
+            arr1.remove(i)
 
 
 def get_data1(ctr):
@@ -249,10 +283,7 @@ def get_data1(ctr):
     if len(data["nocturno"]) == 0:
         data["nocturno"] = None
     etapas = []
-    txt_especial = "Educación Especial (Adaptac.LOE)"
-    txt_especial_obli = "Educación Básica Obligatoria (Adaptac. LOE)"
-    etapa_especial = []
-    etapa_especial_obli = []
+    txt_especial = ("Educación Especial (Adaptac.LOE)", "Educación Especial (LOMLOE)")
     for tr in soup.select("#capaEtapasContent tr"):
         td = tr.find("td")
         txt = get_text(td)
@@ -272,27 +303,24 @@ def get_data1(ctr):
                         lv = int(cl)
             if lv == 0:
                 etapas.append(txt)
-            elif len(etapas) > 0 and etapas[-1] == txt_especial:
-                if lv == 40:
-                    etapa_especial.append(txt)
-                elif lv == 60 and len(etapa_especial) > 0 and etapa_especial[-1] == txt_especial_obli:
-                    etapa_especial_obli.append(txt)
-                elif lv == 60 and txt in ("Ed. Básica Obligatoria-Primaria", "Ed. Básica Obligatoria- ESO"):
-                    if txt_especial_obli not in etapa_especial:
-                        etapa_especial.append(txt_especial_obli)
-                    etapa_especial_obli.append(txt)
-    if len(etapa_especial) > 0:
-        etapas.remove(txt_especial)
-        if len(etapa_especial_obli) > 0:
-            etapa_especial.remove(txt_especial_obli)
-            for et in etapa_especial_obli:
-                if "-" in et:
-                    et = et.split("-", 1)[-1].strip()
-                etapa_especial.append(
-                    txt_especial_obli.replace("Básica Obligatoria", et))
-        for et in etapa_especial:
-            et = et.replace("Educación ", "Educación Especial ")
-            etapas.append(et)
+                continue
+            if len(etapas) == 0:
+                continue
+            lst_etapa = etapas[-1].split("\n")
+            if lst_etapa[0] not in txt_especial:
+                continue
+            if lv == 40:
+                etapas.append(lst_etapa[0]+'\n'+txt)
+            elif lv == 60:
+                etapas.append("\n".join(lst_etapa[0:2])+'\n'+txt)
+    for etapa in list(etapas):
+        spl = etapa.split("\n")
+        if len(spl) < 2:
+            continue
+        txt = "\n".join(spl[:-1])
+        if txt in etapas:
+            etapas.remove(txt)
+    etapas = list(map(parse_etapa, etapas))
     data["etapas"] = etapas if len(etapas) else None
     return data
 

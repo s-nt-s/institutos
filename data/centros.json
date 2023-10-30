@@ -109,7 +109,7 @@
   "nocturno_en": null,
   "nocturno": true,
   "dificultad": false,
-  "adaptado": true,
+  "adaptado": false,
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
@@ -173,7 +173,9 @@
   "status_web": 200,
   "min_distance": 852,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -431,7 +433,7 @@
   "nocturno_en": null,
   "nocturno": false,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
@@ -714,7 +716,9 @@
   "status_web": 200,
   "min_distance": 916,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -738,7 +742,8 @@
   "status_web": 200,
   "min_distance": 506,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)"
   ],
   "idiomas": []
 },{
@@ -762,7 +767,9 @@
   "status_web": 200,
   "min_distance": 421,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -910,7 +917,8 @@
   "status_web": 200,
   "min_distance": 388,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)"
   ],
   "idiomas": []
 },{
@@ -1772,7 +1780,9 @@
   "status_web": 200,
   "min_distance": 498,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -1796,7 +1806,9 @@
   "status_web": 200,
   "min_distance": 552,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -1820,7 +1832,9 @@
   "status_web": 200,
   "min_distance": 301,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -2068,7 +2082,8 @@
   "status_web": 200,
   "min_distance": 14668,
   "etapas": [
-    "ESO (LOMLOE)"
+    "ESO (LOMLOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)"
   ],
   "idiomas": ["EN"]
 },{
@@ -2149,7 +2164,7 @@
   "dat": "Este",
   "nombre": "VEGA DEL JARAMA",
   "direccion": "Avenida De Ir\u00fan, 18 28830 San Fernando de Henares",
-  "telefono": 916739507,
+  "telefono": 916711104,
   "mail": "ies.vegadeljarama.sanfernando@educa.madrid.org",
   "latlon": "40.4234525354,-3.5292226325",
   "nocturno_en": null,
@@ -2207,7 +2222,7 @@
   "nocturno_en": null,
   "nocturno": false,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": true,
   "bilingue": true,
@@ -2417,6 +2432,7 @@
   "status_web": 999,
   "min_distance": 472,
   "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO (LOMLOE)",
     "Ed. Sec. Postobligatoria Bachillerato (LOMLOE)"
   ],
@@ -2442,7 +2458,9 @@
   "status_web": 200,
   "min_distance": 1087,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -2818,7 +2836,9 @@
   "status_web": 200,
   "min_distance": 668,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -2842,7 +2862,9 @@
   "status_web": 200,
   "min_distance": 299,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -2985,7 +3007,7 @@
   "nocturno_en": null,
   "nocturno": false,
   "dificultad": false,
-  "adaptado": true,
+  "adaptado": false,
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
@@ -3035,7 +3057,7 @@
   "nocturno_en": null,
   "nocturno": false,
   "dificultad": true,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
@@ -3070,6 +3092,7 @@
   "status_web": 200,
   "min_distance": 487,
   "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO (LOMLOE)",
     "Ed. Sec. Postobligatoria Bachillerato (LOMLOE)"
   ],
@@ -3376,6 +3399,7 @@
   "status_web": 200,
   "min_distance": 431,
   "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO (LOMLOE)",
     "Ed. Sec. Postobligatoria Bachillerato (LOMLOE)"
   ],
@@ -3397,7 +3421,7 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.barriodebilbao.madrid",
   "info": "https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28030991",
-  "tipo": "042",
+  "tipo": "068",
   "status_web": 200,
   "min_distance": 663,
   "etapas": [
@@ -3652,7 +3676,9 @@
   "status_web": 200,
   "min_distance": 1512,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -3726,7 +3752,9 @@
   "status_web": 200,
   "min_distance": 564,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -3866,7 +3894,7 @@
   "nocturno_en": null,
   "nocturno": false,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
@@ -3926,7 +3954,9 @@
   "status_web": 200,
   "min_distance": 428,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -3950,7 +3980,9 @@
   "status_web": 200,
   "min_distance": 250,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -4025,7 +4057,9 @@
   "status_web": 200,
   "min_distance": 508,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -4353,7 +4387,9 @@
   "status_web": 200,
   "min_distance": 232,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -4377,7 +4413,9 @@
   "status_web": 200,
   "min_distance": 285,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -4401,7 +4439,9 @@
   "status_web": 200,
   "min_distance": 115,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -4525,6 +4565,7 @@
   "status_web": 200,
   "min_distance": 189,
   "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO (LOMLOE)",
     "Ed. Sec. Postobligatoria Bachillerato (LOMLOE)"
   ],
@@ -4565,7 +4606,7 @@
   "nocturno_en": null,
   "nocturno": false,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
@@ -4698,7 +4739,8 @@
   "status_web": 200,
   "min_distance": 170,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)"
   ],
   "idiomas": []
 },{
@@ -5153,7 +5195,9 @@
   "status_web": 200,
   "min_distance": 1531,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -5201,7 +5245,9 @@
   "status_web": 200,
   "min_distance": 279,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -5225,7 +5271,9 @@
   "status_web": 991,
   "min_distance": 1540,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -5528,6 +5576,7 @@
   "status_web": 200,
   "min_distance": 256,
   "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO (LOMLOE)",
     "Ed. Sec. Postobligatoria Bachillerato (LOMLOE)"
   ],
@@ -5823,10 +5872,10 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
-  "url": "http://www.educa2.madrid.org/web/iesleonfelipe",
+  "url": "http://www.educa.madrid.org/ies.leonfelipe.getafe",
   "info": "https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28040702",
   "tipo": "042",
-  "status_web": 200,
+  "status_web": 991,
   "min_distance": 332,
   "etapas": [
     "ESO (LOMLOE)",
@@ -5969,7 +6018,7 @@
   "nocturno_en": null,
   "nocturno": false,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": true,
   "tecnico": false,
   "bilingue": true,
@@ -6031,7 +6080,9 @@
   "status_web": 200,
   "min_distance": 1845,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -6400,7 +6451,7 @@
   "nocturno_en": null,
   "nocturno": false,
   "dificultad": false,
-  "adaptado": true,
+  "adaptado": false,
   "excelencia": false,
   "tecnico": true,
   "bilingue": false,
@@ -6602,7 +6653,7 @@
   "nocturno_en": null,
   "nocturno": false,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": true,
   "tecnico": false,
   "bilingue": true,
@@ -7653,7 +7704,7 @@
   "nocturno_en": null,
   "nocturno": false,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
@@ -7894,6 +7945,7 @@
   "status_web": 200,
   "min_distance": 313,
   "etapas": [
+    "Ense\u00f1anzas para el Desarrollo Personal y la Participaci\u00f3n",
     "ESO para personas adultas (LOE-LOMCE)",
     "Espa\u00f1ol para Extranjeros"
   ],
@@ -7973,7 +8025,8 @@
   "etapas": [
     "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO para personas adultas (LOE-LOMCE)",
-    "Espa\u00f1ol para Extranjeros"
+    "Espa\u00f1ol para Extranjeros",
+    "Ense\u00f1anzas para el Desarrollo Personal y la Participaci\u00f3n"
   ],
   "idiomas": []
 },{
@@ -8084,7 +8137,7 @@
   "dat": "Sur",
   "nombre": "HERMANOS CORREA",
   "direccion": "Calle De Cuba C/v Av. Hispanoam\u00e9rica, S/n 28341 Valdemoro",
-  "telefono": 918084201,
+  "telefono": 629022428,
   "mail": "cepa.valdemoro@educa.madrid.org",
   "latlon": "40.1873145257,-3.6896488723",
   "nocturno_en": null,
@@ -8514,7 +8567,7 @@
   "dat": "Sur",
   "nombre": "IGNACIO ALDECOA",
   "direccion": "Calle Saeta, S/n 28909 Getafe",
-  "telefono": 916847958,
+  "telefono": 919081974,
   "mail": "ies.ignacioaldecoa.getafe@educa.madrid.org",
   "latlon": "40.3253347798,-3.6574438500",
   "nocturno_en": null,
@@ -8736,6 +8789,30 @@
   ],
   "idiomas": ["EN"]
 },{
+  "id": 28046376,
+  "dat": "Capital",
+  "nombre": "ESCUELA DE LA VID",
+  "direccion": "Travesia Del Vino 28011 Madrid",
+  "telefono": 914633100,
+  "mail": "ies.vid.madrid@educa.madrid.org",
+  "latlon": "40.4108988401,-3.7430627849",
+  "nocturno_en": null,
+  "nocturno": false,
+  "dificultad": false,
+  "adaptado": false,
+  "excelencia": false,
+  "tecnico": false,
+  "bilingue": false,
+  "url": "http://www.educa.madrid.org/ies.vid.madrid",
+  "info": "https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28046376",
+  "tipo": "068",
+  "status_web": 991,
+  "min_distance": 358,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ],
+  "idiomas": []
+},{
   "id": 28046467,
   "dat": "Capital",
   "nombre": "ORCASITAS",
@@ -8864,6 +8941,30 @@
     "Ed. Sec. Postobligatoria Bachillerato (LOMLOE)"
   ],
   "idiomas": ["EN"]
+},{
+  "id": 28048282,
+  "dat": "Capital",
+  "nombre": "PUERTA BONITA",
+  "direccion": "Calle Del Padre Amigo, 5 28025 Madrid",
+  "telefono": 914661744,
+  "mail": "ies.puertabonita.madrid@educa.madrid.org",
+  "latlon": "40.3795784134,-3.7396206247",
+  "nocturno_en": null,
+  "nocturno": false,
+  "dificultad": false,
+  "adaptado": false,
+  "excelencia": false,
+  "tecnico": false,
+  "bilingue": false,
+  "url": "http://www.educa.madrid.org/ies.puertabonita.madrid",
+  "info": "https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28048282",
+  "tipo": "042",
+  "status_web": 991,
+  "min_distance": 593,
+  "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)"
+  ],
+  "idiomas": []
 },{
   "id": 28048476,
   "dat": "Oeste",
@@ -9364,6 +9465,7 @@
   "status_web": 200,
   "min_distance": 5303,
   "etapas": [
+    "Formaci\u00f3n Profesional B\u00e1sica (LOE-LOMCE)",
     "ESO (LOMLOE)",
     "Ed. Sec. Postobligatoria Bachillerato (LOMLOE)"
   ],
@@ -9440,8 +9542,9 @@
   "status_web": 200,
   "min_distance": 2280,
   "etapas": [
-    "ESO para personas adultas (LOE-LOMCE)",
-    "Espa\u00f1ol para Extranjeros"
+    "Ense\u00f1anzas para el Desarrollo Personal y la Participaci\u00f3n",
+    "Espa\u00f1ol para Extranjeros",
+    "ESO para personas adultas (LOE-LOMCE)"
   ],
   "idiomas": []
 },{
@@ -9696,7 +9799,9 @@
   "status_web": 200,
   "min_distance": 1699,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -9886,7 +9991,7 @@
   "nocturno_en": null,
   "nocturno": false,
   "dificultad": false,
-  "adaptado": false,
+  "adaptado": true,
   "excelencia": false,
   "tecnico": false,
   "bilingue": true,
@@ -10447,8 +10552,9 @@
   "status_web": 200,
   "min_distance": 10505,
   "etapas": [
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
     "ESO (LOMLOE)",
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)"
   ],
   "idiomas": ["EN"]
 },{
@@ -10768,6 +10874,30 @@
   ],
   "idiomas": []
 },{
+  "id": 28069169,
+  "dat": "Capital",
+  "nombre": "LOYOLA DE PALACIO",
+  "direccion": "Calle Del Embalse De Navacerrada, 60 28051 Madrid",
+  "telefono": 913851330,
+  "mail": "cp.loyoladepalacio.madrid@educa.madrid.org",
+  "latlon": "40.3606273974,-3.5986176362",
+  "nocturno_en": null,
+  "nocturno": false,
+  "dificultad": false,
+  "adaptado": true,
+  "excelencia": false,
+  "tecnico": false,
+  "bilingue": true,
+  "url": "http://www.educa.madrid.org/cp.loyoladepalacio.madrid",
+  "info": "https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28069169",
+  "tipo": "070",
+  "status_web": 991,
+  "min_distance": 294,
+  "etapas": [
+    "ESO (LOMLOE)"
+  ],
+  "idiomas": ["EN"]
+},{
   "id": 28069391,
   "dat": "Sur",
   "nombre": "FERNANDO FERNAN GOMEZ",
@@ -10837,7 +10967,9 @@
   "status_web": 200,
   "min_distance": 1205,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -11366,6 +11498,30 @@
   ],
   "idiomas": ["EN"]
 },{
+  "id": 28075777,
+  "dat": "Capital",
+  "nombre": "BLAS DE LEZO",
+  "direccion": "Calle De Fromista, 27 28050 Madrid",
+  "telefono": 912761564,
+  "mail": "cp.blasdelezo.madrid@educa.madrid.org",
+  "latlon": "40.5112213998,-3.6725682046",
+  "nocturno_en": null,
+  "nocturno": false,
+  "dificultad": false,
+  "adaptado": false,
+  "excelencia": false,
+  "tecnico": false,
+  "bilingue": true,
+  "url": "http://www.educa.madrid.org/cp.blasdelezo.madrid",
+  "info": "https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28075777",
+  "tipo": "070",
+  "status_web": 991,
+  "min_distance": 410,
+  "etapas": [
+    "ESO (LOMLOE)"
+  ],
+  "idiomas": ["EN"]
+},{
   "id": 28075820,
   "dat": "Este",
   "nombre": "AULA HOSPITALARIA HOSP. UNIV. PRINCIPE DE ASTURIAS",
@@ -11432,7 +11588,9 @@
   "status_web": 200,
   "min_distance": 500,
   "etapas": [
-    "Educaci\u00f3n Especial B\u00e1sica Obligatoria (Adaptac. LOE)"
+    "Educaci\u00f3n B\u00e1sica Obligatoria (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -11613,7 +11771,7 @@
   "dat": "Este",
   "nombre": "SIMONE VEIL",
   "direccion": "Parcela Eq-01 Sector 4 De Miramadrid Paracuellos de Jarama",
-  "telefono": null,
+  "telefono": 912760178,
   "mail": "ies.simoneveil.paracuellos@educa.madrid.org",
   "latlon": "40.4972473979,-3.5147785016",
   "nocturno_en": null,
@@ -11675,7 +11833,7 @@
   "bilingue": false,
   "url": "http://www.educa.madrid.org/ies.federicamontsen.fuenlabrada",
   "info": "https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28077971",
-  "tipo": "042",
+  "tipo": "068",
   "status_web": 200,
   "min_distance": 546,
   "etapas": [
@@ -11803,7 +11961,9 @@
   "status_web": 200,
   "min_distance": 922,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -11883,7 +12043,7 @@
   "dat": "Este",
   "nombre": "FRANCISCA DE PEDRAZA",
   "direccion": "Avenida De Europa C/v Calle Jesus Guridi 28806 Alcal\u00e1 de Henares",
-  "telefono": null,
+  "telefono": 676323323,
   "mail": "ies.franciscadepedraza.alcala@educa.madrid.org",
   "latlon": "40.4836708456,-3.3876735033",
   "nocturno_en": null,
@@ -11980,10 +12140,10 @@
   "id": 28080037,
   "dat": "Capital",
   "nombre": "BLANCA FERNANDEZ OCHOA",
-  "direccion": "Calle De Alfredo Marquerie, 21 28034 Madrid",
+  "direccion": "Calle De Monasterio De El Paular, 3 28049 Madrid",
   "telefono": 680715136,
   "mail": "ies.blancafdezochoa.madrid@educa.madrid.org",
-  "latlon": "40.4871727139,-3.7005521464",
+  "latlon": "40.5002746786,-3.7118643507",
   "nocturno_en": null,
   "nocturno": false,
   "dificultad": false,
@@ -11995,7 +12155,7 @@
   "info": "https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080037",
   "tipo": "042",
   "status_web": 200,
-  "min_distance": 487,
+  "min_distance": 234,
   "etapas": [
     "ESO (LOMLOE)"
   ],
@@ -12005,7 +12165,7 @@
   "dat": "Sur",
   "nombre": "TORCUATO FERNANDEZ MIRANDA",
   "direccion": "Avenida De Francia, 163 28939 Arroyomolinos",
-  "telefono": null,
+  "telefono": 649551396,
   "mail": "ies.torcuatofdezmiranda.arroyomolinos@educa.madrid.org",
   "latlon": "40.281293,-3.920963",
   "nocturno_en": null,
@@ -12027,10 +12187,10 @@
 },{
   "id": 28080232,
   "dat": "Este",
-  "nombre": "MADRID VII ESTREMERA",
+  "nombre": "ANA DE MENDOZA",
   "direccion": "Carretera M-241, Km5,7 28595 Estremera",
   "telefono": 913106800,
-  "mail": "cepa.madridvii.estremera@educa.madrid.org",
+  "mail": "cepa.estremera@educa.madrid.org",
   "latlon": "40.1139120418,-3.0759402644",
   "nocturno_en": null,
   "nocturno": false,
@@ -12039,14 +12199,15 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
-  "url": "http://www.educa2.madrid.org/web/madrid-vii/cepa.madridvii.estremera",
+  "url": "http://www.educa.madrid.org/cepa.estremera",
   "info": "https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28080232",
   "tipo": "035",
-  "status_web": 200,
+  "status_web": 991,
   "min_distance": 37998,
   "etapas": [
-    "ESO para personas adultas (LOE-LOMCE)",
-    "Espa\u00f1ol para Extranjeros"
+    "Ense\u00f1anzas para el Desarrollo Personal y la Participaci\u00f3n",
+    "Espa\u00f1ol para Extranjeros",
+    "ESO para personas adultas (LOE-LOMCE)"
   ],
   "idiomas": []
 },{
@@ -12054,7 +12215,7 @@
   "dat": "Este",
   "nombre": "IKER CASILLAS",
   "direccion": "Calle Almagro, Esquina Avda.de La Constituci\u00f3n, S/n 28850 Torrej\u00f3n de Ardoz",
-  "telefono": 648942796,
+  "telefono": 918467590,
   "mail": "cpee.ikercasillas.torrejondeardoz@educa.madrid.org",
   "latlon": "40.4621789115,-3.4513373235",
   "nocturno_en": null,
@@ -12070,7 +12231,8 @@
   "status_web": 404,
   "min_distance": 852,
   "etapas": [
-    "Educaci\u00f3n Especial B\u00e1sica Obligatoria (Adaptac. LOE)"
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{
@@ -12104,7 +12266,7 @@
   "dat": "Capital",
   "nombre": "MARIA GOYRI GOYRI",
   "direccion": "Calle De Los Ganados Del Salobral, 5 28021 Madrid",
-  "telefono": null,
+  "telefono": 912761509,
   "mail": "ies.mariagoyrigoyri.madrid@educa.madrid.org",
   "latlon": "40.3380071805,-3.6768159450",
   "nocturno_en": null,
@@ -12126,10 +12288,10 @@
 },{
   "id": 28081467,
   "dat": "Sur",
-  "nombre": "N\u00ba 1 DE VALDEMORO",
+  "nombre": "DUQUE DE AHUMADA",
   "direccion": "Calle Felipe Ii Valdemoro",
-  "telefono": null,
-  "mail": null,
+  "telefono": 918408944,
+  "mail": "cpee.duquedeahumada.valdemoro@educa.madrid.org",
   "latlon": null,
   "nocturno_en": null,
   "nocturno": false,
@@ -12138,13 +12300,15 @@
   "excelencia": false,
   "tecnico": false,
   "bilingue": false,
-  "url": null,
+  "url": "http://www.educa.madrid.org/cpee.duquedeahumada.valdemoro",
   "info": "https://gestiona.comunidad.madrid/wpad_pub/run/j/MostrarFichaCentro.icm?cdCentro=28081467",
   "tipo": "020",
-  "status_web": null,
+  "status_web": 991,
   "min_distance": null,
   "etapas": [
-    "Educaci\u00f3n Especial ESO (Adaptac. LOE)"
+    "Educaci\u00f3n Especial ESO (Adaptac. LOE)",
+    "Edcuaci\u00f3n B\u00e1sica Oblicatoria (LOMLOE)",
+    "Talleres Formativos (TF)"
   ],
   "idiomas": []
 },{

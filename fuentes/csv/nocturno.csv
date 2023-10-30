@@ -10,8 +10,8 @@ Madrid-Sur;28001629;IES;DOMENICO SCARLATTI;Calle De Valeras, 22 ;Aranjuez;-;2830
 Madrid-Capital;28018435;IES;EMILIO CASTELAR;Calle De Río De Oro, 4 ;Madrid;Carabanchel;28019;914713243;914729058;ies.emiliocastelar.madrid@educa.madrid.org;-;-;Público;Activid. .Extraesc.;
 Madrid-Sur;28032559;IES;ENRIQUE TIERNO GALVAN;Avenida Juan Carlos I, 12 ;Parla;-;28981;916981111;916981161;ies.tiernogalvan.parla@educa.madrid.org;-;-;Público;Transporte,Activid. .Extraesc.;
 Madrid-Capital;28044902;IES;FRANCISCO DE QUEVEDO;Calle De San Román Del Valle, S/n ;Madrid;San Blas-Canillejas;28037;913065604;913065606;ies.quevedo.madrid@educa.madrid.org;iesquevedo@gmail.com;-;Público;Activid. .Extraesc.;
-Madrid-Norte;28000753;IES;FRANCISCO GINER DE LOS RIOS;Avenida De La Transición Española, 11 ;Alcobendas;-;28108;916525466;916511164;ies.ginerdelosrios.alcobendas@educa.madrid.org;-;Transt. Desarrollo;Público;Activid. .Extraesc.;
-Madrid-Este;28039724;IES;GRANDE COVIAN;Camino Del Molino, 8 ;Arganda del Rey;-;28500;918700363;918700453;ies.grandecovian.arganda@educa.madrid.org;-;Auditivos;Público;Activid. .Extraesc.;
+Madrid-Norte;28000753;IES;FRANCISCO GINER DE LOS RIOS;Avenida De La Transición Española, 11 ;Alcobendas;-;28108;916525466;916511164;ies.ginerdelosrios.alcobendas@educa.madrid.org;-;-;Público;Activid. .Extraesc.;
+Madrid-Este;28039724;IES;GRANDE COVIAN;Camino Del Molino, 8 ;Arganda del Rey;-;28500;918700363;918700453;ies.grandecovian.arganda@educa.madrid.org;-;Auditivos,Transt. Desarrollo;Público;Activid. .Extraesc.;
 Madrid-Capital;28020119;IES;GREGORIO MARAÑON;Avenida De El Ferrol, 43 ;Madrid;Fuencarral-El Pardo;28029;917310421;-;ies.gregoriomaranon.madrid@educa.madrid.org;-;Transt. Desarrollo;Público;Activid. .Extraesc.;
 Madrid-Capital;28020909;IES;ISABEL LA CATOLICA;Calle De Alfonso Xii, 3 ;Madrid;Retiro;28014;915277878;915302294;ies.isabellacatolica.madrid@educa.madrid.org;-;-;Público;Comedor,Activid. .Extraesc.;
 Madrid-Sur;28042115;IES;ITACA;Avenida De Los Castillos, S/n ;Alcorcón;-;28925;916101411;916116403;ies.itaca.alcorcon@educa.madrid.org;-;-;Público;Activid. .Extraesc.;
@@ -19,7 +19,7 @@ Madrid-Sur;28003882;IES;JOSE DE CHURRIGUERA;Calle Constitución De Cádiz, 1 ;Le
 Madrid-Oeste;28028684;IES;JUAN DE HERRERA;Carretera De Guadarrama, S/n ;San Lorenzo de El Escorial;-;28200;918902470;918906761;ies.juandeherrera.sanlorenzo@educa.madrid.org;-;-;Público;Transporte,Activid. .Extraesc.;
 Madrid-Sur;28074670;IES;JUAN GRIS;Avenida De La O.n.u., 85-87 ;Móstoles;-;28936;916460176;916465994;ies.juangris.mostoles@educa.madrid.org;-;-;Público;-;
 Madrid-Este;28025026;IES;LAS VEREDILLAS;Calle Lisboa, 53 ;Torrejón de Ardoz;-;28850;916753049;916753198;ies.lasveredillas.torrejondeardoz@educa.madrid.org;-;-;Público;Activid. .Extraesc.;
-Madrid-Capital;28028431;IES;MARIANO JOSE DE LARRA;Calle De Camarena, 181 ;Madrid;Latina;28047;917192105;917192304;ies.larra.madrid@educa.madrid.org;-;Auditivos;Público;Activid. .Extraesc.;
+Madrid-Capital;28028431;IES;MARIANO JOSE DE LARRA;Calle De Camarena, 181 ;Madrid;Latina;28047;917192105;-;ies.larra.madrid@educa.madrid.org;-;Auditivos;Público;Activid. .Extraesc.;
 Madrid-Norte;28002312;IES;MARQUES DE SANTILLANA;Calle De La Isla Del Rey, 5 ;Colmenar Viejo;-;28770;918452114;918463313;ies.marquesdesantil.colmenarviejo@educa.madrid.org;-;-;Público;Activid. .Extraesc.;
 Madrid-Sur;28003201;IES;MATEMATICO PUIG ADAM;Calle Toledo, 45 ;Getafe;-;28901;916951024;916969962;ies.puigadam.getafe@educa.madrid.org;-;Auditivos;Público;Activid. .Extraesc.;
 Madrid-Capital;28074244;IES;PEDRO SALINAS;Calle Del General Marvá, 24-26 ;Madrid;Usera;28026;915699236;915699235;ies.pedrosalinas.madrid@educa.madrid.org;-;Transt. Desarrollo;Público;-;
@@ -27,5 +27,5 @@ Madrid-Capital;28028672;IES;RAMIRO DE MAEZTU;Calle De Serrano, 127 ;Madrid;Chama
 Madrid-Capital;28020624;IES;REY PASTOR;Calle Del Corregidor José De Pasamonte, 17 ;Madrid;Moratalaz;28030;914392661;914371764;ies.reypastor.madrid@educa.madrid.org;-;Transt. Desarrollo;Público;Activid. .Extraesc.;
 Madrid-Capital;28020946;IES;SAN ISIDRO;Calle De Toledo, 39 ;Madrid;Centro;28005;913651271;913656833;ies.sanisidro.madrid@educa.madrid.org;-;-;Público;Activid. .Extraesc.;
 Madrid-Capital;28019464;IES;TIRSO DE MOLINA;Avenida De La Albufera, 144 ;Madrid;Puente de Vallecas;28038;913033173;913801252;ies.tirsodemolina.madrid@educa.madrid.org;-;-;Público;Activid. .Extraesc.;
-Madrid-Este;28024290;IES;VEGA DEL JARAMA;Avenida De Irún, 18 ;San Fernando de Henares;-;28830;916739507;916693092;ies.vegadeljarama.sanfernando@educa.madrid.org;-;-;Público;Activid. .Extraesc.;
+Madrid-Este;28024290;IES;VEGA DEL JARAMA;Avenida De Irún, 18 ;San Fernando de Henares;-;28830;916711104;916693092;ies.vegadeljarama.sanfernando@educa.madrid.org;-;-;Público;Activid. .Extraesc.;
 Madrid-Sur;28026031;IES;VICENTE ALEIXANDRE;Calle Asturias, 20 ;Pinto;-;28320;916910012;916922864;ies.vicentealeixand.pinto@educa.madrid.org;-;-;Público;Activid. .Extraesc.;

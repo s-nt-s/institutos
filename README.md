@@ -1,3 +1,7 @@
+**Esta proyecto ha sido remplazado por [github.com/s-nt-s/centros](https://github.com/s-nt-s/centros)**
+
+---------
+
 # Objetivo
 
 El objetivo es crear un mapa para ayudar a elegir destino

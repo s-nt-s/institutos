@@ -1,6 +1,7 @@
 *.txt
 *.pdf
 *.db
+*.csv#
 fuentes/*/*.html
 !data/centros/*.txt
 debug.py
